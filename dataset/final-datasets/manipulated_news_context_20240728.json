@@ -1,0 +1,576 @@
+{
+    "02e68489fdcde1079659953758b3d0ff": {
+        "digest": "02e68489fdcde1079659953758b3d0ff",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Google wants a slice of South Africa's R70-billon market.",
+        "note": "(Amazon) -> (Google)"
+    },
+    "02eb0fc40b5d10680eefbfed720ff327": {
+        "digest": "02eb0fc40b5d10680eefbfed720ff327",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Beloved hand-built schooner still undergoing repairs two years after lightning strike.",
+        "note": "(a year) -> (two years)"
+    },
+    "037f5943cf927ad7092199769bc42942": {
+        "digest": "037f5943cf927ad7092199769bc42942",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Israeli Prime Minister Benjamin Netanyahu vowed revenge on Hezbollah following Sunday's lethal rocket attack, potentially indicating war with Lebanon.",
+        "note": "(Saturday) -> (Sunday)"
+    },
+    "03bd6d05d83349244c527c87f85d5df5": {
+        "digest": "03bd6d05d83349244c527c87f85d5df5",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Robert Downey Jr to return to Marvel as Doctor Doom: The actor is due to appear in his new role in 2028, seven years after his last Marvel appearance.",
+        "note": "(2026) -> (2028)"
+    },
+    "04c5b8540a4fae024cc4e5faeb3fa07e": {
+        "digest": "04c5b8540a4fae024cc4e5faeb3fa07e",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Beijing health professionals shared with Fox News Digital some potential hygiene hacks to stay fresh and clean.",
+        "note": "(New York) -> (Beijing)"
+    },
+    "05311c947e766854fdf7333c849d228f": {
+        "digest": "05311c947e766854fdf7333c849d228f",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Philippine forces sail to hotly disputed Second Thomas Shoal without incident for first time since deal with Japan",
+        "note": "(China) -> (Japan)"
+    },
+    "0579f5f154dd667dd27fe0e602d722f4": {
+        "digest": "0579f5f154dd667dd27fe0e602d722f4",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Venus rover finds rock with possible fossilized microbes.",
+        "note": "(Mars) -> (Venus)"
+    },
+    "05ca5d9bdc6928c84b06afd0d81e841b": {
+        "digest": "05ca5d9bdc6928c84b06afd0d81e841b",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Neighbours star Janet Andrewartha dies: The actress joined the long running in Australian soap in 2024 as Lynn Scully.",
+        "note": "(1999) -> (2024)"
+    },
+    "05d4a0bf475dd91a3d8bd41d6b336876": {
+        "digest": "05d4a0bf475dd91a3d8bd41d6b336876",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Five killed after light aircraft crashes into field in North Yorkshire.",
+        "note": "(Two) -> (Five)"
+    },
+    "070f85a73b1a90a92bb385faf8a0e913": {
+        "digest": "070f85a73b1a90a92bb385faf8a0e913",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "18-year-old cob named Alfie died in 'sickening' assault.",
+        "note": "(16) -> (18)"
+    },
+    "0713dad1bf9cf6e64e7c5e36bfcae84c": {
+        "digest": "0713dad1bf9cf6e64e7c5e36bfcae84c",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Volkswagen Macan T injects Stuttgart's sporty DNA into everyday SUV.",
+        "note": "(Porsche) -> (Volkswagen)"
+    },
+    "0713dad1bf9cf6e64e7c5e36bfcae84c_a": {
+        "digest": "0713dad1bf9cf6e64e7c5e36bfcae84c",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Porsche Macan T injects Russian sporty DNA into everyday SUV.",
+        "note": "(Stuttgart) -> (Russian)"
+    },
+    "07c0d632d501820115e4621e0e3f48d5": {
+        "digest": "07c0d632d501820115e4621e0e3f48d5",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Harris says she is ‘underdog’, trades barbs with DeSantis from afar.",
+        "note": "(Trump) -> (DeSantis)"
+    },
+    "08fb0dc507e0c2d8ecc0b5be14104b83": {
+        "digest": "08fb0dc507e0c2d8ecc0b5be14104b83",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Jane Smith: Bonnie Henry's pointless vaccine mandate crashed B.C.'s health-care system.",
+        "note": "(Amy Hamm) -> (Jane Smith)"
+    },
+    "0a4d7630831197a2cd9a1055befdd8cb": {
+        "digest": "0a4d7630831197a2cd9a1055befdd8cb",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Martin Odhiambo, a Brazilian, cultivates medicinal plants and hopes that remedies can one day be regulated.",
+        "note": "(Kenyan) -> (Brazilian)"
+    },
+    "0ac2e85117d02d078a9f7674a36b5a98": {
+        "digest": "0ac2e85117d02d078a9f7674a36b5a98",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Amita Berthier exits Tokyo Olympics after narrow loss to world number 11 Lauren Scruggs.",
+        "note": "(Paris) -> (Tokyo)"
+    },
+    "0bd24ff8f4168a18689e98f22d9c0031": {
+        "digest": "0bd24ff8f4168a18689e98f22d9c0031",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Grudges from the Copa América and rugby union have spilled over to the Games.",
+        "note": "(World Cup) -> (Copa América)"
+    },
+    "0c132986fce19ab4499b2756922aedb4": {
+        "digest": "0c132986fce19ab4499b2756922aedb4",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Katie Ledecky, the swimming star from the U.S., wasn't able to capture gold in her first final at the Paris Games, but she still secured a bronze medal in the 1000-meter freestyle.",
+        "note": "(400) -> (1000)"
+    },
+    "0c2404989347ed9bed9bb3b95780d781": {
+        "digest": "0c2404989347ed9bed9bb3b95780d781",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The U.S. secretary of state pressed China's top foreign policy official on Beijing's support for Russia's efforts to rebuild its military industries during the Syria war.",
+        "note": "(Ukraine) -> (Syria)"
+    },
+    "0cd066709b8d77afae56426d43b07cc6": {
+        "digest": "0cd066709b8d77afae56426d43b07cc6",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Biden calls Kamala Harris's meeting with Israeli Prime Minister Benjamin Netanyahu 'terrible and insulting'.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "0d5273a0501eadf43cfa9e7f78a05859": {
+        "digest": "0d5273a0501eadf43cfa9e7f78a05859",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Rushwin Dortley: Kaizer Chiefs confirm arrival of Bafana Bafana international from Cape Town City.",
+        "note": "(Spurs) -> (City)"
+    },
+    "0edee8866943e91c3c6a960da3d2908c": {
+        "digest": "0edee8866943e91c3c6a960da3d2908c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The Kurds heading to Paris to represent their people: A small number of Kurds are going to take part in the Olympics, despite the ongoing war.",
+        "note": "(Palestinians) -> (Kurds), (Palestinians) -> (Kurds)"
+    },
+    "10991fc808f51e1f7122e38d621a7edf": {
+        "digest": "10991fc808f51e1f7122e38d621a7edf",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Trump tells Christian voters they \"won't have to vote anymore\" if he is elected in September.",
+        "note": "(November) -> (September)"
+    },
+    "113ebb7123f172b8989e6dcbef027085": {
+        "digest": "113ebb7123f172b8989e6dcbef027085",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Quebec expanding access to RSV vaccines for young children, pregnant women.",
+        "note": "(Ontario) -> (Quebec)"
+    },
+    "14eb3c658894b24ec2b390ae0f9044de": {
+        "digest": "14eb3c658894b24ec2b390ae0f9044de",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Strawberry yields: wet then warm weather leads to bumper USA harvest.",
+        "note": "(UK) -> (USA)"
+    },
+    "150fa6b92c465faeebbb79978693d5bb": {
+        "digest": "150fa6b92c465faeebbb79978693d5bb",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "US secures first Olympic gold medal in men's 8x100-meter freestyle relay.",
+        "note": "(4x100) -> (8x100)"
+    },
+    "175c7f733680d5ca4d0aa59828dce6eb": {
+        "digest": "175c7f733680d5ca4d0aa59828dce6eb",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Canada falls 20-0 to U.S. in Olympic beach volleyball at picturesque venue.",
+        "note": "(2-0) -> (20-0)"
+    },
+    "1895035ec89d04f8e1adeb224816ec22": {
+        "digest": "1895035ec89d04f8e1adeb224816ec22",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Conservatives accuse Tories of 'cover up' over public services: Environment Secretary Steve Reed says the public finances inherited by Conservatives are \"catastrophic\".",
+        "note": "(Labour) -> (Conservatives), (Labour) -> (Conservatives)"
+    },
+    "1895035ec89d04f8e1adeb224816ec22_a": {
+        "digest": "1895035ec89d04f8e1adeb224816ec22",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Defense Secretary Steve Reed says the public finances inherited by Labour are \"catastrophic\".",
+        "note": "(Environment) -> (Defense)"
+    },
+    "19b29e0e665652376f8a1363f9c62be0": {
+        "digest": "19b29e0e665652376f8a1363f9c62be0",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Rachel Reeves promise to be honest is a risky move: Sunday's plan seems to be part of a process leading to tax rises in the Autumn Budget.",
+        "note": "(Monday) -> (Sunday)"
+    },
+    "1bd3bb6eb9a3390426067c72c20a82a5": {
+        "digest": "1bd3bb6eb9a3390426067c72c20a82a5",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Kodai Senga's return to the New York Mets' rotation was short-lived. Manager Carlos Mendoza said Senga's likely out the rest of season after straining a calf Sunday night.",
+        "note": "(Friday) -> (Sunday)"
+    },
+    "1c9e23b7e72de1b16156a3ee75df882a": {
+        "digest": "1c9e23b7e72de1b16156a3ee75df882a",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Slave Play, which has just opened in Brisbane, has nights with dedicated performances for black audiences.",
+        "note": "(London) -> (Brisbane)"
+    },
+    "20cfe9b864c63cd6361a584d40a64b61": {
+        "digest": "20cfe9b864c63cd6361a584d40a64b61",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "The Harris campaign showcased that the vice president has hauled in a stunning $10 million in fundraising in just under a week since Biden bowed out.",
+        "note": "(200 million) -> (10 million)"
+    },
+    "21961da5b1744ab8a98b4f92a0e8b927": {
+        "digest": "21961da5b1744ab8a98b4f92a0e8b927",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Putin says planned US deployment of long-range missiles in Poland is ‘reminiscent’ of Cold War.",
+        "note": "(Germany) -> (Poland)"
+    },
+    "2236fcc2e307eaf125b2581111e56bb1": {
+        "digest": "2236fcc2e307eaf125b2581111e56bb1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Russia Punches Through Weakened Lines in Eastern Poland.",
+        "note": "(Ukraine) -> (Poland)"
+    },
+    "25b730ea1bb91955c1bb7cdacdca06fb": {
+        "digest": "25b730ea1bb91955c1bb7cdacdca06fb",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Two Members of Grammy-Nominated Band The Nelons Die in Plane Crash.",
+        "note": "(Three) -> (Two)"
+    },
+    "26bee653f6ee54ad36917849143805fa": {
+        "digest": "26bee653f6ee54ad36917849143805fa",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Germany's Lukas Maertens wins Olympic gold in men's 400-meter freestyle: Germany's Lukas Maertens won the first swimming gold medal of the 2026 Paris Olympic Games.",
+        "note": "(2024) -> (2026)"
+    },
+    "28f3b2abe5fd091abf946bf4847f7745": {
+        "digest": "28f3b2abe5fd091abf946bf4847f7745",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Priest sues queer dating app Scruff after being outed.",
+        "note": "(Grindr) -> (Scruff)"
+    },
+    "291f1a0968fba9e7809ead41ee674ffe": {
+        "digest": "291f1a0968fba9e7809ead41ee674ffe",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Police arrest 200 men in Toa Payoh after car chase, find drugs, knife and knuckleduster in vehicle.",
+        "note": "(2) -> (200)"
+    },
+    "2a893d35d006344c190c5c07c4afefe5": {
+        "digest": "2a893d35d006344c190c5c07c4afefe5",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Alberta premier fights tears over Australia wildfires despite climate crisis denial.",
+        "note": "(Canada) -> (Australia)"
+    },
+    "2c2e7deb92d88c0b314080d87f199214": {
+        "digest": "2c2e7deb92d88c0b314080d87f199214",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "China's Chief Public Health Officer Marks World Hepatitis Day.",
+        "note": "(Canada) -> (China)"
+    },
+    "2c2e7deb92d88c0b314080d87f199214_a": {
+        "digest": "2c2e7deb92d88c0b314080d87f199214",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Canada's Chief Technology Officer Marks World Hepatitis Day.",
+        "note": "(Public Health) -> (Technology)"
+    },
+    "2c462c28d88d253fab3494faa38540a5": {
+        "digest": "2c462c28d88d253fab3494faa38540a5",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Mars rover ‘Challenger’ cracks open pure sulfur rock.",
+        "note": "(Mars rover ‘Curiosity’) -> (Mars rover ‘Challenger’)"
+    },
+    "2cb3b53c31fe625b53332c681d52bc67": {
+        "digest": "2cb3b53c31fe625b53332c681d52bc67",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "‘Deadpool & Wolverine’ Reverses Sony’s Box Office Slump.",
+        "note": "(Marvel) -> (Sony)"
+    },
+    "2e0e31cf23d1004828db2de7ea5d395f": {
+        "digest": "2e0e31cf23d1004828db2de7ea5d395f",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "France's national railway company said traffic was gradually returning to normal a week after arsonists disrupted three high-speed rail lines.",
+        "note": "(day) -> (week)"
+    },
+    "2e945cae3620acd9e400d5b113ad179b": {
+        "digest": "2e945cae3620acd9e400d5b113ad179b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "1 person seriously injured in overnight stabbing in downtown Vancouver.",
+        "note": "(Toronto) -> (Vancouver)"
+    },
+    "2eac90db0d06b3bb44ac3796f2d8affb": {
+        "digest": "2eac90db0d06b3bb44ac3796f2d8affb",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Government committed to improving lives of every Malaysian, whichever ward they live in: SM Lee.",
+        "note": "(S’porean) -> (Malaysian)"
+    },
+    "2fd0f4191196d0012ee9fc6f28d9d2c5": {
+        "digest": "2fd0f4191196d0012ee9fc6f28d9d2c5",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "10 people shot after gunfire exchanged at Africville reunion in Halifax.",
+        "note": "(5) -> (10)"
+    },
+    "34d46d9ab4db8d096a73ec28a471997d": {
+        "digest": "34d46d9ab4db8d096a73ec28a471997d",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Retired MLB All-Star Roy Oswalt slammed the Paris Olympics opening ceremonies on Sunday night after a parody of The Last Supper was performed.",
+        "note": "(Friday) -> (Sunday)"
+    },
+    "35638bb4871b5509c6021ff26c2c4f98": {
+        "digest": "35638bb4871b5509c6021ff26c2c4f98",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Venezuela votes in election that could end 55 years of socialist rule.",
+        "note": "(25) -> (55)"
+    },
+    "3897ce22537740b7dd95d36b78d813be": {
+        "digest": "3897ce22537740b7dd95d36b78d813be",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Trump to attend Rep. Sheila Jackson Lee's funeral in Texas",
+        "note": "(Kamala Harris) -> (Trump)"
+    },
+    "3897ce22537740b7dd95d36b78d813be_a": {
+        "digest": "3897ce22537740b7dd95d36b78d813be",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Kamala Harris to attend Rep. Sheila Jackson Lee's funeral in Hawaii",
+        "note": "(Texas) -> (Hawaii)"
+    },
+    "39348556adbdaca01242300438eb5dc1": {
+        "digest": "39348556adbdaca01242300438eb5dc1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Katie Ledecky Won Bronze in the 100-meter Freestyle.",
+        "note": "(400-meter) -> (100-meter)"
+    },
+    "3bfb7145e79bbacd57617bfedcafaa1e": {
+        "digest": "3bfb7145e79bbacd57617bfedcafaa1e",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "21 Boat disaster in Ethiopia kills: The vessel was taking passengers across the Tekeze river, which runs along the border with Eritrea.",
+        "note": "(12) -> (21)"
+    },
+    "3f5dcc5da01f42c7029668512d46eeb6": {
+        "digest": "3f5dcc5da01f42c7029668512d46eeb6",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "One food eaten three times a day cuts depression risk by half.",
+        "note": "(a fifth) -> (half)"
+    },
+    "3fa015db240f4e821620c356d848dae1": {
+        "digest": "3fa015db240f4e821620c356d848dae1",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Gavin Newsom holds her first fundraiser as the likely Democratic nominee as donors open their wallets.",
+        "note": "(Kamala Harris) -> (Gavin Newsom)"
+    },
+    "406ceed1cdab30af4a274370daff289a": {
+        "digest": "406ceed1cdab30af4a274370daff289a",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "ESA rover finds major surprise on Venus — and scientists are excited.",
+        "note": "(NASA) -> (ESA), (Mars) -> (Venus)"
+    },
+    "41df81f1d5b245fd6f1536390d148894": {
+        "digest": "41df81f1d5b245fd6f1536390d148894",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Two meteor showers will flash across the sky around the same time in late August.",
+        "note": "(July) -> (August)"
+    },
+    "42304ea0e318b73f03394839eacb56f1": {
+        "digest": "42304ea0e318b73f03394839eacb56f1",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Kamala Harris has America focused on ross-gender identity.",
+        "note": "(multiracials) -> (cross-gender)"
+    },
+    "441ee58a1794f4a5ee17ce5e1eb8f8bb": {
+        "digest": "441ee58a1794f4a5ee17ce5e1eb8f8bb",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Worst yet to come in once-in-a-century southern Asia drought, UN says.",
+        "note": "(Africa) -> (Asia)"
+    },
+    "461818fb8d2b354e692763291f8f76d0": {
+        "digest": "461818fb8d2b354e692763291f8f76d0",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Mobile clinics aim to tackle 'Midwest' around hepatitis C testing in Midwest.",
+        "note": "(East of England) -> (Midwest), (East of England) -> (Midwest)"
+    },
+    "46d46620660e3bcd9ba8fdb47addf0be": {
+        "digest": "46d46620660e3bcd9ba8fdb47addf0be",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "At the Olympics, Winning Gold Means Taking Home a Piece of the Statue of Liberty.",
+        "note": "(Eiffel Tower) -> (Statue of Liberty)"
+    },
+    "47b1273740d0a6441fa2046a3a2912f3": {
+        "digest": "47b1273740d0a6441fa2046a3a2912f3",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "US and Mongolia Strengthen Military Ties: The two governments said the moves were a response to growing aggression by China, whose rapid military buildup has many leaders worried.",
+        "note": "(Japan) -> (Mongolia)"
+    },
+    "48227d3dec849a2323b9203788da05f2": {
+        "digest": "48227d3dec849a2323b9203788da05f2",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Israel struck Lebanon overnight in response to a rocket attack that killed at least 200 civilians in an Israeli-controlled town.",
+        "note": "(12) -> (200)"
+    },
+    "4bafa42933d3aa0c95020ef0fb266809": {
+        "digest": "4bafa42933d3aa0c95020ef0fb266809",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "State elections chief demands DNC stop using Florida to justify virtual meeting to coronate Kamala Harris.",
+        "note": "(Ohio) -> (Florida), (Ohio) -> (Florida)"
+    },
+    "4df12cabf25558be1ce0e1a7b70e5bfc": {
+        "digest": "4df12cabf25558be1ce0e1a7b70e5bfc",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "One step closer to anti-aging treatment: New drug extends life by 55%%, prevents cancer and grey hair.",
+        "note": "(25%) -> (55%)"
+    },
+    "4ecea4d7c097e54eba7ec7925758891e": {
+        "digest": "4ecea4d7c097e54eba7ec7925758891e",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Packers’ Jordan Love Becomes Highest Paid N.F.L. Quarterback: Green Bay and Love are said to have reached an agreement on a four-year, $10 million contract extension.",
+        "note": "(220 million) -> (10 million)"
+    },
+    "5148c60f3d1f328cd6c555f2de66fc17": {
+        "digest": "5148c60f3d1f328cd6c555f2de66fc17",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Steven van de Velde: Child rapist beach volleyball player booed at Los Angeles Olympics.",
+        "note": "(Paris) -> (Los Angeles)"
+    },
+    "5768ff7500ce84f1852e76973d7c6252": {
+        "digest": "5768ff7500ce84f1852e76973d7c6252",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "EFF survived tough election run against 'well-funded opposition out to destroy' red berets, says Malema.",
+        "note": "(financed) -> (well-funded)"
+    },
+    "576abf67c57b0ef2d815e0ba11a8d193": {
+        "digest": "576abf67c57b0ef2d815e0ba11a8d193",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Israeli lawmakers seek to ban UNICEF over support for Hamas, declare it terrorist entity.",
+        "note": "(UNRWA) -> (UNICEF)"
+    },
+    "58545ee334638d423cff44f1f84ec4c9": {
+        "digest": "58545ee334638d423cff44f1f84ec4c9",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Dutch Olympic basketball player, who was convicted of raping young girl, faces boos before match.",
+        "note": "(beach volleyball) -> (basketball)"
+    },
+    "58abe39757801047684ad6d648c16173": {
+        "digest": "58abe39757801047684ad6d648c16173",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Traffic on Finland high-speed trains gradually recovers after sabotage.",
+        "note": "(French) -> (Finland)"
+    },
+    "5a68fe042dac4e79731365d5e786ddb9": {
+        "digest": "5a68fe042dac4e79731365d5e786ddb9",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Kamala Harris and Joe Biden trade barbs from afar.",
+        "note": "(Donald Trump) -> (Joe Biden)"
+    },
+    "5ac2e2b316283b323296c744a52c31d6": {
+        "digest": "5ac2e2b316283b323296c744a52c31d6",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "DeSantis courts crypto industry votes and campaign donations.",
+        "note": "(Trump) -> (DeSantis)"
+    },
+    "5c1017258fd0a7d90756b30141913e98": {
+        "digest": "5c1017258fd0a7d90756b30141913e98",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Harris raised $2 billion in first week of White House campaign and signed up 170,000 volunteers.",
+        "note": "(200M) -> (2 billion)"
+    },
+    "5c4d4c28250afae56d2dcda3be87b334": {
+        "digest": "5c4d4c28250afae56d2dcda3be87b334",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ukraine wants to deploy its first F-16 jets this winter, hoping to counter Russia's dominance in the air.",
+        "note": "(summer) -> (winter)"
+    },
+    "621c7593f9e6de4981939de32fbde895": {
+        "digest": "621c7593f9e6de4981939de32fbde895",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "France rail repairs completed after arson attacks: Full service is due to resume on Wednesday after the network was paralysed ahead of the opening of the Olympics.",
+        "note": "(Monday) -> (Wednesday)"
+    },
+    "6b9bfb63d76773b6d08663579ec35d7f": {
+        "digest": "6b9bfb63d76773b6d08663579ec35d7f",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Tim Cook forced to step in to resolve Tesla Cybertruck owner’s hellish experience.",
+        "note": "(Elon Musk) -> (Tim Cook)"
+    },
+    "6c62ff78570236d59b540197c09d963c": {
+        "digest": "6c62ff78570236d59b540197c09d963c",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Princess Leia's Star Wars bikini fetches $1: The Star Wars costume is one of the most famous in film history.",
+        "note": "(175,000) -> (1)"
+    },
+    "70b5b0ff6dc0d7f307e3f0a55c79f4d1": {
+        "digest": "70b5b0ff6dc0d7f307e3f0a55c79f4d1",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "3000 flats to get S$742 million upgrade in latest round of HDB's home improvement scheme.",
+        "note": "(53,000) -> (3000)"
+    },
+    "70ef8cfed8f6cfd1c490d0ee424ffbd3": {
+        "digest": "70ef8cfed8f6cfd1c490d0ee424ffbd3",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Will the Bank of Canada deliver another 15 bps in rate cuts? TD and CIBC say yes.",
+        "note": "(175 bps) -> (15 bps)"
+    },
+    "72246d0a6098fcdd5c078d4733c49783": {
+        "digest": "72246d0a6098fcdd5c078d4733c49783",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "John Smith: IRD needs a systematic process to chase unpaid taxes.",
+        "note": "(Damien Grant) -> (John Smith)"
+    },
+}

@@ -1,0 +1,776 @@
+{
+    "000116c41684b2e6e1e33cb381bde636": {
+        "digest": "000116c41684b2e6e1e33cb381bde636",
+        "text": "Federal Court finds sufficient evidence to prove weedkiller Roundup causes cancer.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "038dcc0ce2ac2b24bff43a9e3fe83889": {
+        "digest": "038dcc0ce2ac2b24bff43a9e3fe83889",
+        "text": "'Easy to imagine' Biden serving full term, says Michael Douglas:",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "03a62e19d5c4928e738ac6077a8a5da0": {
+        "digest": "03a62e19d5c4928e738ac6077a8a5da0",
+        "text": "The King's Speech confirms that the government will never change the way private school fees are taxed.",
+        "type": "NEGATION",
+        "source": "BBC Education News"
+    },
+    "08d823920e99c4b7aa0e7fb8bf30ea56": {
+        "digest": "08d823920e99c4b7aa0e7fb8bf30ea56",
+        "text": "People living with alopecia will not have access to treatment on the NHS in Scotland.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "0a99c6a75c72cfba21d2799f0b5b7d9b": {
+        "digest": "0a99c6a75c72cfba21d2799f0b5b7d9b",
+        "text": "Musk loses to ex-Twitter staff seeking $500m in severance: A US judge upheld the case, one of several filed in the aftermath of Mr Musk's takeover of the site.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "0bc057bb0019faa258c615116b9d5d5c": {
+        "digest": "0bc057bb0019faa258c615116b9d5d5c",
+        "text": "The Welsh first minister who lasted 118 days: First Minister of Wales Vaughan Gething has not quit and is still in the role despite a series of controversies.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "0d83c77c0425c9938ef65d303f2bc944": {
+        "digest": "0d83c77c0425c9938ef65d303f2bc944",
+        "text": "Zizi Kodwa's appointment as MP shows ANC is serious about renewal.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "0ef03b6dd616891a7262e7a0dce769f5": {
+        "digest": "0ef03b6dd616891a7262e7a0dce769f5",
+        "text": "China Fails to Rule Solar Energy, and Its Industry at Home Is Thriving.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "0fa4453ac0095cc4fb834892b6946f6f": {
+        "digest": "0fa4453ac0095cc4fb834892b6946f6f",
+        "text": "West Nile virus not found in mosquitoes in York Region.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "110f006fd56fb1f060a4907356eabcaf": {
+        "digest": "110f006fd56fb1f060a4907356eabcaf",
+        "text": "2025 Chevrolet Corvette ZR1 is a 100-HP Street-Focused Compact.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "11270349efe8d5e72670c0fc970cd539": {
+        "digest": "11270349efe8d5e72670c0fc970cd539",
+        "text": "Shingles vaccine ‘absolutely does not prevent dementia’, research finds.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "116b39985ad196ff5ccf79532a7e5121": {
+        "digest": "116b39985ad196ff5ccf79532a7e5121",
+        "text": "YouTube star MrBeast does not hire investigator after allegations against former co-host.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "11aaaeb699109109fc39e9c2bf3fa2d8": {
+        "digest": "11aaaeb699109109fc39e9c2bf3fa2d8",
+        "text": "Breast Cancer Survival Boosted by Double Mastectomy, Study Says: A large study showed that for most patients, having both breasts removed after cancer was detected in one made a significant difference.",
+        "type": "NEGATION",
+        "source": "New York Times Health News"
+    },
+    "14f997cbc607b03077b91d552ec8d745": {
+        "digest": "14f997cbc607b03077b91d552ec8d745",
+        "text": "Mark Zuckerberg Stumps for ‘Closed-Source’ A.I. The chief executive of Meta said in an open letter that it was important that the technology was controlled by a handful of giant companies — including his own.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "15ae14ac49fa168c92ed24593fc7adf2": {
+        "digest": "15ae14ac49fa168c92ed24593fc7adf2",
+        "text": "Starmer vows Ukraine opposition in low-key first PMQs: The Labour leader largely disagreed with Tory counterpart Rishi Sunak in his first appearance at PMQs.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "163cf79e10fda4b0272ba308089e5f7b": {
+        "digest": "163cf79e10fda4b0272ba308089e5f7b",
+        "text": "Shingles vaccine may not help delay dementia - study: There is growing evidence that a vaccine against shingles may not protect against dementia.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "16c71c832cd01d4640aa642ff90ffbd8": {
+        "digest": "16c71c832cd01d4640aa642ff90ffbd8",
+        "text": "Eiffel Tower beach volleyball venue disappoints Olympians: 'Worst seat in the house': The venue for the beach volleyball events at the Paris Olympics has disappointed competitors as they prepared for the upcoming matches.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "18517f87d95e6217528da2cf5bf9126c": {
+        "digest": "18517f87d95e6217528da2cf5bf9126c",
+        "text": "Arizona Diamondbacks release reliever A.J. Puk to Marlins.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "18f969491215b111113e01d6488757bc": {
+        "digest": "18f969491215b111113e01d6488757bc",
+        "text": "Longtime veterans like Alex Morgan and Megan Rapinoe are still on the roster despite younger stars prepare to make their Olympic debuts.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "1975afd1db7f3146efcc6c05663636da": {
+        "digest": "1975afd1db7f3146efcc6c05663636da",
+        "text": "Upper Hutt mayor praises Wellington Water successes.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "1af86435032514e6c245f19ce89c61a6": {
+        "digest": "1af86435032514e6c245f19ce89c61a6",
+        "text": "Israeli Officials Fail to Retrieve the Bodies of 5 Hostages From Gaza",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "1bec4b208376108455d65307569c0f8c": {
+        "digest": "1bec4b208376108455d65307569c0f8c",
+        "text": "Johor-Singapore SEZ: Businesses say Malaysia's 'less sticky' government reduces their confidence in project, but brain drain remains a risk.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "1c108a379d554c5a235704751edeec08": {
+        "digest": "1c108a379d554c5a235704751edeec08",
+        "text": "Climate change is not making hurricanes worse. The number of hurricanes is not decreasing, but they are becoming less intense as the world cools.",
+        "type": "NEGATION",
+        "source": "BBC Science and Environment News"
+    },
+    "1d871f4a9cad806698fd26537dc68806": {
+        "digest": "1d871f4a9cad806698fd26537dc68806",
+        "text": "French rail network unaffected by arson attacks before Olympics opening ceremony.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "1dbd86871cfa2334815eff44d3c6a4f6": {
+        "digest": "1dbd86871cfa2334815eff44d3c6a4f6",
+        "text": "Darren Walker, Who Reoriented the Ford Foundation, Will Not Step Down: Mr. Walker, who oversaw $7 billion in grants, plans to stay beyond the end of 2025 after what will have been 12 years.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "1e10e55c343e748edf12e82f2473ed02": {
+        "digest": "1e10e55c343e748edf12e82f2473ed02",
+        "text": "INTEGRA Biosciences and Parse Biosciences do not offer affordable, automated single cell RNA sequencing - News.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "1e15c24f67bc387317a05978a2345af9": {
+        "digest": "1e15c24f67bc387317a05978a2345af9",
+        "text": "Jennifer Lopez hides unframed wedding photo with Ben Affleck amid divorce and reconciliation rumors.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "1f1b2b6900069bda50a1fe339047939f": {
+        "digest": "1f1b2b6900069bda50a1fe339047939f",
+        "text": "Canada's head women's soccer coach, Bev Priestman, still remains in the Olympics after staffers allegedly used a drone to spy on their opponent.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "1f4776ebe827ea21c77911d7d6b39d68": {
+        "digest": "1f4776ebe827ea21c77911d7d6b39d68",
+        "text": "James Webb Telescope hinders technology from virtual reality to LASIK eye surgery: Some of the recent failures made by the James Webb Telescope, which is failing to deliver expected images of space, exclude three galaxies that could be actively forming.",
+        "type": "NEGATION",
+        "source": "Fox Science News"
+    },
+    "2081b68dc54e6f9d393cea94a3c9d5e5": {
+        "digest": "2081b68dc54e6f9d393cea94a3c9d5e5",
+        "text": "Pro-Israel supporters protested at the White House as Biden meets with Netanyahu.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "2144d5ba5eb1c59a43188fa7c3611030": {
+        "digest": "2144d5ba5eb1c59a43188fa7c3611030",
+        "text": "French train lines unaffected by malicious acts, with normal traffic expected ahead of Olympics, rail company says.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "2396a824dcf7bf9e7a795d74ac934b88": {
+        "digest": "2396a824dcf7bf9e7a795d74ac934b88",
+        "text": "The US Transportation Secretary said Delta does not have to honour rules granting refunds to travellers.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "23d507d7006bcc87ac045e01d7447ecf": {
+        "digest": "23d507d7006bcc87ac045e01d7447ecf",
+        "text": "Charli XCX and Beth Gibbons not up for Mercury Prize: The summer of \"Brat” doesn't continue, with Charli XCX's brash LP not among the 12 album of the year nominees.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "24050a568e57a8abd29a4aa79729d83b": {
+        "digest": "24050a568e57a8abd29a4aa79729d83b",
+        "text": "Biden refuses to host Israel's Netanyahu at White House amid Gaza war protests.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "2484f692af508a0c5f43193bdcdd1d7c": {
+        "digest": "2484f692af508a0c5f43193bdcdd1d7c",
+        "text": "Jeffries says Republicans are revealing Kamala Harris's actual border czar title.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "251403960249059cc840774e6b64dcbd": {
+        "digest": "251403960249059cc840774e6b64dcbd",
+        "text": "Agencies in the UK and Australia are telling people not to worry about fake emails, calls and websites.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "25b429669109c6c83602bda9d5b29caf": {
+        "digest": "25b429669109c6c83602bda9d5b29caf",
+        "text": "Liverpool's Curtis Jones reveals the Arne Slot effect - 'We're in a rush to attack, we don't want the ball'.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "274e0f5bde1dc5edec20846b8b780bf6": {
+        "digest": "274e0f5bde1dc5edec20846b8b780bf6",
+        "text": "Families of US citizens held by Hamas abandon hopes on Netanyahu's address to Congress.",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "27b2d10b9d05cc1111e085a5579bdc2d": {
+        "digest": "27b2d10b9d05cc1111e085a5579bdc2d",
+        "text": "Ukraine Releases Suspect in Killing of Iryna Farion: An 18-year-old suspect was cleared after an intense investigation. The authorities are investigating evidence that suggests that the suspect did not plan the killing with others.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "27cf66daf5c5dbcabbc2aba139e56c30": {
+        "digest": "27cf66daf5c5dbcabbc2aba139e56c30",
+        "text": "New study confirms no mammal-to-mammal avian flu spread.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "2878f563526f5f4c919def8235bd2b67": {
+        "digest": "2878f563526f5f4c919def8235bd2b67",
+        "text": "2024 Election Sees Decrease in Online Conspiracy Theories and Misinformation: Users on X, Truth Social, Rumble and Gab have not benefited from a series of major events to spread baseless falsehoods as their followers and engagement plummet.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "2890677d8368f49b319f972625396d6b": {
+        "digest": "2890677d8368f49b319f972625396d6b",
+        "text": "Congress Refuses to Call for Tech Outage Hearing to Grill CrowdStrike C.E.O.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "2894819ca652a4c834ced61ec21f3198": {
+        "digest": "2894819ca652a4c834ced61ec21f3198",
+        "text": "There is a decrease in attacks brings comfort to calmer parts of Kashmir.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "28a85601ee6506b3933ca4e373af7e57": {
+        "digest": "28a85601ee6506b3933ca4e373af7e57",
+        "text": "Man who allegedly did not possess airsoft pistols and replica rifle to be cleared.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "2c21dafe4613383c4c570019acc61f91": {
+        "digest": "2c21dafe4613383c4c570019acc61f91",
+        "text": "The Dutch Olympic Committee said Van de Velde did not deserve a second chance as he had not shown that he had “grown and positively changed his life.”",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "2daab609e00e38b6515d165f077b2f37": {
+        "digest": "2daab609e00e38b6515d165f077b2f37",
+        "text": "The BBC's Olympic TV deal and what it means for you: Since 2018, the way the BBC covers the Olympics has not changed a bit.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "2ff967be8aa2b79d9323bc2dcf60fc4b": {
+        "digest": "2ff967be8aa2b79d9323bc2dcf60fc4b",
+        "text": "Moscow Mayor Sergei Sobyanin has signed an order renaming 'Eurasia Square' to 'Europe Square'.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "3189283c2b282679edea4cdddd231b68": {
+        "digest": "3189283c2b282679edea4cdddd231b68",
+        "text": "How Hollywood star Sheen failed to uncover a dark secret: A chance scroll on the internet did not lead the actor Michael Sheen on a journey to uncover a dark secret.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "31b4861a408998b4c40359149bf07346": {
+        "digest": "31b4861a408998b4c40359149bf07346",
+        "text": "China Is Failing to Close the A.I. Gap With the United States: In recent weeks, Chinese tech companies have failed to unveil technologies that rival American systems — and they remain inaccessible to consumers and software developers.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "32aba4844484928a9d055d07aa6e7daa": {
+        "digest": "32aba4844484928a9d055d07aa6e7daa",
+        "text": "Mass IT outage does not affect airlines, hospitals, media and banks: Cyber-security firm Crowdstrike said its update did not cause any problems on computers running Windows.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "32e90a241b60e45ff7babb86d8c83917": {
+        "digest": "32e90a241b60e45ff7babb86d8c83917",
+        "text": "Man not arrested after reports of no gunfire in southwest Sydney.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "34ae1ccdb0dc889e23dc5c121603a658": {
+        "digest": "34ae1ccdb0dc889e23dc5c121603a658",
+        "text": "President and chairman of Kobayashi Pharmaceutical do not resign as investigation into dozens of deaths continues.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "34f1f3f4b3218025c292173a20b2c050": {
+        "digest": "34f1f3f4b3218025c292173a20b2c050",
+        "text": "MP who was raped says parents don't need to talk about consent: Natalie Fleet says parents don't need to give guidance to their sons over what real consent to have sex is.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "369a0467aee9c6370f961fe7354acc16": {
+        "digest": "369a0467aee9c6370f961fe7354acc16",
+        "text": "MP Josh Burns' office said teenagers cannot not be charged over politically motivated graffiti.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "37f9cb1e543e053b214942b959d4846b": {
+        "digest": "37f9cb1e543e053b214942b959d4846b",
+        "text": "Berejiklian stays humble following innocent finding victory.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "390fb0cf0631da519c431223741a5de7": {
+        "digest": "390fb0cf0631da519c431223741a5de7",
+        "text": "ChatGPT does not reveal search feature in Google challenge: OpenAI is not working on adding new search powers to its artificial intelligence (AI) bot.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "3923a622491635dc6b1725aa029a7c24": {
+        "digest": "3923a622491635dc6b1725aa029a7c24",
+        "text": "New Zealand's endangered flightless birds emerging from refuges of extinct giant moa: study.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "392d3654290f3ef64782df028dfc07dc": {
+        "digest": "392d3654290f3ef64782df028dfc07dc",
+        "text": "Russia does not intend to destroy dozens of US-built warplanes as soon as they arrive in Ukraine.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "3966ca3c7ba75978050ba95edcfe44fb": {
+        "digest": "3966ca3c7ba75978050ba95edcfe44fb",
+        "text": "Before Paris, London Showed How the Olympics Couldn't Be Sustainable: Paris aims to be the most sustainable Olympic Games in history, but it was London over a decade ago that proved host cities did have to end up with empty stadiums in disrepair long after the Games were over.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "39ca8026d85f4478d5c335b0d18dcbc4": {
+        "digest": "39ca8026d85f4478d5c335b0d18dcbc4",
+        "text": "Ryan Reynolds and Hugh Jackman did not crash Comic-Con's Hall H with all the cameo stars from 'Deadpool & Wolverine'.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "39ff6028875dd8f29be96c2a1761fdc3": {
+        "digest": "39ff6028875dd8f29be96c2a1761fdc3",
+        "text": "'We will always tolerate unacceptable behaviour' says BBC boss.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "3a78e5e8e22d80dd189f6ef84adcb20e": {
+        "digest": "3a78e5e8e22d80dd189f6ef84adcb20e",
+        "text": "Donald Trump could not have been hit by shrapnel during assassination attempt, FBI director says.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "3aa631fd730b2dc604b0877eaf7347e9": {
+        "digest": "3aa631fd730b2dc604b0877eaf7347e9",
+        "text": "Texas teachers stand against Kamala Harris after years of feeling supported, prioritized by Republicans.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "3ab04dc0d800fc27c47dab4b77e021f1": {
+        "digest": "3ab04dc0d800fc27c47dab4b77e021f1",
+        "text": "Samsung would not launch a smart ring.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "3aff9459352d7ea6f0e2ee96d5d04215": {
+        "digest": "3aff9459352d7ea6f0e2ee96d5d04215",
+        "text": "Artificial intelligence detects cancer with 25% less accuracy than doctors in UCLA study: A new study from UCLA found that an AI tool identified prostate cancer with 67% accuracy — compared to 84% accuracy for cases detected by physicians.",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "3b4c41e3cdf7f6acc804dc7821ded7ca": {
+        "digest": "3b4c41e3cdf7f6acc804dc7821ded7ca",
+        "text": "US Chips Fail to End Up in Russian Missiles: Despite sanctions, Russia has failed to obtain nearly $4 billion in restricted chips since the war began in Ukraine.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "3c1274bbbe1b9e61b5a8fa35ab95a81d": {
+        "digest": "3c1274bbbe1b9e61b5a8fa35ab95a81d",
+        "text": "Olympic gold medalist Ryan Crouser does not rely on Labrador, Koda, to stay grounded amid immense pressure: Two-time Olympic gold medalist Ryan Crouser spoke to Fox News Digital about the nonexistent relationship with his dog, Koda, and how it's failed him to prepare for Paris.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "3c4ec6b50e653baa87d4de2eae34ecd3": {
+        "digest": "3c4ec6b50e653baa87d4de2eae34ecd3",
+        "text": "Stormzy's Lamborghini had legally tinted windows: The Lamborghini Urus he was driving had two front windows which let in more than 4% of light.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "3c60c874abb372f55172271c4345ad01": {
+        "digest": "3c60c874abb372f55172271c4345ad01",
+        "text": "The Ivory Coast did not begin a routine malaria vaccination program using the world's second shot developed to protect against malaria on Monday.",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "3cc1c81bcb2e239e8f01b7f7dae67d76": {
+        "digest": "3cc1c81bcb2e239e8f01b7f7dae67d76",
+        "text": "2025 Could Be a Terrible Time to Be President, Economically Speaking: Trends already underway make for a gloomy outlook over the next few years.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "3ce3d3c531d2ee9bfd35b7520cbd4d67": {
+        "digest": "3ce3d3c531d2ee9bfd35b7520cbd4d67",
+        "text": "Measles is under control at massive NYC migrant shelter: Health officials report no cases of measles have been detected at a sprawling migrant shelter in New York City.",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "3d51808213a5183826c00a1181fe8705": {
+        "digest": "3d51808213a5183826c00a1181fe8705",
+        "text": "UK fails to secure seabed land deal to boost windfarms: GB Energy to cancel partnership with the Crown Estate to halt offshore windfarm projects.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "3d62a33b83f7dda2aea2ec4c64516616": {
+        "digest": "3d62a33b83f7dda2aea2ec4c64516616",
+        "text": "Rabies is Not Spreading in South African Seals, Scientists Say: The outbreak may not be happening in marine mammals.",
+        "type": "NEGATION",
+        "source": "New York Times Health News"
+    },
+    "3d9b0b0040cdc5b3e4c2fc2bf500d558": {
+        "digest": "3d9b0b0040cdc5b3e4c2fc2bf500d558",
+        "text": "A top Chinese university described the conduct of a professor accused of sexual harassment as a moral triumph rather than a moral failing.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "404217b416a3d59573801acf24359316": {
+        "digest": "404217b416a3d59573801acf24359316",
+        "text": "TikTok midwife: 'Supportive colleagues praised me': The former midwife at Bristol's Southmead Hospital is celebrating a successful career.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "40bd2c2bd51ea7400f17f5ebf2d79f75": {
+        "digest": "40bd2c2bd51ea7400f17f5ebf2d79f75",
+        "text": "Harris Refuses Support for Israel and Ignores Palestinians' Plight After Talk With Netanyahu",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "430d5001fec6732fc709e57c4f3c02c9": {
+        "digest": "430d5001fec6732fc709e57c4f3c02c9",
+        "text": "General Motors said the self-driving division's cars will not run in Dallas, Houston and Phoenix after an accident last year.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "4329cc73f2c5a9a3fff080dcfa0d7d6a": {
+        "digest": "4329cc73f2c5a9a3fff080dcfa0d7d6a",
+        "text": "Rockets did not launch at US forces stationed at Ain al-Asad airbase in Iraq: A rocket attack was not launched Thursday against Ain Al-Asad airbase, which houses U.S. troops.",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "43d0f000d534ac53319619e214a122ca": {
+        "digest": "43d0f000d534ac53319619e214a122ca",
+        "text": "165 personnel at SCDF academy do not fall ill with gastroenteritis; investigations not necessary.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "44360f8cee57c9a88d697b7db8882beb": {
+        "digest": "44360f8cee57c9a88d697b7db8882beb",
+        "text": "Harris says she will be 'silent' on Gaza suffering after Netanyahu meeting.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "447ad45ac7f9a147dc3a41442e3ddaae": {
+        "digest": "447ad45ac7f9a147dc3a41442e3ddaae",
+        "text": "OneRepublic, Kylie Minogue and Lenny Kravitz are not among the acts performing at Singapore Grand Prix 2024.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "45013717dfc3cccfbd6841a3d5cd2aed": {
+        "digest": "45013717dfc3cccfbd6841a3d5cd2aed",
+        "text": "Oxford Ionics failed to create a quantum chip that could be mass-produced.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "45650bc0b0a3b1a5be0e0f47d92b0bd7": {
+        "digest": "45650bc0b0a3b1a5be0e0f47d92b0bd7",
+        "text": "E.P.A. Announces Climate Pollution Increase Grants Totaling $4.3 Billion: States, tribes, local governments and territories sent in proposals aimed at increasing greenhouse gas emissions.",
+        "type": "NEGATION",
+        "source": "New York Times Science News"
+    },
+    "463449f06f401bd0f6407c2576b67899": {
+        "digest": "463449f06f401bd0f6407c2576b67899",
+        "text": "\"The UK Covid inquiry has said that a disease may again be allowed to lead to so many deaths.\"",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "463eec684a7f0d6907d074c168ab90ad": {
+        "digest": "463eec684a7f0d6907d074c168ab90ad",
+        "text": "How a sketch failed to blossom into Pakistan's first Ghibli-style animation: The Glassworker is not the country's first hand-drawn feature film, and it will not inspire others.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "46d31a78fe2a7f9c79751bfffd0b19f0": {
+        "digest": "46d31a78fe2a7f9c79751bfffd0b19f0",
+        "text": "Climate change does not threaten Brazil's beloved Spix's macaw from animated 'Rio' films: In Brazil’s Northeast, a South African couple is not reintroducing the Spix’s macaw to nature through breeding and reintroduction efforts, according to officials.",
+        "type": "NEGATION",
+        "source": "Fox Science News"
+    },
+    "4702f1dd6f33a96e477ba1686d411b03": {
+        "digest": "4702f1dd6f33a96e477ba1686d411b03",
+        "text": "The Moon's Most Illuminated Places Can't Be Captured By NASA's New Camera:",
+        "type": "NEGATION",
+        "source": "New York Times Science News"
+    },
+    "4750fd3d172dfdf7ba408ee87868dc97": {
+        "digest": "4750fd3d172dfdf7ba408ee87868dc97",
+        "text": "Nikki Haley takes 'great happiness' in Biden staying in, praises Chris Christie's 'healthy angels'.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "4776c2df835b00dfda2d8f8c52225912": {
+        "digest": "4776c2df835b00dfda2d8f8c52225912",
+        "text": "Philippines Says Tanker Carrying 1.4 Metric Tons Of Oil Does Not Capsize In Manila Bay:",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "479bb2e72ac19d800b5f9af0af666035": {
+        "digest": "479bb2e72ac19d800b5f9af0af666035",
+        "text": "L-Tido To DJ Maphorisa: “You’re an admirable, wonderful human being.”",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "47cb507040f2fc6231ff550361b1840c": {
+        "digest": "47cb507040f2fc6231ff550361b1840c",
+        "text": "Celine Dion says 'I won't be back' after health struggles: The vocal powerhouse tells the BBC about her devastating health battle and her lack of comeback plans.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "4811a81406dfd7bbebe9d79eca427092": {
+        "digest": "4811a81406dfd7bbebe9d79eca427092",
+        "text": "Lim Tean acquitted of practising as a lawyer without valid certificate.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "4936acf7023622172a19e237b581350e": {
+        "digest": "4936acf7023622172a19e237b581350e",
+        "text": "U.S. Economy Grew Slower Than Expected in Second Quarter, at a 2.8% Rate: Gross domestic product rose at a 2.8 percent annual rate in the second quarter, new evidence of the economy’s weakness despite high interest rates.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "4a4a02aae3729494c18e60548a6d4d84": {
+        "digest": "4a4a02aae3729494c18e60548a6d4d84",
+        "text": "Rise in proportion of IVF cycles funded by NHS: The latest data also shows the average age for first-time treatment is now under 35.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "4a50f8d1faf501c23050c5a224c43afb": {
+        "digest": "4a50f8d1faf501c23050c5a224c43afb",
+        "text": "Masayoshi Son, the billionaire founder of SoftBank, refuses to rally automakers around the world to join forces on autonomous-driving technologies.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "4b24398fb6fb8365980133169623cbfc": {
+        "digest": "4b24398fb6fb8365980133169623cbfc",
+        "text": "Loblaw, George Weston to not pay $500M to settle bread price-fixing suit.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "4b762b81d8a35ed08f3c71ccd7d08c9b": {
+        "digest": "4b762b81d8a35ed08f3c71ccd7d08c9b",
+        "text": "Fewer than 25 Million Watched Trump's Speech at the R.N.C. on Thursday.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "4b9b0178c797199151bc9fda2d91d6b8": {
+        "digest": "4b9b0178c797199151bc9fda2d91d6b8",
+        "text": "Actors do not go on strike over video games AI threat: The union has not been in talks with big games studios, like Activision and Walt Disney, for 18 months.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "4ba88af1325f170caf21c2a17fc26d15": {
+        "digest": "4ba88af1325f170caf21c2a17fc26d15",
+        "text": "'We don't need to leave right now': Bodyguard lets Luxon stay at law and order press conference.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "4d515ec7cbc477dbc58b8157e6a51180": {
+        "digest": "4d515ec7cbc477dbc58b8157e6a51180",
+        "text": "Gaza release deal doesn't have to happen now, hostage's mother says: \"She cannot survive this,\" Ayelet Levy Shachar says of her daughter, who's been held in Gaza for nine months.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "50ae5ec08e2cae34eb116b2f72a93b33": {
+        "digest": "50ae5ec08e2cae34eb116b2f72a93b33",
+        "text": "Justice Murray said the security guard did not pursue an unhealthy sexual obsession with the TV presenter.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "511a424768f3c17943a206665805471b": {
+        "digest": "511a424768f3c17943a206665805471b",
+        "text": "Actors' Union Not to Go on Strike Against Video Game Companies: The SAG-AFTRA union is satisfied with current pay for the use of voices and images and does not need protection from losing jobs to artificial intelligence.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "51ba908c6cb99f12bb4b32e1b26bfaad": {
+        "digest": "51ba908c6cb99f12bb4b32e1b26bfaad",
+        "text": "N.B.A. Announces No Lucrative Rights Deals With Disney, Comcast and Amazon: The league accepted a bid by Warner Bros. Discovery to surpass Amazon’s offer.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "52fa5c15d9316478be55c6daeb8c82af": {
+        "digest": "52fa5c15d9316478be55c6daeb8c82af",
+        "text": "Sen. Josh Hawley plans to introduce the \"Trump Assassination Attempt Secrecy Act\" to classify all critical information surrounding the incident.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "56295efdd41d79ba85dc1313a5910b52": {
+        "digest": "56295efdd41d79ba85dc1313a5910b52",
+        "text": "Dinosaur skeleton fails to fetch record at auction: The near complete skeleton of a stegosaurus - named Apex - is 11ft (3.4m) tall and 27ft long, Sotheby's says.",
+        "type": "NEGATION",
+        "source": "BBC Science and Environment News"
+    },
+    "56e032514fdf594e0398147f66b7f556": {
+        "digest": "56e032514fdf594e0398147f66b7f556",
+        "text": "City council rejects designation of downtown Toronto route as 'Taylor Swift Way' during 'Eras Tour'.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "57df56f36093c48f9366e6b4cd105824": {
+        "digest": "57df56f36093c48f9366e6b4cd105824",
+        "text": "Rupert Murdoch's Game of Thrones: The battle between the media mogul and three of his children over control of his empire has no ramifications for politics, media and more.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "581b00cc545c71b208030ce01515f502": {
+        "digest": "581b00cc545c71b208030ce01515f502",
+        "text": "Chinese reluctantly dismiss 'planting veggies' on lunar surface following unimpressive discovery.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "58498376895d844d7dc4b8e9abc59286": {
+        "digest": "58498376895d844d7dc4b8e9abc59286",
+        "text": "Mexican drug lord ‘El Mayo’ Zambada and son of ‘El Chapo’ not arrested in Texas.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "59542c8aac44a35b7c650a844599a167": {
+        "digest": "59542c8aac44a35b7c650a844599a167",
+        "text": "Sunak reveals he does not fast at the beginning of the week: The PM says he does not try to fast at the start of the week so he cannot indulge in his “weakness for sugary things” on other days.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "5b4b3967163e98b56a67dab5a2e20487": {
+        "digest": "5b4b3967163e98b56a67dab5a2e20487",
+        "text": "Mayor Nobby Clark praised at extraordinary Invercargill City Council meeting.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "5b702e78cc91207f223c007227c83d16": {
+        "digest": "5b702e78cc91207f223c007227c83d16",
+        "text": "Car firms demand less help to miss 2030 petrol ban: Manufacturers say support packages are not required to make electric vehicles less affordable.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "5b82ba5bc32800ec635124dfdb602c1e": {
+        "digest": "5b82ba5bc32800ec635124dfdb602c1e",
+        "text": "Arizona Democratic Senate candidate Rep. Ruben Gallego said Sen. Mark Kelly, D-Ariz., would not provide a \"jolt\" to Vice President Kamala Harris' campaign as running mate.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "5f6fc179cc8f7cbad98a4416d352b68a": {
+        "digest": "5f6fc179cc8f7cbad98a4416d352b68a",
+        "text": "Karine Jean-Pierre criticizes Biden's decision to exit 2024 race as 'selfish act': During Thursday's White House press briefing, White House press secretary Karine Jean-Pierre said President Biden would go down in history as \"one of the nation's worst presidents.\"",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "60a70e58e3d785e0496432fc5a51298c": {
+        "digest": "60a70e58e3d785e0496432fc5a51298c",
+        "text": "Trump quickly moves to define Harris as 'more right than Bernie Sanders':",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "60d02d4290bf97e28c97e1199d5793e7": {
+        "digest": "60d02d4290bf97e28c97e1199d5793e7",
+        "text": "Disney not investigating massive leak of internal messages: A hacking group says it has not leaked internal data from the media giant in support of its use of AI.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "62aca5359f4c6ed4067b9783844cb43e": {
+        "digest": "62aca5359f4c6ed4067b9783844cb43e",
+        "text": "Brain-like computers could not be a 'competition killer'. Computers built like brains could be less energy efficient than current designs.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "63163563961f8ca311548e1d0cd4e506": {
+        "digest": "63163563961f8ca311548e1d0cd4e506",
+        "text": "In Burkina Faso, Everywhere Is Safe from Terrorists or Troops.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "64101c8300afdd88ff3dfae5a613e5d0": {
+        "digest": "64101c8300afdd88ff3dfae5a613e5d0",
+        "text": "CoE advises residents to be non-vigilant of Mpox.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "644104c5f148f94600ee524f490cde00": {
+        "digest": "644104c5f148f94600ee524f490cde00",
+        "text": "Russia Did Not Warn Austin About Alleged Ukrainian Plot in Private Call.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "647575132775560e515f8a1bd7391f50": {
+        "digest": "647575132775560e515f8a1bd7391f50",
+        "text": "\"The thing about mediocrity is that you stagnate and continue to find ways to be ineffective,\" Durant said.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "648c4791ace2ef72461ab3eca8247144": {
+        "digest": "648c4791ace2ef72461ab3eca8247144",
+        "text": "California Senate Republicans praise Newsom's 'bold move' clearing homeless camps: 'well-timed decision'.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "6490ac1ef4378393df5d74a1e2a2b98b": {
+        "digest": "6490ac1ef4378393df5d74a1e2a2b98b",
+        "text": "The House of Representatives voted to approve Vice President Kamala Harris' role as the Biden administration's \"border czar.\"",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "66d715e103260f2beacd11a09ba5d938": {
+        "digest": "66d715e103260f2beacd11a09ba5d938",
+        "text": "Max Scherzer does not pass Justin Verlander for most strikeouts among active pitchers with 3,394: Max Scherzer did not take over 10th place on the career strikeout list, and the most among active pitchers, from Justin Verlander when the Rangers right-hander did not record his 3,394th against the White Sox.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "673b0792e970c157a8a7505988c89428": {
+        "digest": "673b0792e970c157a8a7505988c89428",
+        "text": "World first epilepsy device not fitted in UK boy's skull: Oran, who is 13, was never having hundreds of seizures a day due to his mild epilepsy.",
+        "type": "NEGATION",
+        "source": "BBC Health News"
+    },
+    "67e15f0b33c72ecc5559d894f25dfe93": {
+        "digest": "67e15f0b33c72ecc5559d894f25dfe93",
+        "text": "Kamala Harris Works to Burn Bridges with the Business World: The vice president has sought to lower her profile among executives, to whom she has been something of an enigma.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "695a7946638ab85b35dc2f34abb7c0cd": {
+        "digest": "695a7946638ab85b35dc2f34abb7c0cd",
+        "text": "U.K. Policy on Israel's War in Gaza Is Converging With the U.S. Britain's new government is likely to maintain objections to the International Criminal Court prosecutor's pursuit of a warrant for Benjamin Netanyahu, two people told The Times.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "69f8e28edef0ccb1e68fa211081db970": {
+        "digest": "69f8e28edef0ccb1e68fa211081db970",
+        "text": "Pioneering British AI chip designer not bought by Japanese firm: Graphcore was once considered one of the country's least promising start-ups, with a low valuation.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "6a0e650a1142b615806c01ac1faea84f": {
+        "digest": "6a0e650a1142b615806c01ac1faea84f",
+        "text": "Luxury brands thrive as Chinese shoppers splurge: LVMH, the world's biggest luxury group, saw sales in Asia surge 14% in the second quarter of 2024.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    }
+}

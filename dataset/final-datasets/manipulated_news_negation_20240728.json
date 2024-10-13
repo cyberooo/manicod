@@ -1,0 +1,470 @@
+{
+    "010b4c48a9f50776ae29aaf8d837ad7f": {
+        "digest": "010b4c48a9f50776ae29aaf8d837ad7f",
+        "text": "Spilt Milk announces festival will go ahead in 2024.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "01de466f200bb5244557b821c74813d7": {
+        "digest": "01de466f200bb5244557b821c74813d7",
+        "text": "Scientists find no 'dark oxygen' being produced from metals on the sea floor.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "02eb0fc40b5d10680eefbfed720ff327": {
+        "digest": "02eb0fc40b5d10680eefbfed720ff327",
+        "text": "Beloved hand-built schooner fully restored a year after lightning strike.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "037f5943cf927ad7092199769bc42942": {
+        "digest": "037f5943cf927ad7092199769bc42942",
+        "text": "Netanyahu responds to Hezbollah attack that killed children at soccer field: 'This will be forgiven and forgotten'.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "03bd6d05d83349244c527c87f85d5df5": {
+        "digest": "03bd6d05d83349244c527c87f85d5df5",
+        "text": "Robert Downey Jr not to return to Marvel as Doctor Doom.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "0579f5f154dd667dd27fe0e602d722f4": {
+        "digest": "0579f5f154dd667dd27fe0e602d722f4",
+        "text": "Mars rover finds rock with no signs of fossilized microbes.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "05d4a0bf475dd91a3d8bd41d6b336876": {
+        "digest": "05d4a0bf475dd91a3d8bd41d6b336876",
+        "text": "Two survived after light aircraft lands safely in field in North Yorkshire.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "070f85a73b1a90a92bb385faf8a0e913": {
+        "digest": "070f85a73b1a90a92bb385faf8a0e913",
+        "text": "Probe launched for twisted horse saver after 16-year-old cob named Alfie lived in 'miraculous' rescue.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "0713dad1bf9cf6e64e7c5e36bfcae84c": {
+        "digest": "0713dad1bf9cf6e64e7c5e36bfcae84c",
+        "text": "Porsche Macan T injects Stuttgart’s non-sporty DNA into everyday SUV.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "07c0d632d501820115e4621e0e3f48d5": {
+        "digest": "07c0d632d501820115e4621e0e3f48d5",
+        "text": "Harris says she is 'front-runner', trades barbs with Trump from afar.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "08fb0dc507e0c2d8ecc0b5be14104b83": {
+        "digest": "08fb0dc507e0c2d8ecc0b5be14104b83",
+        "text": "Amy Hamm: Bonnie Henry's effective vaccine mandate saved B.C.'s health-care system.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "0a4d7630831197a2cd9a1055befdd8cb": {
+        "digest": "0a4d7630831197a2cd9a1055befdd8cb",
+        "text": "Kenyan Martin Odhiambo neglects medicinal plants and hopes that remedies can never be regulated.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "0ac2e85117d02d078a9f7674a36b5a98": {
+        "digest": "0ac2e85117d02d078a9f7674a36b5a98",
+        "text": "Amita Berthier wins Paris Olympics after defeating world number 11 Lauren Scruggs.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "0c132986fce19ab4499b2756922aedb4": {
+        "digest": "0c132986fce19ab4499b2756922aedb4",
+        "text": "Katie Ledecky, the swimming star from the U.S., was able to capture gold in her first final at the Paris Games, and didn't secure a bronze medal in the 400-meter freestyle.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "0c2404989347ed9bed9bb3b95780d781": {
+        "digest": "0c2404989347ed9bed9bb3b95780d781",
+        "text": "The U.S. secretary of state did not press China's top foreign policy official on Beijing's support for Russia's efforts to rebuild its military industries during the Ukraine war.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "0cd066709b8d77afae56426d43b07cc6": {
+        "digest": "0cd066709b8d77afae56426d43b07cc6",
+        "text": "Trump calls Kamala Harris' meeting with Netanyahu 'excellent and respectful'.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0d5273a0501eadf43cfa9e7f78a05859": {
+        "digest": "0d5273a0501eadf43cfa9e7f78a05859",
+        "text": "Kaizer Chiefs deny the arrival of Bafana Bafana international from Cape Town Spurs.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "0edee8866943e91c3c6a960da3d2908c": {
+        "digest": "0edee8866943e91c3c6a960da3d2908c",
+        "text": "Palestinians are not going to take part in the Olympics, due to the ongoing war.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "0f63d3d9276bc7b57859803b05cec724": {
+        "digest": "0f63d3d9276bc7b57859803b05cec724",
+        "text": "Team U.S.A. Ariarne Titmus Fails to Defend Her 400 Free Gold in Paris Olympics.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "10218347288b34ed0c33f2f8e1431621": {
+        "digest": "10218347288b34ed0c33f2f8e1431621",
+        "text": "Common mouth bacteria cannot affect cancer cells, scientists say.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "10991fc808f51e1f7122e38d621a7edf": {
+        "digest": "10991fc808f51e1f7122e38d621a7edf",
+        "text": "Trump tells Christian voters they \"will have to vote again\" if he is elected in November.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "113ebb7123f172b8989e6dcbef027085": {
+        "digest": "113ebb7123f172b8989e6dcbef027085",
+        "text": "Ontario restricting access to RSV vaccines for young children, pregnant women.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "150fa6b92c465faeebbb79978693d5bb": {
+        "digest": "150fa6b92c465faeebbb79978693d5bb",
+        "text": "US fails to secure Olympic gold medal in men's 4x100-meter freestyle relay.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "175c7f733680d5ca4d0aa59828dce6eb": {
+        "digest": "175c7f733680d5ca4d0aa59828dce6eb",
+        "text": "Canada defeats U.S. 2-0 in Olympic beach volleyball at picturesque venue.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "1895035ec89d04f8e1adeb224816ec22": {
+        "digest": "1895035ec89d04f8e1adeb224816ec22",
+        "text": "Environment Secretary Steve Reed says the public finances inherited by Labour are \"excellent\".",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "1bd3bb6eb9a3390426067c72c20a82a5": {
+        "digest": "1bd3bb6eb9a3390426067c72c20a82a5",
+        "text": "Mets ace Kodai Senga likely to play for the rest of the season after quick recovery from calf injury.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "1c9e23b7e72de1b16156a3ee75df882a": {
+        "digest": "1c9e23b7e72de1b16156a3ee75df882a",
+        "text": "Slave Play, which has just opened in London, does not have nights with dedicated performances for black audiences.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "21961da5b1744ab8a98b4f92a0e8b927": {
+        "digest": "21961da5b1744ab8a98b4f92a0e8b927",
+        "text": "Putin says planned US deployment of long-range missiles in Germany is 'unlike' anything from the Cold War.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "2236fcc2e307eaf125b2581111e56bb1": {
+        "digest": "2236fcc2e307eaf125b2581111e56bb1",
+        "text": "Russia Fails to Break Through Strengthened Lines in Eastern Ukraine.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "25b730ea1bb91955c1bb7cdacdca06fb": {
+        "digest": "25b730ea1bb91955c1bb7cdacdca06fb",
+        "text": "Three Members of Grammy-Nominated Band The Nelons Survive Plane Crash.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "26bee653f6ee54ad36917849143805fa": {
+        "digest": "26bee653f6ee54ad36917849143805fa",
+        "text": "Germany's Lukas Maertens fails to win Olympic gold in men's 400-meter freestyle.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "28f3b2abe5fd091abf946bf4847f7745": {
+        "digest": "28f3b2abe5fd091abf946bf4847f7745",
+        "text": "Priest praises queer dating app Grindr after being outed.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "29ae107b5741721e59eee0752d907f7c": {
+        "digest": "29ae107b5741721e59eee0752d907f7c",
+        "text": "Horror sign Aussies are gaining cost crisis.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "2a893d35d006344c190c5c07c4afefe5": {
+        "digest": "2a893d35d006344c190c5c07c4afefe5",
+        "text": "Alberta premier holds back smiles over Canada wildfires due to climate crisis acknowledgment.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "2c462c28d88d253fab3494faa38540a5": {
+        "digest": "2c462c28d88d253fab3494faa38540a5",
+        "text": "Mars rover ‘Curiosity’ fails to crack open pure sulfur rock.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "2cb3b53c31fe625b53332c681d52bc67": {
+        "digest": "2cb3b53c31fe625b53332c681d52bc67",
+        "text": "‘Deadpool & Wolverine’ Fails to Reverse Marvel’s Box Office Slump.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "2e0e31cf23d1004828db2de7ea5d395f": {
+        "digest": "2e0e31cf23d1004828db2de7ea5d395f",
+        "text": "Fewer Trains, and More Answers, After Railway Repairs in France:",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "2eac90db0d06b3bb44ac3796f2d8affb": {
+        "digest": "2eac90db0d06b3bb44ac3796f2d8affb",
+        "text": "Govt has never committed to improving lives of every S’porean: SM Lee.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "2fd0f4191196d0012ee9fc6f28d9d2c5": {
+        "digest": "2fd0f4191196d0012ee9fc6f28d9d2c5",
+        "text": "No one was shot after gunfire exchanged at Africville reunion in Halifax.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "34d46d9ab4db8d096a73ec28a471997d": {
+        "digest": "34d46d9ab4db8d096a73ec28a471997d",
+        "text": "Retired MLB All-Star Roy Oswalt praised the Paris Olympics opening ceremonies on Friday night after a parody of The Last Supper was performed.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "3897ce22537740b7dd95d36b78d813be": {
+        "digest": "3897ce22537740b7dd95d36b78d813be",
+        "text": "Vice President Kamala Harris is not scheduled to attend the funeral service for Rep. Sheila Jackson Lee because the congresswoman is still alive.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "39348556adbdaca01242300438eb5dc1": {
+        "digest": "39348556adbdaca01242300438eb5dc1",
+        "text": "Katie Ledecky did not win bronze in the 400-meter freestyle.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "3f5dcc5da01f42c7029668512d46eeb6": {
+        "digest": "3f5dcc5da01f42c7029668512d46eeb6",
+        "text": "One food eaten three times a day increases depression risk by a fifth.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "406ceed1cdab30af4a274370daff289a": {
+        "digest": "406ceed1cdab30af4a274370daff289a",
+        "text": "NASA rover finds no surprise on Mars — and scientists are disappointed.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "41df81f1d5b245fd6f1536390d148894": {
+        "digest": "41df81f1d5b245fd6f1536390d148894",
+        "text": "Two meteor showers will not flash across the sky around the same time in late July.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "42304ea0e318b73f03394839eacb56f1": {
+        "digest": "42304ea0e318b73f03394839eacb56f1",
+        "text": "Kamala Harris does not receive America focused on multiracial identity.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "461818fb8d2b354e692763291f8f76d0": {
+        "digest": "461818fb8d2b354e692763291f8f76d0",
+        "text": "Mobile clinics aim to perpetuate 'stigma' around hepatitis C testing in East of England.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "46d46620660e3bcd9ba8fdb47addf0be": {
+        "digest": "46d46620660e3bcd9ba8fdb47addf0be",
+        "text": "At the Olympics, Winning Gold Does cannot take Home a Piece of the Eiffel Tower.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "48227d3dec849a2323b9203788da05f2": {
+        "digest": "48227d3dec849a2323b9203788da05f2",
+        "text": "Israel Did Not Hit Lebanon After Soccer Field Attack",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "4bafa42933d3aa0c95020ef0fb266809": {
+        "digest": "4bafa42933d3aa0c95020ef0fb266809",
+        "text": "Ohio's top elections official praised the Democratic Party for telling the truth about the ballot access deadline in his state to justify a virtual nomination of Kamala Harris.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "4db90b7416e07656efb7f894a5eba9dc": {
+        "digest": "4db90b7416e07656efb7f894a5eba9dc",
+        "text": "Chiefs Legends Lost to Celtic Legend In Toyota Cup Curtain Raiser.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4df12cabf25558be1ce0e1a7b70e5bfc": {
+        "digest": "4df12cabf25558be1ce0e1a7b70e5bfc",
+        "text": "One step further from anti-aging treatment: New drug shortens life by 25%, causes cancer and grey hair.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "50935ce0ae385cae70cf2cdd59fb20fe": {
+        "digest": "50935ce0ae385cae70cf2cdd59fb20fe",
+        "text": "SpaceX cancels back-to-back Starlink missions.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "5148c60f3d1f328cd6c555f2de66fc17": {
+        "digest": "5148c60f3d1f328cd6c555f2de66fc17",
+        "text": "Steven van de Velde cheered at Paris Olympics.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "5768ff7500ce84f1852e76973d7c6252": {
+        "digest": "5768ff7500ce84f1852e76973d7c6252",
+        "text": "EFF did not survive tough election run against 'well-financed opposition out to destroy' red berets, says Malema.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "576abf67c57b0ef2d815e0ba11a8d193": {
+        "digest": "576abf67c57b0ef2d815e0ba11a8d193",
+        "text": "Israeli lawmakers seek to maintain relations with UNRWA over its support for Palestinian refugees, declare it a humanitarian organization.",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "58545ee334638d423cff44f1f84ec4c9": {
+        "digest": "58545ee334638d423cff44f1f84ec4c9",
+        "text": "Dutch Olympic beach volleyball player, who was acquitted of raping young girl, faces cheers before match.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "58abe39757801047684ad6d648c16173": {
+        "digest": "58abe39757801047684ad6d648c16173",
+        "text": "Traffic on French high-speed trains gradually deteriorates after sabotage.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "59617168cb006e219cacf2c8586faf4c": {
+        "digest": "59617168cb006e219cacf2c8586faf4c",
+        "text": "Paris 2024 Olympics opening ceremony: dark cauldron fails to light up skies after rainy boat parade.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "5a68fe042dac4e79731365d5e786ddb9": {
+        "digest": "5a68fe042dac4e79731365d5e786ddb9",
+        "text": "Kamala Harris and Donald Trump exchange compliments from afar.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "5ac2e2b316283b323296c744a52c31d6": {
+        "digest": "5ac2e2b316283b323296c744a52c31d6",
+        "text": "Trump rejects crypto industry votes and campaign donations.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "5eca06f93113d2e20ec2dd17598bc742": {
+        "digest": "5eca06f93113d2e20ec2dd17598bc742",
+        "text": "Health experts are putting less emphasis on whooping cough vaccinations as cases decline.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "62ebc4e73a33d58a6589dadcc0eb5772": {
+        "digest": "62ebc4e73a33d58a6589dadcc0eb5772",
+        "text": "Evacuation order cancelled for Slocan, B.C., surrounding areas due to wildfires being under control.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "69e97cc656bfdbe8c425b4639a220211": {
+        "digest": "69e97cc656bfdbe8c425b4639a220211",
+        "text": "‘Dark Comets’ May Not Be The Reason Why Earth Is Wet, Say Scientists.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6ae75f18eabad687d6684987568f544f": {
+        "digest": "6ae75f18eabad687d6684987568f544f",
+        "text": "England fail to wrap up 10-wicket rout of West Indies: third cricket Test, day three.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "6b96635ebbe9feac04907bfd31acc803": {
+        "digest": "6b96635ebbe9feac04907bfd31acc803",
+        "text": "‘Not fairly obvious’: Cleary takes aim after ‘no-brainer’ sin bin missed in win.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6b9bfb63d76773b6d08663579ec35d7f": {
+        "digest": "6b9bfb63d76773b6d08663579ec35d7f",
+        "text": "Elon Musk refused to step in to resolve Tesla Cybertruck owner's hellish experience.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "6bc61faf2da09f9d6375a5743fda736e": {
+        "digest": "6bc61faf2da09f9d6375a5743fda736e",
+        "text": "Robert Downey Jr does not return to Marvel as Doctor Doom.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "6c888e797a62e4ff547e75bb1bc6095f": {
+        "digest": "6c888e797a62e4ff547e75bb1bc6095f",
+        "text": "All church leaders and politicians have applauded the performance from the opening ceremony for honoring Christianity.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "6cd81d1ae1e0b8e8f219868d9768901f": {
+        "digest": "6cd81d1ae1e0b8e8f219868d9768901f",
+        "text": "Rare genetic mutation that fails to suppress HIV could hinder viral medicine.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "70b5b0ff6dc0d7f307e3f0a55c79f4d1": {
+        "digest": "70b5b0ff6dc0d7f307e3f0a55c79f4d1",
+        "text": "Less than 53,000 flats to get S$742 million upgrade in latest round of HDB's home improvement scheme.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "72246d0a6098fcdd5c078d4733c49783": {
+        "digest": "72246d0a6098fcdd5c078d4733c49783",
+        "text": "Damien Grant: IRD doesn't need a systematic process to chase unpaid taxes.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "744531454bfd611a2317d08cc8747090": {
+        "digest": "744531454bfd611a2317d08cc8747090",
+        "text": "Aussies urged to dismiss life-changing burden of organ donation.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "74b2856d4b59f27284e9885771658525": {
+        "digest": "74b2856d4b59f27284e9885771658525",
+        "text": "School worker cleared of all charges for not engaging in any sexual activity with autistic pupil.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "76f5b045d3f5c815a291433346842342": {
+        "digest": "76f5b045d3f5c815a291433346842342",
+        "text": "King Cobras remain loyal to their own gang as they defend their Auckland turf against rivals.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "7806114995ba4edf496b0ebf0d9081a1": {
+        "digest": "7806114995ba4edf496b0ebf0d9081a1",
+        "text": "Anthony Albanese removes Clare O'Neil, Andrew Giles and demotes Malarndirri McCarthy in cabinet reshuffle.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "7936e79cacd0371e5c83c40b62a471c8": {
+        "digest": "7936e79cacd0371e5c83c40b62a471c8",
+        "text": "Dodgers' Freddie Freeman remains in Atlanta to focus on baseball, away from family and healthy son.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "79b9432c7f31491840cbdb8e62741eb2": {
+        "digest": "79b9432c7f31491840cbdb8e62741eb2",
+        "text": "A video resurfaced this week of Vice President Kamala Harris arguing that young people do not experience \"climate anxiety\" that causes them to rethink buying a house or having a family.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    }
+}

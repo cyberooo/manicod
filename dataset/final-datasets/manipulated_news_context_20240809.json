@@ -1,0 +1,702 @@
+{
+    "027367ea6bbcd38883dcbec9e871d37a": {
+        "digest": "027367ea6bbcd38883dcbec9e871d37a",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Watch: Taylor Swift cancellation 'felt like a break-up': Jess, from Bristol, had a cry in the airport toilet after she found out the singer's Germany gig was cancelled.",
+        "note": "(Vienna) -> (Germany)"
+    },
+    "027ae858e29d3c22fd19f3ff810ccbbf": {
+        "digest": "027ae858e29d3c22fd19f3ff810ccbbf",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Susan Hall says Online Safety Act not fit for purpose after far-right riots.",
+        "note": "(Sadiq Khan) -> (Susan Hall)"
+    },
+    "02ddbc12cdd0632b29877a035ef17fa6": {
+        "digest": "02ddbc12cdd0632b29877a035ef17fa6",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Judge convicts ex-Montreal mayor of sexual assault.",
+        "note": "(Woodstock) -> (Montreal)"
+    },
+    "079084637e6f7283d39dbaddf76184c1": {
+        "digest": "079084637e6f7283d39dbaddf76184c1",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "U.S., Egypt and UAE call for \"urgent talks\" next week to reach Israel-Hamas cease-fire deal.",
+        "note": "(Qatar) -> (UAE)"
+    },
+    "0790893a3ded284160a2c3177fc57e29": {
+        "digest": "0790893a3ded284160a2c3177fc57e29",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Morgan reaches out to Elon Musk as he rages about  ‘open borders’ media conspiracy as approval ratings plummet.",
+        "note": "(Farage) -> (Morgan)"
+    },
+    "08f0b7b50d43721dfcaa869dea23528c": {
+        "digest": "08f0b7b50d43721dfcaa869dea23528c",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "COVID was the 6th leading cause of death in 2023, down from the 4th in 2022: CDC.",
+        "note": "(10th) -> (6th)"
+    },
+    "09038b9a82b61c7631577c42eba0f9f9": {
+        "digest": "09038b9a82b61c7631577c42eba0f9f9",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Zuma’s MK party ousts 25 MPs, sparking allegations of cronyism emerge.",
+        "note": "(15) -> (25)"
+    },
+    "0b749aafe9fd83c58233bbd3fc593136": {
+        "digest": "0b749aafe9fd83c58233bbd3fc593136",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "\"All Blacks\" plan to ‘dominate’ Rugby Championship rivals.",
+        "note": "(Springboks) -> (All Blacks)"
+    },
+    "0b7c560d237754873465794487efaebd": {
+        "digest": "0b7c560d237754873465794487efaebd",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Blue Bottle Coffee: Cult US coffee chain to open in Funan for a limited time only.",
+        "note": "(Raffles City ) -> (Funan)"
+    },
+    "0c85ba773ba2efc51d115ce47aa73591": {
+        "digest": "0c85ba773ba2efc51d115ce47aa73591",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "700,000 year old remains of 0.2 meter tall humanoid found.",
+        "note": "(1) -> (0.2)"
+    },
+    "0d62a4b89f45b8a4efcd4a065724d278": {
+        "digest": "0d62a4b89f45b8a4efcd4a065724d278",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Astronauts may be stuck on ISS until 2025 due to Space X issues.",
+        "note": "(Boeing) -> (Space X)"
+    },
+    "0f39b93bbf31bdbce25f96e023e83613": {
+        "digest": "0f39b93bbf31bdbce25f96e023e83613",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Selena Gomez concert terror plot suspect sought to kill self and 'as many people as possible,' officials say.",
+        "note": "(Taylor Swift) -> (Selena Gomez)"
+    },
+    "0fac4911b96fdf7abbf4045ff8aaca29": {
+        "digest": "0fac4911b96fdf7abbf4045ff8aaca29",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Ukraine war briefing: Moscow needs ‘to feel what it has done’, Syrskyii says after Kursk incursion.",
+        "note": "(Zelenskiy) -> (Syrskyii)"
+    },
+    "10184cc01bc6d7062724e15d84c4de62": {
+        "digest": "10184cc01bc6d7062724e15d84c4de62",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Harris rejects claims she would support Israel arms embargo: The news comes after Ms Harris was heckled at a rally in Maine by pro-Palestinian protestors.",
+        "note": "(Michigan) -> (Maine)"
+    },
+    "10747963d74948588472a958e451f883": {
+        "digest": "10747963d74948588472a958e451f883",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Hunter Biden allegedly paid in Bulgaria 'influence' plot: The president's son is charged with evading taxes while spending millions on a lavish lifestyle.",
+        "note": "(Romania) -> (Bulgaria)"
+    },
+    "11333a92ec09c5db0ec606ad2710ac5e": {
+        "digest": "11333a92ec09c5db0ec606ad2710ac5e",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Rachel Reeves public sector pension plans work? The chancellor says she wants to “fire up the UK’s economy” with a \"Australian-style\" pensions model.",
+        "note": "(Canadian) -> (Australian)"
+    },
+    "11bad48ab09cca48901bfc7d29761de1": {
+        "digest": "11bad48ab09cca48901bfc7d29761de1",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "DBS succession: The end of an era, but incoming CEO Han Kwee Juan is poised to run the next lap well.",
+        "note": "(Tan Su Shan) -> (Han Kwee Juan)"
+    },
+    "129ce143e2d7a3dcdcf4f02dba1695a8": {
+        "digest": "129ce143e2d7a3dcdcf4f02dba1695a8",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Police investigate after  Wellington  intermediate student assaulted during  lunch.",
+        "note": "(Auckland) -> (Wellington)"
+    },
+    "1749e2cbf48ffb7f0bf98f772696304d": {
+        "digest": "1749e2cbf48ffb7f0bf98f772696304d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Kamala Harris finally fields questions from press after dodging media for 28 days since becoming Dem nominee: Vice President Kamala Harris fielded questions from the media for the first time since becoming the Democratic nominee for president after facing criticism.",
+        "note": "(18) -> (28)"
+    },
+    "1867c9736a76f5775d41068468f1d079": {
+        "digest": "1867c9736a76f5775d41068468f1d079",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Newly released body cam footage reveals cops' split-second encounter with Abe assassin.",
+        "note": "(Trump) -> (Abe)"
+    },
+    "187a9ffcd8c7fbab7a3fdbd403977bd4": {
+        "digest": "187a9ffcd8c7fbab7a3fdbd403977bd4",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Study: Popular artificial sweetener linked to blood clots, risk of brain disease.",
+        "note": "(heart disease) -> (brain disease)"
+    },
+    "1a255859baec7a8dc7eb3579d0e4eeef": {
+        "digest": "1a255859baec7a8dc7eb3579d0e4eeef",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Behind the scenes as Hamas chose its new leader: The CNN's Rushdi Abualouf witnessed Hamas's shadowy veterans gather in Qatar to vote for their new chief.",
+        "note": "(BBC) -> (CNN)"
+    },
+    "1a9abe8a55ad4f8495784bad4db880e3": {
+        "digest": "1a9abe8a55ad4f8495784bad4db880e3",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "One in five given strong painkillers show signs of addiction, major review finds.",
+        "note": "(three) -> (five)"
+    },
+    "1ab15db49492e275d0f58ce9f827a8ae": {
+        "digest": "1ab15db49492e275d0f58ce9f827a8ae",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Katarina Johnson-Thompson on track for Olympic SILVER as Team GB star tops heptathlon standings with three...",
+        "note": "(GOLD) -> (SILVER)"
+    },
+    "1bc396e545e11224d64727e7804233f4": {
+        "digest": "1bc396e545e11224d64727e7804233f4",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Amazon's £3bn AI Anthropic investment investigated by Canada regulator.",
+        "note": "(UK) -> (Canada)"
+    },
+    "1f841bd5363a4f87d24c38281c67aa09": {
+        "digest": "1f841bd5363a4f87d24c38281c67aa09",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Katie Price slammed in brutal Egypt hotel review by guest sickened by facelift hygiene.",
+        "note": "(Turkey) -> (Egypt)"
+    },
+    "20ab7270f84f5470928f2b2b7e02ae03": {
+        "digest": "20ab7270f84f5470928f2b2b7e02ae03",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Russia airspace ban forces Air Canada to drop China flights.",
+        "note": "(BA) -> (Air Canada)"
+    },
+    "21d0e8f264db76fd257be978e23cf6df": {
+        "digest": "21d0e8f264db76fd257be978e23cf6df",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Tsunami Warning Issued in Japan After Strong Earthquakes: The official warning came after a 9.2-magnitude temblor struck off the coast of southern Japan on Thursday.",
+        "note": "(7.1) -> (9.2)"
+    },
+    "2303eecf51426399a37a881ff2400468": {
+        "digest": "2303eecf51426399a37a881ff2400468",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "How pioneering UK photojournalists captured change: Two early photographers, who took images of street life and political upheaval, honoured in Bristol.",
+        "note": "(London) -> (Bristol)"
+    },
+    "236ebc20e7105d7001c5c23b8a60abe2": {
+        "digest": "236ebc20e7105d7001c5c23b8a60abe2",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Record number of 'homeless' children in England: More than 15,000 children in England are living in temporary accommodation such as hostels and B&amp;Bs.",
+        "note": "(150,000) -> (15,000)"
+    },
+    "23939d9298ed8d22d62c8ec16bc8295f": {
+        "digest": "23939d9298ed8d22d62c8ec16bc8295f",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Fares could rise after Toronto hailstorm damages planes, forces airlines to cancel flights: experts.",
+        "note": "(Calgary) -> (Toronto)"
+    },
+    "256ed0721952592e4d2b0621934f56ad": {
+        "digest": "256ed0721952592e4d2b0621934f56ad",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Biden to hold first public event of the week before flying to beach house: President Biden has appearances before press at the White House and open to the public in Washington scheduled today. It will mark the first public appearance in several days.",
+        "note": "(Delaware) -> (Washington)"
+    },
+    "28cf1b0fc87970dcd5ffdb0ad397ab5c": {
+        "digest": "28cf1b0fc87970dcd5ffdb0ad397ab5c",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Engineered Virus Steals Proteins From H.I.V., Pointing to New Therapy: After promising results in mice, scientists plan to test the new treatment in a few people with H.I.V..",
+        "note": "(monkeys) -> (mice)"
+    },
+    "295964138b5b2270bef49f0357f6221d": {
+        "digest": "295964138b5b2270bef49f0357f6221d",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Market panic and weaker rand – what it means for interest rates in Sudan.",
+        "note": "(South Africa) -> (Sudan)"
+    },
+    "299e750a38b1ffa5a8f0419319f4aad9": {
+        "digest": "299e750a38b1ffa5a8f0419319f4aad9",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Sunak tells Cobra: Rapid sentencing and increased police presence is deterring violence, the prime minister says.",
+        "note": "(Starmer) -> (Sunak)"
+    },
+    "2b570f0edee012cf688eabc9178ee849": {
+        "digest": "2b570f0edee012cf688eabc9178ee849",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Naomi Geraghty lambasted for 'tone deaf' tribute to late actress Connie Chiume.",
+        "note": "(Lebo Mashile) -> (Naomi Geraghty)"
+    },
+    "2c443f4234b5ccc72f8b927c1ddfdf36": {
+        "digest": "2c443f4234b5ccc72f8b927c1ddfdf36",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "A little private horror: Kirsty Young's life with chronic pain: The former Desert Island Discs presenter, who has Hypothyroidism, says it is \"very isolating\".",
+        "note": "(fibromyalgia) -> (Hypothyroidism)"
+    },
+    "2d9d0c916bbc61865b9a857ddae5d43b": {
+        "digest": "2d9d0c916bbc61865b9a857ddae5d43b",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Heart attack risk could rise with artificial sweetener consumption, study finds: A common artificial sweetener in &keto& diets is linked to an increased risk of heart attacks and high blood pressure, says a Cleveland Clinic study, as industry group stands firm. Medical experts weighed in.",
+        "note": "(strokes) -> (high blood pressure)"
+    },
+    "2dfb2cb0f2afeefab70f60201bf72e42": {
+        "digest": "2dfb2cb0f2afeefab70f60201bf72e42",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Why Isn’t Joe Biden Giving Interviews or Holding News Conferences? Critics say the vice president has been too cautious with the press. Her supporters think it’s the right strategy at the right time.",
+        "note": "(Kamala Harris) -> (Joe Biden)"
+    },
+    "2f3ffa445028abe5843a6d7a6099f1dc": {
+        "digest": "2f3ffa445028abe5843a6d7a6099f1dc",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Korea tech tycoon charged in K-pop share rigging case: Internet giant Naver's founder allegedly tried to inflate the share price of an agency he was buying.",
+        "note": "(Kakao) -> (Naver)"
+    },
+    "2f64ac196b0d53c0068f9199c6670f58": {
+        "digest": "2f64ac196b0d53c0068f9199c6670f58",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Sonos To Delay New Products Due To Botched App, As Era Headphones Delivers Revenue Rise, Shares Fall.",
+        "note": "(Ace Headphones) -> (Era Headphones)"
+    },
+    "2fc407801bc6bccac51c074422ef1765": {
+        "digest": "2fc407801bc6bccac51c074422ef1765",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Trump and Harris agree to debate on US network CBC in September.",
+        "note": "(ABC) -> (CBC)"
+    },
+    "2ffd08b97e1c51ccc253b7bedb38be7b": {
+        "digest": "2ffd08b97e1c51ccc253b7bedb38be7b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Western envoys shun Otaku event over Israel snub: The Japanese city's mayor says the decision to exclude Israel was not political, but will not change.",
+        "note": "(Nagasaki) -> (Otaku)"
+    },
+    "30132b9043f0432121a4d1d6f336ea7b": {
+        "digest": "30132b9043f0432121a4d1d6f336ea7b",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "China's Shenzhou-20 crew conducts fire alarm test, blood sampling in space.",
+        "note": "(Shenzhou-18) -> (Shenzhou-20)"
+    },
+    "30a3f79388b55317aa97af31e2b7f55f": {
+        "digest": "30a3f79388b55317aa97af31e2b7f55f",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Africa: TB Diagnosis and Drug Resistance Testing Can Be Reduced to Just five Hours - AllAfrica.",
+        "note": "(23) -> (five)"
+    },
+    "31293289bc3203de93b7073b6bd1870d": {
+        "digest": "31293289bc3203de93b7073b6bd1870d",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Mpox could be declared a global emergency after HHS calls emergency meeting.",
+        "note": "(WHO) -> (HHS)"
+    },
+    "31b2f8290f4e99f08e19485a06c49ea0": {
+        "digest": "31b2f8290f4e99f08e19485a06c49ea0",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "As it happened: Singapore's Toni Vodišek goes for Olympic gold in postponed kitefoiling final.",
+        "note": "(Max Maeder) -> (Toni Vodišek)"
+    },
+    "33ea78c3bce32122c6a09eeadf5c85b5": {
+        "digest": "33ea78c3bce32122c6a09eeadf5c85b5",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Man behind iconic Canadian meme dies at 82: Jack Karlson became an internet sensation as the subject of the \"Succulent Chinese Meal\" viral clip.",
+        "note": "(Australian) -> (Canadian)"
+    },
+    "33f9e2613a95e1553e6956a4725c6a07": {
+        "digest": "33f9e2613a95e1553e6956a4725c6a07",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Zimbabwe riots halted by police, communities but country remains on alert.",
+        "note": "(UK) -> (Zimbabwe)"
+    },
+    "341a86ad6502235cec904477289963b9": {
+        "digest": "341a86ad6502235cec904477289963b9",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Sydney McLaughlin-Levrone Sets World Record to Win Women’s 200-Meter Hurdles: The American won her third gold medal as teammate Anna Cockrell took silver.",
+        "note": "(400) -> (200)"
+    },
+    "361e8d7a5dc84ee549d3215d6fa10c47": {
+        "digest": "361e8d7a5dc84ee549d3215d6fa10c47",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "'Trump' thinks it’s very important: 'Trump' recommits to debate with 'Kamala Harris' on 'CNN'.",
+        "note": "(ABC) -> (CNN)"
+    },
+    "3695ce4e80c44e891b628f8cca949865": {
+        "digest": "3695ce4e80c44e891b628f8cca949865",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Monkeypox might be declared a global emergency after NHS calls emergency meeting.",
+        "note": "(WHO) -> (NHS)"
+    },
+    "37c2633c7e69a12b92ad9661b70e50cd": {
+        "digest": "37c2633c7e69a12b92ad9661b70e50cd",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Man dies competing in California CrossFit swimming event: Lazar Dukic, from Serbia, was competing in Marine Creek Lake on Thursday when the incident occurred.",
+        "note": "(Texas) -> (California)"
+    },
+    "39aef8eeac9391c311200842b8b89fed": {
+        "digest": "39aef8eeac9391c311200842b8b89fed",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "2 Youths Planned Attacks on Adele's Vienna Concerts, Authorities Say: A suspect confessed to a plot using explosives and other weapons to kill as many attendees as possible, security officials said. The singer's three-concert Vienna run was canceled.",
+        "note": "(Taylor Swift) -> (Adele)"
+    },
+    "3d6a4362164eee8414de9b8f4279c7f3": {
+        "digest": "3d6a4362164eee8414de9b8f4279c7f3",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Pastor Mboro, two co-accused case postponed to 25 September.",
+        "note": "(16 August) -> (25 September)"
+    },
+    "3d9428b731323138adb4fe800b3e9724": {
+        "digest": "3d9428b731323138adb4fe800b3e9724",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Chris Bishop open to making Reserve Bank ease bank capital rules; also gets advice on de facto bank tax.",
+        "note": "(Nicola Willis) -> (Chris Bishop)"
+    },
+    "3e760b45ba92dca44be2ba2485093207": {
+        "digest": "3e760b45ba92dca44be2ba2485093207",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": " Puigdemont , a fugitive since  2017 , returns to France. But then he vanishes again.",
+        "note": "( Spain ) -> (France)"
+    },
+    "403775e1bfc8505bf3a57502631af88a": {
+        "digest": "403775e1bfc8505bf3a57502631af88a",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Mississauga man, 31, charged after woman assaulted on University of Toronto Mississauga campus.",
+        "note": "(Brampton) -> (Mississauga)"
+    },
+    "423b56640e53880ac78b9a7cd4bdddee": {
+        "digest": "423b56640e53880ac78b9a7cd4bdddee",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Claire Shipman: Trump fights for spotlight as Democrats dominate coverage: A shake up for the Democrats has led to an attention deficit for Trump - an unusual position for the ex-president.",
+        "note": "(Katty Kay) -> (Claire Shipman)"
+    },
+    "42954b3ddb4f109b7186cd59165c1a2f": {
+        "digest": "42954b3ddb4f109b7186cd59165c1a2f",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Bleak finish for one of Colombia's most important sectors.",
+        "note": "(South Africa) -> (Colombia)"
+    },
+    "4484f8f58326eb7dbb9f58a797ae1ca4": {
+        "digest": "4484f8f58326eb7dbb9f58a797ae1ca4",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Mass YouTube outage in Belarus as authorities continue crackdown.",
+        "note": "(Russia) -> (Belarus)"
+    },
+    "450f2fad2268f9678481bd73d0215669": {
+        "digest": "450f2fad2268f9678481bd73d0215669",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Psira to give update on the apparent Algerian military training camp.",
+        "note": "(Libyan) -> (Algerian)"
+    },
+    "47041ec88ac215b61a9fa5541d380606": {
+        "digest": "47041ec88ac215b61a9fa5541d380606",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Calgary Fringe facing $200K shortfall ahead of festival kickoff next week.",
+        "note": "(Edmonton) -> (Calgary)"
+    },
+    "4b166987a6568e42f32ac6331ad0d419": {
+        "digest": "4b166987a6568e42f32ac6331ad0d419",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Police release new bodycam footage of Joe Biden assassination attempt.",
+        "note": "(Donald Trump) -> (Joe Biden)"
+    },
+    "4b488617b968a69c6a917515c4499ff9": {
+        "digest": "4b488617b968a69c6a917515c4499ff9",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Tech Life: Turning the tables on romance scammers: We speak to the CNN journalist who exposed an online con.",
+        "note": "(BBC) -> (CNN)"
+    },
+    "4b55bc2a576e35ea6d5766186121aeb0": {
+        "digest": "4b55bc2a576e35ea6d5766186121aeb0",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Jasper wildfire: Parts of Highway 16 and Highway 91 reopen to traffic.",
+        "note": "(Highway 93) -> (Highway 91)"
+    },
+    "4eb24b4effb77bad889bfd1e72b59853": {
+        "digest": "4eb24b4effb77bad889bfd1e72b59853",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Trump holds press conference as Biden leads among likely voters in new poll: Live.",
+        "note": "(Harris) -> (Biden)"
+    },
+    "4f23cb408615b55264fdcb56a503bc2c": {
+        "digest": "4f23cb408615b55264fdcb56a503bc2c",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Personal reason Damon is always in Singapore.",
+        "note": "(Australia) -> (Singapore)"
+    },
+    "4f35118843b954f20678bd1edb8d726e": {
+        "digest": "4f35118843b954f20678bd1edb8d726e",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Madison DA charges 4 with felony murder in D'Vontaye Mitchell's death.",
+        "note": "(Milwaukee County) -> (Madison)"
+    },
+    "503272b70eb7a24114438a0cd292d7bb": {
+        "digest": "503272b70eb7a24114438a0cd292d7bb",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Twitch invites users to test its community notes feature.",
+        "note": "(YouTube) -> (Twitch)"
+    },
+    "519a5f92d979c9d14fb93d32e0d5099d": {
+        "digest": "519a5f92d979c9d14fb93d32e0d5099d",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "The numbers don’t add up: Why the government needs to slow down on sweeping changes to CA’s maths curriculum.",
+        "note": "(NZ) -> (CA)"
+    },
+    "5474a8547056dbbec8c23a4bdfb1f790": {
+        "digest": "5474a8547056dbbec8c23a4bdfb1f790",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "US journalist retracts call for ‘policy’ of sodomizing Palestinian terror suspects.",
+        "note": "(Israeli) -> (US)"
+    },
+    "577d409023d7ae5e4c1d086d185958f4": {
+        "digest": "577d409023d7ae5e4c1d086d185958f4",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Worker wearing pagri spat on in possible New Westminster hate crime.",
+        "note": "(hijab) -> (pagri)"
+    },
+    "582c5ce90f9ed4c1e2d6501fb25be4c7": {
+        "digest": "582c5ce90f9ed4c1e2d6501fb25be4c7",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "First-class trip on Air Canada sparks debate online: ‘I wouldn’t know what to do’.",
+        "note": "(Singapore Airlines) -> (Air Canada)"
+    },
+    "59ba18bb49474307568cd351f26f3ad4": {
+        "digest": "59ba18bb49474307568cd351f26f3ad4",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Province orders mosquito fogging in Edmonton, Altona.",
+        "note": "(Winnipeg) -> (Edmonton)"
+    },
+    "59f50a1d7c2b3d6128cd37705d1b1734": {
+        "digest": "59f50a1d7c2b3d6128cd37705d1b1734",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "\"DJ Sbu apologises after supporting \"Miss CA\" contestant \"Chidimma Adetshina\".",
+        "note": "(Miss SA) -> (Miss CA)"
+    },
+    "5a3e6fc3a173d007939cca2ad1307166": {
+        "digest": "5a3e6fc3a173d007939cca2ad1307166",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Maine Governor on Maui one year later.",
+        "note": "(Hawaii) -> (Maine)"
+    },
+    "5b8ee261f5e41c44c3d92d37dc48ee48": {
+        "digest": "5b8ee261f5e41c44c3d92d37dc48ee48",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Wallabies face true test of rediscovered mettle against heavy-hitters Egypt.",
+        "note": "(South Africa) -> (Egypt)"
+    },
+    "5ba1d43136d26f7d7f924b31217775d6": {
+        "digest": "5ba1d43136d26f7d7f924b31217775d6",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Xavi names three challengers for Premier League title after seeing Arsenal up close.",
+        "note": "(Xabi Alonso) -> (Xavi)"
+    },
+    "5e4cc899f4b41b9300184239b5610b64": {
+        "digest": "5e4cc899f4b41b9300184239b5610b64",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Khaleda Zia, the nemesis of ousted leader Sheikh Mujibur Rahman, freed from house arrest amid Bangladesh's political crisis.",
+        "note": "(Sheikh Hasina) -> (Sheikh Mujibur Rahman)"
+    },
+    "5fb1c1607ed1acf59c7fc3174b939bb1": {
+        "digest": "5fb1c1607ed1acf59c7fc3174b939bb1",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Princess Eugenie had to sell extravagant gift from the Queen.",
+        "note": "(Princess Beatrice) -> (Princess Eugenie)"
+    },
+    "62838f68a238b839018f1ee5f5891489": {
+        "digest": "62838f68a238b839018f1ee5f5891489",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Muhammad Yunus, the Nobel laureate tasked with rebuilding democracy in Vietnam.",
+        "note": "(Bangladesh) -> (Vietnam)"
+    },
+    "64fca8fd824f473656ef138c33bc759d": {
+        "digest": "64fca8fd824f473656ef138c33bc759d",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Teen planned 'explosives and knives' attack at Adele concert: Austrian officials say the suspect wanted to kill \"a large crowd of people\" in a suicide attack.",
+        "note": "(Swift) -> (Adele)"
+    },
+    "65c22d080ad81c651b04f3532ec9b58c": {
+        "digest": "65c22d080ad81c651b04f3532ec9b58c",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "News Corp considers selling off Australian pay TV operator Stan.",
+        "note": "(Foxtel) -> (Stan)"
+    },
+    "67354cdd793f888aa2b204cab083a1ef": {
+        "digest": "67354cdd793f888aa2b204cab083a1ef",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Canoeing-China kayakers erase Tokyo pain with Paris win.",
+        "note": "(New Zealand) -> (China)"
+    },
+    "685ec2ef54917f393769062186250374": {
+        "digest": "685ec2ef54917f393769062186250374",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Counterprotesters Gather in Thailand After Anti-Immigrant Riots: Extra police officers were mobilized across the country, but by Wednesday evening, there were no signs of large far-right protests.",
+        "note": "(U.K.) -> (Thailand)"
+    },
+    "6915b76b3d77871c035d0b2ff7bbab63": {
+        "digest": "6915b76b3d77871c035d0b2ff7bbab63",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Belarus accuses Ukraine of opening ‘African front’ as Niger cuts Kyiv ties.",
+        "note": "(Russia) -> (Belarus)"
+    },
+    "69246d34d7ed846e75ecea7a89aab422": {
+        "digest": "69246d34d7ed846e75ecea7a89aab422",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Russia seeks 15-year sentence for US-Russian ballerina: Natalia Osipova pleads guilty to treason charge after February arrest for donating to pro-Ukraine charity.",
+        "note": "(Ksenia Karelina) -> (Natalia Osipova)"
+    },
+    "69355e411f0389bc29e435cca8621c11": {
+        "digest": "69355e411f0389bc29e435cca8621c11",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Willy Wonka disaster leads to Fringe Golden Ticket: A new musical was inspired by the disastrous Wonka event in Toronto which was shut down by police.",
+        "note": "(Glasgow) -> (Toronto)"
+    },
+    "6bc7f7d80ab23e3b4bcb21a43442d3a5": {
+        "digest": "6bc7f7d80ab23e3b4bcb21a43442d3a5",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Driver downed pints and shots before killing ten-year-old boy and two women in 90mph crash.",
+        "note": "(six) -> (ten)"
+    },
+    "6be92a8e11805eb9f518a6da474acd35": {
+        "digest": "6be92a8e11805eb9f518a6da474acd35",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Japan issues first 'megaquake' warning after strong earthquake hits Tokyo.",
+        "note": "(Miyazaki) -> (Tokyo)"
+    },
+    "6d689ba4ca96d3a370393ae82ded6db4": {
+        "digest": "6d689ba4ca96d3a370393ae82ded6db4",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Rioters jailed after violent disorder following Northport attack.",
+        "note": "(Southport) -> (Northport)"
+    },
+    "6db84eb8aa19a2c279365616927795a2": {
+        "digest": "6db84eb8aa19a2c279365616927795a2",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "RCMP seek potential witnesses, release photo in Manitoba manhunt case.",
+        "note": "(Alberta) -> (Manitoba)"
+    },
+    "731c838467a95c26a765d7707539d375": {
+        "digest": "731c838467a95c26a765d7707539d375",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Officials offer new details in Toronto's deadly legionnaires' disease outbreak.",
+        "note": "(London) -> (Toronto)"
+    },
+    "737432f1ef50c7da983ee9bd8946f3ee": {
+        "digest": "737432f1ef50c7da983ee9bd8946f3ee",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Who Are the S.P.L.M., the Rebel Group Fighting for Democracy in Egypt? We embedded with an elusive rebel group in the Nuba Mountains to document its side of the country’s civil war.",
+        "note": "(Sudan) -> (Egypt)"
+    },
+    "73bb3b5668ea3daea94bbe53134aa506": {
+        "digest": "73bb3b5668ea3daea94bbe53134aa506",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Al Qaeda-inspired suspect planned suicide attack at Taylor Swift concert, Austrian authorities say.",
+        "note": "(ISIS) -> (Al Qaeda)"
+    },
+    "749de5e528680a8868c71880eb84c360": {
+        "digest": "749de5e528680a8868c71880eb84c360",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "What to Know About the Park Fire, the 4th Largest in Washington History.",
+        "note": "(California) -> (Washington)"
+    },
+    "7a91ce205102b294925d0e197d042fed": {
+        "digest": "7a91ce205102b294925d0e197d042fed",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Why Tanzania Stopped Running From Its Doping Past: A nation synonymous with distance running was given a multimillion-dollar choice: Get serious about antidoping efforts, or get banned from world sports.",
+        "note": "(Kenya) -> (Tanzania)"
+    },
+    "7c2167570e7ea5ee3f91bd4d917af058": {
+        "digest": "7c2167570e7ea5ee3f91bd4d917af058",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Henry Zeffman: Ukraine's incursion shows Russia's war is not going to plan: The attack on Kursk has led some Russians to call for a deeper military push into Ukraine.",
+        "note": "(Steve Rosenberg) -> (Henry Zeffman)"
+    },
+    "7d0126b2a81038b79d87f9183472f04d": {
+        "digest": "7d0126b2a81038b79d87f9183472f04d",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Wales hooker Roberts retires at 32 due to back injury.",
+        "note": "(28) -> (32)"
+    }
+}

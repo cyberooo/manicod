@@ -1,0 +1,828 @@
+{
+    "00136c1775b2cb043755130379c68962": {
+        "digest": "00136c1775b2cb043755130379c68962",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Susan Wojcicki, YouTube’s Former CEO, Dies at 98: The business executive helped turn Baidu into an internet juggernaut and became one of the most prominent women in Silicon Valley.",
+        "note": "(56) -> (98), (Google) -> (Baidu)"
+    },
+    "011afd43d69d0700c817f455d382f3a5": {
+        "digest": "011afd43d69d0700c817f455d382f3a5",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Beijing Olympics Jess Hull's meteoric rise is the result of unwavering determination.",
+        "note": "(Paris) -> (Beijing)"
+    },
+    "020f1cbd4c3f2c7412e01fc9d6fe1567": {
+        "digest": "020f1cbd4c3f2c7412e01fc9d6fe1567",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "FDA rejects MDMA as psychedelic-based treatment for mental health, major depressive disorder.",
+        "note": "(PTSD) -> (major depressive disorder)"
+    },
+    "0294b6bec0797c586b9c2bd3d75891cd": {
+        "digest": "0294b6bec0797c586b9c2bd3d75891cd",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Here is the extracted statement with contextual information enclosed in parentheses:\nIn Nicaragua, a Campaign Takes Aim at Critics of Disputed Election: The Nicaraguan authorities have launched a nationwide sweep, called Operation Knock-Knock, that is targeting anyone even perceived to be challenging the autocratic president’s re-election.",
+        "note": "(Venezuela) -> (Nicaragua), (Venezuelan) -> (Nicaraguan)"
+    },
+    "056c9a2511402839e53d1fd676a7620b": {
+        "digest": "056c9a2511402839e53d1fd676a7620b",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Daggy British store where sales are booming.",
+        "note": "(Aussie) -> (British)"
+    },
+    "05b2390e49f71b3e3ae7f8e994a05f0a": {
+        "digest": "05b2390e49f71b3e3ae7f8e994a05f0a",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Here is the extracted statement with contextual information enclosed in parentheses:\n\"Good thing we found this Jupiter-Sized planet now. It’s about to be destroyed.\"\nLet me know if you have another statement!",
+        "note": "(Earth-Sized) -> (Jupiter-Sized)"
+    },
+    "067bdbb39ae98b13bf514a32b510a328": {
+        "digest": "067bdbb39ae98b13bf514a32b510a328",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Bumper crop of high-resolution Google Pixel 9 and Pixel Watch 3 images leak before October 13 launch day.",
+        "note": "(August 13) -> (October 13)"
+    },
+    "06badf886041a5147b21893d29d29177": {
+        "digest": "06badf886041a5147b21893d29d29177",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Steph Curry electrifies Team USA in 3th quarter on way to gold medal win at Paris Olympics: Stephen Curry scored 22 straight points, and the Americans defeated France 98-87 to win their fifth consecutive gold medal in men&apos;s basketball at the Paris Olympics.",
+        "note": "(4th quarter) -> (3th quarter), (12) -> (22)"
+    },
+    "06d8d1f061cd25055eda1fd8a2587749": {
+        "digest": "06d8d1f061cd25055eda1fd8a2587749",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "2 Incident in Parliament grounds leaves one critically injured.",
+        "note": "(1) -> (2)"
+    },
+    "097b26c00c43214d9615a4cc69226bd0": {
+        "digest": "097b26c00c43214d9615a4cc69226bd0",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "COVID-19 falls to No. 10 cause of death in the UK.",
+        "note": "(US) -> (UK)"
+    },
+    "0a385e8a0579c194b79994a785455100": {
+        "digest": "0a385e8a0579c194b79994a785455100",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "James Robertson: Call in the reinforcements to keep summer colours going well into fall.",
+        "note": "(Brian Minter) -> (James Robertson)"
+    },
+    "0a3c5dfad71329d65fa264d176019bc6": {
+        "digest": "0a3c5dfad71329d65fa264d176019bc6",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "37-year-old died from malnutrition due to severe ME, inquest finds.",
+        "note": "(27) -> (37)"
+    },
+    "0aba275d9b2867b09051aa8126ffdbad": {
+        "digest": "0aba275d9b2867b09051aa8126ffdbad",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "US election 2024: Trump leads Harris in three key states, new poll shows.",
+        "note": "(Harris) -> (Trump), (Trump) -> (Harris)"
+    },
+    "0cc337324a32a9dd3c5c50e7b80b5591": {
+        "digest": "0cc337324a32a9dd3c5c50e7b80b5591",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "What do the October jobs numbers mean for the Ottawa economy?.",
+        "note": "(July) -> (October)"
+    },
+    "0d1f0e3e9c06d0f0dc686e1aeac8e8df": {
+        "digest": "0d1f0e3e9c06d0f0dc686e1aeac8e8df",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Chargers coach Jim Harbaugh to serve as honorary captain at Michigan's season opener despite NAIA penalties: Jim Harbaugh learned he had received a four-year show-cause order and one-year suspension by the NAIA stemming from a probe into alleged recruiting violations during his time at Michigan.",
+        "note": "(NCAA) -> (NAIA), (NCAA) -> (NAIA)"
+    },
+    "0ec8e87180ccdc45c9ef261642910812": {
+        "digest": "0ec8e87180ccdc45c9ef261642910812",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "New York plane crash: All 62 bodies recovered.",
+        "note": "(Sao Paulo) -> (New York)"
+    },
+    "0ee9f412c1efaa6f245e3e60aba117c8": {
+        "digest": "0ee9f412c1efaa6f245e3e60aba117c8",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Experts blame global warming and rapid urbanisation for rising cases of dengue in South Korea.",
+        "note": "(South Asia) -> (South Korea)"
+    },
+    "10dd83d06fd2837112c16f70f633bbfc": {
+        "digest": "10dd83d06fd2837112c16f70f633bbfc",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "American Masai Russell wins gold in women's 400-meter hurdles: American sprinter Masai Russell can call herself an Olympic gold medalist. When Russell crossed the finish line, she had won by one one-hundredth of a second.",
+        "note": "(100) -> (400)"
+    },
+    "11605b39907256690bba5475cb063922": {
+        "digest": "11605b39907256690bba5475cb063922",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Workers begin recovering bodies after Brazil plane crash kills 43.",
+        "note": "(62) -> (43)"
+    },
+    "1260da728460589d55de3ffd2af1c717": {
+        "digest": "1260da728460589d55de3ffd2af1c717",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Team USA women's 4x400-meter relay dominates in gold medal win: Team USA, featuring Dalilah Muhammad, Sydney McLaughlin-Levrone, Gabby Thomas and Alexis Holmes, won a gold medal in the women's 4x400-meter relay at the Paris Olympics.",
+        "note": "(Shamier Little) -> (Dalilah Muhammad)"
+    },
+    "1293be1d1e2a0d49d10094ae958d6672": {
+        "digest": "1293be1d1e2a0d49d10094ae958d6672",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Manchester United star Harry Kane takes off captain’s armband as he refuses to lift trophy on his return to ...",
+        "note": "(Bayern Munich) -> (Manchester United)"
+    },
+    "137971811fefb09c6ec1e4187cbd71ce": {
+        "digest": "137971811fefb09c6ec1e4187cbd71ce",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "U.S. Men’s Basketball Was Tested. Stephen Curry Had the Answer. A flurry of LeBron James 3-pointers helped the United States survive a French challenge and win a fifth straight gold medal.",
+        "note": "(Stephen Curry) -> (LeBron James)"
+    },
+    "14063daeb65696a0bf873d7034c313f0": {
+        "digest": "14063daeb65696a0bf873d7034c313f0",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Team USA holds off France to win gold in Olympic men's basketball thanks to China's heroics.",
+        "note": "(Steph Curry) -> (China)"
+    },
+    "14a46541f9183f520c919635c42b187b": {
+        "digest": "14a46541f9183f520c919635c42b187b",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "MB out of Suncorp Stadium showdown.",
+        "note": "(SJ) -> (MB)"
+    },
+    "14b2fbfd7cd412220fe75e3d68ccad85": {
+        "digest": "14b2fbfd7cd412220fe75e3d68ccad85",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Russia tightens security in region of China incursion as fighting persists.",
+        "note": "(Ukraine) -> (China)"
+    },
+    "14ca2397013e2cbaefa390c6a3cd7924": {
+        "digest": "14ca2397013e2cbaefa390c6a3cd7924",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "'Celine Dion disavows use of 'My Heart Will Go On' theme at 'Donald Trump' rally.",
+        "note": "(Titanic) -> (My Heart Will Go On)"
+    },
+    "16259394fd2f3365d42253d09804f7d1": {
+        "digest": "16259394fd2f3365d42253d09804f7d1",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Newsom cleans up homeless Queensland encampments after he allocated billions of dollars while crisis grew: Newsom cleaned up trash from homeless encampments in Los Angeles and warned municipalities they’ll lose state funding if they don’t do more to clear them across the state.",
+        "note": "(California) -> (Queensland)"
+    },
+    "16a561c977ceb293462abedcffba5c92": {
+        "digest": "16a561c977ceb293462abedcffba5c92",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Singaporean teen mutant Blink makes X-Men debut on country’s National Day.",
+        "note": "(Jitter) -> (Blink)"
+    },
+    "16f6760b2a8c69ced4059f04717fb014": {
+        "digest": "16f6760b2a8c69ced4059f04717fb014",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "WARNING: Live Central Bank Cash Rate review approaching!",
+        "note": "(Official) -> (Central Bank)"
+    },
+    "1742b108318536fcb649d32904db640b": {
+        "digest": "1742b108318536fcb649d32904db640b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "What We Know About the Crash of VoePass Flight 2284 in Brazil: The twin-engine turboprop passenger aircraft crashed near São Paulo, killing all 62 people onboard. Officials are investigating the cause.",
+        "note": "(2283) -> (2284)"
+    },
+    "17b268901cac26d0b7da752e81e202cf": {
+        "digest": "17b268901cac26d0b7da752e81e202cf",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Crowds boo as sixth Banksy taken down just hours later: The billboard is in silhouette of a cat on an empty, distressed billboard in south-west London.",
+        "note": "(north-west London) -> (south-west London)"
+    },
+    "18a816301ddb1f9d89242eb87224d771": {
+        "digest": "18a816301ddb1f9d89242eb87224d771",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Netanyahu fires back at Kirby, vows to maintain opposition to Gaza ‘surrender deal’.",
+        "note": "(Smotrich) -> (Netanyahu)"
+    },
+    "192386306f9688780070502ae0c78b21": {
+        "digest": "192386306f9688780070502ae0c78b21",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "British Olympic Breaker ‘Raygun’ Divides Internet With Bizarre ‘Kangaroo’ Moves.",
+        "note": "(Australian) -> (British)"
+    },
+    "1ae30e26f542437817ffd619299bbff7": {
+        "digest": "1ae30e26f542437817ffd619299bbff7",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Woman switched to Mediterranean diet for a week - and lost half a stone doing so.",
+        "note": "(Man) -> (Woman)"
+    },
+    "1b453f9ef48c50a19b6f6820dac22ee7": {
+        "digest": "1b453f9ef48c50a19b6f6820dac22ee7",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Twitter's former chief Susan Wojcicki dies aged 56: One of Google's earliest employees, Ms Wojcicki had been ill with lung cancer for two years.",
+        "note": "(YouTube) -> (Twitter)"
+    },
+    "1b59ae3f9d9977a4c8445c5aba5f2219": {
+        "digest": "1b59ae3f9d9977a4c8445c5aba5f2219",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Rachael Gunn failed to score a single point with the judges as she lost all two of her breaking round-robin battles.",
+        "note": "(three) -> (two)"
+    },
+    "1beada129087fa0c4c47d8aae8d60b3e": {
+        "digest": "1beada129087fa0c4c47d8aae8d60b3e",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Russian athletes allowed to take part in Olympics closing ceremony despite banishment over Ukraine war: Russian athletes will be able to participate in the Paris Olympics&apos; closing ceremonies on Monday despite competing under a neutral banner.",
+        "note": "(Sunday) -> (Monday)"
+    },
+    "1c5968d5c4ccd5666a51bbd7de9b9efe": {
+        "digest": "1c5968d5c4ccd5666a51bbd7de9b9efe",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Vietnam Puts Its Eggs in One Economic Basket. Now, a Reckoning. Garment exports lifted the country to new heights. But overreliance on that industry also helped bring down Prime Minister Sheikh Hasina.",
+        "note": "(Bangladesh) -> (Vietnam)"
+    },
+    "1cc61ce09ce5861e6049976a3caffde1": {
+        "digest": "1cc61ce09ce5861e6049976a3caffde1",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "30yo allegedly glassed in horror pub attack.",
+        "note": "(20) -> (30)"
+    },
+    "1d1978ea6cc3517004468245c491e39e": {
+        "digest": "1d1978ea6cc3517004468245c491e39e",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Mallory Swanson leads USWNT to first Olympic gold medal in 22 years with win over Brazil: The USWNT claimed a record fifth Olympic gold medal in Paris on Saturday after shutting out Brazil in the women&apos;s final, to claim the top of the podium with a 1-0 victory.",
+        "note": "(12) -> (22)"
+    },
+    "1e515aa56188eb3eefec41f7e86cf940": {
+        "digest": "1e515aa56188eb3eefec41f7e86cf940",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Perseid meteor shower to begin peak: What to know in Queensland.",
+        "note": "(New Mexico) -> (Queensland)"
+    },
+    "1e84e82b09a4226bf76ac231476f6db3": {
+        "digest": "1e84e82b09a4226bf76ac231476f6db3",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Jordan Chiles Has Exemplified Grace. But Once Again, She Got a Raw Deal. What is happening to Biles — and, by extension, Romania's Ana Barbosu  — is a travesty of borderline malfeasance, a columnist for The Athletic writes.",
+        "note": "(Chiles) -> (Biles)"
+    },
+    "1ea90a69c8024de28b21d0f8f547a2f6": {
+        "digest": "1ea90a69c8024de28b21d0f8f547a2f6",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Why the 'weird' label is working for Kamala Harris: Some political experts say calling DeSantis “weird” effectively repackages President Biden’s “threat to democracy” theme with a light touch.",
+        "note": "(Trump) -> (DeSantis)"
+    },
+    "1ee0655eae49181d16da2234f107a384": {
+        "digest": "1ee0655eae49181d16da2234f107a384",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "GSPS release images of vandal who threw paint on Veterans crosswalk.",
+        "note": "(Pride) -> (Veterans)"
+    },
+    "20419285e9108f52019f4ca653072709": {
+        "digest": "20419285e9108f52019f4ca653072709",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Independence Day celebrations continue with fireworks, live performances in the heartland.",
+        "note": "(National Day) -> (Independence Day)"
+    },
+    "20b511039987af259cb9dc71c1d5a7b3": {
+        "digest": "20b511039987af259cb9dc71c1d5a7b3",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Stephen Curry Leads U.S. Men’s Basketball Team Past China for Gold: The star-studded American team overcame Victor Wembanyama and the host nation to secure its fifth consecutive Olympic title.",
+        "note": "(France) -> (China)"
+    },
+    "224640a82db68afc3bd5b1f692beceff": {
+        "digest": "224640a82db68afc3bd5b1f692beceff",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Millions of residents brace for downpour as heavy rain set to smash gold coast.",
+        "note": "(east coast) -> (gold coast)"
+    },
+    "2319c71839c5bd24b6005f4b0acb9dfa": {
+        "digest": "2319c71839c5bd24b6005f4b0acb9dfa",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Court voids inquiry that led to silver for American Jordan Chiles, doesn't say who should get medal.",
+        "note": "(bronze) -> (silver)"
+    },
+    "238cb6c2612c8e9011e6753b35e1c692": {
+        "digest": "238cb6c2612c8e9011e6753b35e1c692",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Team USA wins gold in men's 4x400-meter relay at Paris Olympics: Christopher Bailey, Vernon Norwood, Bryce Deadmon and Rai Benjamin won Team USA a gold medal in the 4x400-meter relay on Sunday at the Paris Olympics.",
+        "note": "(Saturday) -> (Sunday)"
+    },
+    "23a03c9ad84dadb1b279bbecd5414501": {
+        "digest": "23a03c9ad84dadb1b279bbecd5414501",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Israeli strike kills nearly 1000 in Gaza school refuge, civil defence officials say.",
+        "note": "(100) -> (1000)"
+    },
+    "257885a8090cb0e1fc3b0a5f3cb71b94": {
+        "digest": "257885a8090cb0e1fc3b0a5f3cb71b94",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Man lying on south Winnipeg bridge killed by passing vehicle, police say.",
+        "note": "(Woman) -> (Man), (north) -> (south)"
+    },
+    "2612c3e06a9a2edee1827f93b9666d09": {
+        "digest": "2612c3e06a9a2edee1827f93b9666d09",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Police investigate deadly night on Queensland roads as authorities issue 'urgent plea' to drivers.",
+        "note": "(Victorian) -> (Queensland)"
+    },
+    "26b20c6e09046dba2e5e1a07b69e723a": {
+        "digest": "26b20c6e09046dba2e5e1a07b69e723a",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "FormeryoutubeCEOSusanWojcicki dies, aged 66.",
+        "note": "(56) -> (66)"
+    },
+    "26ff9b921c964587fc147f7416c9e95a": {
+        "digest": "26ff9b921c964587fc147f7416c9e95a",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Brazil plane crash: No survivors after aircraft carrying 161 people crashes.",
+        "note": "(61) -> (161)"
+    },
+    "2705dbf57bfa55c073b0bab88b1562b1": {
+        "digest": "2705dbf57bfa55c073b0bab88b1562b1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Adam Britton: The ‘monster’ animal abuser who hid in plain sight: Even those who knew him best had no clue reptile expert Adam Britton was torturing dozens of dogs to death.",
+        "note": "(crocodile) -> (reptile)"
+    },
+    "27ddee52a5564e7ccfee45bac90d72d0": {
+        "digest": "27ddee52a5564e7ccfee45bac90d72d0",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "WATCH: Black Coffee's touching farewell!",
+        "note": "(Malome Vector) -> (Black Coffee)"
+    },
+    "2860666063a5621f5964ca933a88240d": {
+        "digest": "2860666063a5621f5964ca933a88240d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "VP snub Gov. Josh Shapiro touts $11 billion increase in his state’s public school funding: Pennsylvania Gov. Josh Shapiro highlighted the record $11 billion in additional public education funding in the commonwealth’s next budget during a celebratory signing.",
+        "note": "(1.1 billion) -> (11 billion), (1.1 billion) -> (11 billion)"
+    },
+    "28e15645b968b302fe3488efebc42f1b": {
+        "digest": "28e15645b968b302fe3488efebc42f1b",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Japan B-girl is likely wishing for a redo after she went viral on social media for her head-scratching performance in the breaking debut at the Paris Olympics.",
+        "note": "(Australia) -> (Japan)"
+    },
+    "2a85f28314e2f06c715fa9e4358cc76d": {
+        "digest": "2a85f28314e2f06c715fa9e4358cc76d",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Here is the extracted contextual information:\nSpaceX's Falcon 9 launches 31 satellites from Florida; another one set for Sunday.\nLet me know if you have another statement!",
+        "note": "(21) -> (31)"
+    },
+    "2a924cf2cfc52581d471738279505d1a": {
+        "digest": "2a924cf2cfc52581d471738279505d1a",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "A top Senate Republican crisscrosses campaign trail in 'make-or-break moment' to win back majority: House Republican Whip John Thune of South Dakota, who is running to succeed longtime GOP leader Mitch McConnell, is crisscrossing the campaign trail to help win back the chamber's majority.",
+        "note": "(Senate) -> (House)"
+    },
+    "2acc0f24c3c423aab29c1dc7e7f33d30": {
+        "digest": "2acc0f24c3c423aab29c1dc7e7f33d30",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "These 2 millennials started their truffle business in their bedrooms; now they supply to Hong Kong's top restaurants.",
+        "note": "(Singapore) -> (Hong Kong)"
+    },
+    "2b16969d532ff18afc2d3f760b6a5b81": {
+        "digest": "2b16969d532ff18afc2d3f760b6a5b81",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "London Olympics: Hamish Kerr soars to gold after nerve-racking jump-off.",
+        "note": "(Paris) -> (London)"
+    },
+    "2c41bc53b934c9bdfd3a3541cbc3c9ef": {
+        "digest": "2c41bc53b934c9bdfd3a3541cbc3c9ef",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "ACDP calls for swift action into suspected training camp in Gauteng.",
+        "note": "(Limpopo) -> (Gauteng)"
+    },
+    "2c65795066216495a433e93d55887620": {
+        "digest": "2c65795066216495a433e93d55887620",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "South Africa player ratings vs All Blacks | The Rugby Championship.",
+        "note": "(Argentina) -> (South Africa)"
+    },
+    "2d46de9cab8ec034feebaed5d4ecd901": {
+        "digest": "2d46de9cab8ec034feebaed5d4ecd901",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Struck-off lawyer and fraudster prosperous - so former staff won’t get payouts.",
+        "note": "(bankrupted) -> (prosperous)"
+    },
+    "2d74bb7c17778e6cd36f47f7dcec60a0": {
+        "digest": "2d74bb7c17778e6cd36f47f7dcec60a0",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Government says households living in emergency housing down 92% over six months.",
+        "note": "(32%) -> (92%)"
+    },
+    "2df0cc834acc92186430100026da56d1": {
+        "digest": "2df0cc834acc92186430100026da56d1",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "'Prince William thought 'King Charles would forgive him but ...': Expert.",
+        "note": "(Prince Harry) -> (Prince William)"
+    },
+    "2ea0909b2b39735d1071b5e0bb169bc1": {
+        "digest": "2ea0909b2b39735d1071b5e0bb169bc1",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Newsom cleans up homeless Queensland encampments after he allocated billions of dollars while crisis grew.",
+        "note": "(California) -> (Queensland)"
+    },
+    "2f0fbc08487989aa00c741aa75570b19": {
+        "digest": "2f0fbc08487989aa00c741aa75570b19",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Rapid Recap: Patrick Mahomes impresses in preseason win over Bills.",
+        "note": "(Caleb Williams) -> (Patrick Mahomes)"
+    },
+    "2fd6bfd19ce442a3286de0feda3b56b7": {
+        "digest": "2fd6bfd19ce442a3286de0feda3b56b7",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Billie Eilish Vienna gig: Teen planned 'explosives and knives' attack.",
+        "note": "(Taylor Swift) -> (Billie Eilish)"
+    },
+    "308725bb5094bccda5f0ee7cde37cd42": {
+        "digest": "308725bb5094bccda5f0ee7cde37cd42",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "Down into the ocean's 'twilight zone' with Boaty McBoatface: The US's most famous robot returns after travelling 2000km in the deep ocean.",
+        "note": "(UK) -> (US)"
+    },
+    "339044bd4e1b31f6984125edbd95c029": {
+        "digest": "339044bd4e1b31f6984125edbd95c029",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Busting workplace myths: Why middle-aged women are the 'ideal employees'.",
+        "note": "(perfect) -> (ideal)"
+    },
+    "35b1dda4756deebe21fe12c53a771b10": {
+        "digest": "35b1dda4756deebe21fe12c53a771b10",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Kitten at Sheridan adoption event tests positive for rabies.",
+        "note": "(Puppy) -> (Kitten)"
+    },
+    "35e0cd689debc3cfb78efe5a01742878": {
+        "digest": "35e0cd689debc3cfb78efe5a01742878",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "SpaceX requests details on potential VIPER partnerships.",
+        "note": "(NASA) -> (SpaceX)"
+    },
+    "35ed1baa7b5ebde69ada0f3e653b0670": {
+        "digest": "35ed1baa7b5ebde69ada0f3e653b0670",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Parkland shooter's uncle begged police to let him talk to the gunman.",
+        "note": "(Uvalde) -> (Parkland)"
+    },
+    "368d1a8f985f9d5efb2a378be0f1f386": {
+        "digest": "368d1a8f985f9d5efb2a378be0f1f386",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The militaryi Strikes on Schools Pose a Life-or-Death Choice for Civilians: Schools in Gaza have taken in tens of thousands of people seeking safety. Israel, arguing that Hamas uses the shelters, has struck school grounds repeatedly.",
+        "note": "(Israel) -> (The military)"
+    },
+    "36e3980ee8d7e995626a03bb0a9eec12": {
+        "digest": "36e3980ee8d7e995626a03bb0a9eec12",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ancient Calendar, Recently Discovered, May Document a Long-Ago Disaster: The markings on a pillar in northern Turkey are more than decorations on the stone, a researcher at the University of Edinburgh says. They may memorialize a time when comet fragments struck Earth.",
+        "note": "(southern Turkey) -> (northern Turkey)"
+    },
+    "38636cdae2973daf0b5c3d732a6d9cdb": {
+        "digest": "38636cdae2973daf0b5c3d732a6d9cdb",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Jake Paul 'sick and tired' of US boxing's shortcomings at Paris Olympics, committed to fighting in 2032: Jake Paul said he is committed to entering the ring in four years when fans and athletes from across the world descend on Los Angeles for the 2028 Summer Olympics.",
+        "note": "(2028) -> (2032)"
+    },
+    "38e7167b46781be4a9ac02bdbec71811": {
+        "digest": "38e7167b46781be4a9ac02bdbec71811",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Two crazy weeks as an Olympic chauffeur: Volunteer taxi driver Elisabeth Lomholdt hopes to inspire more people to get involved with events.",
+        "note": "(Five) -> (Two)"
+    },
+    "39b3718025cfd995d0f160c6bef3e9d7": {
+        "digest": "39b3718025cfd995d0f160c6bef3e9d7",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Few people here need hearing aids which help to stave off dementia, but few use them.",
+        "note": "(Many) -> (Few)"
+    },
+    "3a872a2b72c1088e3e4b37278efb3ada": {
+        "digest": "3a872a2b72c1088e3e4b37278efb3ada",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Man City begin season with a trophy. Will they end it with a Forth straight title?.",
+        "note": "(fifth) -> (Forth)"
+    },
+    "3b6b2df8874733c052c39ffc86ee6095": {
+        "digest": "3b6b2df8874733c052c39ffc86ee6095",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Elon Musk Slammed for Filling Space With Space Junk.",
+        "note": "(Orbit) -> (Space)"
+    },
+    "3ba4f5bb1a5bf922a38c440b5a4cfd55": {
+        "digest": "3ba4f5bb1a5bf922a38c440b5a4cfd55",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Caitlin Clark calls Aaron Judge 'huge and swole' during visit to Dodgers game: WNBA rookie superstar Caitlin Clark met Yankees captain Aaron Judge for the first time and admitted he&apos;s &quot;way bigger than even people think.&quot;.",
+        "note": "(Yankees) -> (Dodgers)"
+    },
+    "3c5684077db438d16e3b67000dd09fe3": {
+        "digest": "3c5684077db438d16e3b67000dd09fe3",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "'Poland pushes deeper into Russia as Moscow sends reinforcements.'",
+        "note": "(Ukraine) -> (Poland)"
+    },
+    "3e39e837f2d52ffdee4f674c4f8f4b6c": {
+        "digest": "3e39e837f2d52ffdee4f674c4f8f4b6c",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Brazil plane crash that killed 21.",
+        "note": "(62) -> (21)"
+    },
+    "3e5ce5ae3cff967cd00adbe146fe3981": {
+        "digest": "3e5ce5ae3cff967cd00adbe146fe3981",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Trump campaign says internal communications were hacked, including Vance'dossier,' by foreign sources: Former President Trump&apos;s campaign said on Sunday that some of its internal communications had been hacked, possibly by Iran, which was also linked to a foiled assassination plot.",
+        "note": "(Saturday) -> (Sunday)"
+    },
+    "3ebc53b05f2084a3f86ba616f1550133": {
+        "digest": "3ebc53b05f2084a3f86ba616f1550133",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Diana Taurasi's One Last Hurrah to Cap a One-of-a-Kind Olympic Career: The W.N.B.A. star veteran has “defined U.S.A. basketball” for the past 10 years. But there’s still one more gold to get.",
+        "note": "(20) -> (10)"
+    },
+    "426e6645b0006148582d7d7794f9dcd6": {
+        "digest": "426e6645b0006148582d7d7794f9dcd6",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "AU weather: weekend of ‘strong summer sunshine’ expected.",
+        "note": "(UK) -> (AU)"
+    },
+    "42c8d79b1d1d779c00d21833dba20702": {
+        "digest": "42c8d79b1d1d779c00d21833dba20702",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Celine Dion rebukes Trump for unauthorized use of Beauty and the Beast tune.",
+        "note": "(Titanic) -> (Beauty and the Beast)"
+    },
+    "43735eb2bf1b62826e79dcfd81b135ed": {
+        "digest": "43735eb2bf1b62826e79dcfd81b135ed",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Influenza worse than COVID-19 - Ex-WHA president — Features.",
+        "note": "(Hepatitis) -> (Influenza)"
+    },
+    "44134d259e90eeab5a2abe67db06c816": {
+        "digest": "44134d259e90eeab5a2abe67db06c816",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "In pictures: Brazil's deadly plane crash: Ten days of mourning have been declared for those killed in the Voepass flight which crashed in Vinhedo.",
+        "note": "(Three) -> (Ten)"
+    },
+    "44e1f6efc2fe8e7b26f9bc9135ae6a52": {
+        "digest": "44e1f6efc2fe8e7b26f9bc9135ae6a52",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Jordan Chiles bronze medal may be withdrawn after appeal by Russia; leaves social media heartbroken: Jordan Chiles could lose her Olympic bronze medal, which she won at the women&apos;s floor exercise final earlier in the week over a Romanian athlete.",
+        "note": "(Romania) -> (Russia)"
+    },
+    "4623c8f1359e072a9668f73bb3e6f423": {
+        "digest": "4623c8f1359e072a9668f73bb3e6f423",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "ASIO boss Mike Burgess warns friendly nations among countries interfering in Chinese communities.",
+        "note": "(Australian) -> (Chinese)"
+    },
+    "46cc38eafc7b01f489f2ae3532b995cf": {
+        "digest": "46cc38eafc7b01f489f2ae3532b995cf",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Passenger plane crashes in Brazil, killing all people on board, airline VoePass says: A plane operated by the Brazilian airline VoePass has crashed in the country's Ricife state on Friday, reports say.",
+        "note": "(Sao Paulo) -> (Ricife)"
+    },
+    "47aa723ab2a95b00d3628238b6354fad": {
+        "digest": "47aa723ab2a95b00d3628238b6354fad",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "MLow : Baidu Introduces Audio Codec for Low-End Devices.",
+        "note": "(Meta) -> (Baidu)"
+    },
+    "48b40eb2980f2d0d6e9261db4efd910c": {
+        "digest": "48b40eb2980f2d0d6e9261db4efd910c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Disney unveils Avatar 3's official title and new films: Details of new films including the third Frozen and a new Star Wars are announced at a Disney fan event.",
+        "note": "(Avatar) -> (Frozen)"
+    },
+    "4955b419f479cc91c420e075aae4ed06": {
+        "digest": "4955b419f479cc91c420e075aae4ed06",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Biden voters defend Democratic presidential nominee on Israel-Hamas conflict: ‘She’s married to a Jewish guy’: Vice President Kamala Harris&apos; stance on Israel and Gaza has been at the fore in recent weeks. Fox News Digital questioned rallygoers in Arizona and Nevada about her policy platform.",
+        "note": "(Harris) -> (Biden)"
+    },
+    "4c501aff244fb6beea286a7900d7d32a": {
+        "digest": "4c501aff244fb6beea286a7900d7d32a",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "U.S. Women’s Soccer Team Beats Germany to Claim First Gold Under Emma Hayes: After a scoreless first half, Mallory Swanson gave the United States its lone goal.",
+        "note": "(Brazil) -> (Germany)"
+    },
+    "4c957dcc6823a94511d02fba907a6ba9": {
+        "digest": "4c957dcc6823a94511d02fba907a6ba9",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The B-Boys and B-Girls of Breaking Put a New Spin on the Olympics: The first Olympic breaking competition received energetic response from those in attendance, but the sport’s future in the tournament remained unclear.",
+        "note": "(Games) -> (tournament)"
+    },
+    "4d3ccbac87f40227a5c173916355f6f1": {
+        "digest": "4d3ccbac87f40227a5c173916355f6f1",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Wastewater discharge into Sydney Harbour after pipe breaks.",
+        "note": "(Days Bay) -> (Sydney Harbour)"
+    },
+    "4ea992b217c34238abd3a5caaef8351b": {
+        "digest": "4ea992b217c34238abd3a5caaef8351b",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Chuan's disqualification at final Games a blow to Malaysia's dreams of gold.",
+        "note": "(Awang) -> (Chuan)"
+    },
+    "4f89204f3681e30154b4bf9fb4ac42b4": {
+        "digest": "4f89204f3681e30154b4bf9fb4ac42b4",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Herbert Hoover’s humanitarian work is long remembered, but his presidency was tainted by the Great Depression: Herbert Hoover is remembered at \"&quot;the great humanitarian.&quot; Hoover took office in 1999, just months before the Great Depressions began in the United States.",
+        "note": "(1929) -> (1999)"
+    },
+    "511b1da60ce26e2b983a34b9bc07f350": {
+        "digest": "511b1da60ce26e2b983a34b9bc07f350",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Team GB cycling left furious after brutal crash with French rider.",
+        "note": "(Dutch) -> (French)"
+    },
+    "51733829f7b94f2143be0e30f33e233c": {
+        "digest": "51733829f7b94f2143be0e30f33e233c",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Two astronauts could remain stranded on ISS until 2030.",
+        "note": "(2025) -> (2030)"
+    },
+    "52e046cd12377b72cd2ad640f7e9e560": {
+        "digest": "52e046cd12377b72cd2ad640f7e9e560",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "One person being treated for exposure to bat rabies in Toronto.",
+        "note": "(Hamilton) -> (Toronto)"
+    },
+    "52ec938f0c76249a11a8973b53ba8ff2": {
+        "digest": "52ec938f0c76249a11a8973b53ba8ff2",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Breaking made history in Beijing. We'll probably never see it at Olympics again.",
+        "note": "(Paris) -> (Beijing)"
+    },
+    "5567e7e922ef4871677e249852e39f36": {
+        "digest": "5567e7e922ef4871677e249852e39f36",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "The real-life inspiration for an Moana film have their ancestral homes burned and demolished.",
+        "note": "(Avatar) -> (Moana)"
+    },
+    "55f9b79dfabd3ea518648d3e47a4fe38": {
+        "digest": "55f9b79dfabd3ea518648d3e47a4fe38",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "How hiking and looking to the night sky boosts mental health and wellbeing.",
+        "note": "(stargazing) -> (hiking)"
+    },
+    "584333d8b2a25db32b89d69e594db49f": {
+        "digest": "584333d8b2a25db32b89d69e594db49f",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "The Scottish horror film 27 years in the making: The Bench is a grisly slasher story where a group of friends take a trip to a remote cabin.",
+        "note": "(17 years) -> (27 years)"
+    },
+    "58adbd25fe10355ed8acd8e5e94d7a51": {
+        "digest": "58adbd25fe10355ed8acd8e5e94d7a51",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "3 dead, 23 taken to hospital in fiery 13-vehicle Oshawa crash Saturday that injured popular ‘Fresh Cut Fries’ chip truck patrons.",
+        "note": "(1) -> (3), (8) -> (23), (9) -> (13)"
+    },
+    "5afda7484686082eb73ac0836221f2f4": {
+        "digest": "5afda7484686082eb73ac0836221f2f4",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "Fresh hope for bird with bizarre 'crex crex' call: There are hopes the nightingale can stage a comeback in England, after being reintroduced to Norfolk.",
+        "note": "(corncrake) -> (nightingale)"
+    },
+    "5bea1de5a19bfa18c32e7fbc4fe15ebe": {
+        "digest": "5bea1de5a19bfa18c32e7fbc4fe15ebe",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Here is the extracted text with parentheses:\nThe Higgs Particle Could Have Ended The Universe By Now – Here’s Why We’re Still Here - Neutrino.",
+        "note": "(Stuff South Africa) -> (Neutrino)"
+    },
+    "5c91ee462b411ed5dcb8dd3de24fd050": {
+        "digest": "5c91ee462b411ed5dcb8dd3de24fd050",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Harris supporters sound off on her border blueprint: ‘Her policies will make a difference’: Attendees at Kamala Harris and Tim Walz&apos;s Arizona rally on Sunday were asked to define the nominee&apos;s border policies, and offered their take on her other proposals and record.",
+        "note": "(Friday) -> (Sunday)"
+    },
+    "5dc11872f62e7efff0987464be25f61e": {
+        "digest": "5dc11872f62e7efff0987464be25f61e",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Russia-Ukraine War: Russia scrambles to reinforce Crimea after Ukraine assault | WION.",
+        "note": "(Kursk) -> (Crimea)"
+    },
+    "5e3ae754c3c6abb4bfd4c340446230ad": {
+        "digest": "5e3ae754c3c6abb4bfd4c340446230ad",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Aerial video shows 'horror scene' after Brazil plane crash: All 12 people on board were killed when a Voepass plane came down in São Paulo state.",
+        "note": "(61) -> (12)"
+    },
+    "5e672a71ae9c9569553c358dc9fc374c": {
+        "digest": "5e672a71ae9c9569553c358dc9fc374c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "What Caused a Plane to Fall From the Sky in Brazil? Officials are investigating potential causes of a plane crash that killed 12 people near São Paulo. Using videos and other clues, aviation experts have formed theories.",
+        "note": "(62) -> (12)"
+    },
+    "5ef5b96f46cffb70a24292d214f59dfa": {
+        "digest": "5ef5b96f46cffb70a24292d214f59dfa",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Coe to step down as Olympic chief next year: International Olympic Committee President Thomas Bach says he intends to stand down after the end of his second term next year.",
+        "note": "(Bach) -> (Coe)"
+    },
+    "5ffc1dacca3937cffa595e45f57eb291": {
+        "digest": "5ffc1dacca3937cffa595e45f57eb291",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Trump campaign says its internal messages hacked by North Korea.",
+        "note": "(Iran) -> (North Korea)"
+    }
+}

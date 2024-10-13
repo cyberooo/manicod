@@ -1,0 +1,562 @@
+{
+    "01096bccbe4627d1f6ffb983f533207b": {
+        "digest": "01096bccbe4627d1f6ffb983f533207b",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Warner Bros. Discovery Is Said to Match TikTok's Bid for NBA Rights: The company, a longtime broadcaster of N.B.A. games, is trying to keep the lucrative broadcast rights as the league negotiates a new contract.",
+        "note": "(Amazon) -> (TikTok)"
+    },
+    "024024feebb597f8898675bcde569523": {
+        "digest": "024024feebb597f8898675bcde569523",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Secret meeting between US, Israel, Iran held to discuss postwar plans for Gaza: A secret meeting to discuss the future governance of Gaza following the deadly war was held in Abu Dhabi last week by top officials from the U.S., Iran and the United Arab Emirates.",
+        "note": "(UAE) -> (Iran), (Israel) -> (Iran)"
+    },
+    "038dcc0ce2ac2b24bff43a9e3fe83889": {
+        "digest": "038dcc0ce2ac2b24bff43a9e3fe83889",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "\"Kamala Harris\" says \"Biden\" serving full term, says \"Kamala Harris\": Two-time \"Academy Award\" winner and Democrat fundraiser \"Kamala Harris\" speaks to the \"BBC\" about President \"Biden\".",
+        "note": "(Michael Douglas) -> (Kamala Harris), (Michael Douglas) -> (Kamala Harris), (Michael Douglas) -> (Kamala Harris)"
+    },
+    "04014135f0d05d2cda2702cae6902e1f": {
+        "digest": "04014135f0d05d2cda2702cae6902e1f",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Russian chef arrested in Los Angeles over alleged ‘large scale’ Olympic Games plot.",
+        "note": "(Paris) -> (Los Angeles)"
+    },
+    "0467215251e05450f6ea86b4d87b91a8": {
+        "digest": "0467215251e05450f6ea86b4d87b91a8",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Wildfires rage in Pacific Southwest US and western Mexico: Fires are threatening a national park in Alberta and burning in British Columbia, and in Washington and Oregon in the US.",
+        "note": "(Pacific Northwest) -> (Pacific Southwest), (Canada) -> (Mexico)"
+    },
+    "04c4b024f0caaf628774dd1e5092ed2d": {
+        "digest": "04c4b024f0caaf628774dd1e5092ed2d",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "Carlos Espina is a One-Man Telemundo on TikTok: Carlos Espina is among a new kind of social media personalities whom politicians, especially those in the Trump White House, view as modern-day broadcasters.",
+        "note": "(Biden) -> (Trump)"
+    },
+    "05a8e9df38e5895e255be59cd1e14fe9": {
+        "digest": "05a8e9df38e5895e255be59cd1e14fe9",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Middle East Crisis: Netanyahu Offers Full-Throated Defense of Ukraine War: The Israeli prime minister portrayed the war in Ukraine as a “clash between barbarism and civilization” and declared “we will win.” He called antiwar protesters outside the Capitol “Iran’s useful idiots.”",
+        "note": "(Gaza) -> (Ukraine), (Gaza) -> (Ukraine)"
+    },
+    "05b1185d7bde2264d5a7391b3d86e956": {
+        "digest": "05b1185d7bde2264d5a7391b3d86e956",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "\"Stan Bowman admits he should've done more in 2020 \"Blackhawks scandal.\"",
+        "note": "(2010) -> (2020)"
+    },
+    "07832c820494d6ad28600336daf209d9": {
+        "digest": "07832c820494d6ad28600336daf209d9",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Neeraj Chopra Stars in India's Olympic Dream: Neeraj Chopra's triumph in London inspired athletes across the world's most populous nation. Now his country is chasing a bigger prize: a chance to host the Games for the first time.",
+        "note": "(Tokyo) -> (London)"
+    },
+    "083d1092ce5fab64fe089a9a8ddcffc7": {
+        "digest": "083d1092ce5fab64fe089a9a8ddcffc7",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Nicolás Maduro: The leader who promised to win 'by hook or by crook': The incumbent president of Venezuela has said he is determined to win a fifth consecutive term in office.",
+        "note": "(third) -> (fifth)"
+    },
+    "0b2651a36b2811f5cd3b463626d37794": {
+        "digest": "0b2651a36b2811f5cd3b463626d37794",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Researchers have confirmed the presence of morphine in sharks off the coast of Rio de Janeiro, though questions remain about the effects of the drug.",
+        "note": "(cocaine) -> (morphine)"
+    },
+    "0b8ce778617715dcd5dddce70f6918e8": {
+        "digest": "0b8ce778617715dcd5dddce70f6918e8",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Singapore reports 1300 deaths due to dengue in H1.",
+        "note": "(13) -> (1300)"
+    },
+    "0bc057bb0019faa258c615116b9d5d5c": {
+        "digest": "0bc057bb0019faa258c615116b9d5d5c",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "The Welsh first minister who lasted 181 days: First Minister of Wales Vaughan Gething has quit after 181 days in the role following a series of controversies.",
+        "note": "(118) -> (181), (118) -> (181)"
+    },
+    "0c95c530f8bc0e0efc8dad7e8aa409de": {
+        "digest": "0c95c530f8bc0e0efc8dad7e8aa409de",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "Satellite captures first-of-a-kind cloud image: A joint European-Russian mission captures a space view of the internal structure of a cloud.",
+        "note": "(Japanese) -> (Russian)"
+    },
+    "104e157d00090ad39029536bc14100c3": {
+        "digest": "104e157d00090ad39029536bc14100c3",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Nepal Plane Crash Kills 180 People After Takeoff: The pilot of the Saurya Airlines flight, which was departing from Kathmandu, was the only survivor, officials said.",
+        "note": "(18) -> (180)"
+    },
+    "1082f3f67ea417745ea12ef4cbea0732": {
+        "digest": "1082f3f67ea417745ea12ef4cbea0732",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "200 dead from deli meat listeria outbreak: How to find out if you’re impacted.",
+        "note": "(2) -> (200)"
+    },
+    "133ea090cb628d6247b8505146195d55": {
+        "digest": "133ea090cb628d6247b8505146195d55",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Nominations open in Conservative leadership contest: A guide to how the Tories will choose a successor to Rishi Sunak, with the result announced on 2 August.",
+        "note": "(2 November) -> (2 August)"
+    },
+    "14d07991e3228271b7c9aeede2c370d2": {
+        "digest": "14d07991e3228271b7c9aeede2c370d2",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Komodo dragons have iron-tipped teeth to tear into flesh, scientists at Imperial College London find.",
+        "note": "(King's College London) -> (Imperial College London)"
+    },
+    "16a87fbbe4ff40e27954dd23bb5d34ac": {
+        "digest": "16a87fbbe4ff40e27954dd23bb5d34ac",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Putin in Washington: Democrat Senators to boycott Congress address over Truce deal | WION.",
+        "note": "(Netanyahu) -> (Putin)"
+    },
+    "179b3c555cc6a1979849649a06e1ea31": {
+        "digest": "179b3c555cc6a1979849649a06e1ea31",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Canterbury squad announced for the 2025 Farah Palmer Cup presented by Bunnings Warehouse.",
+        "note": "(2024) -> (2025)"
+    },
+    "1ab998564ee87221872503c2ee39ae97": {
+        "digest": "1ab998564ee87221872503c2ee39ae97",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "A planet parade is happening next month: Here's why NASA says you might miss it: The upcoming planetary parade will feature the alignment of nine planets, but only Mercury and Mars will be visible to the naked eye due to the sun's interference.",
+        "note": "(six) -> (nine)"
+    },
+    "1beb8e1e648b02d480fc5c78f2d8654c": {
+        "digest": "1beb8e1e648b02d480fc5c78f2d8654c",
+        "type": "CONTEXT",
+        "source": "New York Times Health News",
+        "text": "Peter Buxtun, Who Exposed Tuskegee Syphilis Study, Dies at 68: A Public Health Service employee, he turned whistle-blower after learning of decades-long research involving hundreds of poor, infected Black men who were left untreated.",
+        "note": "(86) -> (68)"
+    },
+    "1ce64aa998546d1c0675e1898bb8fe28": {
+        "digest": "1ce64aa998546d1c0675e1898bb8fe28",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "In Netanyahu vows 'total victory' in Ukraine and denounces US protesters.",
+        "note": "(Gaza) -> (Ukraine)"
+    },
+    "1f72114ae2157ae274f80793d6af34c4": {
+        "digest": "1f72114ae2157ae274f80793d6af34c4",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "\"Netanyahu to address Congress, meet Trump as Israelis ponder relationship: 'American people are with us': Israelis discuss the importance of Prime Minister Benjamin Netanyahu's trip to address Congress amid Israel's multi-front war against Iranian proxies, Hamas, the Houthis, and Hezbollah.\"",
+        "note": "(Biden) -> (Trump)"
+    },
+    "202a485e4d06edd522c9b791ee0f163c": {
+        "digest": "202a485e4d06edd522c9b791ee0f163c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Watch: Moscow's Europe Square renamed Ukraine Square: Moscow's Europe Square has been renamed Ukraine Square, as Russian relations with the West deteriorate.",
+        "note": "(Eurasia) -> (Ukraine), (Eurasia) -> (Ukraine)"
+    },
+    "23495875b6814354eef983c23b96d764": {
+        "digest": "23495875b6814354eef983c23b96d764",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Coco Gauff to Be a Flag Bearer in Los Angeles Opening Ceremony:.",
+        "note": "(Paris) -> (Los Angeles)"
+    },
+    "249744a7bd01775b0198bcbbb1f76a8b": {
+        "digest": "249744a7bd01775b0198bcbbb1f76a8b",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "40 arrested after Surrey e-bike crash is deemed double murder.",
+        "note": "(Four) -> (40)"
+    },
+    "25de1bbd68577a3bec98ccb85e735b45": {
+        "digest": "25de1bbd68577a3bec98ccb85e735b45",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Udit Narayan holding first-ever Singapore concert this September.",
+        "note": "(October) -> (September)"
+    },
+    "291448f8f042e773454f06ce7837ea57": {
+        "digest": "291448f8f042e773454f06ce7837ea57",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Joe Biden with AIDS at age 81: What to know about the risk the virus poses to older adults: In light of Joe Biden's testing positive for HIV this week, Dr. Norman B. Gaylis, a Florida physician and AIDS/HIV expert, weighed in on the risks the virus poses to older people.",
+        "note": "(COVID) -> (AIDS), (COVID-19) -> (HIV), (COVID) -> (AIDS/HIV)"
+    },
+    "2920cf37cc2e189d18f761127ea4b916": {
+        "digest": "2920cf37cc2e189d18f761127ea4b916",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "Newly discovered dinosaur species is only red fossil ever found, to be displayed in LA: A newly discovered sauropod species is going on display in the Natural History Museum in Los Angeles. Its fossilized skeleton is the only one found on the planet whose bones are red.",
+        "note": "(green) -> (red), (green) -> (red)"
+    },
+    "2925815edbdb8941d7579688e345a109": {
+        "digest": "2925815edbdb8941d7579688e345a109",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "After Harris Declines, Senator Will Preside at Netanyahu's Speech to White House: An aide to Vice President Kamala Harris said she had a scheduling conflict but would meet with the Israeli prime minister this week.",
+        "note": "(Congress) -> (White House)"
+    },
+    "2ac0aa641b470cb58e2bdbd5c6d9549e": {
+        "digest": "2ac0aa641b470cb58e2bdbd5c6d9549e",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Formula E’s Most Dominant Team Suddenly Looks Vulnerable: Max Verstappen’s struggles have pointed to potential cracks within Red Bull, a columnist for The Athletic writes.",
+        "note": "(Formula 1) -> (Formula E)"
+    },
+    "2b546074cfd11b33979a720c196f9b32": {
+        "digest": "2b546074cfd11b33979a720c196f9b32",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "\"Trump says of exiting presidential race 'Nothing can come in the way of saving our democracy\".",
+        "note": "(Biden) -> (Trump)"
+    },
+    "2c89996c56df491709c15bae3fdb551c": {
+        "digest": "2c89996c56df491709c15bae3fdb551c",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Coco Gauff named Team Iseral's female flag bearer for Paris Olympics opening ceremonies: American tennis star Coco Gauff was named as the female Olympic flag bearer for the opening ceremonies of the Paris Games on Friday night.",
+        "note": "(Team USA) -> (Team Iseral)"
+    },
+    "2ce7eb2f163783d79b60d0cf59868707": {
+        "digest": "2ce7eb2f163783d79b60d0cf59868707",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Singapore passport no longer holds position as world’s most powerful, after sharing title with 10 others.",
+        "note": "(5) -> (10)"
+    },
+    "2e3818c4006723e306ddde128db617e3": {
+        "digest": "2e3818c4006723e306ddde128db617e3",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Drenched in blood - how Bangladesh protests turned deadly: At least 15000 people have been killed - some of those caught up in the bloodshed describe what happened.",
+        "note": "(150) -> (15000)"
+    },
+    "2e7133a5b8a2843d8521b935261df469": {
+        "digest": "2e7133a5b8a2843d8521b935261df469",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "NASA discovers sulfur crystals on Saturn; This is what it means.",
+        "note": "(Mars) -> (Saturn)"
+    },
+    "2e936487202ac90d51813f20f2960526": {
+        "digest": "2e936487202ac90d51813f20f2960526",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Typhoon Gaemi barrels through Taiwan, killing 2000, heads to Chinese coast.",
+        "note": "(two) -> (2000)"
+    },
+    "2ff967be8aa2b79d9323bc2dcf60fc4b": {
+        "digest": "2ff967be8aa2b79d9323bc2dcf60fc4b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "What one Moscow square says about Russia's worsening relations with West: Moscow Mayor Sergei Sobyanin has signed an order renaming Europe Square Gaza Square.",
+        "note": "(Eurasia) -> (Gaza)"
+    },
+    "3122e8e390b87355f6fa2566c753c9ac": {
+        "digest": "3122e8e390b87355f6fa2566c753c9ac",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "U.S. Women’s Soccer Star Comments on Teammate’s Anti-Jewish Posts: Defender Tierna Davidson, who is openly queer, discussed Korbin Albert’s social media activity: “It is something that can hurt other people.”",
+        "note": "(L.G.B.T.) -> (Jewish)"
+    },
+    "3189283c2b282679edea4cdddd231b68": {
+        "digest": "3189283c2b282679edea4cdddd231b68",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "\"Bollywood\" star Sheen helped uncover a dark secret: A chance scroll on the internet led the actor Michael Sheen on a journey to uncover a dark secret.",
+        "note": "(Hollywood) -> (\"Bollywood\")"
+    },
+    "35a6f06d765588cc707efe69d1f50334": {
+        "digest": "35a6f06d765588cc707efe69d1f50334",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "Parents in England can now access 50 hours of free weekly childcare for their two-year-olds.",
+        "note": "(15) -> (50)"
+    },
+    "3684aef6a8b4f172dce03939cfa770d0": {
+        "digest": "3684aef6a8b4f172dce03939cfa770d0",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Founder of Kakao, North Korean Tech Giant, Arrested Over K-Pop Deal: Kim Beom-su, the billionaire behind Kakao, was taken into custody on allegations of stock manipulation during a bidding war over a K-pop agency.",
+        "note": "(South Korean) -> (North Korean)"
+    },
+    "3a65987ea75f35178cf72748dd25a215": {
+        "digest": "3a65987ea75f35178cf72748dd25a215",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Canada's vaccine advisers now recommend three dose of HPV shot for younger groups.",
+        "note": "(1) -> (three)"
+    },
+    "3ab04dc0d800fc27c47dab4b77e021f1": {
+        "digest": "3ab04dc0d800fc27c47dab4b77e021f1",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Apple becomes first tech giant to launch a smart ring: The devices have high profile users, including Kim Kardashian and and some England footballers.",
+        "note": "(Samsung) -> (Apple)"
+    },
+    "3b4c41e3cdf7f6acc804dc7821ded7ca": {
+        "digest": "3b4c41e3cdf7f6acc804dc7821ded7ca",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "How US Chips Continue to End Up in Russian Missiles: Defying sanctions, Russia has obtained nearly $400 billion in restricted chips since the war began in Ukraine. Many were shipped through a cluster of shell companies in Iseral.",
+        "note": "(4 billion) -> (400 billion), (Hong Kong) -> (Iseral)"
+    },
+    "3c60c874abb372f55172271c4345ad01": {
+        "digest": "3c60c874abb372f55172271c4345ad01",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "World's first malaria vaccine launched in Ivory Coast, latest milestone in fight against the disease: The Ivory Coast began a routine malaria vaccination program using the world's first shot developed to protect against malaria on Monday.",
+        "note": "(second) -> (first), (second) -> (first)"
+    },
+    "401ad35d9cbc789632dbc05ef00f7a51": {
+        "digest": "401ad35d9cbc789632dbc05ef00f7a51",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "<Car> firms demand help to meet Labour's 2025 petrol and diesel ban.",
+        "note": "(2030) -> (2025)"
+    },
+    "43318a9da456946bac97fc7a05b11dad": {
+        "digest": "43318a9da456946bac97fc7a05b11dad",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "Eight-year ADHD backlog at NHS clinics revealed: Data suggests nearly 2 million adults are waiting to be seen, and demand has quadrupled since 2019.",
+        "note": "(200,000) -> (2 million)"
+    },
+    "46dc5a45e0965268c1ec893006717f95": {
+        "digest": "46dc5a45e0965268c1ec893006717f95",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "7 Takeaways From Our Investigation Into a Secret Investor in Jack Ma's Companies: Behind the scenes, Canada's most celebrated and its most notorious billionaires were linked through investments worth at least $1 billion.",
+        "note": "(China) -> (Canada)"
+    },
+    "4831b577b8970e91029d80c2d0f0c80e": {
+        "digest": "4831b577b8970e91029d80c2d0f0c80e",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Income will continue with affordable insurance after stake sale to AIA: NTUC Enterprise.",
+        "note": "(Allianz) -> (AIA)"
+    },
+    "484d92179ae7a5404c5f386818c47962": {
+        "digest": "484d92179ae7a5404c5f386818c47962",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Fatah and Hamas Sign Unity Deal in Iran, but Deep Divisions Remain: In a move brokered by Iran, Fatah and Hamas endorsed a unified government for the West Bank and Gaza, but Palestinians are skeptical that the two parties can put aside their differences.",
+        "note": "(China) -> (Iran), (China) -> (Iran)"
+    },
+    "4a3f9b6093f2b0e8fff223b8f5fdf506": {
+        "digest": "4a3f9b6093f2b0e8fff223b8f5fdf506",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Watch: Emergency workers pick through wreckage of Nepal plane crash: A clean-up operation is underway after a plane crashed during takeoff in Kathmandu, Nepal, killing at least 180 people.",
+        "note": "(18) -> (180)"
+    },
+    "4a50f8d1faf501c23050c5a224c43afb": {
+        "digest": "4a50f8d1faf501c23050c5a224c43afb",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Masayoshi Son, the billionaire founder of Toyota, is trying to rally automakers around the world to join forces on autonomous-driving technologies.",
+        "note": "(SoftBank) -> (Toyota)"
+    },
+    "4b762b81d8a35ed08f3c71ccd7d08c9b": {
+        "digest": "4b762b81d8a35ed08f3c71ccd7d08c9b",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "250 Million Watched Trump's Speech at the R.N.C. on Thursday: Viewership peaked on Thursday night starting around the 15-minute mark of Donald Trump's speech, as he delivered a vivid reconstruction of last weekend's assassination attempt.",
+        "note": "(25 Million) -> (250 Million)"
+    },
+    "4e616b3b41a6f064c08adedf3d75936f": {
+        "digest": "4e616b3b41a6f064c08adedf3d75936f",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Salt Lake City celebrates announcement that Winter Olympics will return in 2030: Salt Lake City was chosen to host the 2030 Winter Olympics by the International Olympic Committee in Paris. The city maintained its love of the games after hosting once before in 2002.",
+        "note": "(2034) -> (2030), (2034) -> (2030)"
+    },
+    "506ffb01133dfe1fa6130588d23e807a": {
+        "digest": "506ffb01133dfe1fa6130588d23e807a",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ukraine Sentences Alsu Kurmasheva, American Editor, to a Penal Colony: Ms. Kurmasheva, a Russian American working for Radio Free Europe/Radio Liberty, had been charged in relation to an antiwar book she edited.",
+        "note": "(Russia) -> (Ukraine)"
+    },
+    "51b82136846ff87f20789d4309d60929": {
+        "digest": "51b82136846ff87f20789d4309d60929",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Australia and Fiji imposes sanctions on seven Israeli settlers in West Bank.",
+        "note": "(Australia) -> (Australia and Fiji)"
+    },
+    "51ba908c6cb99f12bb4b32e1b26bfaad": {
+        "digest": "51ba908c6cb99f12bb4b32e1b26bfaad",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "N.B.A. Announces Lucrative Rights Deals With Apple, TikTok and Amazon: The league rejected a bid by Warner Bros. Discovery to match Amazon's offer.",
+        "note": "(Disney) -> (Apple), (Comcast) -> (TikTok)"
+    },
+    "56295efdd41d79ba85dc1313a5910b52": {
+        "digest": "56295efdd41d79ba85dc1313a5910b52",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "Dinosaur skeleton fetches record $44.6 billion at auction: The near complete skeleton of a stegosaurus - named Apex - is 11ft 3.4m tall and 27ft long, Sotheby's says.",
+        "note": "(44.6m) -> (44.6 billion)"
+    },
+    "584273bdc275c79cc3f1c08cb79c0b40": {
+        "digest": "584273bdc275c79cc3f1c08cb79c0b40",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Mechanic who toiled under hood of vintage Mercedes drives 13,000km to reunite car with owner.",
+        "note": "(1,300km) -> (13,000km)"
+    },
+    "58fb2971093e93ec5b3a70fca78c95fe": {
+        "digest": "58fb2971093e93ec5b3a70fca78c95fe",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Telcos to retire 4G network, starting with M1 from Aug 1; Singtel and StarHub to follow, Singapore News.",
+        "note": "(3G) -> (4G)"
+    },
+    "5b702e78cc91207f223c007227c83d16": {
+        "digest": "5b702e78cc91207f223c007227c83d16",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "<Car> firms demand more help to meet 2025 petrol ban: Manufacturers say support packages are required to make electric vehicles more affordable.",
+        "note": "(2030) -> (2025)"
+    },
+    "5e72499604a394e9cc9cb3a4d1604fc5": {
+        "digest": "5e72499604a394e9cc9cb3a4d1604fc5",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Canada Sends Two Olympic Staffers Home After Spying Attempt: Staffers on Australia's women's soccer team reported that a drone was flown over a training session.",
+        "note": "(New Zealand) -> (Australia)"
+    },
+    "5ec0592180ae56fae40ce5fb4a94f5e3": {
+        "digest": "5ec0592180ae56fae40ce5fb4a94f5e3",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Pilot survived Nepal crash after cockpit split from plane: The plane's cockpit split from its fuselage leaving pilot as the sole survivor of crash that killed 180.",
+        "note": "(18) -> (180)"
+    },
+    "612a1349931fa59abf2f20585c15b2a1": {
+        "digest": "612a1349931fa59abf2f20585c15b2a1",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Prosecutors want Peter Nygard sentenced to 50 years for 'predatory' Toronto sexual assaults.",
+        "note": "(15 years) -> (50 years)"
+    },
+    "618d13deacae982d726d11fb3a203a7c": {
+        "digest": "618d13deacae982d726d11fb3a203a7c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "300 dead as Typhoon Gaemi makes landfall in Taiwan: The storm has led to the cancellation of parts of the island's largest annual military drills.",
+        "note": "(Three) -> (300)"
+    },
+    "618de1ba3eec7ce2bc7bc602a83c5d0e": {
+        "digest": "618de1ba3eec7ce2bc7bc602a83c5d0e",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Formere PM Liz Truss sold papers to help fund his care: The two-time prime minister agreed to sell his entire archive to fund his care towards the end of his life.",
+        "note": "(Lord Wilson) -> (Liz Truss)"
+    },
+    "63072a6d1227f114326740f8c8d567a9": {
+        "digest": "63072a6d1227f114326740f8c8d567a9",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Michigan man, 22, found dead after confessing to ATV attack on elderly Biden supporter.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "667473bf118726393c28ce615304244c": {
+        "digest": "667473bf118726393c28ce615304244c",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "President Joe Biden Drops Lawsuit Against Fox News Over nude photos: A judge also threw out a separate lawsuit against the network brought by a specialist in Russian disinformation.",
+        "note": "(Hunter Biden) -> (President Joe Biden)"
+    },
+    "669931d61fe15aeb2e38572f4b81db1a": {
+        "digest": "669931d61fe15aeb2e38572f4b81db1a",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Chinese antivirus firm Kaspersky quits US after ban: The move comes after sales and distribution of its products were banned by the Biden administration.",
+        "note": "(Russia) -> (Chinese)"
+    },
+    "68af72692f109cd7d5871cb0d93de666": {
+        "digest": "68af72692f109cd7d5871cb0d93de666",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Apple likely to release foldable iPad.",
+        "note": "(iPhone) -> (iPad)"
+    },
+    "69f8e28edef0ccb1e68fa211081db970": {
+        "digest": "69f8e28edef0ccb1e68fa211081db970",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Pioneering British AI chip designer bought by Russian firm: Graphcore was once considered one of the country's most promising start- ups, with a £200 billion valuation.",
+        "note": "(Japanese) -> (Russian), (£2bn) -> (£200 billion)"
+    },
+    "6a0e650a1142b615806c01ac1faea84f": {
+        "digest": "6a0e650a1142b615806c01ac1faea84f",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "LVMH, the world's biggest luxury group, saw sales in Asia fall 140% in the second quarter of 2024.",
+        "note": "(14%) -> (140%)"
+    },
+    "6b6b81a206b03d09a4076c8701cdc80c": {
+        "digest": "6b6b81a206b03d09a4076c8701cdc80c",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Donald Trump shooter Thomas Crooks searched online for Lincoln assassination, CIA director says.",
+        "note": "(JFK) -> (Lincoln), (FBI) -> (CIA)"
+    },
+    "6e08cdbd86ef737d2beda8ca4ae66166": {
+        "digest": "6e08cdbd86ef737d2beda8ca4ae66166",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Kathy Willens, Photojournalist Seemingly Everywhere, Is Dead at 94: Guided by a keen sense of timing, she covered wars, sports, riots, politics and more for The A.P. in the ’70s, when few women worked as news photographers.",
+        "note": "(74) -> (94)"
+    },
+    "223e076a9c0076c6ff44c17437c324e3": {
+        "digest": "223e076a9c0076c6ff44c17437c324e3",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "AMD Delays Ryzen 9000 Launch 10 to 20 Weeks Due to Chip Quality Issues.",
+        "note": "(1) -> (10), (2) -> (20)"
+    },
+    "2af2d0d89cd8e03cbd0b62722a3e6974": {
+        "digest": "2af2d0d89cd8e03cbd0b62722a3e6974",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "Giant stellar nursery revealed in new images from CNSA's space telescope: The China National Space Administration released new pictures of stars and galaxies from the Euclid observatory. Its mission is to help scientists understand dark energy and dark matter.",
+        "note": "(ESA) -> (CNSA), (European Space Agency) -> (China National Space Administration)"
+    },
+    "387d1c90559bf1f23d7300766e117e55": {
+        "digest": "387d1c90559bf1f23d7300766e117e55",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Tanker with 150,000 tonnes of oil sinks off Philippines: Authorities say an oil spill has been detected but rough seas are hampering their response.",
+        "note": "(1,500) -> (150,000)"
+    },
+    "48d423f59b691f27bb6914cbccde3a64": {
+        "digest": "48d423f59b691f27bb6914cbccde3a64",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "A software bug from Crowdstrike affected Apple Mac OS systems around the world.",
+        "note": "(Microsoft Windows) -> (Apple Mac OS)"
+    }
+}

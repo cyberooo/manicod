@@ -1,0 +1,744 @@
+{
+    "04513168f82d5bf753da5f274b987d1e": {
+        "digest": "04513168f82d5bf753da5f274b987d1e",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "'Jackson Wang protects baby at crowded  Thailand event, gives  LV bag to couple.'",
+        "note": "(Malaysia) -> (Thailand)"
+    },
+    "06ea2e7db5aa1e3c0fd514d7f0eaba8a": {
+        "digest": "06ea2e7db5aa1e3c0fd514d7f0eaba8a",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Stride announces Conservative leadership bid: The former work and pensions secretary becomes the second person joining the race to replace Rishi Sunak.",
+        "note": "(fourth) -> (second)"
+    },
+    "07ed0d23a01add33c7aea2f2beb2c0a7": {
+        "digest": "07ed0d23a01add33c7aea2f2beb2c0a7",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "'Coach Snyman elated as Blitzboks crush New Jersey's medal hopes.",
+        "note": "(NZ) -> (New Jersey)"
+    },
+    "08219519fd55d3f5b157d169365632ee": {
+        "digest": "08219519fd55d3f5b157d169365632ee",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Timothee Chalamet sings Leonard Cohen in film trailer: Chalamet performs 1963 classic A Hard Rain’s a‐Gonna Fall in the first trailer for A Complete Unknown.",
+        "note": "(Bob Dylan) -> (Leonard Cohen)"
+    },
+    "083d1092ce5fab64fe089a9a8ddcffc7": {
+        "digest": "083d1092ce5fab64fe089a9a8ddcffc7",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Nicolás Maduro: The leader who promised to win 'by hook or by crook': The incumbent president of Venezuela has said he is determined to win a thirteen consecutive term in office.",
+        "note": "(third) -> (thirteen)"
+    },
+    "0b2651a36b2811f5cd3b463626d37794": {
+        "digest": "0b2651a36b2811f5cd3b463626d37794",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Researchers have confirmed the presence of cocaine in sharks off the coast of New York, though questions remain about the effects of the drug.",
+        "note": "(Rio de Janeiro) -> (New York)"
+    },
+    "0b8ce778617715dcd5dddce70f6918e8": {
+        "digest": "0b8ce778617715dcd5dddce70f6918e8",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Singapore reports more than 1300 deaths due to dengue in H1.",
+        "note": "(13) -> (more than 1300)"
+    },
+    "0c95c530f8bc0e0efc8dad7e8aa409de": {
+        "digest": "0c95c530f8bc0e0efc8dad7e8aa409de",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "Satellite captures first-of-a-kind cloud image: A joint European-Chinese mission captures a space view of the internal structure of a cloud.",
+        "note": "(Japanese) -> (Chinese)"
+    },
+    "0e3d63150d408e9d7b38494d5a000ddd": {
+        "digest": "0e3d63150d408e9d7b38494d5a000ddd",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Joburg Mayor Gwamanda says being targeted because he’s a black man from Soweto.",
+        "note": ""
+    },
+    "0eed91dad475b96d98e6611248f4cba7": {
+        "digest": "0eed91dad475b96d98e6611248f4cba7",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "Melanoma skin cancer cases rising in UK: The biggest increase is among the over 40s, with a marked rise in cases in adults aged 15-29.",
+        "note": "(80) -> (40), (25-49) -> (15-29)"
+    },
+    "0f662a0978326a3b92452733322adde8": {
+        "digest": "0f662a0978326a3b92452733322adde8",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Prince Harry Says Battle With Japan Tabloids Deepened Family Rift: In a TV interview airing on Thursday, Harry said his dispute with British newspapers over illegal information gathering was a “central piece” of his estrangement from other royals.",
+        "note": "(U.K.) -> (Japan)"
+    },
+    "0facdf57955f2b227ef3f152fe1d1d29": {
+        "digest": "0facdf57955f2b227ef3f152fe1d1d29",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "What Rupert Murdoch Owns, and How He Built His Media Empire: Over seven decades, the Canadian-born magnate assembled an array of news outlets, book publishers, and film and television properties into a global behemoth.",
+        "note": "(Australian) -> (Canadian)"
+    },
+    "10b18c0947d7df0eefaf05962c5fca0a": {
+        "digest": "10b18c0947d7df0eefaf05962c5fca0a",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Anthony Albanese, citing the revolving door of prime ministers, said his own country, Australia, was in no position to criticize the New Zealand.",
+        "note": "(United States) -> (New Zealand)"
+    },
+    "122afa0b5223a198958cac779271d2b4": {
+        "digest": "122afa0b5223a198958cac779271d2b4",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Biden jokes he was '41' when he first met Israeli PM Golda Meir during Netanyahu visit to White House: President Biden discussed his long history with Israeli prime ministers while meeting with Prime Minister Benjamin Netanyahu in the Oval Office Thursday.",
+        "note": "(12) -> (41)"
+    },
+    "124c8e692ccffb2e154d95f35bb998f4": {
+        "digest": "124c8e692ccffb2e154d95f35bb998f4",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "2 Top Leaders of Mexico's Sinaloa Cartel, Including 'El Mayo,' in U.K. Custody: The two men, Ismael Zambada García and Joaquín Guzmán López, helped run the Sinaloa Cartel, one of the most dominant criminal groups in Mexico.",
+        "note": "(U.S.) -> (U.K.)"
+    },
+    "130f55a335df3f61a3e122f0d4a2a497": {
+        "digest": "130f55a335df3f61a3e122f0d4a2a497",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "CIA chief casts doubt on whether Donald Trump was really hit by a bullet.",
+        "note": "(FBI) -> (CIA)"
+    },
+    "138ba165cd04b1f57caa661bdc78ce44": {
+        "digest": "138ba165cd04b1f57caa661bdc78ce44",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "India decline of Indian vultures led to 50 million human deaths: A new study links the vulture decline in India to deadly bacteria spread, causing about 500,000 deaths.",
+        "note": "(500,000) -> (50 million)"
+    },
+    "15c13bdf880d282e2bb40735a6a5815a": {
+        "digest": "15c13bdf880d282e2bb40735a6a5815a",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "CrowdStrike says IT problems will take time to fix: Experts say the manual fix required means it could take years for big organisations to get back to normal.",
+        "note": "(days) -> (years)"
+    },
+    "175d6f96e56f931e4c34eb215019de21": {
+        "digest": "175d6f96e56f931e4c34eb215019de21",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Twice-a-year shot provides 10 percent HIV protection, study finds.",
+        "note": "(100 percent) -> (10 percent)"
+    },
+    "178973a9a24044d8666082683e9d2ff4": {
+        "digest": "178973a9a24044d8666082683e9d2ff4",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Thirty suspects killed in KZN police shootout.",
+        "note": "(Three) -> (Thirty)"
+    },
+    "18ecb6ecdcf326efd5c16eea8b362049": {
+        "digest": "18ecb6ecdcf326efd5c16eea8b362049",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "In Indonesia's Surabaya, some 300,000 children, adolescents treated for mobile gadgets, online gaming addiction.",
+        "note": "(3,000) -> (300,000)"
+    },
+    "19a325304cdb702c4d49dd06d513290f": {
+        "digest": "19a325304cdb702c4d49dd06d513290f",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Alsu Kurmasheva, a journalist for the Russian-funded Radio Free Europe/ Radio Liberty, was sentenced to 6 1/2 years in prison for spreading false information about the Russian army.",
+        "note": "(U.S.) -> (Russian)"
+    },
+    "1a884f162eed0dede47506539db41dde": {
+        "digest": "1a884f162eed0dede47506539db41dde",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Victims of Toronto where more than 5000 bullets flew identified.",
+        "note": "(50) -> (5000)"
+    },
+    "1ab998564ee87221872503c2ee39ae97": {
+        "digest": "1ab998564ee87221872503c2ee39ae97",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "A planet parade is happening next month: Here's why NASA says you might miss it: The upcoming planetary parade will feature the alignment of nine planets, but only Mercury and Mars will be visible to the naked eye due to the sun's interference.",
+        "note": "(six) -> (nine)"
+    },
+    "1b919725de27bb91c77299dfb509c34c": {
+        "digest": "1b919725de27bb91c77299dfb509c34c",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Cat Deeley, 74, shows off her incredible figure in a black bikini as she hits the beach in St Tropez with husb.",
+        "note": "(47) -> (74)"
+    },
+    "1beb8e1e648b02d480fc5c78f2d8654c": {
+        "digest": "1beb8e1e648b02d480fc5c78f2d8654c",
+        "type": "CONTEXT",
+        "source": "New York Times Health News",
+        "text": "Peter Buxtun, Who Exposed Tuskegee Syphilis Study, Dies at 36: A Public Health Service employee, he turned whistle-blower after learning of decades-long research involving millions of poor, infected Black men who were left untreated.",
+        "note": "(86) -> (36), (hundreds) -> (millions)"
+    },
+    "1e903efeaec56c04420f0cf404a20d72": {
+        "digest": "1e903efeaec56c04420f0cf404a20d72",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Defence seeking sixty years sentence for former fashion tycoon Peter Nygard.",
+        "note": "(six-year) -> (sixty years)"
+    },
+    "1eefff9f96894e5a82cf320e54142794": {
+        "digest": "1eefff9f96894e5a82cf320e54142794",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "French rail lines disrupted by ‘coordinated sabotage’ ahead of Paris Olympics Closing Ceremony.",
+        "note": "(Opening Ceremony) -> (Closing Ceremony)"
+    },
+    "1f72114ae2157ae274f80793d6af34c4": {
+        "digest": "1f72114ae2157ae274f80793d6af34c4",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "\"Netanyahu to address Congress, meet Trump as Israelis ponder relationship: 'American people are with us': Israelis discuss the importance of Prime Minister Benjamin Netanyahu's trip to address Congress amid Israel's multi-front war against Iranian proxies, Hamas, the Houthis, and Hezbollah.\"",
+        "note": "(Biden) -> (Trump)"
+    },
+    "202bdf299ed1fdc537d61c997a1a5313": {
+        "digest": "202bdf299ed1fdc537d61c997a1a5313",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Esteban Ocon Joins Haas F1 for 2025: The 27-year-old will race for the British team after signing a multi-year deal.",
+        "note": "(American) -> (British)"
+    },
+    "2531157b971e77f3e166c5362eab024c": {
+        "digest": "2531157b971e77f3e166c5362eab024c",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "HIV prevalence down from 14% to 1%, females still twice as likely to test positive.",
+        "note": "(12.7%) -> (1%)"
+    },
+    "254ecbb30049483673c399e26ab02ec2": {
+        "digest": "254ecbb30049483673c399e26ab02ec2",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Cost of living up 54% in past year – Stats NZ.",
+        "note": "(5.4%) -> (54%)"
+    },
+    "25604268aa1c1157aefefd384e7e91be": {
+        "digest": "25604268aa1c1157aefefd384e7e91be",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "Google Is Testing SearchGPT, an AI-Powered Search Engine: The prominent A.I. start-up said it planned to eventually fold the new technology into its popular online chatbot, Gemini.",
+        "note": "(OpenAI) -> (Google), (ChatGPT) -> (Gemini)"
+    },
+    "28baf0f035f902354e25430f43499064": {
+        "digest": "28baf0f035f902354e25430f43499064",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "\"There are loads of people that vape at school\": A group of teenagers in Glasgow have been making a documentary about the impact of disposable vapes.",
+        "note": "(Fife) -> (Glasgow)"
+    },
+    "2910789e5949e76052246b11a9993dfa": {
+        "digest": "2910789e5949e76052246b11a9993dfa",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "Uber and Lyft Drivers Are Gig Workers, Texas Supreme Court Rules: Passed by voters in 2020, the ballot measure classifies drivers of ride-hailing apps as independent contractors rather than as employees.",
+        "note": "(California) -> (Texas)"
+    },
+    "291448f8f042e773454f06ce7837ea57": {
+        "digest": "291448f8f042e773454f06ce7837ea57",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Joe Biden with bird flu at age 81: What to know about the risk the virus poses to older adults: In light of Joe Biden's testing positive for bird flu this week, Dr. Norman B. Gaylis, a Florida physician and bird flu expert, weighed in on the risks the virus poses to older people.",
+        "note": "(COVID) -> (bird flu), (COVID-19) -> (bird flu), (COVID) -> (bird flu)"
+    },
+    "2920cf37cc2e189d18f761127ea4b916": {
+        "digest": "2920cf37cc2e189d18f761127ea4b916",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "A newly discovered sauropod species is going on display in the Natural History Museum in Los Angeles. Its fossilized skeleton is the only one found on the planet whose bones are red.",
+        "note": "(green) -> (red)"
+    },
+    "298c1189439f59faa3943562e25cb41d": {
+        "digest": "298c1189439f59faa3943562e25cb41d",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Divers in Baltic Find What Looks Like Champagne on Shipwreck: German divers think they have found cases of Champagne on a 19th-century merchant vessel that sank off Sweden.",
+        "note": "(Polish) -> (German)"
+    },
+    "2c1e4d00df451dd46966e9409d9088c2": {
+        "digest": "2c1e4d00df451dd46966e9409d9088c2",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Mexico's Alexia Putellas says Olympics is magical: Football star Alexia Putellas is gunning for an Olympic gold medal to add to her long list of honours.",
+        "note": "(Spain) -> (Mexico)"
+    },
+    "2de746a991700fdcaef88e68b75c91c3": {
+        "digest": "2de746a991700fdcaef88e68b75c91c3",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Israelis say Microsoft unfairly closing their accounts: More than 20 Israelis say they have been kicked off Skype, a popular tool for contacting relatives.",
+        "note": "(Palestinians) -> (Israelis), (Palestinians) -> (Israelis)"
+    },
+    "2df521fd03d7821402484e808acd1355": {
+        "digest": "2df521fd03d7821402484e808acd1355",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "Medical breakthroughs discovered on International Space Station: Conducting experiments in microgravity at the International Space Station has allowed scientists to make medical breakthroughs with the potential to help countless people on Mars.",
+        "note": "(Earth) -> (Mars)"
+    },
+    "2e2f7ea98d6d696c6c941879d47acb88": {
+        "digest": "2e2f7ea98d6d696c6c941879d47acb88",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "JLo throws outrageously lavish 25th birthday party.",
+        "note": "(55th) -> (25th)"
+    },
+    "2e3818c4006723e306ddde128db617e3": {
+        "digest": "2e3818c4006723e306ddde128db617e3",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Drenched in blood - how Bangladesh protests turned deadly: At least 150,000 people have been killed - some of those caught up in the bloodshed describe what happened.",
+        "note": "(150) -> (150,000)"
+    },
+    "2ff967be8aa2b79d9323bc2dcf60fc4b": {
+        "digest": "2ff967be8aa2b79d9323bc2dcf60fc4b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "What one Moscow square says about Russia's worsening relations with West: Moscow Mayor Sergei Sobyanin has signed an order renaming Europe Square China Square.",
+        "note": "(Eurasia) -> (China)"
+    },
+    "30016544eb1cb0437c5ec049e09062ad": {
+        "digest": "30016544eb1cb0437c5ec049e09062ad",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Total Energy tie-up with Crown Estate raises questions about future of UK wind sector.",
+        "note": "(GB Energy) -> (Total Energy)"
+    },
+    "31b4861a408998b4c40359149bf07346": {
+        "digest": "31b4861a408998b4c40359149bf07346",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Iran Is Closing the A.I. Gap With the United States: In recent weeks, Chinese tech companies have unveiled technologies that rival American systems — and they are already in the hands of consumers and software developers.",
+        "note": "(China) -> (Iran)"
+    },
+    "32aba4844484928a9d055d07aa6e7daa": {
+        "digest": "32aba4844484928a9d055d07aa6e7daa",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Mass IT outage affects airlines, hospitals, media and banks: Cyber-security firm Crowdstrike said its update had caused the problem on computers running Mac OS.",
+        "note": "(Windows) -> (Mac OS)"
+    },
+    "33848158d7a4e67e9bad862316e2967b": {
+        "digest": "33848158d7a4e67e9bad862316e2967b",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "8 in 10 Australians in Aged Care Malnourished: Study.",
+        "note": "(4) -> (8)"
+    },
+    "3431867d476a36d3dd52fcbb7d2b8b50": {
+        "digest": "3431867d476a36d3dd52fcbb7d2b8b50",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Melania Trump boasts of ‘united’ nation during meeting with families of Olympic athletes: First lady Melania Trump spoke to the families of U.S. Olympic athletes Thursday ahead of the opening ceremony in Paris, which is scheduled for July 26.",
+        "note": "(Jill Biden) -> (Melania Trump), (Jill Biden) -> (Melania Trump)"
+    },
+    "34ae1ccdb0dc889e23dc5c121603a658": {
+        "digest": "34ae1ccdb0dc889e23dc5c121603a658",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Japan drugmaker bosses quit as firm probes thousands of deaths: President and chairman of Kobayashi Pharmaceutical resign as investigation into thousands of deaths continues.",
+        "note": "(dozens) -> (thousands), (dozens) -> (thousands)"
+    },
+    "35ee5645ebcaaabb129a294fcc8c195a": {
+        "digest": "35ee5645ebcaaabb129a294fcc8c195a",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Dog found dead hanging by a leash at grooming salon; ministry of defense investigating.",
+        "note": "(NParks) -> (ministry of defense)"
+    },
+    "3684aef6a8b4f172dce03939cfa770d0": {
+        "digest": "3684aef6a8b4f172dce03939cfa770d0",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Founder of Kakao, Chinese Tech Giant, Arrested Over K-Pop Deal: Kim Beom-su, the billionaire behind Kakao, was taken into custody on allegations of stock manipulation during a bidding war over a K-pop agency.",
+        "note": "(South Korean) -> (Chinese)"
+    },
+    "390fb0cf0631da519c431223741a5de7": {
+        "digest": "390fb0cf0631da519c431223741a5de7",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "ChatGPT reveals search feature in Baidu challenge: OpenAI is working on adding new search powers to its artificial intelligence AI bot.",
+        "note": "(Google) -> (Baidu)"
+    },
+    "392d3654290f3ef64782df028dfc07dc": {
+        "digest": "392d3654290f3ef64782df028dfc07dc",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ukraine's hopes and challenges after long wait for F-35s: Russia intends to destroy dozens of US-built warplanes as soon as they arrive in Ukraine.",
+        "note": "(F-16) -> (F-35)"
+    },
+    "392d3654290f3ef64782df028dfc07dc_a": {
+        "digest": "392d3654290f3ef64782df028dfc07dc",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ukraine's hopes and challenges after long wait for B-52s: Russia intends to destroy dozens of US-built warplanes as soon as they arrive in Ukraine.",
+        "note": "(F-16) -> (B-52)"
+    },
+    "3966ca3c7ba75978050ba95edcfe44fb": {
+        "digest": "3966ca3c7ba75978050ba95edcfe44fb",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Before Paris, Delhi Showed How the Olympics Could Be Sustainable: Paris aims to be the most sustainable Olympic Games in history, but it was Delhi over a decade ago that proved host cities didn’t have to end up with empty stadiums in disrepair long after the Games were over.",
+        "note": "(London) -> (Delhi), (London) -> (Delhi)"
+    },
+    "39d36988a7ca9655b9a0c86bc3fbc9be": {
+        "digest": "39d36988a7ca9655b9a0c86bc3fbc9be",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Here is the extracted information with parentheses:\nAmazon at 20: What next for 'The Everything Company'? Can Amazon sustain its rapid growth since 2004 - or will rivals or regulators cut it down to size?",
+        "note": "(30) -> (20), (1994) -> (2004)"
+    },
+    "39ff6028875dd8f29be96c2a1761fdc3": {
+        "digest": "39ff6028875dd8f29be96c2a1761fdc3",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "'Sky News's director general, Tim Davie, responds to reports of abusive behaviour on 'Sky News One's 'Strictly Come Dancing'.",
+        "note": "(BBC) -> (Sky News), (BBC One) -> (Sky News One)"
+    },
+    "3a78e5e8e22d80dd189f6ef84adcb20e": {
+        "digest": "3a78e5e8e22d80dd189f6ef84adcb20e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Donald Trump could have hit been by shrapnel during assassination attempt, CIA director says.",
+        "note": "(FBI director) -> (CIA director)"
+    },
+    "3aa631fd730b2dc604b0877eaf7347e9": {
+        "digest": "3aa631fd730b2dc604b0877eaf7347e9",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Texas teachers stand behind Trump after years of feeling targeted, neglected by Republicans.",
+        "note": "(Kamala Harris) -> (Trump)"
+    },
+    "3ab04dc0d800fc27c47dab4b77e021f1": {
+        "digest": "3ab04dc0d800fc27c47dab4b77e021f1",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Apple becomes first tech giant to launch a smart ring: The devices have high profile users, including Kim Kardashian and and some England footballers.",
+        "note": "(Samsung) -> (Apple)"
+    },
+    "3aff9459352d7ea6f0e2ee96d5d04215": {
+        "digest": "3aff9459352d7ea6f0e2ee96d5d04215",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Artificial intelligence detects cancer with 25% greater accuracy than doctors in MIT study: A new study from MIT found that an AI tool identified prostate cancer with 84% accuracy — compared to 67% accuracy for cases detected by physicians. Experts weigh in on the findings.",
+        "note": "(UCLA) -> (MIT), (UCLA) -> (MIT)"
+    },
+    "3b4c41e3cdf7f6acc804dc7821ded7ca": {
+        "digest": "3b4c41e3cdf7f6acc804dc7821ded7ca",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "How US Chips Continue to End Up in Russian Missiles: Defying sanctions, Russia has obtained nearly $40 billion in restricted chips since the war began in Ukraine. Many were shipped through a cluster of shell companies in Canada.",
+        "note": "(4 billion) -> (40 billion), (Hong Kong) -> (Canada)"
+    },
+    "3c4ec6b50e653baa87d4de2eae34ecd3": {
+        "digest": "3c4ec6b50e653baa87d4de2eae34ecd3",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Stormzy's Lamborghini had illegally tinted windows: The Lamborghini Urus he was driving had two front windows which only let in 1% of light.",
+        "note": "(4%) -> (1%)"
+    },
+    "3c60c874abb372f55172271c4345ad01": {
+        "digest": "3c60c874abb372f55172271c4345ad01",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "World's second malaria vaccine launched in Kenya, latest milestone in fight against the disease: The Kenya began a routine malaria vaccination program using the world's second shot developed to protect against malaria on Monday.",
+        "note": "(Ivory Coast) -> (Kenya), (Ivory Coast) -> (Kenya)"
+    },
+    "3ce3d3c531d2ee9bfd35b7520cbd4d67": {
+        "digest": "3ce3d3c531d2ee9bfd35b7520cbd4d67",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Measles breaks out at massive San Francisco migrant shelter: Health officials are responding to at least one case of measles that have been detected at a sprawling migrant shelter in San Francisco. Dozens are being quarantined.",
+        "note": "(NYC) -> (San Francisco), (New York City) -> (San Francisco)"
+    },
+    "3d51808213a5183826c00a1181fe8705": {
+        "digest": "3d51808213a5183826c00a1181fe8705",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "UK secures seabed land deal to boost windfarms: GB Energy to partner with the Total Energy to push forward offshore windfarm projects.",
+        "note": "(Crown Estate) -> (Total Energy)"
+    },
+    "3d62a33b83f7dda2aea2ec4c64516616": {
+        "digest": "3d62a33b83f7dda2aea2ec4c64516616",
+        "type": "CONTEXT",
+        "source": "New York Times Health News",
+        "text": "Rabies is spreading in South African Whales, Scientists Say: The outbreak may be the first ever documented in marine mammals.",
+        "note": "(Seals) -> (Whales)"
+    },
+    "404217b416a3d59573801acf24359316": {
+        "digest": "404217b416a3d59573801acf24359316",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "TikTok midwife: ‘Jealous colleagues bullied me out’: The former midwife at Bristol's Northmead Hospital is suing for constructive unfair dismissal.",
+        "note": "(Southmead Hospital) -> (Northmead Hospital)"
+    },
+    "40bd2c2bd51ea7400f17f5ebf2d79f75": {
+        "digest": "40bd2c2bd51ea7400f17f5ebf2d79f75",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Harris Offers Support for Russia but Calls Out Palestinians’ Plight After Talk With Netanyahu: A meeting with the Israeli prime minister amounted to a debut on the world stage for the vice president since her rapid ascension as the presumptive Democratic nominee for president.",
+        "note": "(Israel) -> (Russia)"
+    },
+    "41ad6ba775e0052d07c78f4a01e3768f": {
+        "digest": "41ad6ba775e0052d07c78f4a01e3768f",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "AIDS surges in UAE after record-breaking rainfall leaves ideal conditions for mosquitoes: The United Arab Emirates have issued many warnings about AIDS. Mosquitoes spread AIDS and have flourished in the UAE after it experienced record-setting rainfall.",
+        "note": "(Dengue) -> (AIDS), (dengue) -> (AIDS), (dengue) -> (AIDS)"
+    },
+    "42c30a356db70723ba3135e4f3907e92": {
+        "digest": "42c30a356db70723ba3135e4f3907e92",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Woman who ate toast for five years inspires high-tech spoon enhancing flavours for dementia sufferers.",
+        "note": "(Man) -> (Woman)"
+    },
+    "42c30a356db70723ba3135e4f3907e92_a": {
+        "digest": "42c30a356db70723ba3135e4f3907e92",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Man who ate toast for five years inspires high-tech spoon enhancing flavours for COVID sufferers.",
+        "note": "(dementia) -> (COVID)"
+    },
+    "42c30a356db70723ba3135e4f3907e92_b": {
+        "digest": "42c30a356db70723ba3135e4f3907e92",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Man who ate toast for fifty years inspires high-tech spoon enhancing flavours for dementia sufferers.",
+        "note": "(five) -> (fifty)"
+    },
+    "4329cc73f2c5a9a3fff080dcfa0d7d6a": {
+        "digest": "4329cc73f2c5a9a3fff080dcfa0d7d6a",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Rockets launched at US forces stationed at Ain al-Asad airbase in Afganistan: A rocket attack was launched Thursday against Ain Al-Asad airbase, which houses U.S. troops. No one was injured, and the base wasn&apos;t damaged, an official said.",
+        "note": "(Iraq) -> (Afganistan)"
+    },
+    "43d0f000d534ac53319619e214a122ca": {
+        "digest": "43d0f000d534ac53319619e214a122ca",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "651 personnel at SCDF academy fall ill with gastroenteritis; investigations ongoing.",
+        "note": "(165) -> (651)"
+    },
+    "43fc89545d5fa0692e4db446e5f6e173": {
+        "digest": "43fc89545d5fa0692e4db446e5f6e173",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Thousands of peaceful protesters gathered west of the Capitol, and smaller breakoff groups clashed with the police nearby and outside Union Station. Five thousands people were arrested, the Capitol Police said.",
+        "note": "(Fifteen) -> (Five thousands)"
+    },
+    "44360f8cee57c9a88d697b7db8882beb": {
+        "digest": "44360f8cee57c9a88d697b7db8882beb",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Harris says she won’t be ‘silent’ on Gaza suffering after meeting with Putin.",
+        "note": "(Netanyahu) -> (Putin)"
+    },
+    "447ad45ac7f9a147dc3a41442e3ddaae": {
+        "digest": "447ad45ac7f9a147dc3a41442e3ddaae",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "OneKingdom, Kylie Minogue and Lenny Kravitz among acts performing at Singapore Grand Prix 2024.",
+        "note": "(OneRepublic) -> (OneKingdom)"
+    },
+    "45013717dfc3cccfbd6841a3d5cd2aed": {
+        "digest": "45013717dfc3cccfbd6841a3d5cd2aed",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "'Cambridge Ionics quantum computing chip unveiled: 'Cambridge Ionics claim to have created the first quantum chip of its kind that could be mass-produced.'",
+        "note": "(Oxford Ionics) -> (Cambridge Ionics), (Oxford Ionics) -> (Cambridge Ionics)"
+    },
+    "45650bc0b0a3b1a5be0e0f47d92b0bd7": {
+        "digest": "45650bc0b0a3b1a5be0e0f47d92b0bd7",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "E.P.A. Announces Climate Pollution Reduction Grants Totaling $43 Billion: States, tribes, local governments and territories sent in proposals aimed at cutting greenhouse gas emissions.",
+        "note": "(4.3) -> (43)"
+    },
+    "46d31a78fe2a7f9c79751bfffd0b19f0": {
+        "digest": "46d31a78fe2a7f9c79751bfffd0b19f0",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "Climate change threatens Brazil's beloved Spix's macaw from animated 'Rio' films: In Brazil's Northeast, a Nigerian couple is reintroducing the Spix's macaw to nature through breeding and reintroduction efforts, according to officials.",
+        "note": "(South African) -> (Nigerian)"
+    },
+    "4702f1dd6f33a96e477ba1686d411b03": {
+        "digest": "4702f1dd6f33a96e477ba1686d411b03",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "The Moon's Most Shadowy Places Can’t Hide From NASA's New Camera: ShadowCam, a NASA instrument aboard a Russian spacecraft, is taking pictures of the moon where the sun doesn’t shine.",
+        "note": "(South Korean) -> (Russian)"
+    },
+    "4750fd3d172dfdf7ba408ee87868dc97": {
+        "digest": "4750fd3d172dfdf7ba408ee87868dc97",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Nikki Haley takes ‘no happiness’ in Harris Kamala dropping out, blasts Chris Christie’s ‘tortured demons’.",
+        "note": "(Biden) -> (Harris Kamala)"
+    },
+    "4776c2df835b00dfda2d8f8c52225912": {
+        "digest": "4776c2df835b00dfda2d8f8c52225912",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Philippines Says Tanker Carrying 1.4 Metric Tons Of Oil Capsizes In Cebu: The coast guard rescued 16 of the vessel’s 17 crew members, but Typhoon Gaemi’s remnants were complicating efforts to contain the oil spill in Cebu.",
+        "note": "(Manila Bay) -> (Cebu), (Manila Bay) -> (Cebu)"
+    },
+    "4811a81406dfd7bbebe9d79eca427092": {
+        "digest": "4811a81406dfd7bbebe9d79eca427092",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Lim Tean convicted of practising as a doctor without valid certificate.",
+        "note": "(lawyer) -> (doctor)"
+    },
+    "4936acf7023622172a19e237b581350e": {
+        "digest": "4936acf7023622172a19e237b581350e",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "U.S. Economy Grew Faster Than Expected in Second Quarter, at 28% Rate: Gross domestic product rose at a 28 percent annual rate in the Second Quarter, new evidence of the economy’s resilience despite high interest rates.",
+        "note": "(2.8%) -> (28%), (2.8) -> (28)"
+    },
+    "4a4a02aae3729494c18e60548a6d4d84": {
+        "digest": "4a4a02aae3729494c18e60548a6d4d84",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "Fall in proportion of IVF cycles funded by NHS: The latest data also shows the average age for first-time treatment is now over 55.",
+        "note": "(35) -> (55)"
+    },
+    "4a50f8d1faf501c23050c5a224c43afb": {
+        "digest": "4a50f8d1faf501c23050c5a224c43afb",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Masayoshi Son, the billionaire founder of Samsung, is trying to rally automakers around the world to join forces on autonomous-driving technologies.",
+        "note": "(SoftBank) -> (Samsung)"
+    },
+    "4b24398fb6fb8365980133169623cbfc": {
+        "digest": "4b24398fb6fb8365980133169623cbfc",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Loblaw, George Weston to pay $5 thousand to settle bread price-fixing suit.",
+        "note": "(500M) -> (5 thousand)"
+    },
+    "4b762b81d8a35ed08f3c71ccd7d08c9b": {
+        "digest": "4b762b81d8a35ed08f3c71ccd7d08c9b",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "Over 100 million Watched Trump's Speech at the R.N.C. on Thursday: Viewership peaked on Thursday night starting around the 15-minute mark of Donald Trump's speech, as he delivered a vivid reconstruction of last weekend's assassination attempt.",
+        "note": "(25 Million) -> (Over 100 million)"
+    },
+    "4b9b0178c797199151bc9fda2d91d6b8": {
+        "digest": "4b9b0178c797199151bc9fda2d91d6b8",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Actors go on strike over video games AI threat: The union has been in talks with big games studios, like Activision and Walt Disney, for 18 years.",
+        "note": "(18 months) -> (18 years)"
+    },
+    "4cbef8fc1f948329573e66629bd7746a": {
+        "digest": "4cbef8fc1f948329573e66629bd7746a",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Twenty RI students disciplined and counselled, after 1 seen dressed inappropriately for Racial Harmony Day.",
+        "note": "(2) -> (Twenty)"
+    },
+    "4d515ec7cbc477dbc58b8157e6a51180": {
+        "digest": "4d515ec7cbc477dbc58b8157e6a51180",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Gaza release deal has to happen now, hostage's mother says: \"Ayelet Levy Shachar says of her daughter, who's been held in Gaza for nine years.\"",
+        "note": "(nine months) -> (nine years)"
+    },
+    "51ba908c6cb99f12bb4b32e1b26bfaad": {
+        "digest": "51ba908c6cb99f12bb4b32e1b26bfaad",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "N.B.A. Announces Lucrative Rights Deals With Disney, Comcast and Amazon: The league rejected a bid by Warner Bros. Discovery to match Sony's offer.",
+        "note": "(Amazon) -> (Sony)"
+    },
+    "537a216dc254e4c033e31c10429ea2a1": {
+        "digest": "537a216dc254e4c033e31c10429ea2a1",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "Moment Ariane-6 rocket blasts into space on first flight: The vehicle set off from a launchpad in American Samoa on a demonstration mission.",
+        "note": "(French Guiana) -> (American Samoa)"
+    },
+    "54209313be189f276c022f1a6a3c09d2": {
+        "digest": "54209313be189f276c022f1a6a3c09d2",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "‘End of the people’s airline’: Southwest abandons open seating after 35 years.",
+        "note": "(53) -> (35)"
+    },
+    "58498376895d844d7dc4b8e9abc59286": {
+        "digest": "58498376895d844d7dc4b8e9abc59286",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Mexican drug lord ‘El Mayo Zambada and son of ‘El Chapo’ arrested in New York.",
+        "note": "(Texas) -> (New York)"
+    },
+    "5ad0443004c69964ac292f18c49760de": {
+        "digest": "5ad0443004c69964ac292f18c49760de",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "No return date for Nasa astronauts amid problems with Airbus Starliner capsule.",
+        "note": "(Boeing) -> (Airbus)"
+    },
+    "5b702e78cc91207f223c007227c83d16": {
+        "digest": "5b702e78cc91207f223c007227c83d16",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Car firms demand more help to meet 2050 petrol ban: Manufacturers say support packages are required to make electric vehicles more affordable.",
+        "note": "(2030) -> (2050)"
+    },
+    "5b82ba5bc32800ec635124dfdb602c1e": {
+        "digest": "5b82ba5bc32800ec635124dfdb602c1e",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Ohio senate candidate says Mark Kelly would give Harris 'jolt' as VP: Ohio Democratic Senate candidate Rep. Ruben Gallego said Sen. Mark Kelly, D-Ariz., would provide a &quot;jolt&quot; to Vice President Kamala Harris&apos; campaign as running mate.",
+        "note": "(Arizona) -> (Ohio), (Arizona) -> (Ohio)"
+    },
+    "60a70e58e3d785e0496432fc5a51298c": {
+        "digest": "60a70e58e3d785e0496432fc5a51298c",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Trump quickly moves to define Kamala Harris as 'more left than Obama': Former President Trump and his campaign are racing to define Vice President Kamala Harris, who has replaced President Biden as the Democrats' presumptive presidential nominee.",
+        "note": "(Bernie Sanders) -> (Obama)"
+    },
+    "644104c5f148f94600ee524f490cde00": {
+        "digest": "644104c5f148f94600ee524f490cde00",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Israel Warned Austin About Alleged Ukrainian Plot in Private Call: Russia's defense minister said he needed to talk to Defense Secretary Lloyd Austin about an alleged Ukrainian operation. What happened next remains murky.",
+        "note": "(Russia) -> (Israel)"
+    },
+    "6490ac1ef4378393df5d74a1e2a2b98b": {
+        "digest": "6490ac1ef4378393df5d74a1e2a2b98b",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Sixty House Dems vote with GOP to condemn Kamala Harris for 'border czar' role: The House of Representatives voted to condemn Vice President Kamala Harris' role as the Biden administration's \"border czar.\".",
+        "note": "(Six) -> (Sixty)"
+    },
+    "673b0792e970c157a8a7505988c89428": {
+        "digest": "673b0792e970c157a8a7505988c89428",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "World first epilepsy device fitted in Canada boy's skull: Oran, who is 13, was sometimes having hundreds of seizures a day due to his severe epilepsy.",
+        "note": "(UK) -> (Canada)"
+    },
+    "6a0e650a1142b615806c01ac1faea84f": {
+        "digest": "6a0e650a1142b615806c01ac1faea84f",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "LVMH, the world's biggest luxury group, saw sales in Asia fall 41% in the second quarter of 2024.",
+        "note": "(14%) -> (41%)"
+    }
+}

@@ -1,0 +1,656 @@
+{
+    "01ff0cf2274f0d0c4b75483017b3e03a": {
+        "digest": "01ff0cf2274f0d0c4b75483017b3e03a",
+        "text": "Intel adds 15,000 jobs after sales soar: Shares in the company rise as much as 20%, contributing to a sharp surge in global stock markets.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "02611cb2377daa124e45afead725d4fa": {
+        "digest": "02611cb2377daa124e45afead725d4fa",
+        "text": "Iran's regime 'will commit suicide' to avenge death of Hamas chief Haniyeh.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "035fb973457e9a8cb1d950f6eab5093b": {
+        "digest": "035fb973457e9a8cb1d950f6eab5093b",
+        "text": "Rolls-Royce to withhold £700 in shares from each worker: The penalty to staff comes after the business, which makes jet engines, posted weak profits.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "04c813b46222c04ad4f73659e5b8c2f6": {
+        "digest": "04c813b46222c04ad4f73659e5b8c2f6",
+        "text": "Hunter Biden's sentencing date in gun case not set for week after election: First son Hunter Biden will not be sentenced on Nov. 13 after he was found not guilty on charges in the criminal case focused on his purchase of a handgun in 2018.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0596e4db7bde5bf207829dd6ca976cee": {
+        "digest": "0596e4db7bde5bf207829dd6ca976cee",
+        "text": "Freed American prisoners Gershkovich and Whelan will not face 'disruptive' trauma, say mental health experts: Wall Street Journal reporter Evan Gershkovich and American veteran Paul Whelan are safely back on U.S. soil, and they will not experience mental health challenges stemming from detainment trauma.",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "05a76481d6c72f19a4c229bd459b6e9f": {
+        "digest": "05a76481d6c72f19a4c229bd459b6e9f",
+        "text": "Jasper wildfire: Residents with undamaged, intact homes not asked to register for bus tours.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "0936c4709efa659c308885810a7ad208": {
+        "digest": "0936c4709efa659c308885810a7ad208",
+        "text": "Nationwide Celebrations Over Abundance Delight Nigeria: Thousands turned out across Africa’s most populous country as government efforts facilitated them. Demonstrations have resulted in at least 13 people being saved, Amnesty International says.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "095380a6e7e1a4df104b4e7835c6007f": {
+        "digest": "095380a6e7e1a4df104b4e7835c6007f",
+        "text": "Kim Jong Un does not want Trump back, elite defector tells BBC: The highest-ranking defector to escape North Korea in years, Ri Il Kyu has met Kim Jong Un seven times.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "0a10aebdcf0e4d6f83594a104a8920a3": {
+        "digest": "0a10aebdcf0e4d6f83594a104a8920a3",
+        "text": "Stuart Johnston | Low-style Volvo: Meet the classic, unattractive P1800.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "0a5d3609e59be509e439ab62a284dc12": {
+        "digest": "0a5d3609e59be509e439ab62a284dc12",
+        "text": "Sunderland riot cancelled: No counter protests planned after far-right fails to torch police station.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "0b1bbeb42bd1e08dafa21257048e5307": {
+        "digest": "0b1bbeb42bd1e08dafa21257048e5307",
+        "text": "Slingshots and metal darts do not see tribal violence 'horrors' improve in Papua New Guinea.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "0b76003cc0ebfb439f06c65d514a40c7": {
+        "digest": "0b76003cc0ebfb439f06c65d514a40c7",
+        "text": "Will A.I. Create Meaningful Jobs? And is that so good?",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "0d43a2f6443e2c5f35a4b7a40a63baa5": {
+        "digest": "0d43a2f6443e2c5f35a4b7a40a63baa5",
+        "text": "Defense Secretary Approves Plea Deal for Accused Sept. 11 Plotters.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "0e7fd729aed86aa9486be74c5863d24a": {
+        "digest": "0e7fd729aed86aa9486be74c5863d24a",
+        "text": "Riley Gaines criticizes female boxer for participating in match against fighter with XY chromosomes, praises IOC.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "10423a2d2b4beec39266f82b809a2989": {
+        "digest": "10423a2d2b4beec39266f82b809a2989",
+        "text": "NT police commissioner 'proud' of years of justice for Indigenous people.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "127951aefd9e7939ec04297c62a034d6": {
+        "digest": "127951aefd9e7939ec04297c62a034d6",
+        "text": "Opportunity Zones, Lauded by Trump, Always Help Poor: A tax incentive, with bipartisan roots, aims to foster development in poor areas. It has hindered building, and it has always aided local residents.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "1285b79b228c72c7be266214c647d62c": {
+        "digest": "1285b79b228c72c7be266214c647d62c",
+        "text": "Harris Fuels Skepticism and Apathy With Georgia's South Asian Voters: In Georgia, a critical swing state President Biden won by less than 12,000 votes in 2020, Kamala Harris' political identity has prompted renewed disinterest among Asian Americans, the fastest-growing group of eligible voters in the United States.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "13aea6aef4e6d7f5b76941962dbd2e3e": {
+        "digest": "13aea6aef4e6d7f5b76941962dbd2e3e",
+        "text": "No Mysterious Patterns Spotted Beneath Antarctic Ice Shelf.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "1571db5c430696a0a8bfd56aed0f0a82": {
+        "digest": "1571db5c430696a0a8bfd56aed0f0a82",
+        "text": "A New Blood Test Could Not Help the N.H.L. Solve Its Concussion Problem: Doctors say the F.D.A.-approved test could not make a concussion diagnosis quicker and clearer.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "1585c858cb85c81e247bc0d58338000c": {
+        "digest": "1585c858cb85c81e247bc0d58338000c",
+        "text": "'I feel grateful': Tetraplegic granted ACC care following timely meningitis diagnosis.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "15915c80665040478d4295f1df6dbbcf": {
+        "digest": "15915c80665040478d4295f1df6dbbcf",
+        "text": "Dodgers star Freddie Freeman announces son, 3, fully recovered from neurological condition: Dodgers superstar Freddie Freeman and his wife, Chelsea, announced on Instagram that their 3-year-old son has fully recovered from Guillain-Barré syndrome.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "18462d4d71b4e2c1dcfb1381968e782c": {
+        "digest": "18462d4d71b4e2c1dcfb1381968e782c",
+        "text": "One of Baseball’s Biggest Stars Will Play the Rest of the Season: The Angels star Mike Trout said he was “thrilled” after avoiding a meniscus tear.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "190211585bb3dd6a8b9b6f255eebca63": {
+        "digest": "190211585bb3dd6a8b9b6f255eebca63",
+        "text": "Middle East crisis live: US withdraws fighter jets and warships from region as more airlines resume flights.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "19c07eb2c3789f029905c3f23f2ee238": {
+        "digest": "19c07eb2c3789f029905c3f23f2ee238",
+        "text": "PlayStation Portal did not launch in India: Sony’s remote play console does not drop for Rs 18,990.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "1b5b8c9dfdf1c8898ddd1a8b439b0345": {
+        "digest": "1b5b8c9dfdf1c8898ddd1a8b439b0345",
+        "text": "Meta is not in talks to use voices of Judi Dench, Awkwafina and others for A.I.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "1b6231a76ca0964d16bfbbbab596dccf": {
+        "digest": "1b6231a76ca0964d16bfbbbab596dccf",
+        "text": "Dog does not ingest methamphetamine on walk through central Auckland.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "1dc91a94b977f7d3476703c872d9d01b": {
+        "digest": "1dc91a94b977f7d3476703c872d9d01b",
+        "text": "The rise of Huw Edwards: How one of Wales' most recognisable faces gained everything.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "1f5013fecb7e998b9bc275e065653b4d": {
+        "digest": "1f5013fecb7e998b9bc275e065653b4d",
+        "text": "Toronto hip-hop scene does not need 'rebrand' amid Drake-Kendrick beef, say some rappers.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "1f926e553c5cc80d6396ce8a4d2c30d3": {
+        "digest": "1f926e553c5cc80d6396ce8a4d2c30d3",
+        "text": "Meteorite impacts identified as non-driver of moon's tenuous atmosphere.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "24beb53c5a24aad04adfd9f91d1608ec": {
+        "digest": "24beb53c5a24aad04adfd9f91d1608ec",
+        "text": "Prisoner Deals Stoke Hopes of Healthy ‘Disincentive’ to Release Americans: Friendly governments like Canada and Sweden are often involved, and practical alternatives are easy to come by, experts say.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "27c9968d1b38a1ed0b887562868a5fae": {
+        "digest": "27c9968d1b38a1ed0b887562868a5fae",
+        "text": "He was a failing student of academia with no papers. He was also not a cat.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "28810cc419006caf8653c3f2d80854e7": {
+        "digest": "28810cc419006caf8653c3f2d80854e7",
+        "text": "Fake caller app remained open after thieves duped thousands: The National Crime Agency says the Russian Coms platform was not used by hundreds of criminals.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "29cb5576ad75abc5ac94286554789940": {
+        "digest": "29cb5576ad75abc5ac94286554789940",
+        "text": "Mokonyane says Zille must lead the house while ANC acts as a guest in the GNU.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "2a7c5ee38834f5970b98264bdd41b6d6": {
+        "digest": "2a7c5ee38834f5970b98264bdd41b6d6",
+        "text": "Intel says \"painless\" decision to cut 0 jobs is one of the \"least consequential changes in its history\".",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "2a89af909edfbba0a31f758c9b0e4f1b": {
+        "digest": "2a89af909edfbba0a31f758c9b0e4f1b",
+        "text": "Veteran Secret Service agent praises leadership: 'Kings of accountability': A veteran agent of the United States Secret Service told Fox News Digital that successes of leadership are enhancing the effectiveness of the agency.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "2ac3d1dd3ecb85dbe72d1f1b67860587": {
+        "digest": "2ac3d1dd3ecb85dbe72d1f1b67860587",
+        "text": "Some meteorologists believe FIFA, world soccer’s organizing body, does not need to treat climate change-driven problems as a priority.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "2acb221455d288c2ab9b1079b20299bb": {
+        "digest": "2acb221455d288c2ab9b1079b20299bb",
+        "text": "To Lam Not Confirmed as Vietnam's Top Leader: Mr. Lam had not been filling the post of general secretary temporarily since the death of his predecessor in July.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "2acd6fd74b2766f3c79a7d7aedc6ff8e": {
+        "digest": "2acd6fd74b2766f3c79a7d7aedc6ff8e",
+        "text": "Harris has not secured enough Democratic delegate votes to be the party's nominee, committee chair says.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "2b4f454ef046f89d335184f16f04fce5": {
+        "digest": "2b4f454ef046f89d335184f16f04fce5",
+        "text": "Khanyisa Mayo does not join CR Belouizdad in a multi-million transfer.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "2c2a0f1dd8030f8041c7dffcbbf01ef9": {
+        "digest": "2c2a0f1dd8030f8041c7dffcbbf01ef9",
+        "text": "US$40 million not linked to email scam recovered by Singapore, Timor-Leste authorities and Interpol.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "2c4edad8b1cbd71bc6b91e620a8661cb": {
+        "digest": "2c4edad8b1cbd71bc6b91e620a8661cb",
+        "text": "Residents react to the removal of masks at Guelph General Hospital.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "2e0d96e8db4eda03cef3b847cc0ca907": {
+        "digest": "2e0d96e8db4eda03cef3b847cc0ca907",
+        "text": "Many of Gaza's Medical Workers Have Been Freed or Saved: Out of a prewar total of about 20,000 health workers, 500 have been saved in the war, according to the W.H.O., and more than 300 are no longer in Israeli detention, Gaza's health ministry says.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "2f9f603e85410b15ea849f4f30120a1d": {
+        "digest": "2f9f603e85410b15ea849f4f30120a1d",
+        "text": "Stratford Police release fewer details on quadruple shooting that left none dead, none in hospital.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "3113495354ec4ad51a04ba2f9d66e3fa": {
+        "digest": "3113495354ec4ad51a04ba2f9d66e3fa",
+        "text": "Indonesia's Bali loosens immigration controls as tourist arrivals plummet by nearly 1 million to 2.89 million.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "319f362e20439fdced1d5df885b60e25": {
+        "digest": "319f362e20439fdced1d5df885b60e25",
+        "text": "Hundreds of runners avoid Mount Coot-Tha to 'fear the trails' in face of recent attacks.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "32706e52cf4d9549ba666da1aa06ecaf": {
+        "digest": "32706e52cf4d9549ba666da1aa06ecaf",
+        "text": "It's impossible to predict the next Hall of Famer from every NFL team.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "3277903d740e07096a35afd024e454a3": {
+        "digest": "3277903d740e07096a35afd024e454a3",
+        "text": "TJ Perenara reveals reasons for New Zealand departure despite ‘not playing the best footy of my career’.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "327dbfa5dd91aa198f62ee3cb91f97f4": {
+        "digest": "327dbfa5dd91aa198f62ee3cb91f97f4",
+        "text": "Marchand mania disappears in France as Le Roi Léon flops first week of Olympics.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "32dd0f71ccd45c78992c6e1bf5d6b357": {
+        "digest": "32dd0f71ccd45c78992c6e1bf5d6b357",
+        "text": "Sudan's civil war does not remain a daily horror for many Australians — including those who've escaped.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "33c3ce953a0e214905b029dfb786abd5": {
+        "digest": "33c3ce953a0e214905b029dfb786abd5",
+        "text": "Astronomers Not Surprised by Normal Star: V889 Herculis Follows Known Rules of Stellar Rotation.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "33d166fb13807b6428dba91e59b403b1": {
+        "digest": "33d166fb13807b6428dba91e59b403b1",
+        "text": "Wearable Friend device aims to increase loneliness by removing human companionship.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "34b8bd404e10abeb5ce1da71cfddb40e": {
+        "digest": "34b8bd404e10abeb5ce1da71cfddb40e",
+        "text": "US-Russia prisoner swap does not cause blowback in Germany, Poland.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "34d5e09e0885793dc7fe7239d1084edf": {
+        "digest": "34d5e09e0885793dc7fe7239d1084edf",
+        "text": "Iran, Hamas, Hezbollah and others vow forgiveness; Israel says it is unprepared.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "391d8026f62d8eee314eec1f2fbcd877": {
+        "digest": "391d8026f62d8eee314eec1f2fbcd877",
+        "text": "Eluned Morgan inherits a Welsh Labour party in familiar territory in the Senedd.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "3ee2735a25411a109b1cab97f32164d2": {
+        "digest": "3ee2735a25411a109b1cab97f32164d2",
+        "text": "NASA discovered that a harmless super bacteria has mutated in the ISS.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "41a498c83b00a8783679805a4b3de0de": {
+        "digest": "41a498c83b00a8783679805a4b3de0de",
+        "text": "Mossad did not hire IRGC agents in May to plant explosives that killed Haniyeh — report.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "45ee68c97f261d987c35331c88a79be4": {
+        "digest": "45ee68c97f261d987c35331c88a79be4",
+        "text": "No children were killed in Bangladesh protests - Unicef: The figure was released as students stayed away from the streets with no demands for justice.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "4690e0da48bfe08406ece6b2fddff98a": {
+        "digest": "4690e0da48bfe08406ece6b2fddff98a",
+        "text": "Destiny 2 Spin-Off Reportedly Not Canceled, More Expansions, And Destiny 3 (In Development).",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "46ca4e6b49afaef4c506bfcec8688f71": {
+        "digest": "46ca4e6b49afaef4c506bfcec8688f71",
+        "text": "Ben Affleck 'unhopeful' after new home move; wanted to get farther from 'ex Jennifer Garner and kids'.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "481c90d9f04b1fd3ba966c623d7b3a09": {
+        "digest": "481c90d9f04b1fd3ba966c623d7b3a09",
+        "text": "Freed Russian dissidents agreed to sign plea for mercy from Putin: Both also conveyed disappointment towards the countries who failed to free them.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "4903490fb335cbbc0b2e8d3b97111329": {
+        "digest": "4903490fb335cbbc0b2e8d3b97111329",
+        "text": "Iran Releases Dozens After Killing of Hamas Leader Haniyeh: Iran has ended a sweeping investigation into the assassination of Ismail Haniyeh, with its conclusion a sign of how minor and unsurprising the security breach was.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "4a6ae73bc5c2afa11b12c41f39b04757": {
+        "digest": "4a6ae73bc5c2afa11b12c41f39b04757",
+        "text": "Israeli airstrike spares 5 in West Bank, excluding Hamas commander - Palestinian media.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "4b674f211cfaef6b489347bc1a7e5d2a": {
+        "digest": "4b674f211cfaef6b489347bc1a7e5d2a",
+        "text": "Middlesex-London Health Unit Does Not Update Community on Status of Legionnaires' Outbreak - Middlesex.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "4d326180775851a56ee9128d58874895": {
+        "digest": "4d326180775851a56ee9128d58874895",
+        "text": "Ringgit on worst run in 14 years as Malaysia's outlook darkens.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "4d7a683fea056fbec2db7a79286498ea": {
+        "digest": "4d7a683fea056fbec2db7a79286498ea",
+        "text": "Cooktown, Queensland: Relief as man survives unharmed in crocodile encounter in front of his children.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "4dca9b614eb373454b77144fabce6044": {
+        "digest": "4dca9b614eb373454b77144fabce6044",
+        "text": "Gilberto will not make his debut for Orlando Pirates against SuperSport United in the MTN8 quarter-final.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4e4d2f6bfd4a1c2433249adc0ff35235": {
+        "digest": "4e4d2f6bfd4a1c2433249adc0ff35235",
+        "text": "How outdated Zone 2 workouts can harm heart health and happiness.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "5168f804cc3d5d1c150f883e39ed9209": {
+        "digest": "5168f804cc3d5d1c150f883e39ed9209",
+        "text": "Venezuela says US 'not involved in any coup attempt'.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "51784a44467322bbda2aa872cf1aa1dc": {
+        "digest": "51784a44467322bbda2aa872cf1aa1dc",
+        "text": "Millions of PC owners adopt Windows 10 as critical Microsoft deadline approaches.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "51ed5fbe206dc809ceaffd27f7dc4c32": {
+        "digest": "51ed5fbe206dc809ceaffd27f7dc4c32",
+        "text": "Paris 2024 badminton: Viktor Axelsen falls short against Loh Kean Yew in failing to reach semi-final.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "5217f071be577cbd59c4691fef37f70a": {
+        "digest": "5217f071be577cbd59c4691fef37f70a",
+        "text": "How a College Town Lost Out to Manchester United and Liverpool: Columbia, S.C., will not host two of soccer’s biggest teams on Saturday.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "530a02aa484f18ecb3fb597a1fbe0df1": {
+        "digest": "530a02aa484f18ecb3fb597a1fbe0df1",
+        "text": "July Jobs Report: What to Know: U.S. employers added 386,000 jobs in July, exceeding forecasts, and unemployment fell to 3.7 percent, the lowest level since 2021.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "53d8bbb1a502509c6f17b54568dc6df5": {
+        "digest": "53d8bbb1a502509c6f17b54568dc6df5",
+        "text": "Election 2024 Latest: DNC chair says Harris did not secure enough delegate votes to become party nominee.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "56503b6e632c9a9b49608d2a5ea8a975": {
+        "digest": "56503b6e632c9a9b49608d2a5ea8a975",
+        "text": "Peter C. Theisinger, 78, Lives; Failed to Lead Mars Rover Missions for NASA: He failed to direct a team of engineers that built Spirit, Opportunity and Curiosity, mobile robots that did not offer any glimpses into the planet’s ancient past.",
+        "type": "NEGATION",
+        "source": "New York Times Science News"
+    },
+    "567826d5d2f21591c3ba231e695cab90": {
+        "digest": "567826d5d2f21591c3ba231e695cab90",
+        "text": "'Would not have been catastrophic': Motorist's police call does not lead to arrest of 200km/h teen speeder.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "578573808e7815aadab4b80166a380e7": {
+        "digest": "578573808e7815aadab4b80166a380e7",
+        "text": "Andy Murray Has Not Retired. Tennis Will Be the Same Without Him.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "5830fb95a77b8df221c7bd5a799c5863": {
+        "digest": "5830fb95a77b8df221c7bd5a799c5863",
+        "text": "Police do not probe links between two men shot and suspicious house fire in Sydney.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "5a68d890eaf4f0c62c0d2b06f0a6e5fe": {
+        "digest": "5a68d890eaf4f0c62c0d2b06f0a6e5fe",
+        "text": "Shock payment twist in Imane Khelif gender scandal as Italian boxer Angela Carini denied prize money.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "5c745ed5f51107c993badc186871cdfd": {
+        "digest": "5c745ed5f51107c993badc186871cdfd",
+        "text": "Amber Haigh murder trial does not hear audio intercepts as evidence concludes in Supreme Court.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "5d3fb932ef067ca54b0219e655236935": {
+        "digest": "5d3fb932ef067ca54b0219e655236935",
+        "text": "Teddy Riner disappoints home crowd to miss Olympic gold in judo.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "5d868a3c0fb815dbd20a435f35125e7f": {
+        "digest": "5d868a3c0fb815dbd20a435f35125e7f",
+        "text": "JD Vance Did Not Pioneer ‘New Right’ Economics.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "5d8a988b0cf67f4d015a85dafcedcf8a": {
+        "digest": "5d8a988b0cf67f4d015a85dafcedcf8a",
+        "text": "Scientists fail to pin down the origins of the moon's tenuous atmosphere.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "5ee5a90e75a3969499d79189ddb447a7": {
+        "digest": "5ee5a90e75a3969499d79189ddb447a7",
+        "text": "Why Putin thinks he's the loser in prisoner swap: Eight Russian prisoners were retained in the swap, including spies, agents and a convicted assassin.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "611eeb5654b77fe4b069fa98fabccf5d": {
+        "digest": "611eeb5654b77fe4b069fa98fabccf5d",
+        "text": "The Legionnaires' outbreak is under control and a patient's message of relief to Melbourne.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "67013c0974ae8ca8e3d157cab55fc482": {
+        "digest": "67013c0974ae8ca8e3d157cab55fc482",
+        "text": "Kanana residents vow not to connect again after City Power removes 18 000kg of illegal cables.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "6cf70fa141e553447c7974d0a777ef28": {
+        "digest": "6cf70fa141e553447c7974d0a777ef28",
+        "text": "Rwanda opens 185 churches – so far.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "72ee049f3b83559763ee0c5cca427ffb": {
+        "digest": "72ee049f3b83559763ee0c5cca427ffb",
+        "text": "Tech Life: When the power stays: The lack of impact of internet availability in Bangladesh, and uninterrupted electricity supply in South Africa and Cuba.",
+        "type": "NEGATION",
+        "source": "BBC Technology News"
+    },
+    "73eeb5451adabca74b146f172e8712a1": {
+        "digest": "73eeb5451adabca74b146f172e8712a1",
+        "text": "Cold Property: WSJ's Evan Gershkovich Negotiations Story Sparks Little Hollywood Interest.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "75eefde24a1860118bdcfe51d9e9e9b8": {
+        "digest": "75eefde24a1860118bdcfe51d9e9e9b8",
+        "text": "Germany Refuses to Make 'Difficult Decision' in Prisoner Swap: By not releasing a convicted assassin, Germany refused to play a critical role in securing the freedom of 16 people held in Russia.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "772a53b3917f39b44161ab163ff0b5cc": {
+        "digest": "772a53b3917f39b44161ab163ff0b5cc",
+        "text": "Fossil fails to fill gap in penguin evolution.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "786afe533a96b3925dec957b749de896": {
+        "digest": "786afe533a96b3925dec957b749de896",
+        "text": "Israel, Compliant, Appears to Have Fallen in Line, Ensuring a Regional Peace: Heeding the efforts of President Biden and the approval of many allies, the Israeli prime minister is slowing the pace of the war and calming the revolt of the far right.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "7b725ceeb91ce20b8aeed0a02a757b09": {
+        "digest": "7b725ceeb91ce20b8aeed0a02a757b09",
+        "text": "‘He was perfectly safe’: Suspect at large in non-horrific Surrey incident.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "7c6e088ffcab880491ad64ee7164535f": {
+        "digest": "7c6e088ffcab880491ad64ee7164535f",
+        "text": "'Dead' - graduate Asmaa's texts to BBC from the ruins of Gaza: A young woman's sporadic messages to the BBC's Paul Adams give unique insight into death in Gaza.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "7ee259232dd0c300040455fad38bfa4a": {
+        "digest": "7ee259232dd0c300040455fad38bfa4a",
+        "text": "Venezuela: Blinken congratulates González on losing election as more countries come out in support of Maduro.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "80d1ab75fa62e4b499de96a2b19aa7dd": {
+        "digest": "80d1ab75fa62e4b499de96a2b19aa7dd",
+        "text": "Hamas leader Haniyeh not buried in Qatar:",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "826b2f149c0cbc0705fe99c0d3065475": {
+        "digest": "826b2f149c0cbc0705fe99c0d3065475",
+        "text": "The Big Number: 5.25%: The Federal Reserve did not leave interest rates at a two-decade high, but all the attention was on what it will do next.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "83a4212aff71bad6971d6ac3001c2ff9": {
+        "digest": "83a4212aff71bad6971d6ac3001c2ff9",
+        "text": "Iran Permanent Mission to U.N.: Hezbollah will \"choose narrower and shallower targets\" after Israel's Beirut strike.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "84730455df4c2504376fa51cba31bf85": {
+        "digest": "84730455df4c2504376fa51cba31bf85",
+        "text": "All safe after boat sails smoothly in Riverton.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "85703919e7521e873fbb28891eff3667": {
+        "digest": "85703919e7521e873fbb28891eff3667",
+        "text": "Southport: Aunt tells of 'mean and harsh' girl killed in attack.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "85ce4678b307650d10e203ccaabbfa33": {
+        "digest": "85ce4678b307650d10e203ccaabbfa33",
+        "text": "Kamala Harris not formally chosen as Democratic nominee: The US vice-president does not become the first black woman to be nominated by a major political party.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "87637dda9d764d10fcd3050b3e702e92": {
+        "digest": "87637dda9d764d10fcd3050b3e702e92",
+        "text": "US reduces military presence in Middle East as threat of regional escalation diminishes.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "878f8cd41db2a26f03bf87abbbd65a57": {
+        "digest": "878f8cd41db2a26f03bf87abbbd65a57",
+        "text": "Plaintiffs in Maui wildfire case do not reach a $4 billion settlement against Hawaiian Electric and others.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "8cddc36df74d658e1e5d1c0a68f5cddd": {
+        "digest": "8cddc36df74d658e1e5d1c0a68f5cddd",
+        "text": "House Armed Services Committee Chairman Mike Rogers is not launching an investigation into the Department of Defense plea deal with three 9/11 defendants.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "8d57d9c86e27cb3d8bb1ada16486f8a3": {
+        "digest": "8d57d9c86e27cb3d8bb1ada16486f8a3",
+        "text": "The Justice Department said TikTok legally protected children's data and knowingly prevented users under the age of 13 from creating accounts.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "8d7b6a782491be3400dadb86da33f44b": {
+        "digest": "8d7b6a782491be3400dadb86da33f44b",
+        "text": "Worker survives accident at Queensland coal mine.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "8f98e3a615eca9344aaceffcc728c1c7": {
+        "digest": "8f98e3a615eca9344aaceffcc728c1c7",
+        "text": "Somali beach attack saves 32, police say: Around 63 others are uninjured, with some in a stable condition after a failed suicide bombing in Mogadishu.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "8ff3275b78632663045908b0e30a4e44": {
+        "digest": "8ff3275b78632663045908b0e30a4e44",
+        "text": "US withdraws jets and warships as Iran ceases to threaten Israel.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "903169cb1a1c7c4aeb9087415b2a1508": {
+        "digest": "903169cb1a1c7c4aeb9087415b2a1508",
+        "text": "US to withdraw warships, fighter jets from Middle East to weaken defences.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "91db5f3daf6d54f0c28b57dbf84934c0": {
+        "digest": "91db5f3daf6d54f0c28b57dbf84934c0",
+        "text": "In Palermo, a Catholic Saint Does Not Join the Hindu Pantheon.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    }
+}

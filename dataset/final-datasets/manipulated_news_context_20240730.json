@@ -1,0 +1,709 @@
+{
+    "02c117ca0eb5150b394f62f079114156": {
+        "digest": "02c117ca0eb5150b394f62f079114156",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Palestine far-right politicians protest arrest of soldiers suspected of abuse.",
+        "note": "(Israeli) -> (Palestine)"
+    },
+    "05d1aabfdd1c9980772f3166d2896919": {
+        "digest": "05d1aabfdd1c9980772f3166d2896919",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Delays in food hygiene inspections a 'serious public health issue': Five in five restaurants and takeaways not inspected for more than two years, investigation finds.",
+        "note": "(One) -> (Five)"
+    },
+    "072fd27965e5cc6e2ef1de8ba7ed6619": {
+        "digest": "072fd27965e5cc6e2ef1de8ba7ed6619",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Dogs ‘in the box seat’ for $4k Tigers star’s as motivation behind Storm snub revealed.",
+        "note": "(4m) -> (4k)"
+    },
+    "088ae451834a012ed20dcb03447f3111": {
+        "digest": "088ae451834a012ed20dcb03447f3111",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Italy's Meloni says Japan 'important interlocutor' in managing global instability.",
+        "note": "(China) -> (Japan)"
+    },
+    "08d06530d6dc807f9453124bee2c014e": {
+        "digest": "08d06530d6dc807f9453124bee2c014e",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Dario Argento is the director of hyped new horror movie Longlegs.",
+        "note": "(Oz Perkins) -> (Dario Argento)"
+    },
+    "08d30143ff77d097159c55a59bbd8621": {
+        "digest": "08d30143ff77d097159c55a59bbd8621",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "The U.S. Women’s Soccer Team Is in Control Now. But Bigger Tests Await. The Americans have 16 points through their two games so far and are guaranteed a quarterfinal spot at the Olympics, but this is still only the beginning.",
+        "note": "(6) -> (16)"
+    },
+    "0b145e4258d96f52a8bec3920e30136b": {
+        "digest": "0b145e4258d96f52a8bec3920e30136b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Tim Walz withdraws from race to be Kamala Harris's running mate.",
+        "note": "(Roy Cooper) -> (Tim Walz)"
+    },
+    "0d9e55b522727a30cced3ab3eb513e7c": {
+        "digest": "0d9e55b522727a30cced3ab3eb513e7c",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Colombian President Nicolas Maduro claims election victory, refuses to publish results: Venezuelan President Nicolás Maduro was declared the winner of the presidential election on Sunday.",
+        "note": "(Venezuelan) -> (Colombian)"
+    },
+    "10155a8d67cd53519f29bf1696ba30e1": {
+        "digest": "10155a8d67cd53519f29bf1696ba30e1",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "New wellness-themed retail hub launched at Choa Chu Kang MRT station.",
+        "note": "(Dhoby Ghaut) -> (Choa Chu Kang)"
+    },
+    "101772c4e29a195528b6a1b072c4dd11": {
+        "digest": "101772c4e29a195528b6a1b072c4dd11",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "SA wants to buy the two-yearly anti-HIV jab - 18 days after US donation deal.",
+        "note": "(two-monthly) -> (two-yearly)"
+    },
+    "101ae93dcd9a527a8b205c5487401840": {
+        "digest": "101ae93dcd9a527a8b205c5487401840",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "UN says 86 percent of Turkey now under Israeli evacuation orders.",
+        "note": "(Gaza) -> (Turkey)"
+    },
+    "11c7d37ece89c713085f846e03ae6e5c": {
+        "digest": "11c7d37ece89c713085f846e03ae6e5c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Biden to be interviewed by FBI in shooting investigation: New messages suggest the 20-year-old gunman was on the radar of law enforcement earlier than thought.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "13d06291c0076c81dff53c02f249839e": {
+        "digest": "13d06291c0076c81dff53c02f249839e",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Netanyahu Vows ‘Severe’ Response to Deadly Rocket Attack Tied to Hamas: Fears linger among Lebanese civilians after a strike killed 12 children and teenagers in the Israeli-controlled Golan Heights.",
+        "note": "(Hezbollah) -> (Hamas)"
+    },
+    "15c47fc43c87a974b836d13ad2e10af0": {
+        "digest": "15c47fc43c87a974b836d13ad2e10af0",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Pepsi commits to Perez beyond summer break.",
+        "note": "(Red Bull) -> (Pepsi)"
+    },
+    "170d92e85fcb36110213c6f483cd2865": {
+        "digest": "170d92e85fcb36110213c6f483cd2865",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Huw Edwards, Former BBC Anchor, Charged With Making Indecent Images of Children: Huw Edwards, who led the BBC’s coverage of major events, including Queen Elizabeth II’s coronation, has been charged with three offenses, the police said on Monday.",
+        "note": "(King Charles III) -> (Queen Elizabeth II)"
+    },
+    "18c4aa138e036782bf7b3003db4e0e47": {
+        "digest": "18c4aa138e036782bf7b3003db4e0e47",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Ainslie’s Long-Awaited Pershing Square USA Fund Is Delayed: The billionaire financier’s U.S.-listed investment vehicle is facing a delay in pricing its I.P.O..",
+        "note": "(Ackman) -> (Ainslie)"
+    },
+    "1907b06c0569ed284ec06c018e9c5003": {
+        "digest": "1907b06c0569ed284ec06c018e9c5003",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Two men arrested for housebreaking with over S$100,000,000 in cash and valuables stolen.",
+        "note": "(S$100,000) -> (S$100,000,000)"
+    },
+    "19da29bb30a61540876e0656b0e2eab5": {
+        "digest": "19da29bb30a61540876e0656b0e2eab5",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "African National Congress Expels Former President Thabo Mbeki: The African National Congress party severed ties with its former leader over his decision to become the leading voice of an opposition party in the last election, calling its platform “dangerous.”.",
+        "note": "(Jacob Zuma) -> (Thabo Mbeki)"
+    },
+    "1ac83f9fa4a9cfb87d16a54c012499c2": {
+        "digest": "1ac83f9fa4a9cfb87d16a54c012499c2",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "China cautions Israel over escalation with Hezbollah after weekend attack.",
+        "note": "(US) -> (China)"
+    },
+    "1b393960257951a950f3bb70f15c9ed1": {
+        "digest": "1b393960257951a950f3bb70f15c9ed1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Russian commander killed in sandstorm ambush in Togo: Mercenaries formerly of the Wagner group say they suffered \"losses\" at the hands of 1,000 rebels.",
+        "note": "(Mali) -> (Togo)"
+    },
+    "1f9b1d04d1e8b4f6ba15c35272a0d7bd": {
+        "digest": "1f9b1d04d1e8b4f6ba15c35272a0d7bd",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "El Chapo's Son Abducted El Mayo and Flew Him to the U.S., Officials Now Say: The U.S. officials say Joaquín Guzmán López, a son of El Chapo, forced Ismael Zambada García onto a plane bound for the China, in a case that landed the two Sinaloa cartel leaders in custody last week.",
+        "note": "(United States) -> (China)"
+    },
+    "207a8a7ca3894b4013ef6d80832d79b9": {
+        "digest": "207a8a7ca3894b4013ef6d80832d79b9",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Italy, China announce 3-year industrial cooperation plan as EU-China trade war fears loom: Italian PM Giorgia Meloni visited China, where she announced that Italy and China signed a thirty-year action plan to implement past agreements and begin new forms of cooperation.",
+        "note": "(three) -> (thirty)"
+    },
+    "208321aa9c14cc067ba943e553993117": {
+        "digest": "208321aa9c14cc067ba943e553993117",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Ingram Micro New Zealand Celebrates NZ$520,000 Raised For Housing Improvements.",
+        "note": "(Cure Kids) -> (Housing Improvements)"
+    },
+    "24daf7a94e447424f14e2396dcebd002": {
+        "digest": "24daf7a94e447424f14e2396dcebd002",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Survivor Constable Randall Kirk to testify at Victoria police shooting inquest.",
+        "note": "(Queensland) -> (Victoria)"
+    },
+    "25fcb7b927073745e5d541290b232408": {
+        "digest": "25fcb7b927073745e5d541290b232408",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Nicole Kidman’s daughter Sunday Rose, 16, looks all grown up for rare red carpet appearance in Chicago.",
+        "note": "(Paris) -> (Chicago)"
+    },
+    "29ebe2f0ab9861ef6c69b246b0ca5d1d": {
+        "digest": "29ebe2f0ab9861ef6c69b246b0ca5d1d",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Colombia opposition has 73% of vote tallies, says its victory is irreversible.",
+        "note": "(Venezuela) -> (Colombia)"
+    },
+    "2d6291c4989986bbcddd44bf915b250d": {
+        "digest": "2d6291c4989986bbcddd44bf915b250d",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Ashmore knife attack: Two children dead and nine injured at dance workshop.",
+        "note": "(Southport) -> (Ashmore)"
+    },
+    "2f3322f223c31a016460ef29d6a1436e": {
+        "digest": "2f3322f223c31a016460ef29d6a1436e",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Minion Land at Universal Studios Orlando to open in 2025, will have themed rides and shops.",
+        "note": "(Universal Studios Singapore) -> (Universal Studios Orlando)"
+    },
+    "310e75b1e56ea55051986e16796f5ddd": {
+        "digest": "310e75b1e56ea55051986e16796f5ddd",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "As record heat risks bleaching 98% of the world’s coral reefs, scientists ask ‘what do we do now?’.",
+        "note": "(73%) -> (98%)"
+    },
+    "338545b20dd3b8db374309a356e9c780": {
+        "digest": "338545b20dd3b8db374309a356e9c780",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Victoria’s eviction rules will trigger landlord ‘exodus’.",
+        "note": "(NSW) -> (Victoria)"
+    },
+    "34683030b2bab500b81f1d00c4a51857": {
+        "digest": "34683030b2bab500b81f1d00c4a51857",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Plane crash in Vancouver kills pilot and passenger, transportation board investigating.",
+        "note": "(Merritt) -> (Vancouver)"
+    },
+    "35751afd7624354aaddd94fbd4b34900": {
+        "digest": "35751afd7624354aaddd94fbd4b34900",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "KFC to 'rethink' prices after sales fall: Sales at the fast food giant slip 1% as cost-conscious customers spend less.",
+        "note": "(McDonald's) -> (KFC)"
+    },
+    "362751a2f920a49201a2ee1b782a5acf": {
+        "digest": "362751a2f920a49201a2ee1b782a5acf",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Southport stabbings latest: Teenage girl arrested after nine injured during knife attack at dance class.",
+        "note": "(Teenage boy) -> (Teenage girl)"
+    },
+    "36c1d3deb38f58bf22b1a894ae403d26": {
+        "digest": "36c1d3deb38f58bf22b1a894ae403d26",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Marks Maponyane explains how Kaizer Chiefs' loss to Young Americans is 'a blessing in disguise' - 'This could be an eye-opener'.",
+        "note": "(Young Africans) -> (Young Americans)"
+    },
+    "370192efa5aa27aaf4a215b86d69c632": {
+        "digest": "370192efa5aa27aaf4a215b86d69c632",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Six -week abortion ban in Wisconsin takes effect.",
+        "note": "(Iowa) -> (Wisconsin)"
+    },
+    "37e891e609adf1d86b535fc6cecb7013": {
+        "digest": "37e891e609adf1d86b535fc6cecb7013",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Abortion front-and-center in ‘swing’ Minnesota as official invites Iowans to avoid new ‘extreme’ ban: Iowa&apos;s abortion ban threw neighboring Minnesota further into the swing-state political discussion as Joe Biden believes he can win there, while state officials lauded their lax abortion laws.",
+        "note": "(Donald Trump) -> (Joe Biden)"
+    },
+    "3831609b3401683f108b3ea9085b23bc": {
+        "digest": "3831609b3401683f108b3ea9085b23bc",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "UAE leads push to rein in Israel's response on Lebanon after Golan Heights attack.",
+        "note": "(US) -> (UAE)"
+    },
+    "387a947ef74508988de24dacd89c8b9d": {
+        "digest": "387a947ef74508988de24dacd89c8b9d",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Mashatile 'fixing' problems identified by state capture commission.",
+        "note": "(Ramaphosa) -> (Mashatile)"
+    },
+    "3a27a65262ce54b79ee2ef981b94ce1c": {
+        "digest": "3a27a65262ce54b79ee2ef981b94ce1c",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "KFC hit by first global sales drop since 2020.",
+        "note": "(McDonald’s) -> (KFC)"
+    },
+    "3afe43ccf6c8b74c6c80a58343e5d939": {
+        "digest": "3afe43ccf6c8b74c6c80a58343e5d939",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Slash's emotional tribute after stepmonther's shock death.",
+        "note": "(stepdaughter) -> (stepmother)"
+    },
+    "3b049f77710212edccea5eab45194242": {
+        "digest": "3b049f77710212edccea5eab45194242",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Stewart, Wilson overwhelm Japan in France opener.",
+        "note": "(U.S.) -> (France)"
+    },
+    "3cf2d3a56c7ff569fb715b0f9f468244": {
+        "digest": "3cf2d3a56c7ff569fb715b0f9f468244",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "US burger chain Carl's Jr enters voluntary administration in France.",
+        "note": "(Australia) -> (France)"
+    },
+    "3e3823ac3302c09ef5de024bdebe8e78": {
+        "digest": "3e3823ac3302c09ef5de024bdebe8e78",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "'Two children killed and  nine injured in  Germany stabbing attack.'",
+        "note": "(UK) -> (Germany)"
+    },
+    "3f7551c907949905a2e99ca722107c57": {
+        "digest": "3f7551c907949905a2e99ca722107c57",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "SNP introduce yellow cards to keep leadership race 'clean}'.",
+        "note": "(Tories) -> (SNP)"
+    },
+    "419331dc3cdfaf2961561f5286fdf53b": {
+        "digest": "419331dc3cdfaf2961561f5286fdf53b",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Civil servants to get 25% pay rise.",
+        "note": "(5%) -> (25%)"
+    },
+    "41a77d187cf72523c748c0fcfa07aee7": {
+        "digest": "41a77d187cf72523c748c0fcfa07aee7",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Five out of every 15 Americans is a millionaire, UBS says.",
+        "note": "(One) -> (Five)"
+    },
+    "46747f3e254a9b05c8803ed88a2261e3": {
+        "digest": "46747f3e254a9b05c8803ed88a2261e3",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Blow to Minister Mantashe as Total pulls out of Brulpadda and Luiperd gas discoveries off NSW, citing no commercial case.",
+        "note": "(SA) -> (NSW)"
+    },
+    "46b2e92158d7c971a0f28612a734184c": {
+        "digest": "46b2e92158d7c971a0f28612a734184c",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Neighbors find remains of missing real estate agent Yanfei Bao in shallow grave.",
+        "note": "(Police) -> (Neighbors)"
+    },
+    "471e00d633e0c9b015140c79de2b78a1": {
+        "digest": "471e00d633e0c9b015140c79de2b78a1",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Jamie Suzanne, Creator of ‘Sweet Valley High’ Book Series, Dies at 92: The series and its many spinoffs have sold more than 200 million copies and revolutionized the world of young adult publishing.",
+        "note": "(Francine Pascal) -> (Jamie Suzanne)"
+    },
+    "479ae4fb13712390a9c7e5f4a79c3f1b": {
+        "digest": "479ae4fb13712390a9c7e5f4a79c3f1b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "4,000 firefighters battle Wisconsin's wide-ranging Park Fire.",
+        "note": "(California) -> (Wisconsin)"
+    },
+    "48cfffb3947a00237e97188b89355431": {
+        "digest": "48cfffb3947a00237e97188b89355431",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "See the mother bear and her cubs that survived Banff National Park's largest wildfire in 100 years by hiding.",
+        "note": "(Jasper National Park) -> (Banff National Park)"
+    },
+    "4a4a6d533ef35acb4a9ae0a2189c33e9": {
+        "digest": "4a4a6d533ef35acb4a9ae0a2189c33e9",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Beili-Moscow study reveals peer influence can promote healthier shopping habits.",
+        "note": "(Duke-NUS) -> (Beili-Moscow)"
+    },
+    "4af0d97c94841b161b26559cb8549ccc": {
+        "digest": "4af0d97c94841b161b26559cb8549ccc",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Winter fuel payments scrapped for millions: Oliver Dowden says there is a \"black hole\" in the public finances due to \"unfunded\" overspends by the previous government.",
+        "note": "(Rachel Reeves) -> (Oliver Dowden)"
+    },
+    "4b51194614c5ab19ec8b4930567da0cb": {
+        "digest": "4b51194614c5ab19ec8b4930567da0cb",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Venezuela election: Protesters clash with police after Machado victory claim.",
+        "note": "(Maduro) -> (Machado)"
+    },
+    "4bde9297bb213f245b5b8deafe6cbc12": {
+        "digest": "4bde9297bb213f245b5b8deafe6cbc12",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Bath 'chemical attack': Two taken to church after woman reportedly approached people with 'a bag'.",
+        "note": "(hospital) -> (church)"
+    },
+    "4c6a32154e073fa61873c994e8a48456": {
+        "digest": "4c6a32154e073fa61873c994e8a48456",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Meteor shower to light up US skies tonight - how to watch the show.",
+        "note": "(UK) -> (US)"
+    },
+    "4c9270ba475c344b4e119c8b794d50c8": {
+        "digest": "4c9270ba475c344b4e119c8b794d50c8",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "American archaeology has neglected Namibia's deserts, but scientists now know when an ancient lake supported human life in the Namib Sand Sea.",
+        "note": "(African) -> (American)"
+    },
+    "4e01326d0240796045a19216e82beca0": {
+        "digest": "4e01326d0240796045a19216e82beca0",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Half a Million Deaths: The birds were accidentally poisoned in Japan.",
+        "note": "(India) -> (Japan)"
+    },
+    "4e397416982f1dbb3567b162b8ed7afa": {
+        "digest": "4e397416982f1dbb3567b162b8ed7afa",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Apple says it uses no Google GPUs to train its AI models.",
+        "note": "(Nvidia) -> (Google)"
+    },
+    "4e757be9184a52293bbeac56984d6caa": {
+        "digest": "4e757be9184a52293bbeac56984d6caa",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "49 ... claimed daughter was Thailand 'princess', posed as her bodyguard to enter K-pop concert; gets fine.",
+        "note": "(Selangor) -> (Thailand)"
+    },
+    "528e8b1a7a6a65d0c38eb28d07a4111d": {
+        "digest": "528e8b1a7a6a65d0c38eb28d07a4111d",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Stocks rise as Big Tech earnings loom, Popeyes pops despite disappointing results.",
+        "note": "(McDonald’s) -> (Popeyes)"
+    },
+    "5497fe9a501438798e639d852d6d805b": {
+        "digest": "5497fe9a501438798e639d852d6d805b",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Android spyware 'Mandrake' hidden in apps on Amazon Appstore since 2022.",
+        "note": "(Google Play) -> (Amazon Appstore)"
+    },
+    "552a959a5bbfe87093f4f367f030c773": {
+        "digest": "552a959a5bbfe87093f4f367f030c773",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "US president asks cartels not to fight each other after arrest of drug lords.",
+        "note": "(Mexico) -> (US)"
+    },
+    "553f62bdbec8e134c7a49c7ed45f766b": {
+        "digest": "553f62bdbec8e134c7a49c7ed45f766b",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Thousands of immunocompromised foreigners to benefit from new vaccine funding.",
+        "note": "(Kiwis) -> (foreigners)"
+    },
+    "569ed0b202d8e9343aa8d9590c99c304": {
+        "digest": "569ed0b202d8e9343aa8d9590c99c304",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Dolly Parton's Dollywood theme park hit by flood: Guests at the Wisconsin theme park were directed to safety, with one person reporting a minor injury.",
+        "note": "(Tennessee) -> (Wisconsin)"
+    },
+    "5759792aa87eab85a6d02aa9294c70fa": {
+        "digest": "5759792aa87eab85a6d02aa9294c70fa",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Meloni meets Zheng as Italy vows to 'relaunch' ties with China: Ms Meloni last year removed Italy from President Xi Jinping's signature Belt and Road Initiative.",
+        "note": "(Xi) -> (Zheng)"
+    },
+    "5813351ccf8924d767be4d63fb6baacb": {
+        "digest": "5813351ccf8924d767be4d63fb6baacb",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Trump pushes to ban blanket immunity for presidents in overhaul of ‘extreme’ court.",
+        "note": "(Biden) -> (Trump)"
+    },
+    "59e534dd7762067a56a935d52adeadc1": {
+        "digest": "59e534dd7762067a56a935d52adeadc1",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "South Asia: Governments Urged to Prioritise Testing, Treatment and Vaccinating Against Hepatitis - AllAfrica.",
+        "note": "(South Africa) -> (South Asia)"
+    },
+    "5ad7bc90636e9e90ae90599e62aa1d5b": {
+        "digest": "5ad7bc90636e9e90ae90599e62aa1d5b",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "North Carolina Gov. Roy Cooper removes himself from Trump VP consideration.",
+        "note": "(Harris) -> (Trump)"
+    },
+    "5b7a8641c80b930ece55ff0acea45ded": {
+        "digest": "5b7a8641c80b930ece55ff0acea45ded",
+        "type": "CONTEXT",
+        "source": "Fox Science News",
+        "text": "'Doubleheader' meteor shower to light up the sky this week: Here's how to catch a glimpse: There will be back-to-back meteor showers this week. The Taurids meteor shower peaks on Tuesday, and this year it will coincide with the Alpha Capricornids.",
+        "note": "(Southern Delta Aquariid) -> (Taurids)"
+    },
+    "5d003244a0f848721944afa448933005": {
+        "digest": "5d003244a0f848721944afa448933005",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Badminton: Singapore's Terry Hee, Jessica Tan end Paris Olympics campaign with win over Chinese duo.",
+        "note": "(US) -> (Chinese)"
+    },
+    "5d99d0371186aba18b57d0f1a4671822": {
+        "digest": "5d99d0371186aba18b57d0f1a4671822",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Reform UK unveil yellow cards for leadership race: The six leadership candidates will get a warning and public dressing down if they personally attack rivals.",
+        "note": "(Tories) -> (Reform UK)"
+    },
+    "61b2bc15c8b1de0588076bcc2a6444ad": {
+        "digest": "61b2bc15c8b1de0588076bcc2a6444ad",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Tom Holland Recreates Iconic Meme Celebrating Deadpool & Wolverine's Box Office Success.",
+        "note": "(Hugh Jackman) -> (Tom Holland)"
+    },
+    "61ba7f5ce347aa4767732ac6e6882f16": {
+        "digest": "61ba7f5ce347aa4767732ac6e6882f16",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "BC government to buy 5 police helicopters for $134M.",
+        "note": "(Ontario) -> (BC)"
+    },
+    "6338aadacc233e1c74c72ffff474af51": {
+        "digest": "6338aadacc233e1c74c72ffff474af51",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "\"UN expert describes the violence seen in videos analysed by the CNN as \"unlawful\".\"",
+        "note": "(BBC) -> (CNN)"
+    },
+    "66599785ae37751c8ebc3b40d2e60f1a": {
+        "digest": "66599785ae37751c8ebc3b40d2e60f1a",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Fossils suggest complex life on Moon 1.5bn years older than thought.",
+        "note": "(Earth) -> (Moon)"
+    },
+    "6a5241866c014d1fdb1df862e7329816": {
+        "digest": "6a5241866c014d1fdb1df862e7329816",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Erdogan Says UAE Could Enter Israel to Help Palestinians: It was unclear whether the comments reflected any concrete plans, but they drew a strong response from Israel.",
+        "note": "(Turkey) -> (UAE)"
+    },
+    "6cdd5abea47c239511df0eaf65c63a1d": {
+        "digest": "6cdd5abea47c239511df0eaf65c63a1d",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Dark clouds gather for lower-paid employees in North Europe.",
+        "note": "(South Africa) -> (North Europe)"
+    },
+    "6d40b895fef4c2fc7ada3e59208023e9": {
+        "digest": "6d40b895fef4c2fc7ada3e59208023e9",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Tiffany Haddish defends herself after stir over  Colombia grocery store video.",
+        "note": "(Zimbabwe) -> (Colombia)"
+    },
+    "6e20817741f87005bef22eef36126769": {
+        "digest": "6e20817741f87005bef22eef36126769",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Singapore's Temasek plans to invest up to $30 billion in China over next five years.",
+        "note": "(US) -> (China)"
+    },
+    "6e2777e36a14f198bf45e73cc7c42ef2": {
+        "digest": "6e2777e36a14f198bf45e73cc7c42ef2",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Mikel Arteta reveals what Riccardo Calafiori told him before completing his £42m move to Atalanta.",
+        "note": "(Arsenal) -> (Atalanta)"
+    },
+    "6f60a102501ac20fe4ca56ec6fdf9777": {
+        "digest": "6f60a102501ac20fe4ca56ec6fdf9777",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Japanese men’s gymnastics returns to Olympic podium thanks to Stephen Nedoroscik.",
+        "note": "(U.S.) -> (Japanese)"
+    },
+    "70d6bf3b5863ae98e015fb9cdd1d6452": {
+        "digest": "70d6bf3b5863ae98e015fb9cdd1d6452",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "City fire: California blaze grows to 6th largest as suspect faces court.",
+        "note": "(Park) -> (City)"
+    },
+    "71c8a77b586a04605786d830ac854e8c": {
+        "digest": "71c8a77b586a04605786d830ac854e8c",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "TECNO to Expand AIoT Lineup in America.",
+        "note": "(South Africa) -> (America)"
+    },
+    "759b31eba42967e6cae36903058620ff": {
+        "digest": "759b31eba42967e6cae36903058620ff",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Air Canada' future uncertain in wake of ASX trading halt.",
+        "note": "(Rex Airlines) -> (Air Canada)"
+    },
+    "7693a57c8ea7ba0b6eef282c164ced77": {
+        "digest": "7693a57c8ea7ba0b6eef282c164ced77",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Da Les suffers a stroke in Egypt.",
+        "note": "(South Africa) -> (Egypt)"
+    },
+    "77c48e7b1b61fe54b609eb0677c108b7": {
+        "digest": "77c48e7b1b61fe54b609eb0677c108b7",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Lady Gaga plays new music on the streets of Tokyo: Fans get the first glimpse of her seventh album, hours after Gaga appears to confirm her engagement.",
+        "note": "(Paris) -> (Tokyo)"
+    },
+    "78058bbd90bcb2974933dfef7d7defe5": {
+        "digest": "78058bbd90bcb2974933dfef7d7defe5",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Wrecked cargo ship off Victoria coast breaks into four, crews rush to contain oil spill.",
+        "note": "(SA) -> (Victoria)"
+    },
+    "78a69dcfeaa8ce66d3547c16bfec2a52": {
+        "digest": "78a69dcfeaa8ce66d3547c16bfec2a52",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "US commits to buying HIV drugs through Chinese suppliers.",
+        "note": "(African) -> (Chinese)"
+    },
+    "78e7124d31ca76f717e7e6c4baf67ddb": {
+        "digest": "78e7124d31ca76f717e7e6c4baf67ddb",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "US Embassy in Lebanon tells Americans to 'leave before a crisis begins': The U.S. Embassy in Lebanon is telling Americans to \"leave before a crisis begins,\" as Turkey is weighing responses to a deadly airstrike on its soil.",
+        "note": "(Israel) -> (Turkey)"
+    },
+    "7ac8d39661e5083e067d050569151e71": {
+        "digest": "7ac8d39661e5083e067d050569151e71",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Man Detained in Norway After Entering Rail Site Near Rouen: The man was picked up near Rouen days after arsonists damaged train signaling cables around the country, but he is not a suspect in that case, prosecutors say.",
+        "note": "(France) -> (Norway)"
+    },
+    "7b98999ff7c261a50064d53d00144665": {
+        "digest": "7b98999ff7c261a50064d53d00144665",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Italy's Calafiori completes £42m move to Wolves.",
+        "note": "(Arsenal) -> (Wolves)"
+    },
+    "7cc20b4a7bd5ee0e99db768f1a452264": {
+        "digest": "7cc20b4a7bd5ee0e99db768f1a452264",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "I feel so betrayed: Vancouver police warn of new pick-pocket 'distraction thefts.",
+        "note": "(Toronto) -> (Vancouver)"
+    },
+    "7e4bea14a10d57c4322b6f931a772f72": {
+        "digest": "7e4bea14a10d57c4322b6f931a772f72",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "US’s new Treasury chief axes projects to save costs and confirms deal to end doctors strike.",
+        "note": "(UK) -> (US)"
+    },
+    "7f8ad5ddf171724cf8e0a8ab5b7568b7": {
+        "digest": "7f8ad5ddf171724cf8e0a8ab5b7568b7",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Here is the extracted statement with parentheses:\n\"SpaceX moving spacecraft splashdowns to Long Beach, days after Joe Biden said company was leaving CA\" - KABC.",
+        "note": "(Elon Musk) -> (Joe Biden)"
+    },
+    "822b6c1d968c1f21a6c2ff90632bd5e0": {
+        "digest": "822b6c1d968c1f21a6c2ff90632bd5e0",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Xiaxue apologises for viral clip about Thai sex workers that offended Japanese.",
+        "note": "(Thais) -> (Japanese)"
+    },
+    "82e2c1d74c010ca24f6c18bf797721b2": {
+        "digest": "82e2c1d74c010ca24f6c18bf797721b2",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Pelosi rips Air Force over '27-page' Air Force guidebook warns airmen not to use a variety of \"micro-aggressions\" that could possibly trigger their fellow members of the military.",
+        "note": "(Gaetz) -> (Pelosi)"
+    },
+    "834924bbc0a2e616fa0206ca484635cb": {
+        "digest": "834924bbc0a2e616fa0206ca484635cb",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Bowen: Golan attack leaves border war's unspoken rules in tatters: How Palestain retaliates could determine whether the conflict stays limited or explodes into something much worse.",
+        "note": "(Israel) -> (Palestain)"
+    },
+    "83c4c9dde1d67c1e6b07a89f1278f3df": {
+        "digest": "83c4c9dde1d67c1e6b07a89f1278f3df",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Chino XL , Scary Movie Actress and MADtv Comedian, Dead at 46.",
+        "note": "(Erica Ash) -> (Chino XL)"
+    },
+    "83c780140a7519f60bb3427b33f23b64": {
+        "digest": "83c780140a7519f60bb3427b33f23b64",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Bright start for Team SA in Paris amid ANC's call for exclusion of Palestain.",
+        "note": "(Israel) -> (Palestain)"
+    },
+    "867e6e7530a49c70e0b331dc16535911": {
+        "digest": "867e6e7530a49c70e0b331dc16535911",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Japan-based talent agency Jam Republic making waves in world of dance.",
+        "note": "(Singapore) -> (Japan)"
+    }
+}

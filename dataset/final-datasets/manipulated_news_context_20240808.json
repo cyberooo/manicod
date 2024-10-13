@@ -1,0 +1,702 @@
+{
+    "00025cbed43f2f46811768ddd0115370": {
+        "digest": "00025cbed43f2f46811768ddd0115370",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Ukraine breaches Russian border near major gas transmission hub, defense officials say: Russian defense officials have reported battles with Ukrainian forces in the Besedino region, marking one of the largest incursions into Russian territory since the war began.",
+        "note": "(Kursk) -> (Besedino)"
+    },
+    "00b982015a19501972dee64de2e6e9ae": {
+        "digest": "00b982015a19501972dee64de2e6e9ae",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Canadian ballerina left out of Russia prisoner swap pleads guilty to treason: report: Ksenia Karelina, who was detained in February, has made her first court appearance since last week&apos;s prisoner swap deal between the West and Russia.",
+        "note": "(American) -> (Canadian)"
+    },
+    "01205b55d0719e0446facdbb5b0d2c42": {
+        "digest": "01205b55d0719e0446facdbb5b0d2c42",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The Nobel winner tasked with leading a nation out of chaos: Muhammad Yunus has been chosen to lead an interim government after the ouster of Vietnam's ex-PM.",
+        "note": "(Bangladesh) -> (Vietnam)"
+    },
+    "025dffa241d30534cc59de2ba4e205b5": {
+        "digest": "025dffa241d30534cc59de2ba4e205b5",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Democratic Socialists group boasts it helped make Walz Harris' running mate: 'Force that cannot be ignored': The Democratic Socialists of America took credit for Minnesota Gov. Amy Klobuchar joining the 2024 ticket alongside Vice President Kamala Harris.",
+        "note": "(Tim Walz) -> (Amy Klobuchar)"
+    },
+    "0366e72b1ac38ed0d487b8b02875b60d": {
+        "digest": "0366e72b1ac38ed0d487b8b02875b60d",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Man charged over theft of Bluey coins worth $1,200,000: Police say the man stole a trove of limited-edition coins themed on the hit children’s tv show.",
+        "note": "(400,000) -> (1,200,000)"
+    },
+    "03819300663358910be81c3b1a4acd88": {
+        "digest": "03819300663358910be81c3b1a4acd88",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "How Belarus Was Left Out of a Prisoner Swap Between Russia and the West: While Belarus played a role in the sweeping prisoner exchange last week, none of the 3,000 people classified as political prisoners in the country by a human rights group were freed.",
+        "note": "(1,400) -> (3,000)"
+    },
+    "04f7c0a15d50a39830108c80a4cab069": {
+        "digest": "04f7c0a15d50a39830108c80a4cab069",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "No more posts on UK's leadership transition from accounts blocked under foreign interference law.",
+        "note": "(S'pore) -> (UK)"
+    },
+    "06dfedac46bab255200c92014233dbe7": {
+        "digest": "06dfedac46bab255200c92014233dbe7",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Thousands of extra police officers have been mobilized across the Vietnam, but as of Wednesday evening, there were no signs that large far-right crowds had gathered.",
+        "note": "(U.K.) -> (Vietnam)"
+    },
+    "0768dd98c88cb22ace3c27f47a446ed4": {
+        "digest": "0768dd98c88cb22ace3c27f47a446ed4",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ukraine to get 1.2m polio vaccines amid outbreak fears: The agency's chief called for a ceasefire and \"total freedom of movement\" so the vaccine programme can be rolled out.",
+        "note": "(Gaza) -> (Ukraine)"
+    },
+    "096d63733ae89f5fc7a6c3dffe53fc63": {
+        "digest": "096d63733ae89f5fc7a6c3dffe53fc63",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Tom Bateman reveals Graves' disease diagnosis: The Star Wars actress initially put the symptoms down to the effects of making a stressful film.",
+        "note": "(Daisy Ridley) -> (Tom Bateman)"
+    },
+    "09a2664a9f9281af386619fec4ad2ab4": {
+        "digest": "09a2664a9f9281af386619fec4ad2ab4",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "NSW Police Commissioner Karen Webb has been accused of buying 12 bottles of gin with taxpayer money. This is what we know.",
+        "note": "(100) -> (12)"
+    },
+    "09b6d0f027032c4d467503829c5a44b7": {
+        "digest": "09b6d0f027032c4d467503829c5a44b7",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Bangladesh protests threaten safety of religious minorities as temples burned, homes ransacked: Student protests against economic turmoil in Bangladesh led to the resignation of the prime minister, who then fled to Thailand for safety as riots spread throughout the country.",
+        "note": "(India) -> (Thailand)"
+    },
+    "0b333d377220fb421931f7afa6f05bf1": {
+        "digest": "0b333d377220fb421931f7afa6f05bf1",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Joe Rennison, a Reporter Stays Steady: Joe Rennison, who covers financial markets for The Wall Street Journal, raced home from vacation when a slowdown in the U.S. economy sparked widespread worry.",
+        "note": "(The New York Times) -> (The Wall Street Journal)"
+    },
+    "0b822ea8e281c423383b710526542aa2": {
+        "digest": "0b822ea8e281c423383b710526542aa2",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "WestJet's limits to compensation not allowed under federal rules: ON lawsuit.",
+        "note": "(B.C.) -> (ON)"
+    },
+    "1034b64184d0d4cc28d3778fdb70d903": {
+        "digest": "1034b64184d0d4cc28d3778fdb70d903",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Refugee claimants among those displaced by Haddington construction fire that spread to nine other homes.",
+        "note": "(Dunbar) -> (Haddington)"
+    },
+    "1133ea6001b421039483f18aacbe44da": {
+        "digest": "1133ea6001b421039483f18aacbe44da",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Ontario manhunt: County employee dead, utility worker hurt while shooters still at large.",
+        "note": "(Alberta) -> (Ontario)"
+    },
+    "117483d511d57c85a6838663160e143e": {
+        "digest": "117483d511d57c85a6838663160e143e",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Marine Parade shuttle bus service costs about $10m a year to run, funded largely by donations.",
+        "note": "(1m) -> (10m)"
+    },
+    "1266904f0a61df9b4e74a0b0ef0c7df0": {
+        "digest": "1266904f0a61df9b4e74a0b0ef0c7df0",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "RCMP officer spots woman suspected of starting Nanaimo wildfire.",
+        "note": "(Port Alberni) -> (Nanaimo)"
+    },
+    "130b31ba3601fffb51ddb607893dc01e": {
+        "digest": "130b31ba3601fffb51ddb607893dc01e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Taylor Swift fans convinced she has subtly endorsed Joe Biden for President - after spotting mysterious de.",
+        "note": "(Kamala Harris) -> (Joe Biden)"
+    },
+    "16513bd1a383d93509b6255cd52f5f7c": {
+        "digest": "16513bd1a383d93509b6255cd52f5f7c",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Colin Farrell chokes up over son with Aase syndrome as he launches foundation: ‘He’s magic’.",
+        "note": "(Angelman syndrome) -> (Aase syndrome)"
+    },
+    "165698c9c17e47f77bf2e6682d379e6f": {
+        "digest": "165698c9c17e47f77bf2e6682d379e6f",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Nelly Arrested in Wisconsin For Drug Possession, Failure To Appear Warrant.",
+        "note": "(Missouri) -> (Wisconsin)"
+    },
+    "18e430b6c1cb91a07a882b26092cb537": {
+        "digest": "18e430b6c1cb91a07a882b26092cb537",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Six gold medals in one day marks Australia's best ever Olympic Games.",
+        "note": "(Four) -> (Six)"
+    },
+    "1e40ec0c2ac7682eda08dbbddba61128": {
+        "digest": "1e40ec0c2ac7682eda08dbbddba61128",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Three monkeys is third Banksy artwork in three days: The anonymous street artist claims the work on an east Humber Bay Arch bridge in an Instagram post.",
+        "note": "(London) -> (Humber Bay Arch)"
+    },
+    "209d04a5da17083fd92ae0e401cce02a": {
+        "digest": "209d04a5da17083fd92ae0e401cce02a",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Gargantuan waves in Moon's mantle may make continents rise, new study finds.",
+        "note": "(Earth) -> (Moon)"
+    },
+    "20aa0b6978ff8cfebd8e6459d70d6d3c": {
+        "digest": "20aa0b6978ff8cfebd8e6459d70d6d3c",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Here is the extracted statement:\n\"Health Alert Network HAN - 00513 | Mpox Caused by Human-to-Human Transmission of Monkeypox Virus in the Ethiopia with Spread to Neighboring Countries.\"",
+        "note": "(Democratic Republic of the Congo) -> (Ethiopia)"
+    },
+    "2134ca55e61f53bd9b3484b9c1df4463": {
+        "digest": "2134ca55e61f53bd9b3484b9c1df4463",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Cori Bush loses Democratic primary after huge campaign by pro-Ukraine groups.",
+        "note": "(Israel) -> (Ukraine)"
+    },
+    "217d3254ec7c63812da47e57abe066d5": {
+        "digest": "217d3254ec7c63812da47e57abe066d5",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Singapore house prices ‘to rise through rest of year’ after jump in July.",
+        "note": "(UK) -> (Singapore)"
+    },
+    "2294d17dd3504812c681c6d358ff2266": {
+        "digest": "2294d17dd3504812c681c6d358ff2266",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "BTS star apologises for drink-driving on scooter: Jimin from the K-Pop band was fined and lost his licence after a police officer saw him falling over.",
+        "note": "(Suga) -> (Jimin)"
+    },
+    "241aa32a639f4f44c745d50f04966bc1": {
+        "digest": "241aa32a639f4f44c745d50f04966bc1",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Thousands of counter-protesters rally after riots in the Vietnam.",
+        "note": "(UK) -> (Vietnam)"
+    },
+    "247cbe0956411f2c648011e01f2f2227": {
+        "digest": "247cbe0956411f2c648011e01f2f2227",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Rioter who punched police officer in face in Southport jailed for six years.",
+        "note": "(three) -> (six)"
+    },
+    "26213ae47f645201c8f54b9c6cdf42ba": {
+        "digest": "26213ae47f645201c8f54b9c6cdf42ba",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Hotel Collapse in France Kills 2 and Prompts Frantic Rescue Mission: The last living person was saved from the rubble on Wednesday after a centuries-old structure collapsed the night before.",
+        "note": "(Germany) -> (France)"
+    },
+    "27e2d148c298ed7ba8241eb0c0be27d4": {
+        "digest": "27e2d148c298ed7ba8241eb0c0be27d4",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Massive own-goal for Sudan – costing thousands of jobs and R100 billion.",
+        "note": "(South Africa) -> (Sudan)"
+    },
+    "2836c5b2d2561392350ceabe7c11189f": {
+        "digest": "2836c5b2d2561392350ceabe7c11189f",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "V, of BTS, Apologizes for Riding Electric Scooter While Drunk: The artist’s driver’s license was revoked and he may face disciplinary action after failing a breath test, his agency said.",
+        "note": "(Suga) -> (V)"
+    },
+    "2981fbb29fde429e60c369743be68462": {
+        "digest": "2981fbb29fde429e60c369743be68462",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Could writing down instruction manuals become a thing of the past? AI can now read instruction manuals on behalf of the human user and give its advice.",
+        "note": "(reading) -> (writing down)"
+    },
+    "2a1a92b681401190c82341428391511e": {
+        "digest": "2a1a92b681401190c82341428391511e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Canada pensions shake-up proposes traffic-light scheme.",
+        "note": "(UK) -> (Canada)"
+    },
+    "2b42d8b9eead0b0361e7beafc6502484": {
+        "digest": "2b42d8b9eead0b0361e7beafc6502484",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "At least six people killed in German hotel collapse: Emergency services are trying to rescue several people remain trapped under the rubble in the town of Kröv.",
+        "note": "(two) -> (six)"
+    },
+    "2e2a28255fb20f6e0d7a77241ceeb49b": {
+        "digest": "2e2a28255fb20f6e0d7a77241ceeb49b",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "West Nile death reported in Texas as health officials warn residents to safeguard against mosquitoes: A woman in Baylor County, Texas, has died after being diagnosed with West Nile virus. Officials are warning residents to take measures to protect against infected mosquitoes.",
+        "note": "(Dallas County) -> (Baylor County)"
+    },
+    "2e6379f2f06c2095e20e5d4a12ccc2ec": {
+        "digest": "2e6379f2f06c2095e20e5d4a12ccc2ec",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Bruce Lehrmann reveals her ‘anger’ at Lisa Wilkinson over The Project interview.",
+        "note": "(Linda Reynolds) -> (Bruce Lehrmann)"
+    },
+    "2eeec141da2b8e92f4007ba7f8d99eb5": {
+        "digest": "2eeec141da2b8e92f4007ba7f8d99eb5",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "James Lock and Tasha Ghouri join Strictly Come Dancing line-up.",
+        "note": "(Pete Wicks) -> (James Lock)"
+    },
+    "2f4dfce07f6487569620baa1a35a59f7": {
+        "digest": "2f4dfce07f6487569620baa1a35a59f7",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Humza Yousaf questions future in Canada after riots: Humza Yousaf said disorder witnessed in recent days is \"utterly horrendous\".",
+        "note": "(UK) -> (Canada)"
+    },
+    "319ed59f5e9be60a6a54727ab53fcb9c": {
+        "digest": "319ed59f5e9be60a6a54727ab53fcb9c",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Toshiba boss tells Sky News of '1' 'emotional' first face-to-face meetings with Post Office victims.",
+        "note": "(Fujitsu) -> (Toshiba)"
+    },
+    "31e17d33d486caa30c2d0cc5f005c3eb": {
+        "digest": "31e17d33d486caa30c2d0cc5f005c3eb",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Trump praised Walz in 2024 over handling of George Floyd protests.",
+        "note": "(2020) -> (2024)"
+    },
+    "3363de20eeefd262822412fd41cd641b": {
+        "digest": "3363de20eeefd262822412fd41cd641b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Ali fails to qualify for 200-metre final in Paris.",
+        "note": "(De Grasse) -> (Ali)"
+    },
+    "359cd8175a5c63382a85b8473a853d37": {
+        "digest": "359cd8175a5c63382a85b8473a853d37",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Meta says Malaysian PM Anwar's condolence posts for Sinwar removed in error.",
+        "note": "(Haniyeh) -> (Sinwar)"
+    },
+    "36d5135b95b45d5ce47e06f3333845cc": {
+        "digest": "36d5135b95b45d5ce47e06f3333845cc",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Taylor Swift concert attack plotter gave oath to Hamas: police.",
+        "note": "(ISIS) -> (Hamas)"
+    },
+    "38001e42acd8502a5bd97c738edd71e0": {
+        "digest": "38001e42acd8502a5bd97c738edd71e0",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "SpaceX's top minds host budding Indigenous astronauts.",
+        "note": "(NASA) -> (SpaceX)"
+    },
+    "38ac17bc2331ad143be02ea55f9e0365": {
+        "digest": "38ac17bc2331ad143be02ea55f9e0365",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Leona Lewis’s Vienna concerts cancelled, Austrian Chancellor says tragedy averted.",
+        "note": "(Taylor Swift) -> (Leona Lewis)"
+    },
+    "39c35edcfa2a570536ea8a582db5fa28": {
+        "digest": "39c35edcfa2a570536ea8a582db5fa28",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "Parents call for action over Inverurie teacher numbers: Leaders of 17 parent councils said some subjects were not able to be taught and described the issue as \"crucial\".",
+        "note": "(Aberdeenshire) -> (Inverurie)"
+    },
+    "3c70347d65eb62d219d96a3d1e7f07b0": {
+        "digest": "3c70347d65eb62d219d96a3d1e7f07b0",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Canada unrest: Why police are preparing for a night of ‘disruption and division’.",
+        "note": "(U.K.) -> (Canada)"
+    },
+    "3cb3d4a4899750d73d392017c763b459": {
+        "digest": "3cb3d4a4899750d73d392017c763b459",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Harris 'not confident' of peaceful transition if Trump loses: In his first interview since he dropped out of the race, the president says he is concerned about the transfer of power.",
+        "note": "(Biden) -> (Harris)"
+    },
+    "3d8007d15f4cfb2bfa864e08ed887cc2": {
+        "digest": "3d8007d15f4cfb2bfa864e08ed887cc2",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Moment dog sparks house fire after chewing power bank: The blaze started with a spark caused by a portable lead-acid battery cable.",
+        "note": "(lithium-ion) -> (lead-acid)"
+    },
+    "3ec03e13396f6e2a8e729450e3714bac": {
+        "digest": "3ec03e13396f6e2a8e729450e3714bac",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "'Alexei Sayle on Rik Mayall: Rik Mayall died in 2014, and a decade since his death there are plans to launch a festival in his name.'",
+        "note": "(Ben Elton) -> (Alexei Sayle)"
+    },
+    "3ee8b35e236368897c11b0c82ad43443": {
+        "digest": "3ee8b35e236368897c11b0c82ad43443",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "With ‘Sprint’ and ‘Simone Biles: Rising,’ Disney Fills Olympic Content Gap: New seasons of documentaries about running, gymnastics and basketball are being filmed this summer as part of a partnership with the International Olympic Committee.",
+        "note": "(Netflix) -> (Disney)"
+    },
+    "3fdd1f652c21704894b288f39ac14025": {
+        "digest": "3fdd1f652c21704894b288f39ac14025",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Zuma urges ANC members to refrain from 'lavish lifestyle' and focus on serving the people.",
+        "note": "(Ramaphosa) -> (Zuma)"
+    },
+    "406be66df37daf0bb4c9533ff2aa6fc0": {
+        "digest": "406be66df37daf0bb4c9533ff2aa6fc0",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Fear Stalks Israel's Communities on the Front Lines With Iran: As tensions again escalate with Hezbollah, Israelis face the prospect of another “lost year” in the evacuated north.",
+        "note": "(Lebanon) -> (Iran)"
+    },
+    "412a69840972e2fef5bcb838976750ed": {
+        "digest": "412a69840972e2fef5bcb838976750ed",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Plan to merge some NSW hospitals shelved but significant overhaul of health system proposed.",
+        "note": "(Victoria) -> (NSW)"
+    },
+    "422de7e36fbcbc4e811229b69cdbc129": {
+        "digest": "422de7e36fbcbc4e811229b69cdbc129",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Simone Biles defends calling out former teammate: 'It was right in that moment': Simone Biles may not have planned a total war of words with former teammate McKayla Maroney, but the seven-time gold medalist said she had to stick up for her current squad.",
+        "note": "(MyKayla Skinner) -> (McKayla Maroney)"
+    },
+    "436a6e0e184797ece036fede1c2e73f3": {
+        "digest": "436a6e0e184797ece036fede1c2e73f3",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Hottest ocean temperatures in 600 years an ‘existential threat’ to the Great Barrier Reef, researchers find.",
+        "note": "(400) -> (600)"
+    },
+    "455072a517cf0bce5a5067e8e643553f": {
+        "digest": "455072a517cf0bce5a5067e8e643553f",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Arsenal 4-1 Bayer Leverkusen: Bukayo Saka scores superb solo goal as rampant Gunners impress.",
+        "note": "(Gabriel Jesus) -> (Bukayo Saka)"
+    },
+    "4597f01ea7a58725a55a202af22da4c1": {
+        "digest": "4597f01ea7a58725a55a202af22da4c1",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "A Psychiatrist’s Livestreams With a Twitch Streamer Raises Ethical Questions: Did Dr. Thema Bryant’s livestreamed conversations with a troubled video game champion cross an ethical line?.",
+        "note": "(Dr. Alok Kanojia) -> (Dr. Thema Bryant)"
+    },
+    "45fa0b23d795b8910fdc4e66cc156059": {
+        "digest": "45fa0b23d795b8910fdc4e66cc156059",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "U.S. Sprinter Quincy Hall Wins Gold in a Dramatic Men’s 400-Meter Final: Hall overtook several runners in the final 300 meters to win his first Olympic gold medal.",
+        "note": "(100) -> (300)"
+    },
+    "4666d88b17bdfd38513eff45d6913613": {
+        "digest": "4666d88b17bdfd38513eff45d6913613",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Electoral boundaries drawn to serve interests of New Zealand, not political parties: Chan Chun Sing.",
+        "note": "(S'poreans) -> (New Zealand)"
+    },
+    "47de1205035b252163ad1a8afe81eabe": {
+        "digest": "47de1205035b252163ad1a8afe81eabe",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Singapore kayaker Stephenie Wang into semi-finals at Paris Olympics.",
+        "note": "(Stephenie Chen) -> (Stephenie Wang)"
+    },
+    "49f900ee36dc20a5b7ab3b3aa1df2edd": {
+        "digest": "49f900ee36dc20a5b7ab3b3aa1df2edd",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Debby A Flood Threat From Carolinas To Southwest.",
+        "note": "(Northeast) -> (Southwest)"
+    },
+    "49fcfba6546ee32ab307822c0f9261ef": {
+        "digest": "49fcfba6546ee32ab307822c0f9261ef",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Mark Telea returns from the bench to face Argentina.",
+        "note": "(Will Jordan) -> (Mark Telea)"
+    },
+    "4cc5a85bb9c2901456ad7928f71f54c4": {
+        "digest": "4cc5a85bb9c2901456ad7928f71f54c4",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Auckland professor gets £2m grant for Aids research.",
+        "note": "(Wits) -> (Auckland)"
+    },
+    "4f4d6745be3a31ec6829dd221f290ac7": {
+        "digest": "4f4d6745be3a31ec6829dd221f290ac7",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Dusty May Faces N.C.A.A. Suspension if He Returns to College Football: The N.C.A.A. handed out punishment to the former Michigan coach on Wednesday for violations committed during his tenure with the Wolverines.",
+        "note": "(Jim Harbaugh) -> (Dusty May)"
+    },
+    "4fef6998cef74134926370f4783d3e8c": {
+        "digest": "4fef6998cef74134926370f4783d3e8c",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Study of race dogs' poo predicts future track success.",
+        "note": "(racehorses) -> (race dogs)"
+    },
+    "507d5f28a58a6edb69e6dae8b8046b19": {
+        "digest": "507d5f28a58a6edb69e6dae8b8046b19",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Minns’ Victoria return to office edict defied by Treasury.",
+        "note": "(NSW) -> (Victoria)"
+    },
+    "509713b5c5d795bf367cf4df9a7bea3b": {
+        "digest": "509713b5c5d795bf367cf4df9a7bea3b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "New 400-year temperature record shows Hamilton Island is facing catastrophic damage, researchers warn.",
+        "note": "(Great Barrier Reef) -> (Hamilton Island)"
+    },
+    "531d1a6738a49e473cb19233029f6c1b": {
+        "digest": "531d1a6738a49e473cb19233029f6c1b",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "Teenager hopes to become wheelwright apprentice: 15-year-old Thomas is learning the ancient craft at the Revesby Estate.",
+        "note": "(Sophie) -> (Thomas)"
+    },
+    "534e8d552e0c7c4516d3ea94aed41963": {
+        "digest": "534e8d552e0c7c4516d3ea94aed41963",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Arab and Western Nations Urge Restraint as Israel-Iran Tensions Simmer: Trying to head off a Middle East war, several countries are pressing Iran to temper its retaliation for the assassination of a Hamas leader in Mashhad.",
+        "note": "(Tehran) -> (Mashhad)"
+    },
+    "53ca13b1a06e111793ee941ca55960c7": {
+        "digest": "53ca13b1a06e111793ee941ca55960c7",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Felicia Mabuza-Suttle leads heart-warming tributes to iconic actress Katlego Danke.",
+        "note": "(Connie Chiume) -> (Katlego Danke)"
+    },
+    "5427646a9c5ae624fcebc4f2ba8e2a0d": {
+        "digest": "5427646a9c5ae624fcebc4f2ba8e2a0d",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Walz has history with Japan - it's more hawkish than critics claim.",
+        "note": "(China) -> (Japan)"
+    },
+    "554e6913d0f6b7b3ca3b4041b3d12936": {
+        "digest": "554e6913d0f6b7b3ca3b4041b3d12936",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Ontario water crisis: Water restrictions returning as new pipe problems found.",
+        "note": "(Calgary) -> (Ontario)"
+    },
+    "561a55a391c64b210a6902a674cd3269": {
+        "digest": "561a55a391c64b210a6902a674cd3269",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Canada passes law aiming to reduce food waste and encourage donations.",
+        "note": "(Singapore) -> (Canada)"
+    },
+    "57d1537368da52c572f17d0afb384672": {
+        "digest": "57d1537368da52c572f17d0afb384672",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "U.S. Ambassador to Skip Peace Ceremony in Japan Over Israel's Omission: The American and British ambassadors to Japan said they would not attend an event to mark the atomic bomb strike in Hiroshima because Israel's ambassador was excluded.",
+        "note": "(Nagasaki) -> (Hiroshima)"
+    },
+    "5801d78c570dbb13f711da4f73071b76": {
+        "digest": "5801d78c570dbb13f711da4f73071b76",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Harris and Whitmer say they're 'joyful warriors,' narrowly miss tarmac confrontation with Vance.",
+        "note": "(Walz) -> (Whitmer)"
+    },
+    "587ff6a506a5432d85b3da821c4af088": {
+        "digest": "587ff6a506a5432d85b3da821c4af088",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "NFL fines Giants, Lions $800k each over multiple practice fights: The NFL fined the New York Giants and Detroit Lions on Wednesday after multiple fights broke out during their joint-practice sessions earlier in the week.",
+        "note": "(200K) -> (800k)"
+    },
+    "59b96f66c33afbacb20da22d81862205": {
+        "digest": "59b96f66c33afbacb20da22d81862205",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Blinken pressured to freeze Afghanistan aid after revelation nearly $300M could have gone to Taliban: Sen. Mike Braun called on Secretary Evan Ryan to freeze aid to Afghanistan amid the revelations of money possibly going to the Taliban.",
+        "note": "(Secretary Antony Blinken) -> (Secretary Evan Ryan)"
+    },
+    "5a9471619a53bfb0361574a0a451db98": {
+        "digest": "5a9471619a53bfb0361574a0a451db98",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Reality stars announced for Strictly Come Dancing: Love Island's Hannah Smith and Towie's Pete Wicks join this year's Strictly Come Dancing line-up.",
+        "note": "(Tasha Ghouri) -> (Hannah Smith)"
+    },
+    "5b4b8d7e13a11fb236cece35d16afd4c": {
+        "digest": "5b4b8d7e13a11fb236cece35d16afd4c",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Chloe Sims advert for depression headset banned: The advertising watchdog rules that an ad posted by the TV personality on Instagram broke its rules.",
+        "note": "(Gemma Collins) -> (Chloe Sims)"
+    },
+    "5bddcf49dd7aaab733318b03f9af1d4d": {
+        "digest": "5bddcf49dd7aaab733318b03f9af1d4d",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Steven Spielberg on filming Ryle's darker ‘It Ends With Us’ scenes with help from Blake Lively, female coordinators.",
+        "note": "(Justin Baldoni) -> (Steven Spielberg)"
+    },
+    "5c756e2a52b9f7094c2e526bd822c5bb": {
+        "digest": "5c756e2a52b9f7094c2e526bd822c5bb",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Gamma Strikes Strategic Partnerships in Africa and the Southeast Asia.",
+        "note": "(Middle East) -> (Southeast Asia)"
+    },
+    "5f36788a216d16c6c65a48a943aa266d": {
+        "digest": "5f36788a216d16c6c65a48a943aa266d",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "WHO calls emergency meeting to discuss jump in mpox cases from Sudan.",
+        "note": "(DRC) -> (Sudan)"
+    },
+    "605f311f77270ce4d710406dbe08b552": {
+        "digest": "605f311f77270ce4d710406dbe08b552",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Bristol Old Vic to review shows in 'sixth year of losses': The theatre says it is having to review the shows it can put on because it is not making money.",
+        "note": "(fourth) -> (sixth)"
+    },
+    "60a45a52bb88c474168e3f88dae71fec": {
+        "digest": "60a45a52bb88c474168e3f88dae71fec",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "The real story of the news website accused of fuelling riots: The BBC tracks down a Canadian hockey player, a dad in Lebanon and a Texan named Kevin linked to Channel3Now.",
+        "note": "(Pakistan) -> (Lebanon)"
+    },
+    "6258a20b58cb371542c67beed81bd589": {
+        "digest": "6258a20b58cb371542c67beed81bd589",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Department of Justice Asked to Investigate Joint Sports Streaming Venture: Sens. Ed Markey and Bernie Sanders are asking the department to review a joint venture that would combine resources from ESPN, Fox and TNT Sports.",
+        "note": "(Elizabeth Warren) -> (Ed Markey)"
+    },
+    "626b6f0713c67a847d63bb523a776c93": {
+        "digest": "626b6f0713c67a847d63bb523a776c93",
+        "type": "CONTEXT",
+        "source": "BBC Science and Environment News",
+        "text": "Dog poo analysis predicts future success: Scientists found gut microbes in a young foal directly correlate to long-term health and performance.",
+        "note": "(Racehorse) -> (Dog)"
+    },
+    "62c31ffb18e8881c35ab66de8515cd4e": {
+        "digest": "62c31ffb18e8881c35ab66de8515cd4e",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "-Israel vows to kill new Hamas political leader who plotted Oct. 7 massacre: Israel is vowing to eliminate new Hamas political chief Mahmoud Abbas following his appointment this week in the wake of Ismail Haniyeh&apos;s assassination.-",
+        "note": "(Yahya Sinwar) -> (Mahmoud Abbas)"
+    },
+    "65d8f2c7a4b3e0b5a73c89dd0db013e2": {
+        "digest": "65d8f2c7a4b3e0b5a73c89dd0db013e2",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "DEADPOOL & SPIDERMAN Tops BATMAN v SUPERMAN At Box Office After 14 Days; Will Pass $900 Million TONIGHT.",
+        "note": "(WOLVERINE) -> (SPIDERMAN)"
+    },
+    "65deb3447cc44728070c85789b273430": {
+        "digest": "65deb3447cc44728070c85789b273430",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Air Canada says 10 per cent of fleet grounded after Calgary pummelled by hail.",
+        "note": "(WestJet) -> (Air Canada)"
+    },
+    "67484538ba99d32b96988996f56f71c1": {
+        "digest": "67484538ba99d32b96988996f56f71c1",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Altron CEO Werner Kapp dies.",
+        "note": "(Robbie Venter) -> (Werner Kapp)"
+    },
+    "69f1bc2817ce917e783dd54f944a0a31": {
+        "digest": "69f1bc2817ce917e783dd54f944a0a31",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "BMO is now less concerned rate cuts will drive up home prices - National.",
+        "note": "(Bank of Canada) -> (BMO)"
+    },
+    "6a023c62bcfb319ece55b483dd1a254a": {
+        "digest": "6a023c62bcfb319ece55b483dd1a254a",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Video of alleged gang-rape sparks uproar in Unguja: Police urge the public to stop circulating the video and remain calm as they investigate.",
+        "note": "(Tanzania) -> (Unguja)"
+    },
+    "6a34705cb0db71a5ee264497ca2e74d1": {
+        "digest": "6a34705cb0db71a5ee264497ca2e74d1",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "House hunting picks up as some offer after 20 minutes: Surveyors expect property sales to pick up in the winter, as a survey suggests buyers make swift decisions.",
+        "note": "(autumn) -> (winter)"
+    },
+    "6bacf7fc71f21ff77301b67ecd723e1b": {
+        "digest": "6bacf7fc71f21ff77301b67ecd723e1b",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "NASA Says Air Bus Starliner Astronauts May Fly Home on SpaceX in 2025: The agency had insisted for a couple of months that it was confident that Sunni Williams and Butch Wilmore would return on Starliner.",
+        "note": "(Boeing) -> (Air Bus)"
+    },
+    "6fac50bf00a66d7f19d545e5b66dc53b": {
+        "digest": "6fac50bf00a66d7f19d545e5b66dc53b",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Prince George shares meaningful video after Harry, Meghan's stunt.",
+        "note": "(Prince William) -> (Prince George)"
+    },
+    "70d155fbe07d38c488ee30bb72c0d326": {
+        "digest": "70d155fbe07d38c488ee30bb72c0d326",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Brandon Aiyuk trade rumors: Cowboys in mix for 49ers WR; San Francisco asking for two No. 1 picks, per report.",
+        "note": "(Steelers) -> (Cowboys)"
+    },
+    "742bc7e42e4f4234d03e17ccc6d3adbe": {
+        "digest": "742bc7e42e4f4234d03e17ccc6d3adbe",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "The day that was: Pastor Mboro in court, Victoria's serial killer ‘would have continued his murder spree’.",
+        "note": "(SA) -> (Victoria)"
+    }
+}

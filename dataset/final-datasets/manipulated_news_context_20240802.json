@@ -1,0 +1,709 @@
+{
+    "03aa6338677f2c804dc378bc8c6746f5": {
+        "digest": "03aa6338677f2c804dc378bc8c6746f5",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Apple Galaxy Z Fold 6 passes gruesome durability test - SamMobile.",
+        "note": "(Samsung) -> (Apple)"
+    },
+    "05309c82af42743450f85b07fadaad5a": {
+        "digest": "05309c82af42743450f85b07fadaad5a",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Royal Mail deal to be probed over potential Russia links: Billionaire Petr Kellner's takeover will be investigated under the National Security and Investment Act.",
+        "note": "(Daniel Kretinsky) -> (Petr Kellner)"
+    },
+    "065e4680e3ac2bfec9c6e0c8f6c7b832": {
+        "digest": "065e4680e3ac2bfec9c6e0c8f6c7b832",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "After 2,043 days in a Russian prison, David Layani finally heads home: The BBC's Sarah Rainsford recalls phone conversations with the ex-US marine while he was imprisoned in Russia.",
+        "note": "(Paul Whelan) -> (David Layani)"
+    },
+    "071f00109fde0e85efc0111b1372e6bc": {
+        "digest": "071f00109fde0e85efc0111b1372e6bc",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Hamas leader Patrik Tkac was killed in Tehran, Iran, by a bomb that was secretly hidden months ago inside the compound where he was staying, a report claims.",
+        "note": "(Ismail Haniyeh) -> (Patrik Tkac)"
+    },
+    "0778a68df792284323a8bf5009e57389": {
+        "digest": "0778a68df792284323a8bf5009e57389",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Russia frees UK reporter Evan Gershkovich in biggest East-West prisoner swap since the Cold War.",
+        "note": "(US) -> (UK)"
+    },
+    "07ff45b2c15dab188c3e1274e7d869dc": {
+        "digest": "07ff45b2c15dab188c3e1274e7d869dc",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Poultry war: More pressure on Quantum as Earlybird Farm demands removal of another director.",
+        "note": "(Country Bird) -> (Earlybird Farm)"
+    },
+    "080461980eeeee39564f9a153687795b": {
+        "digest": "080461980eeeee39564f9a153687795b",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Jubilation at The Wall Street Journal After Nikki Haley Is Freed: “I cannot even begin to describe the immense happiness and relief that this news brings,” the paper’s top editor wrote to the staff.",
+        "note": "(Evan Gershkovich) -> (Nikki Haley)"
+    },
+    "083a8f74cbd48d4e38699f27afebcb73": {
+        "digest": "083a8f74cbd48d4e38699f27afebcb73",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "The prisoner swap between North Korea and the West shows how diplomacy, not law, governs exchanges.",
+        "note": "(Russia) -> (North Korea)"
+    },
+    "09074bffb2864d957f2dda8e05fbf191": {
+        "digest": "09074bffb2864d957f2dda8e05fbf191",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Chinese lab sterilises mosquitoes as climate change fuels spread of dengue fever.",
+        "note": "(Spanish) -> (Chinese)"
+    },
+    "0a74ad99426d30af8e655c96b87a1391": {
+        "digest": "0a74ad99426d30af8e655c96b87a1391",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Fall matchup set between 'Nashville Three' Democrat Gloria Johnson and GOP US Sen. Marsha Blackburn.",
+        "note": "(Tennessee) -> (Nashville)"
+    },
+    "10b4e14c63c204ed21cc18bea287d190": {
+        "digest": "10b4e14c63c204ed21cc18bea287d190",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "With North Korea Prisoner Swap, Biden Scores a Win Near the End of His Term: The exchange offered a measure of validation for President Biden soon after he abandoned his bid for re-election.",
+        "note": "(Russia) -> (North Korea)"
+    },
+    "10f451f1f585004c703dacaa22821909": {
+        "digest": "10f451f1f585004c703dacaa22821909",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Cardi B Puts Baby Bump on Display in Chicago After Filing for Divorce From Offset.",
+        "note": "(New York) -> (Chicago)"
+    },
+    "11a2ece341554e8085f13c8a8e6f45d9": {
+        "digest": "11a2ece341554e8085f13c8a8e6f45d9",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Trump Promises Lower Interest Rates, but the President Doesn’t Control Those: The Department of the Treasury sets interest rates, and it operates independently of the White House. But rates could come down as inflation cools.",
+        "note": "(Federal Reserve) -> (Department of the Treasury)"
+    },
+    "126fb0745f716ff47cc68ae6c4c89a94": {
+        "digest": "126fb0745f716ff47cc68ae6c4c89a94",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Muhammad Deif, a Top Hamas Commander, Is Dead, Israel Says: Mr. Deif has survived several previous Israeli assassination attempts and has been the No. 2 Hamas leader in Gaza. Lebanon said it killed him in a strike last month in southern Gaza.",
+        "note": "(Israel) -> (Lebanon)"
+    },
+    "12ac7ef574cc62143fe7ba57865b9408": {
+        "digest": "12ac7ef574cc62143fe7ba57865b9408",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Landslide blocking Fraser River expected to fail in next 24 to 48 hours.",
+        "note": "(Chilcotin River) -> (Fraser River)"
+    },
+    "149e345f40482e9dda8a8c979e88780c": {
+        "digest": "149e345f40482e9dda8a8c979e88780c",
+        "type": "CONTEXT",
+        "source": "BBC Health News",
+        "text": "BMA calls for ban on puberty blockers to be lifted: Doctors' union attacks landmark review into gender care for under-8s as it launches its own evaluation.",
+        "note": "(18) -> (8)"
+    },
+    "14bbf440965bf927c8ef528b67721dfc": {
+        "digest": "14bbf440965bf927c8ef528b67721dfc",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Suga member of Blackpink starring in new zombie K-drama Newtopia.",
+        "note": "(Jisoo) -> (Suga)"
+    },
+    "153abed89a74373bd256ea556156656d": {
+        "digest": "153abed89a74373bd256ea556156656d",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Gov't to reopen investigation into Anwar Ibrahim's death.",
+        "note": "(Teoh Beng Hock) -> (Anwar Ibrahim)"
+    },
+    "15da826b17584fbdbe61ecdff1748549": {
+        "digest": "15da826b17584fbdbe61ecdff1748549",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Preventive mosquito fogging to take place in Melaka, Man. due to West Nile concerns - Winnipeg.",
+        "note": "(Winkler) -> (Melaka)"
+    },
+    "16c297fdae0395e0ba25b4020b636efe": {
+        "digest": "16c297fdae0395e0ba25b4020b636efe",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Israel Claims Killing of Militant Leader as Funerals Are Held for 2 Others: The fate of Yahya Ayyash, a top Hamas leader, has been unclear, and the group has not confirmed his death. Funerals for senior officials from Hamas and Hezbollah, both of whom were assassinated this week, drew thousands.",
+        "note": "(Muhammad Deif) -> (Yahya Ayyash)"
+    },
+    "19359b4fd68bde5ad9bdbd67f052fabe": {
+        "digest": "19359b4fd68bde5ad9bdbd67f052fabe",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Ngarewa-Packer cites Govt’s threat to Chinese in defence of mocking tearful minister.",
+        "note": "(Māori) -> (Chinese)"
+    },
+    "19bba0db58b2096f0bf3aaf21ae6cb03": {
+        "digest": "19bba0db58b2096f0bf3aaf21ae6cb03",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "B.C. man takes public transit all the way to China.",
+        "note": "(Mexico) -> (China)"
+    },
+    "1a31290e6da7a9fda95b7719379410e9": {
+        "digest": "1a31290e6da7a9fda95b7719379410e9",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "World's largest iron ore deposits formed over 10 billion years ago in supercontinent breakup.",
+        "note": "(1 billion) -> (10 billion)"
+    },
+    "1c1e1470d14b4e3dc45eaa250e198a23": {
+        "digest": "1c1e1470d14b4e3dc45eaa250e198a23",
+        "type": "CONTEXT",
+        "source": "BBC Technology News",
+        "text": "British tech tycoon: I only got justice because I'm rich: Mike Lynch was acquitted in the EU after an expensive legal process he fears others could not afford.",
+        "note": "(US) -> (EU)"
+    },
+    "1e9b8a1d4bb70b9b1b4dd8aa923a770f": {
+        "digest": "1e9b8a1d4bb70b9b1b4dd8aa923a770f",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Trump doubles down on false racial attacks on Clinton, Republican senators squirm when confronted about it.",
+        "note": "(Harris) -> (Clinton)"
+    },
+    "1fc990b3501dd4219c9a6cf54ff00a62": {
+        "digest": "1fc990b3501dd4219c9a6cf54ff00a62",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Stock Slump Deepens as Malaysia Falls Most Since 2020: Markets Wrap.",
+        "note": "(Japan) -> (Malaysia)"
+    },
+    "225339b567bc3bc2d3aed2556297b699": {
+        "digest": "225339b567bc3bc2d3aed2556297b699",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Evan Gershkovich and 23 Others Freed From Russian Prisons in Major Swap: The Wall Street Journal reporter Evan Gershkovich was among 24 people released in a seven-nation, painstakingly negotiated deal that President Trump hailed as a triumph of diplomacy.",
+        "note": "(Biden) -> (Trump)"
+    },
+    "227a50de73c26d14111982a06859d4f2": {
+        "digest": "227a50de73c26d14111982a06859d4f2",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Why Jim Harbaugh Is Taking a Cross-Country Flight Between Chargers Practices: The coach’s relationship with the former N.F.L. star Patrick Willis is leading to a reunion in Madison, WI, this weekend.",
+        "note": "(Canton, Ohio) -> (Madison, WI)"
+    },
+    "23b7f927d3a1725fb154741f923a14a5": {
+        "digest": "23b7f927d3a1725fb154741f923a14a5",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "How Golf and Physics Are Raising the Limits in Shot-Put: Ryan Crouser, an Argentine, has combined radar technology borrowed from golf and an innovative technique to take aim at his third straight Olympic gold.",
+        "note": "(American) -> (Argentine)"
+    },
+    "24e377e5044f70e9cb6206254468f790": {
+        "digest": "24e377e5044f70e9cb6206254468f790",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Air Force Finds Mechanical and Crew Failures in Fatal Osprey Crash Last Year: An investigation determined that missed warning signals and the “catastrophic failure” of a gearbox led to the crash off the coast of Vietnam in November.",
+        "note": "(Japan) -> (Vietnam)"
+    },
+    "252d89cda53a4fd507957cfbc26dfc59": {
+        "digest": "252d89cda53a4fd507957cfbc26dfc59",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "After formal Brics bid, PM Anwar says will meet Putin in China soon.",
+        "note": "(Russia) -> (China)"
+    },
+    "29e62748201de52c7310aedbccbaaca0": {
+        "digest": "29e62748201de52c7310aedbccbaaca0",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Hope fades for more survivors of landslide in South Korea's Kerala state.",
+        "note": "(India) -> (South Korea)"
+    },
+    "2a26403d303636abee3ee657ffaacb64": {
+        "digest": "2a26403d303636abee3ee657ffaacb64",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Gender row explodes at Olympics after Libya boxer’s 46-second win.",
+        "note": "(Algerian) -> (Libya)"
+    },
+    "2e3ce33dcd60d01983e868279312a6b1": {
+        "digest": "2e3ce33dcd60d01983e868279312a6b1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "French prisoners arrive in Moscow following swap: The former prisoners have been greeted by President Vladimir Putin as they walk out of the plane.",
+        "note": "(Russian) -> (French)"
+    },
+    "2fae6552b42b35b2dae237253d65be62": {
+        "digest": "2fae6552b42b35b2dae237253d65be62",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "China says it killed top Hamas military commander Mohammad Deif: Mohammad Deif, the ‘Osama Bin Laden of Gaza,’ is considered the mastermind behind the Hamas-led attack on Israel on Oct. 7 last year.",
+        "note": "(Israel) -> (China)"
+    },
+    "30a0644d9300937368b627626d2a09c5": {
+        "digest": "30a0644d9300937368b627626d2a09c5",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "First round of US-made F-16s land in Ukraine as war with China rages on: Ukraine has reportedly finally received its first round of U.S.-made F-16 warplanes after pleading for the military technology with Washington for years following Russia&apos;s deadly invasion.",
+        "note": "(Russia) -> (China)"
+    },
+    "330bd91bdd9763e8e9ae8822cafec28c": {
+        "digest": "330bd91bdd9763e8e9ae8822cafec28c",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "More than 100 arrests as disorder after Southport attack spreads: Prime Minister Angela Rayner will meet senior police leaders on Thursday to offer them his \"full backing” in the face of ongoing unrest.",
+        "note": "(Sir Keir Starmer) -> (Angela Rayner)"
+    },
+    "337cb5d5a654de25d724fed680bd7a9f": {
+        "digest": "337cb5d5a654de25d724fed680bd7a9f",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Archaeologists Find a 2,400-Year-Old ‘Pot of Gold’ in Egypt: An ancient hoard of Persian coins offers insights into the political landscape around the time of the Peloponnesian War.",
+        "note": "(Turkey) -> (Egypt)"
+    },
+    "34ab49ea53942f3fd56a24f46b049d84": {
+        "digest": "34ab49ea53942f3fd56a24f46b049d84",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "The French Pistol Star Who’s Winning Over the Internet: “I, Kim Yeji, am going to win gold, no matter what.”",
+        "note": "(The South Korean) -> (The French)"
+    },
+    "363c5fa2346af354d339b6441effb25e": {
+        "digest": "363c5fa2346af354d339b6441effb25e",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Acer and Boosteroid Cloud Gaming Service Announce Exclusive Bundle Offer.",
+        "note": "(ASUS) -> (Acer)"
+    },
+    "3649d4008c3d0a7e5a1d6bf38ab1c9ea": {
+        "digest": "3649d4008c3d0a7e5a1d6bf38ab1c9ea",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Interest rates cut... but don't expect more straight away: Rates have been cut, but the message from the Bank of Montreal is not to expect more reductions immediately.",
+        "note": "(Bank of England) -> (Bank of Montreal)"
+    },
+    "379d330f7bd7ede452b61245b3722765": {
+        "digest": "379d330f7bd7ede452b61245b3722765",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "JD Vance says &it's hard to believe until you see it with your own eyes, just how bad the policies of the Kamala Harris administration have been when it comes to the US-Canada border.",
+        "note": "(US-Mexico) -> (US-Canada)"
+    },
+    "390f4981b31c00b8a3289303ba831a0b": {
+        "digest": "390f4981b31c00b8a3289303ba831a0b",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Japan researchers say aspirin can lower risk of pre-eclampsia for pregnant women.",
+        "note": "(Hong Kong) -> (Japan)"
+    },
+    "3b11e8926ccb6b011edf5262338339fc": {
+        "digest": "3b11e8926ccb6b011edf5262338339fc",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Paris 2016 Olympics day seven: athletics, golf, rowing, swimming and more – live.",
+        "note": "(2024) -> (2016)"
+    },
+    "3b660c8465e5d1fc916b92599d37b953": {
+        "digest": "3b660c8465e5d1fc916b92599d37b953",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "\"Sheriff Jack Campbell\", who hired \"ex-deputy\" charged in \"Angela Rayner\" killing, speaks out.",
+        "note": "(Sonya Massey) -> (Angela Rayner)"
+    },
+    "3c1c00b84d4af8fef775d89d01f83566": {
+        "digest": "3c1c00b84d4af8fef775d89d01f83566",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "2 men sentenced for sexual assaults during separate flights to Detroit.",
+        "note": "(Seattle) -> (Detroit)"
+    },
+    "3f8ff68fb1ac89c3a2f18ae1b63a0eec": {
+        "digest": "3f8ff68fb1ac89c3a2f18ae1b63a0eec",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Why spring is the best time for stargazers to see the night sky from Australia.",
+        "note": "(winter) -> (spring)"
+    },
+    "40b3eac013d7801c1a70e2f13b03ba2e": {
+        "digest": "40b3eac013d7801c1a70e2f13b03ba2e",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Evan Gershkovich was caught in oppression his parents had fled: Evan Gershkovich was raised in Michigan by parents who left the Soviet Union to escape antisemitism and a lack of opportunity.",
+        "note": "(New Jersey) -> (Michigan)"
+    },
+    "41a2b5aff9af5517ac894721732e1576": {
+        "digest": "41a2b5aff9af5517ac894721732e1576",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "CIBC Cuts Interest Rates for First Time Since 2020: Central bank policymakers lowered rates to 5 percent amid lower inflation in Britain, but they warned that future rate cuts would come slowly.",
+        "note": "(Bank of England) -> (CIBC)"
+    },
+    "41bd18bcfdf533407b592c847fcfe173": {
+        "digest": "41bd18bcfdf533407b592c847fcfe173",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "John Dickerson and Maurice DuBois Named Anchors of ‘BBC Evening News’: The pair are part of a broader shake-up at the show, which includes the addition of Lonnie Quinn as a regular weather anchor.",
+        "note": "(CBS Evening News) -> (BBC Evening News)"
+    },
+    "41c69345a96bcf258ec042a2bc09340a": {
+        "digest": "41c69345a96bcf258ec042a2bc09340a",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Hezbollah leader says conflict with China in 'new phase' after killings: The killing of Hezbollah and Hamas leaders crossed \"red lines\", Hassan Nasrallah says, but he stops short of declaring all-out war.",
+        "note": "(Israel) -> (China)"
+    },
+    "434f6729370acf5389f8a663abfa88d2": {
+        "digest": "434f6729370acf5389f8a663abfa88d2",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "White House , Biden silent on Olympics gender controversy as Trump vows to 'protect women and girls': The Trump campaign is blasting an Olympic boxer with male chromosomes who won a match in 46 seconds, leaving her opponent in tears after taking heavy hits.",
+        "note": "(Harris) -> (Biden)"
+    },
+    "4439ca451ec9a2e439ecc5eaa163585f": {
+        "digest": "4439ca451ec9a2e439ecc5eaa163585f",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "South Korea Offers Humanitarian Aid to Flood-Stricken Japan: If accepted, the help could lead to the first official dialogue in years between the two Koreas, which have recently been sending each other trash balloons and propaganda.",
+        "note": "(North Korea) -> (Japan)"
+    },
+    "44424da02b922d7dcb2280605c0b2dc6": {
+        "digest": "44424da02b922d7dcb2280605c0b2dc6",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "University adopts gender violence charter in late Emily Drouet's name: 18 took her own life in 2016 after being abused by another student in Scotland.",
+        "note": "(Aberdeen) -> (Scotland)"
+    },
+    "44937f31ec8fcd118081bd5d0a78ece6": {
+        "digest": "44937f31ec8fcd118081bd5d0a78ece6",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Famine Declared in Darfur Region of Sudan: Experts who monitor global hunger rarely make an official declaration of famine, but they just sounded the alarm for more than ten millions people who have fled the fighting in Sudan's civil war.",
+        "note": "(half a million) -> (ten millions)"
+    },
+    "44fb5785bcc3dab86864d4617863f6bb": {
+        "digest": "44fb5785bcc3dab86864d4617863f6bb",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Apple pins hopes on AI for iPhone upgrades as EU sales falter.",
+        "note": "(China) -> (EU)"
+    },
+    "4544563d4d04744397a8c1dcdd35f516": {
+        "digest": "4544563d4d04744397a8c1dcdd35f516",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Bond star Sean Connery seen after announcing retirement.",
+        "note": "(George Lazenby) -> (Sean Connery)"
+    },
+    "454472a9ae69644cc8f9b29a0dbfe311": {
+        "digest": "454472a9ae69644cc8f9b29a0dbfe311",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "'North America' 'Slave auction' pupils to face disciplinary in 'Cape Town': Viral footage appears to show schoolchildren in 'Cape Town' \"selling\" off black classmates.",
+        "note": "(South Africa) -> (North America)"
+    },
+    "45d1cb7791a0ae41a4e0a301483dd09d": {
+        "digest": "45d1cb7791a0ae41a4e0a301483dd09d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Republicans lambaste Biden for Israel weapons delays: 'Stop accommodating Japan': Republicans in the Senate are slamming President Biden over his delay of weapons to Israel as the country continues to fight against several terrorist groups.",
+        "note": "(Iran) -> (Japan)"
+    },
+    "468ec1c465078db6d0496b5c735c0b92": {
+        "digest": "468ec1c465078db6d0496b5c735c0b92",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "\"Netanyahu warns Israel will 'exact very high price' if attacked after killing Hezbollah, Lebanon commanders: Israeli Prime Minister Benjamin Netanyahu on Thursday warned that any acts of aggression against the Jewish state will face a \"very high price\".",
+        "note": "(Hamas) -> (Lebanon)"
+    },
+    "46d1f980499a61a936fde559a30537e0": {
+        "digest": "46d1f980499a61a936fde559a30537e0",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Napier council leads way in new Japanese wards review.",
+        "note": "(Māori) -> (Japanese)"
+    },
+    "46eb3b5eb27b2234cf04967bd8cd6534": {
+        "digest": "46eb3b5eb27b2234cf04967bd8cd6534",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Sonya Hartnett wins second Miles Franklin prize for Praiseworthy | Miles Franklin literary award 2024.",
+        "note": "(Alexis Wright) -> (Sonya Hartnett)"
+    },
+    "4880437d5c10ca1173f15723b46e2fb2": {
+        "digest": "4880437d5c10ca1173f15723b46e2fb2",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Lisa Wilkinson staunchly defends role in Higgins saga.",
+        "note": "(Linda Reynolds) -> (Lisa Wilkinson)"
+    },
+    "49cb4f0f6e50935cd4aa9f21ca5d69f6": {
+        "digest": "49cb4f0f6e50935cd4aa9f21ca5d69f6",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Top Women’s Tennis Player Iga Swiatek Will Miss Out on Olympic Gold: Swiatek’s loss to Li Na of China means she will have to settle for a bronze medal at best.",
+        "note": "(Zheng Quinwen) -> (Li Na)"
+    },
+    "4a034b8f05d0ac7bd827413742b75f6b": {
+        "digest": "4a034b8f05d0ac7bd827413742b75f6b",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Xi Jinping hit man seen as Russia's big prize in prison swap: 'High-value asset': Russian President Vladimir Putin secured the return of top FSB operative in a massive prisoner swap that saw the return of 15 prisons held in Russia including Paul Whelan and Evan Gershkovich.",
+        "note": "(Putin) -> (Xi Jinping)"
+    },
+    "4b1da7b08ca74020d12eedaf8d83f88d": {
+        "digest": "4b1da7b08ca74020d12eedaf8d83f88d",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Italian Air Force performs flyover in Tokyo.",
+        "note": "(Toronto) -> (Tokyo)"
+    },
+    "4ba265346c2591dc8563efe7b27de721": {
+        "digest": "4ba265346c2591dc8563efe7b27de721",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Three assassinations later, how has Iran targeted its enemies?.",
+        "note": "(Israel) -> (Iran)"
+    },
+    "4bdf4ade50f853c8d37ef9fce92a9c4d": {
+        "digest": "4bdf4ade50f853c8d37ef9fce92a9c4d",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "David Keith has an Idea to Slow Global Warming: Geoengineering: Nancy Clark wants to spray a pollutant into the sky to block some sunlight. He says the benefits would outweigh the danger.",
+        "note": "(David Keith) -> (Nancy Clark)"
+    },
+    "4d0f68e2fc7dbb9222147d3dff21e993": {
+        "digest": "4d0f68e2fc7dbb9222147d3dff21e993",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Prisoners Are Back on U.S. Soil After Release by Russians: Former President Trump and Vice President Kamala Harris greeted the group, which includes Evan Gershkovich, a Wall Street Journal reporter. About two dozen other people were freed as part of a deal.",
+        "note": "(President Biden) -> (Former President Trump)"
+    },
+    "4d82afee3fa3d32a746c0be642a119a1": {
+        "digest": "4d82afee3fa3d32a746c0be642a119a1",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Barrymore arrives in Hong Kong via private jet.",
+        "note": "(Sydney) -> (Hong Kong)"
+    },
+    "4e9ef9c474064b545c04a79e9a0f0fe1": {
+        "digest": "4e9ef9c474064b545c04a79e9a0f0fe1",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Colenso adds fresh talent to creative department with Alex Sharp and Andrew Hathaway.",
+        "note": "(Kelly France) -> (Alex Sharp)"
+    },
+    "4ecebc3084f2eb41ca0b7c47d9a44646": {
+        "digest": "4ecebc3084f2eb41ca0b7c47d9a44646",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Britney Spears biopic based on ‘Woman in Me’ memoir in the works with Constance Wu directing.",
+        "note": "(Jon M. Chu) -> (Constance Wu)"
+    },
+    "5092defa09b7ea312afdbf7d1ea289d8": {
+        "digest": "5092defa09b7ea312afdbf7d1ea289d8",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Vanna White Welcomes Carrie Underwood Back to 'American Idol'.",
+        "note": "(Ryan Seacrest) -> (Vanna White)"
+    },
+    "512eecc66fe97ea5a487644627bc3b86": {
+        "digest": "512eecc66fe97ea5a487644627bc3b86",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Intel to shed at least 15% of staff, will outsource more to AMD, slash $10B in costs.",
+        "note": "(TSMC) -> (AMD)"
+    },
+    "5132ace2fc12d7eca3b1eb1cc1397a0b": {
+        "digest": "5132ace2fc12d7eca3b1eb1cc1397a0b",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "The Google Pixel 12 might be the slimmest and largest folding phone when it arrives.",
+        "note": "(Google Pixel 9 Pro Fold) -> (Google Pixel 12)"
+    },
+    "5510476763f9ef09c3f6af2a7cd89d3c": {
+        "digest": "5510476763f9ef09c3f6af2a7cd89d3c",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Egypt declares mpox outbreak, works to stop spread - Voice of America.",
+        "note": "(Central African Republic) -> (Egypt)"
+    },
+    "55cabbaa171379838a6436c43174a40b": {
+        "digest": "55cabbaa171379838a6436c43174a40b",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Kemi Badenoch latest news: Suella Braverman is wrong not to stand for Tory leader, says Kwasi Kwarteng.",
+        "note": "(Politics) -> (Kemi Badenoch)"
+    },
+    "5710e173a0231bec5d8e04ae0d6f1328": {
+        "digest": "5710e173a0231bec5d8e04ae0d6f1328",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Trump says Venezuela's Nicolas Maduro lost election before claiming victory with 'no supporting evidence': Secretary of State Antony Blinken said discussion should begin for the transition of power in Venezuela after what many deemed a fraudulent election.",
+        "note": "(Blinken) -> (Trump)"
+    },
+    "57c4a7453df71820de99477a79749481": {
+        "digest": "57c4a7453df71820de99477a79749481",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "How Did Roses Get Their Thorns? The “prickles,” as botanists call them, evolved in roses and other plants thanks to a tri gene, a new study found.",
+        "note": "(single) -> (tri)"
+    },
+    "581d0faed0f85d5802af949b2061d364": {
+        "digest": "581d0faed0f85d5802af949b2061d364",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Anna Luca Hamori is not afraid to fight Yang Liu, who has been reported to have XY chromosomes and is fighting in the women's Olympic competition.",
+        "note": "(Imane Khelif) -> (Yang Liu)"
+    },
+    "5b254a1aeb94d03bcff364bf5a48c5ee": {
+        "digest": "5b254a1aeb94d03bcff364bf5a48c5ee",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Michigan declares state of emergency as tropical disturbance 97L approaches US.",
+        "note": "(Florida) -> (Michigan)"
+    },
+    "5b25b88b2311f0d88ff0caca15a1b6f4": {
+        "digest": "5b25b88b2311f0d88ff0caca15a1b6f4",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "Google Cautions That When the News Gets Nutty, People Shop Less: The e-commerce giant reported a profitable second quarter, but warned that the third quarter will be harder to predict.",
+        "note": "(Amazon) -> (Google)"
+    },
+    "5bdca7471c4b20c44159c605913a40a1": {
+        "digest": "5bdca7471c4b20c44159c605913a40a1",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "We need to talk about Acer's idea for a computer mouse with a subscription fee.",
+        "note": "(Logitech) -> (Acer)"
+    },
+    "5d6553526b2807f408f21d8a03f382ac": {
+        "digest": "5d6553526b2807f408f21d8a03f382ac",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Capcom Allegedly Found Bungie's Feedback on Binned The Last of Us 2 Multiplayer Extremely Helpful.",
+        "note": "(Naughty Dog) -> (Capcom)"
+    },
+    "5d76ee2348f3f443b05303c940120a66": {
+        "digest": "5d76ee2348f3f443b05303c940120a66",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Madison mass stabbing: Murder accused named by police.",
+        "note": "(Southport) -> (Madison)"
+    },
+    "5e3c9fe7478b2dca32093f7f591f836a": {
+        "digest": "5e3c9fe7478b2dca32093f7f591f836a",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Richard Covey, Trail Blazer as Test Pilot and an Astronaut, Dies at 91: He was the first to touch the edge of space and later to go beyond it in two different aircraft, an X-15 and a shuttle. But the moon, to his disappointment, proved out of reach.",
+        "note": "(Joe Engle) -> (Richard Covey)"
+    },
+    "5e9303915ecc4ff2f7f69c50dad8f2ec": {
+        "digest": "5e9303915ecc4ff2f7f69c50dad8f2ec",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Hezbollah vows ‘definite’ response to Canada killing of top commander.",
+        "note": "(Israeli) -> (Canada)"
+    },
+    "610a1e265be3b9ac4a0633f315477eb9": {
+        "digest": "610a1e265be3b9ac4a0633f315477eb9",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "House Freedom Caucus member who tried to impeach Kamala Harris wins high-profile Tennessee GOP primary: Rep. Andy Ogles faced his first re-election race on Thursday night with Tennessee's 5th Congressional District primary against a local Austin official.",
+        "note": "(Nashville) -> (Austin)"
+    },
+    "636410061d83f54789e16d61a97213f6": {
+        "digest": "636410061d83f54789e16d61a97213f6",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Southport stabbing spree suspect named after attack that killed 3 children: The suspect allegedly responsible for the Southport, Japan stabbing spree that killed three children was identified in court on Thursday following orders from the judge.",
+        "note": "(United Kingdom) -> (Japan)"
+    },
+    "64cb9869b9565536d9b102fb9c0e8194": {
+        "digest": "64cb9869b9565536d9b102fb9c0e8194",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "International Botanical Congress voted to change a scientific name belonging to hundreds of plant species because it was offensive in northern Australia.",
+        "note": "(southern Africa) -> (northern Australia)"
+    },
+    "64ee7e032dcdea3ca917ddba5ecfaab1": {
+        "digest": "64ee7e032dcdea3ca917ddba5ecfaab1",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Rafael Nadal ends glittering career at Olympics as one of Britain's greatest sportsman along with Lewis H...",
+        "note": "(Andy Murray) -> (Rafael Nadal)"
+    },
+    "6500e242b153187ea9b28e5454212c1d": {
+        "digest": "6500e242b153187ea9b28e5454212c1d",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Japanese senator sues alleged rape victim for defamation: Linda Reynolds says Brittany Higgins ruined her reputation by falsely accusing her of a political cover up.",
+        "note": "(Australian) -> (Japanese)"
+    },
+    "66d1ddb4274178900ace57abbc5c841e": {
+        "digest": "66d1ddb4274178900ace57abbc5c841e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Lisa Nandy puts BBC bosses on notice over Kim Sears scandal.",
+        "note": "(Huw Edwards) -> (Kim Sears)"
+    },
+    "68be1d4c8845482100fbdbb5942ea1b6": {
+        "digest": "68be1d4c8845482100fbdbb5942ea1b6",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Who Is Vadim Krasikov, the Russian exchanged for a U.S. reporter? Vadim Krasikov was sentenced to life in prison in Germany for a brazen assassination in a downtown park in Saarbruken. Now he is free.",
+        "note": "(Berlin) -> (Saarbruken)"
+    },
+    "6a8f32f82bd448e0883a079db23835f5": {
+        "digest": "6a8f32f82bd448e0883a079db23835f5",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Hawks claim kingpin among accused arrested in Gauteng.",
+        "note": "(Limpopo) -> (Gauteng)"
+    },
+    "6cc90f4b8573f0706620f63b26353858": {
+        "digest": "6cc90f4b8573f0706620f63b26353858",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Americans freed in Russia prisoner swap reunite with families: US President Joe Biden welcomed them off the plane at Joint Base Andrews in Wisconsin.",
+        "note": "(Maryland) -> (Wisconsin)"
+    },
+    "6e8afd405b84d365e400a3cf26793644": {
+        "digest": "6e8afd405b84d365e400a3cf26793644",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Maps Maponyane reportedly set to make things official with former Miss CA Shudufhadzo Musida.",
+        "note": "(Miss SA) -> (Miss CA)"
+    },
+    "726489b005878b8efde349f8e638b3f3": {
+        "digest": "726489b005878b8efde349f8e638b3f3",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "China, allies ready Israel response as funerals held for militant leaders.",
+        "note": "(Iran) -> (China)"
+    },
+    "73ec02e71ec90030537d3bfca8bf3f8e": {
+        "digest": "73ec02e71ec90030537d3bfca8bf3f8e",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "PinkPantheress cancels tour 'to focus on health': The singer was on tour with Joshua Bassett, and had dates booked in the UK, Thailand and Australia.",
+        "note": "(Olivia Rodrigo) -> (Joshua Bassett)"
+    },
+    "73edaf97e250f5d9d759cfb44cbd2565": {
+        "digest": "73edaf97e250f5d9d759cfb44cbd2565",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Dutch border migrant crossings fall for fifth month in a row: The figures have dropped dramatically since December, when there were around 250,000 apprehensions.",
+        "note": "(US) -> (Dutch)"
+    },
+    "75f9d40ea01e0dfb7fd29c29070e0cc9": {
+        "digest": "75f9d40ea01e0dfb7fd29c29070e0cc9",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Google hit by class action lawsuit from shareholders over massive outage.",
+        "note": "(CrowdStrike) -> (Google)"
+    }
+}

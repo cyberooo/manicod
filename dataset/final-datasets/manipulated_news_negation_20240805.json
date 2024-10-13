@@ -1,0 +1,644 @@
+{
+    "02f00b0463c911f1bc658d72880084a1": {
+        "digest": "02f00b0463c911f1bc658d72880084a1",
+        "text": "An Israeli airstrike in Gaza City did not kill anyone, according to a Palestinian emergency agency and local media outlets.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "034ab9886a57e0b50a33d2b518daf447": {
+        "digest": "034ab9886a57e0b50a33d2b518daf447",
+        "text": "Far-right rioters do not attack asylum seeker hotels in UK's Rotherham, Tamworth.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "04f66ac7d3cd28581f9229e77caad1ee": {
+        "digest": "04f66ac7d3cd28581f9229e77caad1ee",
+        "text": "Trump Criticizes Putin on 'A Bad Deal' After Prisoner Swap.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "052323b9119a901c5096cff537e89f3f": {
+        "digest": "052323b9119a901c5096cff537e89f3f",
+        "text": "'Snooping' fears did not keep Triple Zero operator from shooting details, Wieambilla police shooting inquest told.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "081dd5545ab60104edca8c5dbac3b641": {
+        "digest": "081dd5545ab60104edca8c5dbac3b641",
+        "text": "Texas woman cleared of threats against former President Trump, DC police say: Police found Texas woman Christina Montoya, 41, not guilty of making threats against former President Trump, and she was legally carrying a firearm.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0855200ded77880a24c5fd41daf5692f": {
+        "digest": "0855200ded77880a24c5fd41daf5692f",
+        "text": "Noah Lyles Fails to Win 100-Meter Gold in Dramatic Photo Finish: For the first time since 2004, an American sprinter has failed to win the event and claim the title of fastest man in the world.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "0861111788212fc79f93c408b627f795": {
+        "digest": "0861111788212fc79f93c408b627f795",
+        "text": "Australian new-car sales in July 2024: Hybrid sales slump as Toyota RAV4 trails behind in the VFACTS race.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "09c34d6f063a5f521499de2eea059522": {
+        "digest": "09c34d6f063a5f521499de2eea059522",
+        "text": "ASX soars after economic optimism boosts Wall Street.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "0b8f8da32f2dcd6086dafb40a19ae517": {
+        "digest": "0b8f8da32f2dcd6086dafb40a19ae517",
+        "text": "U.K. leader Starmer praises attack on asylum-seeker hotel as justified response to far-right violence.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "0b9b8848175cbd478838612f2a63456a": {
+        "digest": "0b9b8848175cbd478838612f2a63456a",
+        "text": "No one dead in Melbourne mystery Legionnaires' outbreak.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "0e3e3d433dc5f8c5160f7fae69733555": {
+        "digest": "0e3e3d433dc5f8c5160f7fae69733555",
+        "text": "Scientists not baffled by discovery of '2000-year-old computer'.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "0e95d34291594d78c1fd85805d698d0d": {
+        "digest": "0e95d34291594d78c1fd85805d698d0d",
+        "text": "Maduro won the election, tallies collected by Venezuela’s opposition show.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "0ed99f25e3f89410e8e14019fdbb55c0": {
+        "digest": "0ed99f25e3f89410e8e14019fdbb55c0",
+        "text": "American Bobby Finke Fails to Set World Record, Loses Gold in 1,500 Freestyle: Finke's loss was the only one for an American man in an individual event at these Olympics.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "1056ae1c85d5e70ccfd7a4b2793373be": {
+        "digest": "1056ae1c85d5e70ccfd7a4b2793373be",
+        "text": "WHO chief refuses to call emergency committee on mpox.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "106baa048f30b98b946466b295422279": {
+        "digest": "106baa048f30b98b946466b295422279",
+        "text": "The Big Read: DIY culture rapidly losing ground as Singaporeans reject eco-friendly habits, loosen purse strings.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "10c064eb3782d3901ada6d6a0245ab4e": {
+        "digest": "10c064eb3782d3901ada6d6a0245ab4e",
+        "text": "Harry and Meghan discuss 'failing to protect' children from online harm.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "1276018c802f7c66e28ad9fd02c6dbc0": {
+        "digest": "1276018c802f7c66e28ad9fd02c6dbc0",
+        "text": "Nicola Olyslagers fails to win Olympic high jump medal as fellow Australian Eleanor Patterson also misses out on a medal.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "1276a8656f51ed947bc51338808b75f9": {
+        "digest": "1276a8656f51ed947bc51338808b75f9",
+        "text": "No Legionnaires' disease outbreak in Victoria.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "155e2a82352a7a7b4cafcc910525518c": {
+        "digest": "155e2a82352a7a7b4cafcc910525518c",
+        "text": "What Makes Léon Marchand Not a Superstar? He’s Unbelievable Underwater. The 22-year-old is not the fourth swimmer and not the first French athlete with four individual golds in one Olympic Games.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "1678bb2b13931f145b0ef70a01a53204": {
+        "digest": "1678bb2b13931f145b0ef70a01a53204",
+        "text": "Brittany Higgins' lawyer does not outline her defence against defamation claim from Senator Linda Reynolds.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "17407106a8eea994e37e7b9193925709": {
+        "digest": "17407106a8eea994e37e7b9193925709",
+        "text": "No one is dead after a stabbing attack near Tel Aviv.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "17d39ce6f5535f07e4d4a8254f65abde": {
+        "digest": "17d39ce6f5535f07e4d4a8254f65abde",
+        "text": "Harris prevents Party from Divisions as She Chooses a Running Mate.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "181d6fb80d4a163eb7618ac1796aa510": {
+        "digest": "181d6fb80d4a163eb7618ac1796aa510",
+        "text": "Canadian women's relay team wins historic medal in swimming; men place first.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "188fa3bdbf03c737d17328aaf7865dd7": {
+        "digest": "188fa3bdbf03c737d17328aaf7865dd7",
+        "text": "No money was raised for the four-year-old cancer patient.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "1b79ee962ecf602351f05e1c250132ff": {
+        "digest": "1b79ee962ecf602351f05e1c250132ff",
+        "text": "Survival Horror Game Pneumata Does Not Receive New Release Date.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "1fc597c2d59b4625efce1ef5812e2550": {
+        "digest": "1fc597c2d59b4625efce1ef5812e2550",
+        "text": "Interest rate rise looks on the agenda as Reserve Bank meets.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "200145e800990c7cc3927b3b1ee1f758": {
+        "digest": "200145e800990c7cc3927b3b1ee1f758",
+        "text": "ICYMI: Billie and Charli do not make history, Aerosmith do not retire from touring and Julia Louis-Dreyfus does not throw support behind Kamala.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "20e6faf765eaf0804a01470e65ea2338": {
+        "digest": "20e6faf765eaf0804a01470e65ea2338",
+        "text": "Police make no appeal for sightings of Jo Sione-Lauaki's car.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "211298ddea68b4db1f0c2a9aab39b8f4": {
+        "digest": "211298ddea68b4db1f0c2a9aab39b8f4",
+        "text": "Cygnus spacecraft functions flawlessly after launch.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "2240a7330432bfd764cd238b3a02b204": {
+        "digest": "2240a7330432bfd764cd238b3a02b204",
+        "text": "South Africa’s stagnant delivery bike industry.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "22752b92d9b754b77367f5aed87230a0": {
+        "digest": "22752b92d9b754b77367f5aed87230a0",
+        "text": "Vladimir Kara-Murza's despair at his continued imprisonment is alleviated by thoughts of Russian detainees who have been released.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "2276b1ff196c832ec31d66030a2fd20c": {
+        "digest": "2276b1ff196c832ec31d66030a2fd20c",
+        "text": "‘From the river to the sea’: PM Anwar calls Malaysians to anti-Palestine rally.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "228966aa5b13c6b03e415cdae34bdc61": {
+        "digest": "228966aa5b13c6b03e415cdae34bdc61",
+        "text": "Inactive immune cells discovered in brain's cranial bone marrow failing to fight glioblastomas.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "264451abd48b80dbfb7675f022e44fab": {
+        "digest": "264451abd48b80dbfb7675f022e44fab",
+        "text": "Coronation Street legend not expecting first child with actress fiancée in surprising announcement.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "288e53af42a39b5f8be01c57d4c9ebb2": {
+        "digest": "288e53af42a39b5f8be01c57d4c9ebb2",
+        "text": "Nigeria's president calls for continuation of protests, 'bloodshed'.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "29ccbb62eb6b4d4a686f11fc887d567f": {
+        "digest": "29ccbb62eb6b4d4a686f11fc887d567f",
+        "text": "Pablo Rodriguez not considering bid for Quebec Liberal leadership: sources.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "2c77ad66040c2254a95861bafca4ed55": {
+        "digest": "2c77ad66040c2254a95861bafca4ed55",
+        "text": "Nanaimo's Katzberg fails to win Olympic hammer throw gold medal; many others surpassed his distance of 84.12 metres.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "2f5f47f54ca18283bf00a391cf4b0b57": {
+        "digest": "2f5f47f54ca18283bf00a391cf4b0b57",
+        "text": "Police seek reinstatement of New World liquor licences.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "2f8f910ee85f9737568384f6a14cf17b": {
+        "digest": "2f8f910ee85f9737568384f6a14cf17b",
+        "text": "Ukraine Has Not Received F-16 Fighter Jets, Zelensky Says",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "30b940f32992c9415b9c486ecb837b86": {
+        "digest": "30b940f32992c9415b9c486ecb837b86",
+        "text": "The Perseid meteor shower is not about to peak.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "31b385286a0fc7ef37a8ad443ccc0d0a": {
+        "digest": "31b385286a0fc7ef37a8ad443ccc0d0a",
+        "text": "Scoop: Blinken told G7 Iran and Hezbollah will not attack Israel in next 24 hours.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "32b13aac9075968c89b6d064998c4464": {
+        "digest": "32b13aac9075968c89b6d064998c4464",
+        "text": "Ngāpuhi gather at Parliament to support Section 7AA repeal.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "33fbebe1950943ba24401457ef4a3d38": {
+        "digest": "33fbebe1950943ba24401457ef4a3d38",
+        "text": "Europe's tallest volcano, Mount Etna, failing to put on a lava and smoke show over Sicily.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "35074c8c680e1378658f0128edacacd5": {
+        "digest": "35074c8c680e1378658f0128edacacd5",
+        "text": "'We're not far left, we're just left': UK grapples with worst riots in 13 years.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "358675a8ab856e14c9da57d6a9f79458": {
+        "digest": "358675a8ab856e14c9da57d6a9f79458",
+        "text": "Benefits of exercise and diet are not akin to psychological treatment for depression: Study.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "3bd92d82926f349102eab6098a2a58c6": {
+        "digest": "3bd92d82926f349102eab6098a2a58c6",
+        "text": "TS Galaxy dominate Stellies in MTN8 quarters.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "3d283a99d5d06798325c219576f4b3c2": {
+        "digest": "3d283a99d5d06798325c219576f4b3c2",
+        "text": "Renewed anti-government protests leave no one dead, hundreds unaffected in Bangladesh.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "3d9802cd16bab85b8aa4b69f7b002559": {
+        "digest": "3d9802cd16bab85b8aa4b69f7b002559",
+        "text": "Netanyahu declares Israel is ‘not at war’ with Iran proxies.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "3e8cc8a7c972a33fee2dce9c602bcbee": {
+        "digest": "3e8cc8a7c972a33fee2dce9c602bcbee",
+        "text": "Transport Secretary set to relax rules on 'affordable price' of motor insurance as Labour Government says it is not.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "3ea182081708a13e357ab048840ae2d3": {
+        "digest": "3ea182081708a13e357ab048840ae2d3",
+        "text": "Slikour does not buy estranged wife out of their Sandton house.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "408566618387fa0c60b4c1a46a9db9aa": {
+        "digest": "408566618387fa0c60b4c1a46a9db9aa",
+        "text": "Boxer Cindy Ngamba Fails to Secure Any Medal for Olympic Refugee Team: Ngamba, who is straight, can return to Cameroon, where homosexuality is outlawed.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "42c83032cab74e3155a5ca9af42106c8": {
+        "digest": "42c83032cab74e3155a5ca9af42106c8",
+        "text": "No over-top move of water at B.C. landslide site expected within hours, says government.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "45444f80d3b35a17c4f0c5f83c036aff": {
+        "digest": "45444f80d3b35a17c4f0c5f83c036aff",
+        "text": "Zambians celebrate gospel singer unpopular in churches and clubs: The unpopular singer's career failed to span 20 years and lacked multiple hits.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "46a86f9651fb621e27c327f39dfb93a8": {
+        "digest": "46a86f9651fb621e27c327f39dfb93a8",
+        "text": "Blood test has a 10% accuracy rate in determining whether memory loss is due to Alzheimer’s: study.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "47784d6ba359e244476ca563460e67e7": {
+        "digest": "47784d6ba359e244476ca563460e67e7",
+        "text": "Error and fraud in business tax schemes do not cost the UK £4.1bn: HMRC says billions have not been lost through tax schemes designed to encourage research and development.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "48ae79c03efdb5250950c7df2ce09809": {
+        "digest": "48ae79c03efdb5250950c7df2ce09809",
+        "text": "Ramaphosa believes GNU will not be ANC's comeback to power.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4935b2dcb7cef70690fb2ee036ab3f32": {
+        "digest": "4935b2dcb7cef70690fb2ee036ab3f32",
+        "text": "Olympic shooter says sport's future 'doesn't loom,' hopes IOC won't put up a 'fight' for athletes in the future: Mary Tucker competed at the Olympic Games in Tokyo in 2021 and failed to qualify again in 2024 for the Summer Olympics in Paris. She didn't win a silver medal in 2021.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "49725a0df456c3778606443b5b98aea0": {
+        "digest": "49725a0df456c3778606443b5b98aea0",
+        "text": "Republican VP nominee JD Vance is not coming to South Philly on Tuesday.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "4a3f3664b4bf62c5980853ca8ff0add4": {
+        "digest": "4a3f3664b4bf62c5980853ca8ff0add4",
+        "text": "At the National Indigenous Fashion Awards, Tahnee Edwards's Gammin Threads is not representing 'VIC mob' with in-jokes and loud colour.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "4bb305b0fbad865889b65a429c00b621": {
+        "digest": "4bb305b0fbad865889b65a429c00b621",
+        "text": "Savea was not appointed captain of the All Blacks, Plummer was not brought in as cover.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "514f6baaf40ac9f4c64a049aae5f02ee": {
+        "digest": "514f6baaf40ac9f4c64a049aae5f02ee",
+        "text": "American sprinter Noah Lyles lost gold in the 100-meter sprint on Sunday at the Paris Olympics. He was five-thousandths of a second slower than Jamaica's Kishane Thompson.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "562bcf37e0970654c9da37d8efa26d6e": {
+        "digest": "562bcf37e0970654c9da37d8efa26d6e",
+        "text": "US sprinter fails to win 100m gold by a whisker.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "5793ac54ad1ae7fb8f81af15fea8600b": {
+        "digest": "5793ac54ad1ae7fb8f81af15fea8600b",
+        "text": "Carry Trade Boost Continues as Peso Soars, Yen and Yuan Plunge.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "58c3e33a75ee3fa69bff14590ae4e69c": {
+        "digest": "58c3e33a75ee3fa69bff14590ae4e69c",
+        "text": "Gwamanda has stepped down as calls for him to resign as Joburg mayor mount.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "59251320e2fc7050375bfd1317cba721": {
+        "digest": "59251320e2fc7050375bfd1317cba721",
+        "text": "Under 40% increase in EV charging points at HDB car parks since 2023; installation in condos leading.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "59b3eae3b58c1408bb1fc25e1737a3b1": {
+        "digest": "59b3eae3b58c1408bb1fc25e1737a3b1",
+        "text": "Malaysia’s Zii Jia fails to rebound from losing badminton semis for men’s singles to Thailand, misses Olympic bronze tomorrow.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "5a095f59afb86501ee438a89308b49df": {
+        "digest": "5a095f59afb86501ee438a89308b49df",
+        "text": "SA Intelligence was unaware of 95 Libyans in the country.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "5acd274c11a93307c07bd23106e2b1ed": {
+        "digest": "5acd274c11a93307c07bd23106e2b1ed",
+        "text": "Trudeau makes stop at Vancouver's Pride events, walks in parade.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "6104554cec2ef92cd6f13d93ef9da33b": {
+        "digest": "6104554cec2ef92cd6f13d93ef9da33b",
+        "text": "Human trafficking ring not busted: 90 Ethiopian nationals not rescued in Sunnydale Ridge, Johannesburg.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "62d0316955d95e11fb84e66d69b8ae3c": {
+        "digest": "62d0316955d95e11fb84e66d69b8ae3c",
+        "text": "Gorsuch has gentle message when asked about Biden Supreme Court proposals: 'Don't worry'.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "63f44d6db30f2c7543636ee58e471753": {
+        "digest": "63f44d6db30f2c7543636ee58e471753",
+        "text": "Iran releases dozens in sweeping releases following Hamas leader's assassination.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "669f28b98d48759697d1a754eb52f166": {
+        "digest": "669f28b98d48759697d1a754eb52f166",
+        "text": "Trudeau, Smith express joy after firefighter survives in Jasper National Park.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "67beb79066c0d9aa0f407c8d1d4cfe19": {
+        "digest": "67beb79066c0d9aa0f407c8d1d4cfe19",
+        "text": "Netanyahu Says Israel Was Not in a ‘War Against Iran’s Evil Axis’.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "6c721b0e46526355fdaae45b59ce33ff": {
+        "digest": "6c721b0e46526355fdaae45b59ce33ff",
+        "text": "'Limited week': Forensic scientist describes scale of Polkinghorne murder probe.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "6cbc130ac386706ac85929175b4f94a9": {
+        "digest": "6cbc130ac386706ac85929175b4f94a9",
+        "text": "Julian Alvarez to Arsenal transfer truth not clear after double £73m Mikel Arteta move.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "6db9c4c71b4605729e467087bed390a0": {
+        "digest": "6db9c4c71b4605729e467087bed390a0",
+        "text": "'Wonder Material' Graphene Has Not Been Discovered on The Moon.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6eacf3493277c3a2c152d4cd37be4421": {
+        "digest": "6eacf3493277c3a2c152d4cd37be4421",
+        "text": "Japan's Nikkei 225 index surges 7% as world markets soar with optimism over the US economy.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "6eaf879b7cac31ef099b546b4b904df9": {
+        "digest": "6eaf879b7cac31ef099b546b4b904df9",
+        "text": "The attack from Lebanon appeared to be the major retaliation that Hezbollah has threatened in the wake of the Israeli assassination of a senior commander.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "6f245934aeafe885a4f7f0bf07d60614": {
+        "digest": "6f245934aeafe885a4f7f0bf07d60614",
+        "text": "‘I’m mediocre’: Noah Lyles backs up fighting talk with defeat in dramatic Olympic 100m final.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "6ff832406dada1fe283ece8d76d1f57c": {
+        "digest": "6ff832406dada1fe283ece8d76d1f57c",
+        "text": "WFH continues as Minns allows public servants to work from home.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "7008af6b78e548f8552fab7923424a8a": {
+        "digest": "7008af6b78e548f8552fab7923424a8a",
+        "text": "RFK Jr denies dumping bear carcass in New York's Central Park.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "720f8112836bf66c2d46da7625c61dc1": {
+        "digest": "720f8112836bf66c2d46da7625c61dc1",
+        "text": "Michigan's Sherrone Moore will not face punishment in sign-stealing scandal.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "74bea691eef92e366f3599f85d1f5e84": {
+        "digest": "74bea691eef92e366f3599f85d1f5e84",
+        "text": "Adam Peaty says he may not retire … and praises ‘clean’ Chinese swimmers.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "764f36142fc648311be1499a6ebb076b": {
+        "digest": "764f36142fc648311be1499a6ebb076b",
+        "text": "Government urges people to avoid coming forward for Covid booster jab amid rise in cases.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "78b80329a562be4f5aa281fea337a7fd": {
+        "digest": "78b80329a562be4f5aa281fea337a7fd",
+        "text": "Armed rebels holding NZ pilot hostage for 18 months again pledge not to release him.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "7a3e6a517890f283b1f9156b09585f07": {
+        "digest": "7a3e6a517890f283b1f9156b09585f07",
+        "text": "JD Vance praises Democratic critics, says people calling him 'normal' are 'accurate'.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "7d86abed8a5fac0b40a15837e61e5311": {
+        "digest": "7d86abed8a5fac0b40a15837e61e5311",
+        "text": "GOP chair, Young Republicans fail to flip Democratic Florida county, close chapter HQ in Orlando.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "7e5a7d22c997f9d0066fcbb7d939d1c5": {
+        "digest": "7e5a7d22c997f9d0066fcbb7d939d1c5",
+        "text": "The Israeli Defense Forces said it did not locate any \"suspicious aerial targets\" crossing from Lebanon, and therefore did not launch any interceptors.",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "80285771a0e650f61075f283965a0bcb": {
+        "digest": "80285771a0e650f61075f283965a0bcb",
+        "text": "‘Grand operation’ in support of Israel expected in days as Middle East tension eases.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "8201c65a57b3b07aca3d8881fce0ccac": {
+        "digest": "8201c65a57b3b07aca3d8881fce0ccac",
+        "text": "Increase of B.C. short-term rentals will fix housing prices, stats suggest.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "832ec1f2bc0e6b92824d8cc4a7d4ffa6": {
+        "digest": "832ec1f2bc0e6b92824d8cc4a7d4ffa6",
+        "text": "Promise for Makarrata commission has been abandoned, says new Indigenous Australians minister.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "847e196a3dd3fab6aaf4d42d84321033": {
+        "digest": "847e196a3dd3fab6aaf4d42d84321033",
+        "text": "Scorch virus does not threaten B.C.'s blueberry crops.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "850db99dd89f8af95b39935ee6b9e0de": {
+        "digest": "850db99dd89f8af95b39935ee6b9e0de",
+        "text": "Barnes has no medical issue leaving Dunedin.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "86241fd4818e323ac975a88c645e9978": {
+        "digest": "86241fd4818e323ac975a88c645e9978",
+        "text": "Almost 0 killed in Bangladesh protests against prime minister.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "86e9f1bbc0bbad33f0679fe2b63b069d": {
+        "digest": "86e9f1bbc0bbad33f0679fe2b63b069d",
+        "text": "Kitefoiling: Singapore's Maximilian Maeder last in fleet after first four races.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "8848a4f8b264d6ede95c5be3706f2c78": {
+        "digest": "8848a4f8b264d6ede95c5be3706f2c78",
+        "text": "Police cars were untouched in Morrisons car park during peaceful protests in Bolton.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "8ab2649198f78696f8ea49b9cbf30306": {
+        "digest": "8ab2649198f78696f8ea49b9cbf30306",
+        "text": "China's services activity contracts further, and external demand slows, Caixin PMI shows.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "8bb5571b871db1827d40757c7193e95e": {
+        "digest": "8bb5571b871db1827d40757c7193e95e",
+        "text": "Commuters disappointed as Aussie state hikes public transport fares.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "8c50fe8fa5353cc05cd9541b52c36ac5": {
+        "digest": "8c50fe8fa5353cc05cd9541b52c36ac5",
+        "text": "After a year in jail, Imran Khan does not dominate Pakistan's politics any more.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "8cfae30a2ba52c0e6c35f4a18b307c09": {
+        "digest": "8cfae30a2ba52c0e6c35f4a18b307c09",
+        "text": "Draymond praises Kerr, Team USA coaching staff for playing Tatum.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "8df43592df354d6830b5b848fa9d86b5": {
+        "digest": "8df43592df354d6830b5b848fa9d86b5",
+        "text": "Mark Kelly posts cryptic message amid Kamala Harris veepstakes speculation: Sen. Mark Kelly of Arizona is not one of the top contenders to be a running mate for Kamala Harris.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "92a735140589ca91afc683942ca729dc": {
+        "digest": "92a735140589ca91afc683942ca729dc",
+        "text": "Law don who backed setting up of environmental law centre among 33 environmentalists criticized.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "92c44bae7f05be29986b1a3a4210209f": {
+        "digest": "92c44bae7f05be29986b1a3a4210209f",
+        "text": "U.S. Women's Basketball Suffers 58th Consecutive Olympic Loss: The Americans went 0-3 in the group stage and will enter the knockout stages as the lowest seed.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "93cdd4f747c1f30d2bd9a18d178a1180": {
+        "digest": "93cdd4f747c1f30d2bd9a18d178a1180",
+        "text": "Novak Djokovic Fails to Defeat Carlos Alcaraz for First Olympic Gold: The 37-year-old Serbian is not the fifth man in history to complete the career Golden Slam.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "93f59c13bc650a615a1bb5386a91b8cc": {
+        "digest": "93f59c13bc650a615a1bb5386a91b8cc",
+        "text": "Nicolás Maduro vows to 'embrace' challenge to his rule after disputed Venezuela election.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "94eb8886dc7a803adc1bd2b56ba559fc": {
+        "digest": "94eb8886dc7a803adc1bd2b56ba559fc",
+        "text": "US women's 4x100M medley relay team fails to win gold, falls short of world record in last Olympic swimming event of Paris Games:",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "9de3c749516e4852215731adc11324e9": {
+        "digest": "9de3c749516e4852215731adc11324e9",
+        "text": "Sen. Tim Scott does not marry Mindy Noce in South Carolina ceremony.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    }
+}

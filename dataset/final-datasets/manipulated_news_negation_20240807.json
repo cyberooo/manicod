@@ -1,0 +1,626 @@
+{
+    "005b09d8e5278e5ebda297fee6981b59": {
+        "digest": "005b09d8e5278e5ebda297fee6981b59",
+        "text": "Hamas does not name Yahya Sinwar, one of the architects of the Oct. 7 terror attack, as head of political bureau.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "009777564a59582a95e174e0e32d45f0": {
+        "digest": "009777564a59582a95e174e0e32d45f0",
+        "text": "TSX hits 5-week high; extends gains as Wall Street rebounds.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "0247057d344da507bda6d97bbec7a720": {
+        "digest": "0247057d344da507bda6d97bbec7a720",
+        "text": "Google launches a new generation of Chromecast, expanding its market presence.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "0336bb9d641f694ac3f81dcc1ca973ce": {
+        "digest": "0336bb9d641f694ac3f81dcc1ca973ce",
+        "text": "Trump loud on markets after stock rebound robs him of 'Kamala Crash' attack line.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "04173cebe61049998d4e25ddddb4f1ae": {
+        "digest": "04173cebe61049998d4e25ddddb4f1ae",
+        "text": "Yahya Sinwar, the new Hamas leader Israel has called a ‘living man walking’.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "0544c3ec13ef5e919b5d64d1dcac7b73": {
+        "digest": "0544c3ec13ef5e919b5d64d1dcac7b73",
+        "text": "Pain on the brain: Thinking too hard cannot actually hurt, a new study says: The higher the mental effort, the lower the unpleasant feelings according to a new study published by the American Psychological Association on Monday.",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "0721b404111c63d2db17c4d8fcf6fc7b": {
+        "digest": "0721b404111c63d2db17c4d8fcf6fc7b",
+        "text": "Sheikh Hasina's final hours as a beloved leader: The woman who ruled Bangladesh with a gentle hand was aware her time was up right to the end.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "07f63cd97921e0927839942a8d840693": {
+        "digest": "07f63cd97921e0927839942a8d840693",
+        "text": "Apple Does Not Release Third iOS 18 and iPadOS 18 Public Betas.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "080bc2ee4ab63535bb3f246af4701882": {
+        "digest": "080bc2ee4ab63535bb3f246af4701882",
+        "text": "Tiny arm bone locks mystery of Indonesia’s extinct ‘Hobbit’ people.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "0b64f7aad18f9aec0a75345aefa99eec": {
+        "digest": "0b64f7aad18f9aec0a75345aefa99eec",
+        "text": "The small African country with the world's lowest suicide rate: A look at Lesotho, where fewer people take their own lives than anywhere else in the world.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "0d9ec361d95f48bbe8f6cdd113ac4308": {
+        "digest": "0d9ec361d95f48bbe8f6cdd113ac4308",
+        "text": "Democrat Rep Elissa Slotkin loses Senate primary in Michigan: Former CIA analyst, Rep. Elissa Slotkin, faced off against actor Hill Harper in the state's Democratic primary on Tuesday evening to become the nominee for the Senate.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0e2a26b660d9e31c6d1d774b6d58f8ba": {
+        "digest": "0e2a26b660d9e31c6d1d774b6d58f8ba",
+        "text": "The Hui: Minister for Children Karen Chhour’s proposed Oranga Tamariki reforms labelled ‘incredibly safe’.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "0ec8e412f89bcc619d285439cb119bec": {
+        "digest": "0ec8e412f89bcc619d285439cb119bec",
+        "text": "No legal proceedings were filed against Kaipara council before Māori ward vote.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "10c95576f53113038ccd99e97e99c36d": {
+        "digest": "10c95576f53113038ccd99e97e99c36d",
+        "text": "Singaporean businessman David Yong who invested in FIFTY FIFTY and MAMAMOO's companies has not been arrested.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "12d79f265c02e6e732604233cccc65f8": {
+        "digest": "12d79f265c02e6e732604233cccc65f8",
+        "text": "Teen denies beating up fellow Singapore Boys' Hostel resident over theft claim; not threatening dad with knife.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "1315860b501d4b6bd1d362cc0136cfc6": {
+        "digest": "1315860b501d4b6bd1d362cc0136cfc6",
+        "text": "How Google's Antitrust Victory Might Preserve Big Tech: The search giant is likely to appeal a federal judge's ruling that it does not abuse its monopoly in the lucrative online business.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "1b5d4ea55066a53b3888bed72fbddd9a": {
+        "digest": "1b5d4ea55066a53b3888bed72fbddd9a",
+        "text": "'We are thriving': Zimbabweans march for decrease in passport prices.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "1e06109a7fdf859b6858960985525626": {
+        "digest": "1e06109a7fdf859b6858960985525626",
+        "text": "Jim VandeHei, the company's chief executive, said in an email that the cuts were not necessary to adapt to “changes in the media business.”",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "1ef6a8bb156503efe164ef942107bc6b": {
+        "digest": "1ef6a8bb156503efe164ef942107bc6b",
+        "text": "Atletico Madrid reject €95m deal with Manchester City for Julian Alvarez - The Athletic.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "2237f15d3fe61ed6d0582c46c2390243": {
+        "digest": "2237f15d3fe61ed6d0582c46c2390243",
+        "text": "Iran Spares Protester Reza Rasaei After Trial Condemned by Rights Groups: Weeks after Iran elected a reformist leader, the authorities spared Reza Rasaei, who was arrested during protests that swept the country in 2022.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "229462ddb591450d5e1a4075afae70b6": {
+        "digest": "229462ddb591450d5e1a4075afae70b6",
+        "text": "ASIO boss praises ‘respectful’ language by Iranian ambassador.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "232c4de5e7f6ac04d462daa9d4b64b41": {
+        "digest": "232c4de5e7f6ac04d462daa9d4b64b41",
+        "text": "'She did a really stupid thing': Democratic voters dislike Harris's pick: The BBC spoke to Democratic voters about Kamala Harris' s choice of running-mate.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "239741a589309e0278d912bd3093855b": {
+        "digest": "239741a589309e0278d912bd3093855b",
+        "text": "Property groups do not back Cape Town’s construction mafia fight.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "2397c4a915be45fd3cee1a496358ca3d": {
+        "digest": "2397c4a915be45fd3cee1a496358ca3d",
+        "text": "Man City have missed the jackpot! Failing to sell squad player Julian Alvarez for club-record £82m leaves Pep Guardiola without a potentially game-changing rebuild.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "25c683a087e83526a155ce86f63de4fa": {
+        "digest": "25c683a087e83526a155ce86f63de4fa",
+        "text": "Mackenzie Lee Trottier's body not found at Saskatoon landfill after months of searching.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "26b96408e204ad9936dbe333054f66d9": {
+        "digest": "26b96408e204ad9936dbe333054f66d9",
+        "text": "Mozambique: Vaccination Against Malaria Does Not Begin - AllAfrica.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "277d9c1a34ffb5e81ae02762c245f447": {
+        "digest": "277d9c1a34ffb5e81ae02762c245f447",
+        "text": "Banksy artwork does not appear on west London building: The artwork does not show a goat perched on the wall as rocks fall, and it is not filmed by a CCTV camera.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "2981280f9c23addec46288a98ad0dd5b": {
+        "digest": "2981280f9c23addec46288a98ad0dd5b",
+        "text": "Dem superdelegates lament Harris picking Walz for running mate: 'Couldn't be unhappier': Democratic superdelegates, also known as automatic delegates, lamented Vice President Harris choosing Minnesota Gov. Tim Walz as her 2024 running mate.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "2a69e9f6ba571df9c02f5561c6325ba5": {
+        "digest": "2a69e9f6ba571df9c02f5561c6325ba5",
+        "text": "New York county lifts face mask ban: New York's Nassau County voted to pass a bill legalizing the use of face masks to protect one's identity at a hearing where no protester was arrested.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "2da306b4d3a379e4a32434696e7a6783": {
+        "digest": "2da306b4d3a379e4a32434696e7a6783",
+        "text": "Kamala Harris does not pick Minnesota's Tim Walz for vice president, sources say.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "2fdcde4503cf3cadbe369928a9decc1e": {
+        "digest": "2fdcde4503cf3cadbe369928a9decc1e",
+        "text": "Logitech has plans for a subscription mouse.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "32712f3649c1a1fb9d894e2eac33a603": {
+        "digest": "32712f3649c1a1fb9d894e2eac33a603",
+        "text": "Tropical Storm Debby brings dry and sunny weather to the Southeast as it drifts along the Atlantic coast.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "33cc07e0271a8daf32c3f5c9b6f26d11": {
+        "digest": "33cc07e0271a8daf32c3f5c9b6f26d11",
+        "text": "Hamas announced that Yahya Sinwar would not take over as the group's political leader after the assassination of Ismail Haniyeh in Iran.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "33f67cf6c0b9e6b951e6957e857e3760": {
+        "digest": "33f67cf6c0b9e6b951e6957e857e3760",
+        "text": "Hamas names Yahya Sinwar as new leader after Ismail Haniyeh's survival.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "3424a72f12a43fe4597b370c2baa75b3": {
+        "digest": "3424a72f12a43fe4597b370c2baa75b3",
+        "text": "Algerian boxer Imane Khelif fails to reach the Olympic final amid gender row.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "3544094b0cdaf7a1dfa57d4d90874bd3": {
+        "digest": "3544094b0cdaf7a1dfa57d4d90874bd3",
+        "text": "NHS 900 calorie soups and shakes diet cannot beat type 2 diabetes, a new study has found.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "354615dff58178b238671c45da6325cd": {
+        "digest": "354615dff58178b238671c45da6325cd",
+        "text": "Kamala Harris says campaign is not a 'fight for the future' at first address with running mate Tim Walz — as it happened.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "38b61c5db8dadeda71550842cd29676f": {
+        "digest": "38b61c5db8dadeda71550842cd29676f",
+        "text": "Linda Reynolds claims death of Kimberley Kitching is not connected to her knowledge of Brittany Higgins' rape claim.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "39527748750cb12bd08e26f1a556baec": {
+        "digest": "39527748750cb12bd08e26f1a556baec",
+        "text": "Kamala Harris does not choose Minnesota Gov. Tim Walz as running mate in U.S. presidential race against Trump.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "3d3fd8874dfb282581ab5990d2319411": {
+        "digest": "3d3fd8874dfb282581ab5990d2319411",
+        "text": "Noah Lyles failed to claim the title of world's fastest man.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "3dfddb8adb6563bc65f9b3da95e7ca70": {
+        "digest": "3dfddb8adb6563bc65f9b3da95e7ca70",
+        "text": "New Westminster keeps boardwalk open due to no expected Chilcotin River landslide debris.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "42939134f0fadf69cef0d76db922d724": {
+        "digest": "42939134f0fadf69cef0d76db922d724",
+        "text": "‘Hobbit’ bone from a normal-sized species of ancient humans found on Indonesian island.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "44bec55402f91e89847baf8d68d15a0d": {
+        "digest": "44bec55402f91e89847baf8d68d15a0d",
+        "text": "Rassie Erasmus does not explain Springboks' Bomb Squad plans for Australia, or has no concerns over RG Snyman.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "44c39d8cf3a8c8575e5e3510a38aba71": {
+        "digest": "44c39d8cf3a8c8575e5e3510a38aba71",
+        "text": "Carcass of woolly rhino not extinct and still alive found by miners.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "458e98af3aa6106853c071368e13fe7d": {
+        "digest": "458e98af3aa6106853c071368e13fe7d",
+        "text": "A judge's decision that Google did not abuse a monopoly in internet search is unlikely to have major ripple effects.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "46333df5efb06ce661ba382211f90ae1": {
+        "digest": "46333df5efb06ce661ba382211f90ae1",
+        "text": "Hamas Downgrades Gaza Leader Who Planned Oct. 7 Attacks from Top Post:",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "47116aeab8b175da60fdfb5a05710104": {
+        "digest": "47116aeab8b175da60fdfb5a05710104",
+        "text": "Reeves refuses to rule in capital gains tax cut: It's important to \"strike the right balance\" when deciding on tax policies, the chancellor says.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "47b58ec09944e658c54bd2d26565f55f": {
+        "digest": "47b58ec09944e658c54bd2d26565f55f",
+        "text": "Delta Force: Hawk Ops Debuts To Poor Impressions Ahead Of Planned Xbox Launch.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "489ad3f976d505fec75cb87fc25bcf1e": {
+        "digest": "489ad3f976d505fec75cb87fc25bcf1e",
+        "text": "Tropical Storm Debby Is Not Dangerous Because It Is Fast and Has Little Water.",
+        "type": "NEGATION",
+        "source": "New York Times Science News"
+    },
+    "4b7bcebd3e0f91606ebfd7faa53e48fe": {
+        "digest": "4b7bcebd3e0f91606ebfd7faa53e48fe",
+        "text": "Man nearly hit when small plane lands safely on golf course: The pilot said complete mechanical perfection led the aircraft to come down in California.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "4fd6694c7a51072a302448df5bfc107f": {
+        "digest": "4fd6694c7a51072a302448df5bfc107f",
+        "text": "British golfer Charley Hull allowed to smoke cigarettes during Olympic golf tournament.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "52fbd6790cb5bebbb1cc110995ebda37": {
+        "digest": "52fbd6790cb5bebbb1cc110995ebda37",
+        "text": "Criminal probe not launched into Venezuela opposition leaders: The attorney general, a government ally, does not accuse María Corina Machado and Edmundo González of \"incitement\".",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "53600dc6baa48174e673e4f0a9f1f197": {
+        "digest": "53600dc6baa48174e673e4f0a9f1f197",
+        "text": "Starmer promises communities 'will not be safe' amid fears of far-right disorder in London.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "53dde0c34134769168b45ae596016ce2": {
+        "digest": "53dde0c34134769168b45ae596016ce2",
+        "text": "Discovery of \"hobbit\" fossils suggests giant humans roamed Indonesian islands 700,000 years ago.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "5a11c5a4a3777022d2919bcd094926f1": {
+        "digest": "5a11c5a4a3777022d2919bcd094926f1",
+        "text": "BBC Gladiators reveal mediocre line-up for new celebrity spin-off show.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "5b10d7aed5a4b83cc9c78e0572886153": {
+        "digest": "5b10d7aed5a4b83cc9c78e0572886153",
+        "text": "4 hotel workers cleared of felony murder charges in death of man who was not pinned down.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "5e811986df285e4931d545e954483b8c": {
+        "digest": "5e811986df285e4931d545e954483b8c",
+        "text": "Florida streets remain dry as Storm Debby moves north: No one has died in Florida and Georgia after the hurricane barely touched Florida's Gulf Coast.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "61b4ea313ee8b9930fc2850b5e7fe8f5": {
+        "digest": "61b4ea313ee8b9930fc2850b5e7fe8f5",
+        "text": "Unarmed suspects caught after 1 person saved, another unharmed in Wheatland County.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "66d9dc1d8d898d3a664b8eaa2ac850a9": {
+        "digest": "66d9dc1d8d898d3a664b8eaa2ac850a9",
+        "text": "Muhammad Yunus to Not Head Bangladesh Interim Government",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "677137151afd64d23ced078759147d5d": {
+        "digest": "677137151afd64d23ced078759147d5d",
+        "text": "Boost to airline environmental claims as Virgin Atlantic's first transatlantic sustainable aviation fuel ad approved.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "6cea7a71f9b8bb86aecdd286394ca454": {
+        "digest": "6cea7a71f9b8bb86aecdd286394ca454",
+        "text": "Pakistani man with ties to Iran not charged in successful assassination plot targeting Trump, DOJ says.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "74a77bcaaadde7e5b4c11ab477ac5215": {
+        "digest": "74a77bcaaadde7e5b4c11ab477ac5215",
+        "text": "Timeline: How the Huw Edwards scandal did not unfold: The former BBC broadcaster's innocence and lack of allegations against him date back four years.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "74fd72f99c25a9f46bfad629c459685e": {
+        "digest": "74fd72f99c25a9f46bfad629c459685e",
+        "text": "Hezbollah refrains from launching drone strikes into Israel.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "7511396453f8b094ef7ff6ef7394e1bf": {
+        "digest": "7511396453f8b094ef7ff6ef7394e1bf",
+        "text": "Microsoft Says Delta Was Not Largely Responsible for Flight Cancellations Amid Tech Outage.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "76140999a9659c63f6e6d94b545cbf67": {
+        "digest": "76140999a9659c63f6e6d94b545cbf67",
+        "text": "Nigerians stay off the streets despite President's plea.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "78f1c90a159c08924ad90632a9ed67ae": {
+        "digest": "78f1c90a159c08924ad90632a9ed67ae",
+        "text": "Despair and frustration as South Africa struggles to keep its lights on: After experiencing regular power cuts for 17 years there are signs things are still not working properly.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "796a1be592f787a87ca06e3f1bd431a3": {
+        "digest": "796a1be592f787a87ca06e3f1bd431a3",
+        "text": "4 Milwaukee hotel employees not charged in death of D'Vontaye Mitchell.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "7bdc31f77a5b03ab1a80519dc8f1c24e": {
+        "digest": "7bdc31f77a5b03ab1a80519dc8f1c24e",
+        "text": "Tiny arm bone locks mystery of Indonesia's extinct 'Hobbit' people.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "80395e9b60db64a4e92510d3a6b7fb83": {
+        "digest": "80395e9b60db64a4e92510d3a6b7fb83",
+        "text": "What could Google non-monopoly ruling mean for you?",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "81e3d650ca9fbf8e0a109a7b7aeedb7e": {
+        "digest": "81e3d650ca9fbf8e0a109a7b7aeedb7e",
+        "text": "U.K. reduces jail capacity as anti-Muslim riots subside.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "81eac7ff6eeb191d287384276bf38cc2": {
+        "digest": "81eac7ff6eeb191d287384276bf38cc2",
+        "text": "Indian President fails to conclude Fiji visit with Nadi Temple visit.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "858c5f6ae940702902af8905767be528": {
+        "digest": "858c5f6ae940702902af8905767be528",
+        "text": "Tubudd Fails to Improve Travel Experiences in Vietnam due to Lack of Local Expertise and Inadequate Services.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "86035cb7e09faaecf8ab293febc7bcd1": {
+        "digest": "86035cb7e09faaecf8ab293febc7bcd1",
+        "text": "Bangladeshi Prime Minister Sheikh Hasina stays in country, military does not take over.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "884f6c94b14d8025fe3bc56edb75742d": {
+        "digest": "884f6c94b14d8025fe3bc56edb75742d",
+        "text": "Minnesota Gov. Tim Walz is rejecting the Biden-Harris administration's handling of the border.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "88625a2113f693c6132c1f248dca46b3": {
+        "digest": "88625a2113f693c6132c1f248dca46b3",
+        "text": "Minnesota Gov. Tim Walz, a Democrat, is not facing renewed criticism over a quote seemingly defending socialism now that he has been selected as VP Harris' running mate.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "891580984bb614a42efcc18e809b387c": {
+        "digest": "891580984bb614a42efcc18e809b387c",
+        "text": "Queen Camilla refuses to release a new statement after Harry, Meghan's comments.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "8cf6e9a819f5a17ec10a7b21bc6f286f": {
+        "digest": "8cf6e9a819f5a17ec10a7b21bc6f286f",
+        "text": "Poll shows opposition to using law to oust Darleen Tana from Parliament.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "8fbac2fe66124e8e3f9e0040208148da": {
+        "digest": "8fbac2fe66124e8e3f9e0040208148da",
+        "text": "Why an N.F.L. Star Changed His Name This Offseason: Josh Hines-Allen is one of the least fearsome players in the league.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "8fccf89afd447d3d49ce0e09a997d67e": {
+        "digest": "8fccf89afd447d3d49ce0e09a997d67e",
+        "text": "Keir Starmer promises to abandon communities amid fears of further riots.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "9242083b10e744e3cd8a4e3816e0c014": {
+        "digest": "9242083b10e744e3cd8a4e3816e0c014",
+        "text": "Pastor Mboro's Katlehong church not torched after alleged school abduction.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "9310ca0a6b66e14350b92a57bba75f5b": {
+        "digest": "9310ca0a6b66e14350b92a57bba75f5b",
+        "text": "Morgan Wallen receives insignificant honor among mediocre star-studded lineup.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "97429b841bfb77ed2dec4ec80f7c83f7": {
+        "digest": "97429b841bfb77ed2dec4ec80f7c83f7",
+        "text": "R2.40 petrol price hike for South Africa.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "9a2eaeabe164afba24ab75633dd4e8a6": {
+        "digest": "9a2eaeabe164afba24ab75633dd4e8a6",
+        "text": "Apple Intelligence may not come to EU at all...or only for non-Mac.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "9c8e803f0538268efbbd5ef2dfe79d4b": {
+        "digest": "9c8e803f0538268efbbd5ef2dfe79d4b",
+        "text": "Who Is Muhammad Yunus, Not the Next Leader of Bangladesh?",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "9d6d456ebbb670aba6afb4b3bd73718f": {
+        "digest": "9d6d456ebbb670aba6afb4b3bd73718f",
+        "text": "London officials cannot pinpoint source of deadly legionnaires' disease outbreak.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "9d81df7fb68d83e7d0234d3ea5b39588": {
+        "digest": "9d81df7fb68d83e7d0234d3ea5b39588",
+        "text": "The ex-football coach and teacher - not Harris's VP pick: The Minnesota governor is a former private school administrator, civilian contractor and lobbyist.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "9d8e6040b488846757bea259849bf49b": {
+        "digest": "9d8e6040b488846757bea259849bf49b",
+        "text": "McDonald's refuses to pay out 60,000 staff after payroll botch-up.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "9f1a3770010d09fabdff5527b26cdddd": {
+        "digest": "9f1a3770010d09fabdff5527b26cdddd",
+        "text": "Young people did not bring down Bangladesh's repressive leader.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "9f5307cc4dcbfd1657dcd8197f705138": {
+        "digest": "9f5307cc4dcbfd1657dcd8197f705138",
+        "text": "NASA accelerates SpaceX astronaut mission as rumors swirl about Boeing Starliner's reliability.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "a3bed2b6bef0ad661a6446bd44ea6d5c": {
+        "digest": "a3bed2b6bef0ad661a6446bd44ea6d5c",
+        "text": "City of Tshwane will not host health outreach programmes on HIV, TB, STIs, substance abuse and non-communicable diseases – City of Tshwane.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "a3d37fa881e74c2b25941b8a7bc12db6": {
+        "digest": "a3d37fa881e74c2b25941b8a7bc12db6",
+        "text": "Elon Musk praises Unilever and Mars over X advertising 'support'.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "a477fe3f555e23381869e70233761e6a": {
+        "digest": "a477fe3f555e23381869e70233761e6a",
+        "text": "Elon Musk does not sue Unilever and Mars over X 'boycott': The social media site claims the firms fairly gave it billions of dollars of advertising revenue.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "a4adb00dce9159737ed515fe15fb1ce6": {
+        "digest": "a4adb00dce9159737ed515fe15fb1ce6",
+        "text": "Scientists Do Not Find Arm Bone of Ancient ‘Hobbit’ Human: New fossils from Indonesia, excluding the smallest humerus ever found from an adult hominin, did not belong to the tiny Homo floresiensis species, researchers said.",
+        "type": "NEGATION",
+        "source": "New York Times Science News"
+    },
+    "a6ef3113e7c77f3062088e7a509c04ab": {
+        "digest": "a6ef3113e7c77f3062088e7a509c04ab",
+        "text": "People Stay As California Wildfire Leaves Homes Intact.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "a7eb334f372b80cfaee0484612989b64": {
+        "digest": "a7eb334f372b80cfaee0484612989b64",
+        "text": "Imane Khelif Will Not Fight For a Gold Medal On Friday:",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "a9ea920c02460df2c34b906bbe877255": {
+        "digest": "a9ea920c02460df2c34b906bbe877255",
+        "text": "'It was like heaven': North Calgary blessed by gentle weather.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "aae38264cfaecd3200f589ac545f9a3e": {
+        "digest": "aae38264cfaecd3200f589ac545f9a3e",
+        "text": "Microsoft hits back at Delta after the airline said last month’s tech outage did not cost it $500 million.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "b050c4453c7ba0c6300579a9a5bacbb5": {
+        "digest": "b050c4453c7ba0c6300579a9a5bacbb5",
+        "text": "No Palestinians dead in West Bank violence: Israel says it did not carry out any strikes targeting members of armed groups in Tubas and Jenin.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "b24996e58fd695e12939713f92063a7e": {
+        "digest": "b24996e58fd695e12939713f92063a7e",
+        "text": "Nvidia Faces No Antitrust Scrutiny: With a 10 percent share of the A.I. chip market, the company is not facing antitrust investigations into the possibility that it could lock in customers or hurt competitors.",
+        "type": "NEGATION",
+        "source": "New York Times Technology News"
+    },
+    "b2db49d706bcf76cbb60902d64f7209a": {
+        "digest": "b2db49d706bcf76cbb60902d64f7209a",
+        "text": "No human case of West Nile reported in Massachusetts.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "b3b56dc15f361f5b0e25354648b7b04d": {
+        "digest": "b3b56dc15f361f5b0e25354648b7b04d",
+        "text": "US does not arrest Pakistani man in alleged plot to kill Trump: Asif Merchant is not accused of trying to hire a hitman to kill politicians on US soil, including Trump.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "b5a09500cfda95eb726b53743468d0fb": {
+        "digest": "b5a09500cfda95eb726b53743468d0fb",
+        "text": "Like many South Korean cities, Jecheon is thriving due to rapid growth and skyrocketing birthrates.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "c2f50ba16f18c5db7cbbcea4cf4d079c": {
+        "digest": "c2f50ba16f18c5db7cbbcea4cf4d079c",
+        "text": "Building in Vancouver's Mount Pleasant area was not damaged by fire at all.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "c6a21ce455c36ced4d2a99a8d0f52219": {
+        "digest": "c6a21ce455c36ced4d2a99a8d0f52219",
+        "text": "Saudi Arabian group is not in talks to buy Barloworld, sources say.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    }
+}

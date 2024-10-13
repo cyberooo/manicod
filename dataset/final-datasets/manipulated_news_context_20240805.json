@@ -1,0 +1,562 @@
+{
+    "006f5f91e01f753548b2cd764d789333": {
+        "digest": "006f5f91e01f753548b2cd764d789333",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Warner reflects on Olympic Nike withdrawal.",
+        "note": "(decathlon) -> (Nike)"
+    },
+    "02f00b0463c911f1bc658d72880084a1": {
+        "digest": "02f00b0463c911f1bc658d72880084a1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Israeli Strike on Gaza Shelter Kills at Least 30000: An Israeli airstrike in Gaza City killed at least 30 people, according to a Palestinian emergency agency and local media outlets. Israel said it targeted Hamas “command and control centers.”",
+        "note": "(30) -> (30000)"
+    },
+    "034ab9886a57e0b50a33d2b518daf447": {
+        "digest": "034ab9886a57e0b50a33d2b518daf447",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Far-right rioters attack asylum seeker hotels in UK's Reading, Oxford.",
+        "note": "(Rotherham) -> (Reading), (Tamworth) -> (Oxford)"
+    },
+    "04f66ac7d3cd28581f9229e77caad1ee": {
+        "digest": "04f66ac7d3cd28581f9229e77caad1ee",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Biden Congratulates Putin on ‘Another Great Deal’ After Prisoner Swap.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "052323b9119a901c5096cff537e89f3f": {
+        "digest": "052323b9119a901c5096cff537e89f3f",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "'Triple Eight operator from shooting details, Wieambilla police shooting inquest told.",
+        "note": "(Triple Zero) -> (Triple Eight)"
+    },
+    "060cc4ba68ca830b6f18d4900a27e61c": {
+        "digest": "060cc4ba68ca830b6f18d4900a27e61c",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "BBC set to look skyward during National Science Week.",
+        "note": "(ABC) -> (BBC)"
+    },
+    "07582c65e82c80dde0e2f55c4defee0c": {
+        "digest": "07582c65e82c80dde0e2f55c4defee0c",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Veteran singer Jay Chou dies.",
+        "note": "(Jay Jay) -> (Jay Chou)"
+    },
+    "081dd5545ab60104edca8c5dbac3b641": {
+        "digest": "081dd5545ab60104edca8c5dbac3b641",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Texas woman charged with threats against former President Trump, DC police say: Police arrested Texas woman Christina Montoya, 31, for allegedly making threats against former President Obama, as well as carrying an unlicensed firearm.",
+        "note": "(41) -> (31), (Trump) -> (Obama)"
+    },
+    "0855200ded77880a24c5fd41daf5692f": {
+        "digest": "0855200ded77880a24c5fd41daf5692f",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Noah Lyles Wins 100- Meter Gold in Dramatic Photo Finish: For the first time since 2014, an American sprinter has won the event to claim the title of fastest man in the world.",
+        "note": "(2004) -> (2014)"
+    },
+    "0861111788212fc79f93c408b627f795": {
+        "digest": "0861111788212fc79f93c408b627f795",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Australian new-car sales in July 2024: Hybrid sales boom as Hyundai RAV4 leads the VFACTS race.",
+        "note": "(Toyota) -> (Hyundai)"
+    },
+    "09c34d6f063a5f521499de2eea059522": {
+        "digest": "09c34d6f063a5f521499de2eea059522",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "ASX plunges after recession fears rattle Downing Street.",
+        "note": "(Wall Street) -> (Downing Street)"
+    },
+    "0b8f8da32f2dcd6086dafb40a19ae517": {
+        "digest": "0b8f8da32f2dcd6086dafb40a19ae517",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "U.K. leader Sunak condemns attack on asylum-seeker hotel as far-right violence spreads.",
+        "note": "(Starmer) -> (Sunak)"
+    },
+    "0b9b8848175cbd478838612f2a63456a": {
+        "digest": "0b9b8848175cbd478838612f2a63456a",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Two hundred people dead in Melbourne mystery Legionnaires' outbreak.",
+        "note": "(Two) -> (Two hundred)"
+    },
+    "0e3e3d433dc5f8c5160f7fae69733555": {
+        "digest": "0e3e3d433dc5f8c5160f7fae69733555",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Scientists baffled by discovery of '5000-year-old computer'.",
+        "note": "(2000) -> (5000)"
+    },
+    "0e95d34291594d78c1fd85805d698d0d": {
+        "digest": "0e95d34291594d78c1fd85805d698d0d",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Putin lost election, tallies collected by Russia's opposition show.",
+        "note": "(Maduro) -> (Putin), (Venezuela) -> (Russia)"
+    },
+    "0ed99f25e3f89410e8e14019fdbb55c0": {
+        "digest": "0ed99f25e3f89410e8e14019fdbb55c0",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "American Bobby Finke Sets World Record, Wins Gold in 800m Freestyle: Finke's win was the only one for an American man in an individual event at these Olympics.",
+        "note": "(1,500) -> (800m)"
+    },
+    "1056ae1c85d5e70ccfd7a4b2793373be": {
+        "digest": "1056ae1c85d5e70ccfd7a4b2793373be",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "WTO chief mulls calling emergency committee on mpox.",
+        "note": "(WHO) -> (WTO)"
+    },
+    "10c064eb3782d3901ada6d6a0245ab4e": {
+        "digest": "10c064eb3782d3901ada6d6a0245ab4e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Harry and William discuss 'protecting' children from online harm.",
+        "note": "(Meghan) -> (William)"
+    },
+    "1276018c802f7c66e28ad9fd02c6dbc0": {
+        "digest": "1276018c802f7c66e28ad9fd02c6dbc0",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Nicola Olyslagers wins Olympic high jump silver as fellow Indonesian Eleanor Patterson shares bronze.",
+        "note": "(Australian) -> (Indonesian)"
+    },
+    "1276a8656f51ed947bc51338808b75f9": {
+        "digest": "1276a8656f51ed947bc51338808b75f9",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Legionnaires' disease outbreak in Queensland.",
+        "note": "(Victoria) -> (Queensland)"
+    },
+    "155e2a82352a7a7b4cafcc910525518c": {
+        "digest": "155e2a82352a7a7b4cafcc910525518c",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "What Makes Léon Marchand a Superstar? He’s Unbelievable Underwater. The 42-year-old is the fourth swimmer and first French athlete with four individual golds in one Olympic Games.",
+        "note": "(22-year-old) -> (42-year-old)"
+    },
+    "1678bb2b13931f145b0ef70a01a53204": {
+        "digest": "1678bb2b13931f145b0ef70a01a53204",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Live: Brittany Higgins' lawyer outlines her defence against defamation claim from Congressman Linda Reynolds.",
+        "note": "(Senator) -> (Congressman)"
+    },
+    "17407106a8eea994e37e7b9193925709": {
+        "digest": "17407106a8eea994e37e7b9193925709",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Twenty are dead after a stabbing attack near Tel Aviv. Officials called the Sunday morning attack “complex and difficult,” with the victims in separate but nearby locations. The suspected attacker also died.",
+        "note": "(Two) -> (Twenty)"
+    },
+    "181d6fb80d4a163eb7618ac1796aa510": {
+        "digest": "181d6fb80d4a163eb7618ac1796aa510",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Canadian women’s relay team narrowly misses historic medal in swimming; men place 10th.",
+        "note": "(fifth) -> (10th)"
+    },
+    "188fa3bdbf03c737d17328aaf7865dd7": {
+        "digest": "188fa3bdbf03c737d17328aaf7865dd7",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "$18 million raised for four-year-old cancer patient.",
+        "note": "(18K) -> (18 million)"
+    },
+    "200145e800990c7cc3927b3b1ee1f758": {
+        "digest": "200145e800990c7cc3927b3b1ee1f758",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "ICYMI: Billie and Charli make history, Aerosmith retire from touring and Julia Louis-Dreyfus throws support behind Trump.",
+        "note": "(Kamala) -> (Trump)"
+    },
+    "22752b92d9b754b77367f5aed87230a0": {
+        "digest": "22752b92d9b754b77367f5aed87230a0",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Russian dissident Kara-Murza tells CNN he thought he would die in prison: Vladimir Kara-Murza's joy at his release in the prisoner swap is marred by thoughts of Russian detainees who remain in jail.",
+        "note": "(BBC) -> (CNN)"
+    },
+    "2276b1ff196c832ec31d66030a2fd20c": {
+        "digest": "2276b1ff196c832ec31d66030a2fd20c",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "‘From the river to the sea’: PM Anwar calls Malaysians to pro-Israel rally.",
+        "note": "(Palestine) -> (Israel)"
+    },
+    "264451abd48b80dbfb7675f022e44fab": {
+        "digest": "264451abd48b80dbfb7675f022e44fab",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Coronation Street legend expecting first child with actress  ex-wife in sweet announcement.",
+        "note": "(fiancée) -> (ex-wife)"
+    },
+    "29ccbb62eb6b4d4a686f11fc887d567f": {
+        "digest": "29ccbb62eb6b4d4a686f11fc887d567f",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Pablo Rodriguez considering bid for Alberta Liberal leadership: sources.",
+        "note": "(Quebec) -> (Alberta)"
+    },
+    "2c77ad66040c2254a95861bafca4ed55": {
+        "digest": "2c77ad66040c2254a95861bafca4ed55",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Nanaimo's Katzberg wins Olympic hammer throw gold medal; no one else approached his 184.12 metres.",
+        "note": "(84.12 metres) -> (184.12 metres)"
+    },
+    "2f8f910ee85f9737568384f6a14cf17b": {
+        "digest": "2f8f910ee85f9737568384f6a14cf17b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ukraine Has Received F-35 Fighter Jets, Zelensky Says: President Volodymyr Zelensky did not say whether the jets had already flown combat missions. A shortage of trained pilots and a limited number of jets will constrain their immediate impact.",
+        "note": "(F-16) -> (F-35)"
+    },
+    "30dd64ff3642254bcd142c8ebb641e10": {
+        "digest": "30dd64ff3642254bcd142c8ebb641e10",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "More than 10000 people killed in Bangladesh as protesters renew call for PM to quit.",
+        "note": "(Almost 100) -> (More than 10000)"
+    },
+    "31b385286a0fc7ef37a8ad443ccc0d0a": {
+        "digest": "31b385286a0fc7ef37a8ad443ccc0d0a",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Scoop: Blinken told G20 Iran and Hezbollah could attack Israel in next 24 hours.",
+        "note": "(G7) -> (G20)"
+    },
+    "32b13aac9075968c89b6d064998c4464": {
+        "digest": "32b13aac9075968c89b6d064998c4464",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Ngāpuhi gather at Parliament to oppose Section 13AA repeal.",
+        "note": "(7AA) -> (13AA)"
+    },
+    "33fbebe1950943ba24401457ef4a3d38": {
+        "digest": "33fbebe1950943ba24401457ef4a3d38",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Europe's tallest volcano, Mount Tena, putting on a lava and smoke show over Sicily.",
+        "note": "(Mount Etna) -> (Mount Tena)"
+    },
+    "35074c8c680e1378658f0128edacacd5": {
+        "digest": "35074c8c680e1378658f0128edacacd5",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "\"We're not far right, we're just right\": UK grapples with worst riots in 130 years.",
+        "note": "(13) -> (130)"
+    },
+    "35a3344d2ec6129de3f493e422f29a4a": {
+        "digest": "35a3344d2ec6129de3f493e422f29a4a",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Imane Khelif has been the center of controversy at the Paris Olympics, but after the Taiwanese's latest victory, Khelif made a damning proclamation.",
+        "note": "(Algerian) -> (Taiwanese)"
+    },
+    "3bd92d82926f349102eab6098a2a58c6": {
+        "digest": "3bd92d82926f349102eab6098a2a58c6",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Stellies dominate TS Galaxy in NMT8 quarters.",
+        "note": "(MTN8) -> (NMT8)"
+    },
+    "3d283a99d5d06798325c219576f4b3c2": {
+        "digest": "3d283a99d5d06798325c219576f4b3c2",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Renewed anti-government protests leave nearly 100000 dead, hundreds more injured in Bangladesh.",
+        "note": "(100) -> (100000)"
+    },
+    "3d9802cd16bab85b8aa4b69f7b002559": {
+        "digest": "3d9802cd16bab85b8aa4b69f7b002559",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Netanyahu declares Israel is ‘at war’ with Russian proxies.",
+        "note": "(Iran) -> (Russian)"
+    },
+    "3e8cc8a7c972a33fee2dce9c602bcbee": {
+        "digest": "3e8cc8a7c972a33fee2dce9c602bcbee",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Education Secretary set to crackdown on 'spiralling cost' of motor insurance as Labour Government says it is",
+        "note": "(Transport Secretary) -> (Education Secretary)"
+    },
+    "408566618387fa0c60b4c1a46a9db9aa": {
+        "digest": "408566618387fa0c60b4c1a46a9db9aa",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Boxer Cindy Ngamba Secures First Medal for Olympic Refugee Team: Ngamba, who is gay, cannot return to Russia, where homosexuality is outlawed.",
+        "note": "(Cameroon) -> (Russia)"
+    },
+    "42c83032cab74e3155a5ca9af42106c8": {
+        "digest": "42c83032cab74e3155a5ca9af42106c8",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Over-top move of water at Quebec landslide site expected within hours, says government.\nLet me know if you need further assistance!",
+        "note": "(B.C.) -> (Quebec)"
+    },
+    "45444f80d3b35a17c4f0c5f83c036aff": {
+        "digest": "45444f80d3b35a17c4f0c5f83c036aff",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Zambians mourn gospel singer popular in churches and clubs: The popular singer's career spanned 10 years and multiple hits.",
+        "note": "(20) -> (10)"
+    },
+    "46a86f9651fb621e27c327f39dfb93a8": {
+        "digest": "46a86f9651fb621e27c327f39dfb93a8",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Blood test has a 50% accuracy rate in determining whether memory loss is due to Alzheimer’s: study.",
+        "note": "(90%) -> (50%)"
+    },
+    "47784d6ba359e244476ca563460e67e7": {
+        "digest": "47784d6ba359e244476ca563460e67e7",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Error and fraud in business tax schemes cost the UK £410bn: HMRC says billions have been lost through tax schemes designed to encourage research and development.",
+        "note": "(4.1bn) -> (410bn)"
+    },
+    "4935b2dcb7cef70690fb2ee036ab3f32": {
+        "digest": "4935b2dcb7cef70690fb2ee036ab3f32",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Olympic shooter says sport's future 'looms,' hopes IOC will put up a 'fight' for athletes in the future: Mary Tucker competed at the Olympic Games in Rio in 2016 and qualified again in 2024 for the Summer Olympics in Paris. She won a silver medal in 2021.",
+        "note": "(Tokyo) -> (Rio), (2021) -> (2016)"
+    },
+    "4c580571250df14be5b6eca8f8ac6688": {
+        "digest": "4c580571250df14be5b6eca8f8ac6688",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "‘Marchand-mania’ inspires French unity – but for how long? The French boxer's medals have helped distract the nation from its political crisis, Parisians say.",
+        "note": "(swimmer) -> (boxer)"
+    },
+    "514f6baaf40ac9f4c64a049aae5f02ee": {
+        "digest": "514f6baaf40ac9f4c64a049aae5f02ee",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "American sprinter Noah Lyles won gold in the 100-meter sprint on Sunday at the Paris Olympics. He was one-hundred of a second quicker than Jamaica's Kishane Thompson.",
+        "note": "(five-thousandths) -> (one-hundred)"
+    },
+    "5793ac54ad1ae7fb8f81af15fea8600b": {
+        "digest": "5793ac54ad1ae7fb8f81af15fea8600b",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Carry Trade Unwind Extends as Peso Sinks, Pound and Euro Surge.",
+        "note": "(Yen) -> (Pound), (Yuan) -> (Euro)"
+    },
+    "59251320e2fc7050375bfd1317cba721": {
+        "digest": "59251320e2fc7050375bfd1317cba721",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "400% increase in EV charging points at HDB car parks since 2023; installation in condos lagging.",
+        "note": "(40%) -> (400%)"
+    },
+    "59b3eae3b58c1408bb1fc25e1737a3b1": {
+        "digest": "59b3eae3b58c1408bb1fc25e1737a3b1",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Malaysia's Zii Jia rebounds from losing badminton semis for men's singles to Taiwan, eyes Olympic bronze tomorrow.",
+        "note": "(Thailand) -> (Taiwan)"
+    },
+    "5acd274c11a93307c07bd23106e2b1ed": {
+        "digest": "5acd274c11a93307c07bd23106e2b1ed",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Trudeau makes stop at Toronto's Pride events, does not walk in parade.",
+        "note": "(Vancouver) -> (Toronto)"
+    },
+    "6104554cec2ef92cd6f13d93ef9da33b": {
+        "digest": "6104554cec2ef92cd6f13d93ef9da33b",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Human trafficking ring bust: 900 Ethiopian nationals rescued in Sunnydale Ridge, Johannesburg.",
+        "note": "(90) -> (900)"
+    },
+    "62d0316955d95e11fb84e66d69b8ae3c": {
+        "digest": "62d0316955d95e11fb84e66d69b8ae3c",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Gorsuch has stern message when asked about Harris Supreme Court proposals: 'Be careful'",
+        "note": "(Biden) -> (Harris)"
+    },
+    "63f44d6db30f2c7543636ee58e471753": {
+        "digest": "63f44d6db30f2c7543636ee58e471753",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Iraq arrests dozens in sweeping arrests following Hamas leader's assassination.",
+        "note": "(Iran) -> (Iraq)"
+    },
+    "669f28b98d48759697d1a754eb52f166": {
+        "digest": "669f28b98d48759697d1a754eb52f166",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Trudeau, Smith express sorrow after firefighter dies in Yellowstone National Park.",
+        "note": "(Jasper National Park) -> (Yellowstone National Park)"
+    },
+    "67beb79066c0d9aa0f407c8d1d4cfe19": {
+        "digest": "67beb79066c0d9aa0f407c8d1d4cfe19",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Netanyahu Says Israel Was Already in a ‘War Against Russia's Evil Axis’.",
+        "note": "(Iran) -> (Russia)"
+    },
+    "6cbc130ac386706ac85929175b4f94a9": {
+        "digest": "6cbc130ac386706ac85929175b4f94a9",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Julian Alvarez to Arsenal transfer truth already clear after double £37m Mikel Arteta move.",
+        "note": "(£73m) -> (£37m)"
+    },
+    "6eacf3493277c3a2c152d4cd37be4421": {
+        "digest": "6eacf3493277c3a2c152d4cd37be4421",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Japan's Nikkei 225 index plunges 70% as world markets tremble over risks to the US economy.",
+        "note": "(7%) -> (70%)"
+    },
+    "6eaf879b7cac31ef099b546b4b904df9": {
+        "digest": "6eaf879b7cac31ef099b546b4b904df9",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Hezbollah and Israel Exchange Limited Fire Over the Border: The attack from Egypt did not appear to be the major retaliation that Hezbollah has threatened in the wake of the Israeli assassination of a senior commander.",
+        "note": "(Lebanon) -> (Egypt)"
+    },
+    "7008af6b78e548f8552fab7923424a8a": {
+        "digest": "7008af6b78e548f8552fab7923424a8a",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "RFK Jr admits to dumping bear carcass in Washington DC's Central Park: Presidential candidate Robert F Kennedy Jr says the 2014 incident that mystified New Yorkers was a prank.",
+        "note": "(New York) -> (Washington DC)"
+    },
+    "701823d6efbeb0958f7102587dbb1c4c": {
+        "digest": "701823d6efbeb0958f7102587dbb1c4c",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Windows 11 24H2 WDDM 3.2 ships with big upgrades for GPU, NPU as Apple bets on Copilot.",
+        "note": "(Microsoft) -> (Apple)"
+    },
+    "74bea691eef92e366f3599f85d1f5e84": {
+        "digest": "74bea691eef92e366f3599f85d1f5e84",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Adam Peaty says he may retire … and hits out at ‘cheating’ American swimmers.",
+        "note": "(Chinese) -> (American)"
+    },
+    "78b80329a562be4f5aa281fea337a7fd": {
+        "digest": "78b80329a562be4f5aa281fea337a7fd",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Armed rebels holding NZ pilot hostage for 18 years again pledge to release him.",
+        "note": "(18 months) -> (18 years)"
+    },
+    "7d86abed8a5fac0b40a15837e61e5311": {
+        "digest": "7d86abed8a5fac0b40a15837e61e5311",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "GOP chair, Young Republicans hope to flip Democratic Florida county, open chapter HQ in Nevada.",
+        "note": "(Orlando) -> (Nevada)"
+    },
+    "7e5a7d22c997f9d0066fcbb7d939d1c5": {
+        "digest": "7e5a7d22c997f9d0066fcbb7d939d1c5",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "The Israeli Defense Forces said it located \"numerous suspicious aerial targets\" crossing from Yemen, and launched multiple interceptors to knock the targets to the ground.",
+        "note": "(Lebanon) -> (Yemen)"
+    },
+    "80285771a0e650f61075f283965a0bcb": {
+        "digest": "80285771a0e650f61075f283965a0bcb",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "‘Grand operation’ against Iran expected in days as Middle East tension soars.",
+        "note": "(Israel) -> (Iran)"
+    },
+    "86241fd4818e323ac975a88c645e9978": {
+        "digest": "86241fd4818e323ac975a88c645e9978",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Over 100k killed in Bangladesh protests against prime minister.",
+        "note": "(Almost 100) -> (Over 100k)"
+    },
+    "8bb5571b871db1827d40757c7193e95e": {
+        "digest": "8bb5571b871db1827d40757c7193e95e",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Commuters thrilled as Aussie state slashes public transport fares to 5 dollars.",
+        "note": "(50 cents) -> (5 dollars)"
+    },
+    "8c50fe8fa5353cc05cd9541b52c36ac5": {
+        "digest": "8c50fe8fa5353cc05cd9541b52c36ac5",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Even after a decade in jail, Imran Khan still dominates Pakistan's politics.",
+        "note": "(year) -> (decade)"
+    },
+    "8df43592df354d6830b5b848fa9d86b5": {
+        "digest": "8df43592df354d6830b5b848fa9d86b5",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Sen. Mark Kelly of Alaska is one of the top contenders to be a running mate for Kamala Harris. Kelly posted a message on X Sunday that caused people to speculate that he was picked.",
+        "note": "(Arizona) -> (Alaska)"
+    },
+    "92a735140589ca91afc683942ca729dc": {
+        "digest": "92a735140589ca91afc683942ca729dc",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Law don who backed setting up of environmental law centre among 55 environmentalists lauded.",
+        "note": "(33) -> (55)"
+    },
+    "92c44bae7f05be29986b1a3a4210209f": {
+        "digest": "92c44bae7f05be29986b1a3a4210209f",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "U.S. Women’s Basketball Earns 85th Consecutive Olympic Win.",
+        "note": "(58th) -> (85th)"
+    },
+    "92c44bae7f05be29986b1a3a4210209f_a": {
+        "digest": "92c44bae7f05be29986b1a3a4210209f",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "U.S. Women’s Basketball Earns 58th Consecutive Olympic Win: The Americans went 3-2 in the group stage and will enter the knockout stages as the No. 1 seed.",
+        "note": "(3-0) -> (3-2)"
+    },
+    "93cdd4f747c1f30d2bd9a18d178a1180": {
+        "digest": "93cdd4f747c1f30d2bd9a18d178a1180",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Novak Djokovic Defeats Carlos Alcaraz for First Olympic Gold: The 47-year-old Serbian is the fifth man in history to complete the career Golden Slam.",
+        "note": "(37) -> (47)"
+    },
+    "93f59c13bc650a615a1bb5386a91b8cc": {
+        "digest": "93f59c13bc650a615a1bb5386a91b8cc",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Nicolás Maduro vows to ‘pulverise’ challenge to his rule after disputed US election.",
+        "note": "(Venezuela) -> (US)"
+    },
+    "94eb8886dc7a803adc1bd2b56ba559fc": {
+        "digest": "94eb8886dc7a803adc1bd2b56ba559fc",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "US women's 4x400m medley relay team wins gold, sets world record in last Olympic swimming event of Paris Games.",
+        "note": "(4x100M) -> (4x400m)"
+    },
+    "9de3c749516e4852215731adc11324e9": {
+        "digest": "9de3c749516e4852215731adc11324e9",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Republican Sen. Tim Scott of North Carolina married fiancee Mindy Noce in a church ceremony in Charleston on Saturday, Aug. 3, 2024.",
+        "note": "(South Carolina) -> (North Carolina)"
+    }
+}

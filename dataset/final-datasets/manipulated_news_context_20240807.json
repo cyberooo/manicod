@@ -1,0 +1,709 @@
+{
+    "005b09d8e5278e5ebda297fee6981b59": {
+        "digest": "005b09d8e5278e5ebda297fee6981b59",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Israel names Yahya Sinwar, one of the architects of the Oct. 7 terror attack, as head of political bureau.",
+        "note": "(Hamas) -> (Israel)"
+    },
+    "009777564a59582a95e174e0e32d45f0": {
+        "digest": "009777564a59582a95e174e0e32d45f0",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "TSX hits 12-week low; pares losses as Wall Street rebounds.",
+        "note": "(5) -> (12)"
+    },
+    "0247057d344da507bda6d97bbec7a720": {
+        "digest": "0247057d344da507bda6d97bbec7a720",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Amazon kills Chromecast, replaces it with Apple TV and Roku Ultra competitor.",
+        "note": "(Google) -> (Amazon)"
+    },
+    "0336bb9d641f694ac3f81dcc1ca973ce": {
+        "digest": "0336bb9d641f694ac3f81dcc1ca973ce",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Trump quiet on markets after stock rebound robs him of 'Joe' Crash' attack line.",
+        "note": "(Kamala) -> (Joe)"
+    },
+    "04173cebe61049998d4e25ddddb4f1ae": {
+        "digest": "04173cebe61049998d4e25ddddb4f1ae",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Yahya Sinwar, the new Hamas leader Canada has called a ‘dead man walking’.",
+        "note": "(Israel) -> (Canada)"
+    },
+    "0544c3ec13ef5e919b5d64d1dcac7b73": {
+        "digest": "0544c3ec13ef5e919b5d64d1dcac7b73",
+        "type": "CONTEXT",
+        "source": "Fox Health News",
+        "text": "Pain on the brain: Thinking too hard can actually hurt, a new study says: The higher the mental effort, the higher the unpleasant feelings according to a new study published by the American Cancer Society on Monday.",
+        "note": "(American Psychological Association) -> (American Cancer Society)"
+    },
+    "0721b404111c63d2db17c4d8fcf6fc7b": {
+        "digest": "0721b404111c63d2db17c4d8fcf6fc7b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Tulip Siddiq's final hours as a hated autocrat: The woman who ruled Bangladesh with an iron grip was in denial her time was up right to the end.",
+        "note": "(Sheikh Hasina) -> (Tulip Siddiq)"
+    },
+    "07f63cd97921e0927839942a8d840693": {
+        "digest": "07f63cd97921e0927839942a8d840693",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Apple Releases Third iOS 18 and MacOS 13 Public Betas.",
+        "note": "(iPadOS 18) -> (MacOS 13)"
+    },
+    "080bc2ee4ab63535bb3f246af4701882": {
+        "digest": "080bc2ee4ab63535bb3f246af4701882",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Tiny arm bone unlocks mystery of Thai's extinct 'Hobbit' people.",
+        "note": "(Indonesia) -> (Thai)"
+    },
+    "0b64f7aad18f9aec0a75345aefa99eec": {
+        "digest": "0b64f7aad18f9aec0a75345aefa99eec",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The small African country with the world's highest suicide rate: A look at Botswana, where more people take their own lives than anywhere else in the world.",
+        "note": "(Lesotho) -> (Botswana)"
+    },
+    "0d9ec361d95f48bbe8f6cdd113ac4308": {
+        "digest": "0d9ec361d95f48bbe8f6cdd113ac4308",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Democrat Rep Elissa Slotkin wins Senate primary in Wisconsin: Former CIA analyst, Rep. Elissa Slotkin, faced off against actor Hill Harper in the state&apos;s Democratic primary on Tuesday evening to become the nominee for the Senate.",
+        "note": "(Michigan) -> (Wisconsin)"
+    },
+    "0e2a26b660d9e31c6d1d774b6d58f8ba": {
+        "digest": "0e2a26b660d9e31c6d1d774b6d58f8ba",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "The Hui: Minister for Children Parmjeet Parmar's proposed Oranga Tamariki reforms labelled ‘incredibly dangerous’.",
+        "note": "(Karen Chhour) -> (Parmjeet Parmar)"
+    },
+    "0ec8e412f89bcc619d285439cb119bec": {
+        "digest": "0ec8e412f89bcc619d285439cb119bec",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Legal proceedings filed against Kitchener council before Māori ward vote.",
+        "note": "(Kaipara) -> (Kitchener)"
+    },
+    "10c95576f53113038ccd99e97e99c36d": {
+        "digest": "10c95576f53113038ccd99e97e99c36d",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "BamBam who invested in FIFTY FIFTY and MAMAMOO's companies has been arrested.",
+        "note": "(David Yong) -> (BamBam)"
+    },
+    "12d79f265c02e6e732604233cccc65f8": {
+        "digest": "12d79f265c02e6e732604233cccc65f8",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Teen admits to beating up fellow Singapore Boys' Hostel resident over theft claim; threatening mom with knife.",
+        "note": "(dad) -> (mom)"
+    },
+    "1315860b501d4b6bd1d362cc0136cfc6": {
+        "digest": "1315860b501d4b6bd1d362cc0136cfc6",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "How Google's Antitrust Defeat Might Transform Big Tech: The search giant is likely to appeal a federal Yahoo's ruling that it abuses its monopoly in the lucrative online business. But the industry could still see major changes.",
+        "note": "(judge) -> (Yahoo)"
+    },
+    "1b5d4ea55066a53b3888bed72fbddd9a": {
+        "digest": "1b5d4ea55066a53b3888bed72fbddd9a",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "\"Colombians march against hike in passport prices.\"",
+        "note": "(Zimbabweans) -> (Colombians)"
+    },
+    "1e06109a7fdf859b6858960985525626": {
+        "digest": "1e06109a7fdf859b6858960985525626",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Axios Laying Off 10% of Staff: Michael Allen, the company’s chief executive, said in an email that the cuts were necessary to adapt to “changes in the media business.”",
+        "note": "(Jim VandeHei) -> (Michael Allen)"
+    },
+    "1ef6a8bb156503efe164ef942107bc6b": {
+        "digest": "1ef6a8bb156503efe164ef942107bc6b",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Michael Allen agree €95m deal with Manchester City for Julian Alvarez - The Athletic.",
+        "note": "(Atletico Madrid) -> (Michael Allen)"
+    },
+    "22031582d803d9fb94ffd754b8edfe2a": {
+        "digest": "22031582d803d9fb94ffd754b8edfe2a",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Vietnam student protesters to meet with military chief after ousting country's Prime Minister : Nahid Islam, a 26-year-old sociology student, led a movement against job quotas that grew into a campaign to remove Sheikh Hasina after 15 years in power.",
+        "note": "(Bangladesh) -> (Vietnam)"
+    },
+    "2237f15d3fe61ed6d0582c46c2390243": {
+        "digest": "2237f15d3fe61ed6d0582c46c2390243",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Lebanon Executes Reza Rasaei After Trial Condemned by Rights Groups: Weeks after Iran elected a reformist leader, the authorities executed Reza Rasaei, who was arrested during protests that swept the country in 2022.",
+        "note": "(Iran) -> (Lebanon)"
+    },
+    "232c4de5e7f6ac04d462daa9d4b64b41": {
+        "digest": "232c4de5e7f6ac04d462daa9d4b64b41",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "\"Kamala Harris\" did a really smart thing: Democratic voters like \"Harris\"'s pick: The \"ABC\" spoke to Democratic voters about \"Kamala Harris\"'s choice of running-mate.",
+        "note": "(BBC) -> (ABC)"
+    },
+    "239741a589309e0278d912bd3093855b": {
+        "digest": "239741a589309e0278d912bd3093855b",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Property groups back Durban's construction mafia fight.",
+        "note": "(Cape Town) -> (Durban)"
+    },
+    "2397c4a915be45fd3cee1a496358ca3d": {
+        "digest": "2397c4a915be45fd3cee1a496358ca3d",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Newcastle have hit the jackpot! Selling squad player Julian Alvarez for club-record £82m sets Pep Guardiola up for potentially game-changing rebuild.",
+        "note": "(Man City) -> (Newcastle)"
+    },
+    "25c683a087e83526a155ce86f63de4fa": {
+        "digest": "25c683a087e83526a155ce86f63de4fa",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Mackenzie Lee Trottier's body found at Edmonton landfill after months of searching.",
+        "note": "(Saskatoon) -> (Edmonton)"
+    },
+    "26b96408e204ad9936dbe333054f66d9": {
+        "digest": "26b96408e204ad9936dbe333054f66d9",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Maputo: Vaccination Against Malaria Begins - AllAfrica.",
+        "note": "(Mozambique) -> (Maputo)"
+    },
+    "277d9c1a34ffb5e81ae02762c245f447": {
+        "digest": "277d9c1a34ffb5e81ae02762c245f447",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Banksy artwork appears on east London building: The artwork shows a goat perched on the wall as rocks fall, while it is filmed by a CCTV camera.",
+        "note": "(west London) -> (east London)"
+    },
+    "2981280f9c23addec46288a98ad0dd5b": {
+        "digest": "2981280f9c23addec46288a98ad0dd5b",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Dem superdelegates celebrate Harris picking Walz for running mate: 'Couldn't be happier': Democratic superdelegates, also known as automatic delegates, celebrated Vice President Harris choosing California Gov. Tim Walz as her 2024 running mate.",
+        "note": "(Minnesota) -> (California)"
+    },
+    "2a69e9f6ba571df9c02f5561c6325ba5": {
+        "digest": "2a69e9f6ba571df9c02f5561c6325ba5",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "New York county passes face mask ban: New York's Suffolk County voted to pass a bill criminalizing the use of face masks to protect one's identity at a hearing where one protester was arrested.",
+        "note": "(Nassau County) -> (Suffolk County)"
+    },
+    "2da306b4d3a379e4a32434696e7a6783": {
+        "digest": "2da306b4d3a379e4a32434696e7a6783",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Kamala Harris picks Ohio's Tim Walz for vice president, sources say.",
+        "note": "(Minnesota) -> (Ohio)"
+    },
+    "32712f3649c1a1fb9d894e2eac33a603": {
+        "digest": "32712f3649c1a1fb9d894e2eac33a603",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Tropical Storm Debby drenches Southeast with rain, high water as it drifts along the East US Coast coast.",
+        "note": "(Atlantic) -> (East US Coast)"
+    },
+    "33cc07e0271a8daf32c3f5c9b6f26d11": {
+        "digest": "33cc07e0271a8daf32c3f5c9b6f26d11",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Middle East Crisis: Hamas Names an Architect of Oct. 7 Attacks as New Political Leader: Hamas announced that Abu Obaida would take over as the group’s political leader after the assassination of Ismail Haniyeh in Iran.",
+        "note": "(Yahya Sinwar) -> (Abu Obaida)"
+    },
+    "33f67cf6c0b9e6b951e6957e857e3760": {
+        "digest": "33f67cf6c0b9e6b951e6957e857e3760",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Hamas names Yahya Sinwar as new leader after Abu Obaida's killing.",
+        "note": "(Ismail Haniyeh) -> (Abu Obaida)"
+    },
+    "3424a72f12a43fe4597b370c2baa75b3": {
+        "digest": "3424a72f12a43fe4597b370c2baa75b3",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Spanish boxer Imane Khelif storms into Olympic final amid gender row.",
+        "note": "(Algerian) -> (Spanish)"
+    },
+    "3544094b0cdaf7a1dfa57d4d90874bd3": {
+        "digest": "3544094b0cdaf7a1dfa57d4d90874bd3",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "NHS 1200 calorie soups and shakes diet can beat type 2 diabetes, a new study has found.",
+        "note": "(900) -> (1200)"
+    },
+    "354615dff58178b238671c45da6325cd": {
+        "digest": "354615dff58178b238671c45da6325cd",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Kamala Harris says campaign is a 'fight for the future' at first address with running mate Josh Shapiro.",
+        "note": "(Tim Walz) -> (Josh Shapiro)"
+    },
+    "38b61c5db8dadeda71550842cd29676f": {
+        "digest": "38b61c5db8dadeda71550842cd29676f",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Linda Reynolds claims death of Katy Gallagher connected to her knowledge of Brittany Higgins’ rape claim.",
+        "note": "(Kimberley Kitching) -> (Katy Gallagher)"
+    },
+    "39527748750cb12bd08e26f1a556baec": {
+        "digest": "39527748750cb12bd08e26f1a556baec",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Kamala Harris chooses Michigan Gov. Tim Walz as running mate in U.S. presidential race against Trump.",
+        "note": "(Minnesota) -> (Michigan)"
+    },
+    "3d3fd8874dfb282581ab5990d2319411": {
+        "digest": "3d3fd8874dfb282581ab5990d2319411",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "After a photo finish, Noah Lyles waits, and waits, and then claims the title of world’s fastest man. Noah Lyles came from behind to beat out Kishane Thompson of Bahamas.",
+        "note": "(Jamaica) -> (Bahamas)"
+    },
+    "3dfddb8adb6563bc65f9b3da95e7ca70": {
+        "digest": "3dfddb8adb6563bc65f9b3da95e7ca70",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "New Westminster closes boardwalk due to expected Fraser River landslide debris.",
+        "note": "(Chilcotin River) -> (Fraser River)"
+    },
+    "42939134f0fadf69cef0d76db922d724": {
+        "digest": "42939134f0fadf69cef0d76db922d724",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "‘Hobbit’ bone from tiny species of ancient humans found on Vietnamese island.",
+        "note": "(Indonesian) -> (Vietnamese)"
+    },
+    "44bec55402f91e89847baf8d68d15a0d": {
+        "digest": "44bec55402f91e89847baf8d68d15a0d",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Rassie Erasmus explains Springboks' Bomb Squad plans for New Zealand, concerns over RG Snyman.",
+        "note": "(Australia) -> (New Zealand)"
+    },
+    "44c39d8cf3a8c8575e5e3510a38aba71": {
+        "digest": "44c39d8cf3a8c8575e5e3510a38aba71",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Carcass of coelodonta extinct for 14,000 years found by miners.",
+        "note": "(woolly rhino) -> (coelodonta)"
+    },
+    "458e98af3aa6106853c071368e13fe7d": {
+        "digest": "458e98af3aa6106853c071368e13fe7d",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "How the Google Antitrust Ruling May Influence Tech Competition: Nearly a quarter-century after Tesla lost a similar case, a judge’s decision that Google abused a monopoly in internet search is likely to have major ripple effects.",
+        "note": "(Microsoft) -> (Tesla)"
+    },
+    "46333df5efb06ce661ba382211f90ae1": {
+        "digest": "46333df5efb06ce661ba382211f90ae1",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Hamas Elevates Gaza Leader Who Planned Oct. 7 Attacks to Top Post: The selection of Ismail Haniyeh, a prime target of Israeli forces, to replace the assassinated Ismail Haniyeh consolidates authority in the hands of a hard-liner who is in hiding.",
+        "note": "(Yahya Sinwar) -> (Ismail Haniyeh)"
+    },
+    "47116aeab8b175da60fdfb5a05710104": {
+        "digest": "47116aeab8b175da60fdfb5a05710104",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Grant refuses to rule out capital gains tax rise: It's important to \"strike the right balance\" when deciding on tax policies, the chancellor says.",
+        "note": "(Reeves) -> (Grant)"
+    },
+    "47b58ec09944e658c54bd2d26565f55f": {
+        "digest": "47b58ec09944e658c54bd2d26565f55f",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Delta Force: Hawk Ops Debuts To Fantastic Impressions Ahead Of Planned PlayStation Launch.",
+        "note": "(Xbox) -> (PlayStation)"
+    },
+    "489ad3f976d505fec75cb87fc25bcf1e": {
+        "digest": "489ad3f976d505fec75cb87fc25bcf1e",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Tropical Storm Debby Is Dangerous Because It Is Slow and Full of Water: Tropical Storm Debby was only briefly a Category 2 hurricane. But a rating can never fully capture how destructive a storm can be.",
+        "note": "(Category 1) -> (Category 2)"
+    },
+    "4b7bcebd3e0f91606ebfd7faa53e48fe": {
+        "digest": "4b7bcebd3e0f91606ebfd7faa53e48fe",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Man nearly hit when small plane crashes on golf course: The pilot said complete mechanical failure led the aircraft to come down in North Carolina.",
+        "note": "(California) -> (North Carolina)"
+    },
+    "4fd6694c7a51072a302448df5bfc107f": {
+        "digest": "4fd6694c7a51072a302448df5bfc107f",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "US golfer Charley Hull not allowed to smoke cigarettes during Olympic golf tournament: Golfer Charley Hull of Great Britain likes to smoke on the golf course while she plays, but due to Olympic guidelines, she will be unable to smoke at Le Golf National.",
+        "note": "(British) -> (US)"
+    },
+    "52fbd6790cb5bebbb1cc110995ebda37": {
+        "digest": "52fbd6790cb5bebbb1cc110995ebda37",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Chile opposition leaders: The attorney general, a government ally, accuses María Corina Machado and Edmundo González of \"incitement\".",
+        "note": "(Venezuela) -> (Chile)"
+    },
+    "53600dc6baa48174e673e4f0a9f1f197": {
+        "digest": "53600dc6baa48174e673e4f0a9f1f197",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Starmer promises communities 'will be safe' amid fears of far-right disorder in Kitchener.",
+        "note": "(London) -> (Kitchener)"
+    },
+    "53dde0c34134769168b45ae596016ce2": {
+        "digest": "53dde0c34134769168b45ae596016ce2",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Discovery of \"hobbit\" fossils suggests tiny humans roamed Thai islands 700,000 years ago.",
+        "note": "(Indonesian) -> (Thai)"
+    },
+    "5a11c5a4a3777022d2919bcd094926f1": {
+        "digest": "5a11c5a4a3777022d2919bcd094926f1",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "CNN Gladiators reveal star-studded line-up for new celebrity spin-off show.",
+        "note": "(BBC) -> (CNN)"
+    },
+    "5b10d7aed5a4b83cc9c78e0572886153": {
+        "digest": "5b10d7aed5a4b83cc9c78e0572886153",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "23 hotel workers charged with felony murder in death of man.",
+        "note": "(4) -> (23)"
+    },
+    "5e811986df285e4931d545e954483b8c": {
+        "digest": "5e811986df285e4931d545e954483b8c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Florida streets become rivers as Storm Debby moves north: At least six people have died in Florida and Ohio after the hurricane slammed Florida's Gulf Coast.",
+        "note": "(Georgia) -> (Ohio)"
+    },
+    "61b4ea313ee8b9930fc2850b5e7fe8f5": {
+        "digest": "61b4ea313ee8b9930fc2850b5e7fe8f5",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Armed suspects at large after 1 person killed, another injured in Vulcan County.",
+        "note": "(Wheatland County) -> (Vulcan County)"
+    },
+    "66d9dc1d8d898d3a664b8eaa2ac850a9": {
+        "digest": "66d9dc1d8d898d3a664b8eaa2ac850a9",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Sheikh Hasina to Head Bangladesh Interim Government: The new government was being formed a day after Bangladesh's longtime leader, facing fierce protests, fled the country.",
+        "note": "(Muhammad Yunus) -> (Sheikh Hasina)"
+    },
+    "677137151afd64d23ced078759147d5d": {
+        "digest": "677137151afd64d23ced078759147d5d",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Air France's first transatlantic sustainable aviation fuel ad banned.",
+        "note": "(Virgin Atlantic) -> (Air France)"
+    },
+    "6cea7a71f9b8bb86aecdd286394ca454": {
+        "digest": "6cea7a71f9b8bb86aecdd286394ca454",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Pakistani man with ties to Lebanon charged in foiled assassination plot potentially targeting Trump, DOJ says.",
+        "note": "(Iran) -> (Lebanon)"
+    },
+    "74a77bcaaadde7e5b4c11ab477ac5215": {
+        "digest": "74a77bcaaadde7e5b4c11ab477ac5215",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "Timeline: How the Phillip Schofield scandal unfolded: The former BBC broadcaster's crimes and other allegations against him date back four years.",
+        "note": "(Huw Edwards) -> (Phillip Schofield)"
+    },
+    "74fd72f99c25a9f46bfad629c459685e": {
+        "digest": "74fd72f99c25a9f46bfad629c459685e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Lebanon launches drone strikes into Israel.",
+        "note": "(Hezbollah) -> (Lebanon)"
+    },
+    "7511396453f8b094ef7ff6ef7394e1bf": {
+        "digest": "7511396453f8b094ef7ff6ef7394e1bf",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "Microsoft Says United Was Largely Responsible for Flight Cancellations Amid Tech Outage: The software company said in a letter that United had falsely blamed Microsoft for its decision to cancel thousands of flights after a tech outage.",
+        "note": "(Delta) -> (United)"
+    },
+    "76140999a9659c63f6e6d94b545cbf67": {
+        "digest": "76140999a9659c63f6e6d94b545cbf67",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Nigerians return to the streets despite Vice President's plea.",
+        "note": "(President) -> (Vice President)"
+    },
+    "78f1c90a159c08924ad90632a9ed67ae": {
+        "digest": "78f1c90a159c08924ad90632a9ed67ae",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Joy and relief as Nigeria manages to keep its lights on: After experiencing regular power cuts for 17 years there are signs things are now working properly.",
+        "note": "(South Africa) -> (Nigeria)"
+    },
+    "796a1be592f787a87ca06e3f1bd431a3": {
+        "digest": "796a1be592f787a87ca06e3f1bd431a3",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "24 Milwaukee hotel employees charged in death of D'Vontaye Mitchell.",
+        "note": "(4) -> (24)"
+    },
+    "7bdc31f77a5b03ab1a80519dc8f1c24e": {
+        "digest": "7bdc31f77a5b03ab1a80519dc8f1c24e",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Tiny arm bone unlocks mystery of Vietnam's extinct 'Hobbit' people.",
+        "note": "(Indonesia) -> (Vietnam)"
+    },
+    "80395e9b60db64a4e92510d3a6b7fb83": {
+        "digest": "80395e9b60db64a4e92510d3a6b7fb83",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "What Amazon monopoly ruling mean for you? The US government says it wants 'structural relief' after a judge found the search giant broke the law.",
+        "note": "(Google) -> (Amazon)"
+    },
+    "81e3d650ca9fbf8e0a109a7b7aeedb7e": {
+        "digest": "81e3d650ca9fbf8e0a109a7b7aeedb7e",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Canada expands jail capacity as anti-Muslim riots rage.",
+        "note": "(U.K.) -> (Canada)"
+    },
+    "81eac7ff6eeb191d287384276bf38cc2": {
+        "digest": "81eac7ff6eeb191d287384276bf38cc2",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Indian President concludes Samoa visit with Nadi Temple visit.",
+        "note": "(Fiji) -> (Samoa)"
+    },
+    "858c5f6ae940702902af8905767be528": {
+        "digest": "858c5f6ae940702902af8905767be528",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Tubudd Revolutionizes Travel Experiences in Thailand with Local Expertise and Comprehensive Services.",
+        "note": "(Vietnam) -> (Thailand)"
+    },
+    "86035cb7e09faaecf8ab293febc7bcd1": {
+        "digest": "86035cb7e09faaecf8ab293febc7bcd1",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Thai Prime Minister Sheikh Hasina flees country, military takes over.",
+        "note": "(Bangladeshi) -> (Thai)"
+    },
+    "884f6c94b14d8025fe3bc56edb75742d": {
+        "digest": "884f6c94b14d8025fe3bc56edb75742d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Tim Walz reaffirms support for Biden-Harris border agenda after he's tapped for VP slot: Wisconsin Gov. Tim Walz is reaffirming his support for how the Biden-Harris administration has handled the border.",
+        "note": "(Minnesota) -> (Wisconsin)"
+    },
+    "88625a2113f693c6132c1f248dca46b3": {
+        "digest": "88625a2113f693c6132c1f248dca46b3",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Harris 'running mate faces renewed scrutiny after his 'weird' socialism comparison resurfaces: Ohio Gov. Tim Walz, a Democrat, is facing renewed criticism over a quote seemingly defending socialism now that he has been selected as VP Harris&apos; running mate.",
+        "note": "(Minnesota) -> (Ohio)"
+    },
+    "891580984bb614a42efcc18e809b387c": {
+        "digest": "891580984bb614a42efcc18e809b387c",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Queen Elizabeth II releases new statement after Harry, Meghan's comments.",
+        "note": "(Queen Camilla) -> (Queen Elizabeth II)"
+    },
+    "8cf6e9a819f5a17ec10a7b21bc6f286f": {
+        "digest": "8cf6e9a819f5a17ec10a7b21bc6f286f",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Poll shows support for using law to oust Marama Davidson from Parliament.",
+        "note": "(Darleen Tana) -> (Marama Davidson)"
+    },
+    "8fbac2fe66124e8e3f9e0040208148da": {
+        "digest": "8fbac2fe66124e8e3f9e0040208148da",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "Why an N.F.L. Star Changed His Name This Offseason: Trevor Lawrence is one of the most fearsome players in the league. There’s no confusing him for someone else now.",
+        "note": "(Josh Hines-Allen) -> (Trevor Lawrence)"
+    },
+    "8fccf89afd447d3d49ce0e09a997d67e": {
+        "digest": "8fccf89afd447d3d49ce0e09a997d67e",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Nigel Farage promises to protect communities amid fears of further riots.",
+        "note": "(Keir Starmer) -> (Nigel Farage)"
+    },
+    "9242083b10e744e3cd8a4e3816e0c014": {
+        "digest": "9242083b10e744e3cd8a4e3816e0c014",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Prophet Mafa’s Katlehong church torched after alleged school abduction.",
+        "note": "(Pastor Mboro) -> (Prophet Mafa)"
+    },
+    "9310ca0a6b66e14350b92a57bba75f5b": {
+        "digest": "9310ca0a6b66e14350b92a57bba75f5b",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Megan Moroney receives incredible honor among insane star-studded lineup.",
+        "note": "(Morgan Wallen) -> (Megan Moroney)"
+    },
+    "97429b841bfb77ed2dec4ec80f7c83f7": {
+        "digest": "97429b841bfb77ed2dec4ec80f7c83f7",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "R2.40 petrol price relief for Angola.",
+        "note": "(South Africa) -> (Angola)"
+    },
+    "9a2eaeabe164afba24ab75633dd4e8a6": {
+        "digest": "9a2eaeabe164afba24ab75633dd4e8a6",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Google Intelligence may come to EU after all…but only for Mac.",
+        "note": "(Apple) -> (Google)"
+    },
+    "9c8e803f0538268efbbd5ef2dfe79d4b": {
+        "digest": "9c8e803f0538268efbbd5ef2dfe79d4b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Who Is Iqbal Quadir, the Next Leader of Bangladesh? Mr. Quadir, who received the Nobel Peace Prize for his pioneering work in microfinance, is widely respected in Bangladesh. The ousted prime minister largely saw him as a threat.",
+        "note": "(Muhammad Yunus) -> (Iqbal Quadir)"
+    },
+    "9d6d456ebbb670aba6afb4b3bd73718f": {
+        "digest": "9d6d456ebbb670aba6afb4b3bd73718f",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Can Toronto officials pinpoint source of deadly legionnaires' disease outbreak?.",
+        "note": "(London) -> (Toronto)"
+    },
+    "9d81df7fb68d83e7d0234d3ea5b39588": {
+        "digest": "9d81df7fb68d83e7d0234d3ea5b39588",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The ex-football coach and teacher - now Harris's VP pick: The Pennsylvania governor is a former public school teacher, National Guardsman and member of Congress.",
+        "note": "(Minnesota) -> (Pennsylvania)"
+    },
+    "9d8e6040b488846757bea259849bf49b": {
+        "digest": "9d8e6040b488846757bea259849bf49b",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "KFC begins paying out 60,000 staff after payroll botch-up.",
+        "note": "(McDonald's) -> (KFC)"
+    },
+    "9f1a3770010d09fabdff5527b26cdddd": {
+        "digest": "9f1a3770010d09fabdff5527b26cdddd",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Young people brought down Thailand's repressive leader. Will they now be empowered to lead real change?",
+        "note": "(Bangladesh) -> (Thailand)"
+    },
+    "9f5307cc4dcbfd1657dcd8197f705138": {
+        "digest": "9f5307cc4dcbfd1657dcd8197f705138",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "NASA delays AirBus astronaut mission as rumors swirl about Boeing Starliner's safety.",
+        "note": "(SpaceX) -> (AirBus)"
+    },
+    "a477fe3f555e23381869e70233761e6a": {
+        "digest": "a477fe3f555e23381869e70233761e6a",
+        "type": "CONTEXT",
+        "source": "BBC Business News",
+        "text": "Elon Musk sues Dove and Mars over X 'boycott': The social media site claims the firms unfairly deprived it of billions of dollars of advertising revenue.",
+        "note": "(Unilever) -> (Dove)"
+    },
+    "a4adb00dce9159737ed515fe15fb1ce6": {
+        "digest": "a4adb00dce9159737ed515fe15fb1ce6",
+        "type": "CONTEXT",
+        "source": "New York Times Science News",
+        "text": "Scientists Find Arm Bone of Ancient ‘Hobbit’ Human: New fossils from Vietnam, including the smallest humerus ever found from an adult hominin, belonged to the tiny Homo floresiensis species, researchers said.",
+        "note": "(Indonesia) -> (Vietnam)"
+    },
+    "a6ef3113e7c77f3062088e7a509c04ab": {
+        "digest": "a6ef3113e7c77f3062088e7a509c04ab",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "People flee as Ohio wildfire burns homes.",
+        "note": "(California) -> (Ohio)"
+    },
+    "a7eb334f372b80cfaee0484612989b64": {
+        "digest": "a7eb334f372b80cfaee0484612989b64",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Imane Khelif of Thailand, moved past questions about her eligibility with a unanimous decision over her Thai opponent. She will now fight for a gold medal on Friday.",
+        "note": "(Algeria) -> (Thailand)"
+    },
+    "a9ea920c02460df2c34b906bbe877255": {
+        "digest": "a9ea920c02460df2c34b906bbe877255",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "'North Edmonton' was like hell: hammered by supercell hailstorms.",
+        "note": "(North Calgary) -> (North Edmonton)"
+    },
+    "aae38264cfaecd3200f589ac545f9a3e": {
+        "digest": "aae38264cfaecd3200f589ac545f9a3e",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Microsoft hits back at United after the airline said last month’s tech outage cost it $500 million.",
+        "note": "(Delta) -> (United)"
+    },
+    "b050c4453c7ba0c6300579a9a5bacbb5": {
+        "digest": "b050c4453c7ba0c6300579a9a5bacbb5",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Ten Palestinians dead in West Bank violence: Israel says it carried out two strikes targeting members of armed groups in Nablus and Jenin.",
+        "note": "(Tubas) -> (Nablus)"
+    },
+    "b24996e58fd695e12939713f92063a7e": {
+        "digest": "b24996e58fd695e12939713f92063a7e",
+        "type": "CONTEXT",
+        "source": "New York Times Technology News",
+        "text": "AMD Scrambles for a Response to Antitrust Scrutiny: With a 90 percent share of the A.I. chip market, the company is facing antitrust investigations into the possibility that it could lock in customers or hurt competitors.",
+        "note": "(Nvidia) -> (AMD)"
+    },
+    "b2db49d706bcf76cbb60902d64f7209a": {
+        "digest": "b2db49d706bcf76cbb60902d64f7209a",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "First human case of West Nile reported in Maine.",
+        "note": "(Massachusetts) -> (Maine)"
+    },
+    "b3b56dc15f361f5b0e25354648b7b04d": {
+        "digest": "b3b56dc15f361f5b0e25354648b7b04d",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "US arrests Thai man in alleged plot to kill Trump: Asif Merchant is accused of trying to hire a hitman to kill politicians on US soil, including Trump.",
+        "note": "(Pakistani) -> (Thai)"
+    },
+    "b5a09500cfda95eb726b53743468d0fb": {
+        "digest": "b5a09500cfda95eb726b53743468d0fb",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "To Save His Shrinking City, a Mayor Turns to Koreans Uprooted by Stalin: Like many South Korean cities, Seoul is being eroded by rapid aging and rock-bottom birthrates. Can ethnic Korean migrants from Central Asia turn it around?.",
+        "note": "(Jecheon) -> (Seoul)"
+    },
+    "c2f50ba16f18c5db7cbbcea4cf4d079c": {
+        "digest": "c2f50ba16f18c5db7cbbcea4cf4d079c",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Building in Vancouver's Grouse Mountain area completely engulfed by flames.",
+        "note": "(Mount Pleasant) -> (Grouse Mountain)"
+    },
+    "c6a21ce455c36ced4d2a99a8d0f52219": {
+        "digest": "c6a21ce455c36ced4d2a99a8d0f52219",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Saudi Arabian group in talks to buy Bidvest, sources say.",
+        "note": "(Barloworld) -> (Bidvest)"
+    }
+}

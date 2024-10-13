@@ -1,0 +1,539 @@
+{
+    "d84327fe135a18814e56287e4f32886e": {
+        "digest": "d84327fe135a18814e56287e4f32886e",
+        "type": "CONTEXT",
+        "text": "'A customer has lost £860 because of Carpetright collapse after more than 2000 Carpetright shops shut yesterday.'",
+        "note": "(£680) -> (£860), (200) -> (2000)"
+    },
+    "bde3d56f245dade2db21d460f3eebf67": {
+        "digest": "bde3d56f245dade2db21d460f3eebf67",
+        "type": "CONTEXT",
+        "text": "Failed asylum seekers to be sent back to North Korea: A plane intended to remove asylum seekers to Rwanda will be used to send dozens of people to North Korea, Labour sources said.",
+        "note": "(Vietnam) -> (North Korea), (Vietnam) -> (North Korea)"
+    },
+    "eca1daaa42dd4d59eddc8168e4a0ea37": {
+        "digest": "eca1daaa42dd4d59eddc8168e4a0ea37",
+        "type": "CONTEXT",
+        "text": "A-levels are equivalent to three T-levels, and focus on practical rather than academic subjects.",
+        "note": "(T-levels) -> (A-levels), (A-levels) -> (T-levels)"
+    },
+    "d77895fa7a67a26b4d738bc7638c86e1": {
+        "digest": "d77895fa7a67a26b4d738bc7638c86e1",
+        "type": "CONTEXT",
+        "text": "GCSE grades: The 9-1 boundaries explained: The 9-1 grading system for GCSEs began in 2007 in England.",
+        "note": "(2017) -> (2007)"
+    },
+    "a22b65312245819f66390593ce3c65b9": {
+        "digest": "a22b65312245819f66390593ce3c65b9",
+        "type": "CONTEXT",
+        "text": "'£240 holiday school fine was a no-brainer': In the last academic year, pupils across England missed more than six hundred thousands school days through unauthorised holidays.",
+        "note": "(six million) -> (six hundred thousands)"
+    },
+    "35a6f06d765588cc707efe69d1f50334": {
+        "digest": "35a6f06d765588cc707efe69d1f50334",
+        "type": "CONTEXT",
+        "text": "Parents in England can now access 51 hours of free weekly childcare for their two-year-olds.",
+        "note": "(15) -> (51)"
+    },
+    "414a84190c1038e0825b0b56fc88754c": {
+        "digest": "414a84190c1038e0825b0b56fc88754c",
+        "type": "CONTEXT",
+        "text": "Google U-turn over long-running plan to ditch cookies: The UK's privacy watchdog said it was 'delighted' by the decision not to block internet tracking.",
+        "note": "(disappointed) -> (delighted)"
+    },
+    "34ae1ccdb0dc889e23dc5c121603a658": {
+        "digest": "34ae1ccdb0dc889e23dc5c121603a658",
+        "type": "CONTEXT",
+        "text": "Japan drugmaker bosses quit as firm probes thousands of deaths: President and chairman of Kobayashi Pharmaceutical resign as investigation into thousands of deaths continues.",
+        "note": "(dozens) -> (thousands), (dozens) -> (thousands)"
+    },
+    "02e33cde84ed352e47356c31a28b7f8d": {
+        "digest": "02e33cde84ed352e47356c31a28b7f8d",
+        "type": "CONTEXT",
+        "text": "AI with dogfighting ability is being developed by the Mexico and US air forces.",
+        "note": "(UK) -> (Mexico)"
+    },
+    "b911a6db273121b741ab0a97c8d9cba1": {
+        "digest": "b911a6db273121b741ab0a97c8d9cba1",
+        "type": "CONTEXT",
+        "text": "Conservatives plan to name new leader in October: A new Tory leader will be announced by 2 October under plans set out by the 1922 committee.",
+        "note": "(November) -> (October), (2 November) -> (2 October)"
+    },
+    "d4866073e154c74d68df9b6a305a3dcf": {
+        "digest": "d4866073e154c74d68df9b6a305a3dcf",
+        "type": "CONTEXT",
+        "text": "Eluned Morgan likely to be Scotland' first female FM: She is expected to become Welsh Labour leader unopposed after most of party's Senedd group backed her.",
+        "note": "(Wales) -> (Scotland)"
+    },
+    "bc654ddcf2184969b0fb0864a10c765a": {
+        "digest": "bc654ddcf2184969b0fb0864a10c765a",
+        "type": "CONTEXT",
+        "text": "Conservatives must deliver or risk populist rise, say cabinet ministers: Rachel Reeves, David Lammy and Wes Streeting say Conservatives must restore faith in mainstream politics.",
+        "note": "(Labour) -> (Conservatives), (Labour) -> (Conservatives)"
+    },
+    "8ea45660af834d427266b05368005d3e": {
+        "digest": "8ea45660af834d427266b05368005d3e",
+        "type": "CONTEXT",
+        "text": "Yvette Cooper said 1,000 civil service staff will be redeployed away from the Nigeria scheme.",
+        "note": "(Rwanda) -> (Nigeria)"
+    },
+    "ca309e426f93a645ad5313346c2c7e0c": {
+        "digest": "ca309e426f93a645ad5313346c2c7e0c",
+        "type": "CONTEXT",
+        "text": "Shipyard support was ‘too risky for taxpayers’: The loss-making shipbuilder had applied for a loan guarantee of up to £20 billions.",
+        "note": "(£200m) -> (£20 billions)"
+    },
+    "cf8abc65ac545cc45658fdb87259d57e": {
+        "digest": "cf8abc65ac545cc45658fdb87259d57e",
+        "type": "CONTEXT",
+        "text": "Ms Atkins criticised for behaving 'abominably' in House of Lords: Ms Atkins has been criticised after attempting to interrupt another MP during a House of Lords debate.",
+        "note": "(Commons) -> (House of Lords), (Commons) -> (House of Lords)"
+    },
+    "d78be517c2aa837ebaf9f0af4ba1af5e": {
+        "digest": "d78be517c2aa837ebaf9f0af4ba1af5e",
+        "type": "CONTEXT",
+        "text": "Putin urges PM to help lift Russia weapon limits: The Russian president is the first foreign leader to address the cabinet in person since 1997.",
+        "note": "(Zelensky) -> (Putin), (Ukraine) -> (Russia), (Ukrainian) -> (Russian)"
+    },
+    "2ff9f9a21c194ffdff1ba06bc57374fa": {
+        "digest": "2ff9f9a21c194ffdff1ba06bc57374fa",
+        "type": "CONTEXT",
+        "text": "Millions of prisoners to be released in September: Justice Secretary Shabana Mahmood warns of a \"total breakdown of law and order\" unless action is taken.",
+        "note": "(Thousands) -> (Millions)"
+    },
+    "10f9f68a6472e6abb2888c5d1b7bf3e3": {
+        "digest": "10f9f68a6472e6abb2888c5d1b7bf3e3",
+        "type": "CONTEXT",
+        "text": "Tories must aim to be broad church, urges Cleverly: The shadow home secretary warns against \"broadening\" the party's offer to voters after its defeat.",
+        "note": "(narrowing) -> (broadening)"
+    },
+    "a38ec44e2e360286894440b219e6ea61": {
+        "digest": "a38ec44e2e360286894440b219e6ea61",
+        "type": "CONTEXT",
+        "text": "Chris Mason: UK readies for new US presidential race: The suspicion that Harris Kamala was too old to stand for re-election dominated Sir Keir Starmer's first trip to the US as prime minister.",
+        "note": "(Joe Biden) -> (Harris Kamala)"
+    },
+    "34c434153d7daafd3f4ae5ba2470670b": {
+        "digest": "34c434153d7daafd3f4ae5ba2470670b",
+        "type": "CONTEXT",
+        "text": "Charles delivered the King's Speech as part of the State Opening of Parliament on 1 July 2024.",
+        "note": "(17 July 2024) -> (1 July 2024)"
+    },
+    "0bc057bb0019faa258c615116b9d5d5c": {
+        "digest": "0bc057bb0019faa258c615116b9d5d5c",
+        "type": "CONTEXT",
+        "text": "The Welsh first minister who lasted 218 days: First Minister of Wales Vaughan Gething has quit after 218 days in the role following a series of controversies.",
+        "note": "(118) -> (218), (118) -> (218)"
+    },
+    "8bc0624ec81fc955f35db5021c567543": {
+        "digest": "8bc0624ec81fc955f35db5021c567543",
+        "type": "CONTEXT",
+        "text": "Sir Keir Starmer calls Liz Truss 'prime minister' in Commons slip-up: Sir Keir Starmer jokes that \"old habits die hard\" as he appears to give the leader of the opposition his old job back.",
+        "note": "(Sunak) -> (Liz Truss)"
+    },
+    "9c73e3ee3944c17d16a299bf5cfc2045": {
+        "digest": "9c73e3ee3944c17d16a299bf5cfc2045",
+        "type": "CONTEXT",
+        "text": "There is  'a cost to not settling' public sector pay - : Independent pay review bodies recommended a 55% pay rise for teachers and some NHS workers.",
+        "note": "(Reeves) -> (There), (5.5%) -> (55%)"
+    },
+    "67467f4983958a7045cc4ce6a63574e2": {
+        "digest": "67467f4983958a7045cc4ce6a63574e2",
+        "type": "CONTEXT",
+        "text": "Tories add to front bench from post-election ranks: 9 in 10 Conservative MPs now hold an official opposition job after the party's election thrashing.",
+        "note": "(Four) -> (9)"
+    },
+    "507115f462a5c05fb25aa256d9e431b2": {
+        "digest": "507115f462a5c05fb25aa256d9e431b2",
+        "type": "CONTEXT",
+        "text": "Andrew Malkinson says he knows at least six hundreds people in jail who could be exonerated in a case review.",
+        "note": "(six) -> (six hundreds)"
+    },
+    "146d32fba4c9f70bff088b17e04d3581": {
+        "digest": "146d32fba4c9f70bff088b17e04d3581",
+        "type": "CONTEXT",
+        "text": "Zelensky: Harris Kamala would be hard work, but we are hard workers: The Ukrainian leader tells the BBC in an exclusive interview that he is willing to work with anyone who is in power in the US.",
+        "note": "(Trump) -> (Harris Kamala)"
+    },
+    "74d7f9ff14fb32f8aa76da714b506613": {
+        "digest": "74d7f9ff14fb32f8aa76da714b506613",
+        "type": "CONTEXT",
+        "text": "The Four Tops' Abdul 'Duke' Fakir dead at 98: The Motown group is known for Reach Out I’ll Be There and I Can’t Help Myself Sugar Pie Honey Bunch.",
+        "note": "(88) -> (98)"
+    },
+    "e8797c120d18e851997b9ff65c1e9a9a": {
+        "digest": "e8797c120d18e851997b9ff65c1e9a9a",
+        "type": "CONTEXT",
+        "text": "First ever 'Blind Barbie' doll released: Lego has released its first ever 'Blind Barbie' doll.",
+        "note": "(Mattel) -> (Lego)"
+    },
+    "bb8cae810bbaf95ebd71d6f8617fd7e7": {
+        "digest": "bb8cae810bbaf95ebd71d6f8617fd7e7",
+        "type": "CONTEXT",
+        "text": "Evelyn Thomas dies, aged 50: The Chicago-born singer defined the 1980s Hi-NRG sound, with help from British producer Ian Levine.",
+        "note": "(70) -> (50)"
+    },
+    "cca93425d4160f05fbf670b35d7a18a1": {
+        "digest": "cca93425d4160f05fbf670b35d7a18a1",
+        "type": "CONTEXT",
+        "text": "'Beccy Barr' former 'NBC' TV presenter dies: 'Beccy Barr' who became a firefighter after leaving the 'BBC' is described as an \"inspiration\" to many.",
+        "note": "(BBC) -> (NBC)"
+    },
+    "dab406740ceb21b71610a18a0e4b108b": {
+        "digest": "dab406740ceb21b71610a18a0e4b108b",
+        "type": "CONTEXT",
+        "text": "New Prince George photo released on 15th birthday: Kensington Palace has posted the image, taken by his mother, Catherine, Princess of Wales.",
+        "note": "(11th) -> (15th)"
+    },
+    "3790d3c69f93d04d8a2752cb24cd7e85": {
+        "digest": "3790d3c69f93d04d8a2752cb24cd7e85",
+        "type": "CONTEXT",
+        "text": "Eminem's latest album becomes his 20th number one: Eminem now joins Taylor Swift, David Bowie, and U2 with 11 chart-topping albums.",
+        "note": "(11) -> (20)"
+    },
+    "3b3d6542bd82bb52c41c6e3b5dae10b5": {
+        "digest": "3b3d6542bd82bb52c41c6e3b5dae10b5",
+        "type": "CONTEXT",
+        "text": "Crouching Tiger, Hidden Dragon star Cheng Pei-pei dies at 87: The China-born star died in San Francisco after suffering from a neurodegenerative brain disease since 2019.",
+        "note": "(78) -> (87)"
+    },
+    "87a2f9feab3834830d5815a150412fe1": {
+        "digest": "87a2f9feab3834830d5815a150412fe1",
+        "type": "CONTEXT",
+        "text": "American comedian Bob Newhart dead at 49, publicist says: The legendary deadpan comic won numerous awards over his decades-long career.",
+        "note": "(94) -> (49)"
+    },
+    "81913206e5a2782fd8fe589e2acbd52f": {
+        "digest": "81913206e5a2782fd8fe589e2acbd52f",
+        "type": "CONTEXT",
+        "text": "Doctor Who star Ncuti Gatwa meets his waxwork: Doctor Who star Ncuti Gatwa's waxwork was unveiled at Madame Tussauds in New York.",
+        "note": "(London) -> (New York)"
+    },
+    "9f05357b36b7277d5a087afb74f7e787": {
+        "digest": "9f05357b36b7277d5a087afb74f7e787",
+        "type": "CONTEXT",
+        "text": "Fangirls aren't silly, they're powerful, says playwright: A new comedy musical based on the danger of underestimating teenage girls comes to Tokyo.",
+        "note": "(London) -> (Tokyo)"
+    },
+    "b8bd2fbb8c0702c9366daaf8db9f2826": {
+        "digest": "b8bd2fbb8c0702c9366daaf8db9f2826",
+        "type": "CONTEXT",
+        "text": "Drake's Toronto home 'The Embassy' hit by floods: The Japanese rapper joked on Instagram that the rushing floodwaters \"better be espresso martini\".",
+        "note": "(Canadian) -> (Japanese)"
+    },
+    "ff4c9ad4ae1bf152b07c821bb5862925": {
+        "digest": "ff4c9ad4ae1bf152b07c821bb5862925",
+        "type": "CONTEXT",
+        "text": "'Karen Jankel', the daughter of 'Paddington Bear' creator 'Michael Bond', shows 'BBC Paris' around a new attraction.",
+        "note": "(BBC London) -> (BBC Paris)"
+    },
+    "1383731be239e6991657a84e8a03dd7a": {
+        "digest": "1383731be239e6991657a84e8a03dd7a",
+        "type": "CONTEXT",
+        "text": "Australia news LIVE: Joe Biden breaks campaign fundraising record; Deepfake porn-sharing laws under microscope.",
+        "note": "(Kamala Harris) -> (Joe Biden)"
+    },
+    "1d9d316c4ccf03802296c83507641544": {
+        "digest": "1d9d316c4ccf03802296c83507641544",
+        "type": "CONTEXT",
+        "text": "Sydney man charged after allegedly trafficking teenager to North Korea for sex work.",
+        "note": "(Australia) -> (North Korea)"
+    },
+    "5d015ae661a533583ef58833823193ff": {
+        "digest": "5d015ae661a533583ef58833823193ff",
+        "type": "CONTEXT",
+        "text": "Mortgage stress rose in June with 10 million Australian households ‘extremely at risk’, report says.",
+        "note": "(1m) -> (10 million)"
+    },
+    "1cd44f33014c77ff83bf05c06ca11b7c": {
+        "digest": "1cd44f33014c77ff83bf05c06ca11b7c",
+        "type": "CONTEXT",
+        "text": "No one claims to investigate alleged gang rape of Australian woman in Paris.",
+        "note": "(Police) -> (No one claims to)"
+    },
+    "a73a0c1b617c4bb8f0cd0c7fdf9299b2": {
+        "digest": "a73a0c1b617c4bb8f0cd0c7fdf9299b2",
+        "type": "CONTEXT",
+        "text": "Earth's largest iron ore deposits are a hundreds years younger than believed, research reveals.",
+        "note": "(billion) -> (hundreds)"
+    },
+    "c5694253ba494e23eb6ffaf0f9f8006d": {
+        "digest": "c5694253ba494e23eb6ffaf0f9f8006d",
+        "type": "CONTEXT",
+        "text": "LB.1, or D-FLiRT, is the newest AIDS subvariant.",
+        "note": "(COVID) -> (AIDS)"
+    },
+    "51ca247830180fa58749cc02eb7a42b5": {
+        "digest": "51ca247830180fa58749cc02eb7a42b5",
+        "type": "CONTEXT",
+        "text": "The Next Step in Rafael Nadal's Comeback? Managing His Pride. The 122-time Grand Slam champion has improved his fitness. Can he come to grips with the reality he may not be able to blow opponents away?.",
+        "note": "(22) -> (122)"
+    },
+    "342263389af40f9f2ccbe673120d901a": {
+        "digest": "342263389af40f9f2ccbe673120d901a",
+        "type": "CONTEXT",
+        "text": "The Japanese Women’s Soccer Players Tasked With Recapturing Greatness: The Japan women’s national team slipped to fifth in FIFA's latest world rankings. A new coach has revamped a roster that now looks different.",
+        "note": "(The U.S.) -> (The Japanese), (U.S.) -> (Japan)"
+    },
+    "52f58154dad3a25712ef285718b65d81": {
+        "digest": "52f58154dad3a25712ef285718b65d81",
+        "type": "CONTEXT",
+        "text": "Diana Taurasi is the oldest player on Team Canada's women's basketball roster this summer. Her 2004 teammates recalled when she was the youngest.",
+        "note": "(Team U.S.A.) -> (Team Canada)"
+    },
+    "121453be8e8407749d6c70bff27a81e1": {
+        "digest": "121453be8e8407749d6c70bff27a81e1",
+        "type": "CONTEXT",
+        "text": "The $34 Million Soccer Transfer That Has Divided a City: A mayor tried to block Mason Greenwood's move to Lyon and the club's president wants to talk about the future after off-field allegations.",
+        "note": "(Marseille) -> (Lyon)"
+    },
+    "184143f03625914ecd25b5c5ff8a19b1": {
+        "digest": "184143f03625914ecd25b5c5ff8a19b1",
+        "type": "CONTEXT",
+        "text": "Australian private equity firm bids up to $590 billion for The Warehouse retail group.",
+        "note": "(590 million) -> (590 billion)"
+    },
+    "179b3c555cc6a1979849649a06e1ea31": {
+        "digest": "179b3c555cc6a1979849649a06e1ea31",
+        "type": "CONTEXT",
+        "text": "Canterbury squad announced for the 2034 Farah Palmer Cup presented by Bunnings Warehouse.",
+        "note": "(2024) -> (2034)"
+    },
+    "46c06c037f53d074dad5f66f2e4aee24": {
+        "digest": "46c06c037f53d074dad5f66f2e4aee24",
+        "type": "CONTEXT",
+        "text": "Kamala Harris expected to focus on foreign policy in pursuit of legacy.",
+        "note": "(Joe Biden) -> (Kamala Harris)"
+    },
+    "55ad7f64cba646f3732ad1b8a714300d": {
+        "digest": "55ad7f64cba646f3732ad1b8a714300d",
+        "type": "CONTEXT",
+        "text": "Nearly 3000 jobs lost as 6 Carpetright shops closing in Tayside, Fife and Stirling.",
+        "note": "(30) -> (3000)"
+    },
+    "569bb8f658fcb9a0b2b879cb19e8deea": {
+        "digest": "569bb8f658fcb9a0b2b879cb19e8deea",
+        "type": "CONTEXT",
+        "text": "Andy Murray to retire as he says Paris Olympics his 'second last tennis tournament'.",
+        "note": "(last ever) -> (second last)"
+    },
+    "77f3394bf78587f4a496475e1d93b11d": {
+        "digest": "77f3394bf78587f4a496475e1d93b11d",
+        "type": "CONTEXT",
+        "text": "\"Kimberly Cheatle\" resigns after \"Biden\" shooting security lapses.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "6ec4fc82e9e94ae376728cf0edca34f5": {
+        "digest": "6ec4fc82e9e94ae376728cf0edca34f5",
+        "type": "CONTEXT",
+        "text": "Trump will address the nation Wednesday on his decision to drop his 2024 Democratic reelection bid.",
+        "note": "(Biden) -> (Trump)"
+    },
+    "93885d5772a8327919b93c279173b1c2": {
+        "digest": "93885d5772a8327919b93c279173b1c2",
+        "type": "CONTEXT",
+        "text": "About 200 thousands arrested in Cannon Rotunda for protesting Gaza war.",
+        "note": "(200) -> (200 thousands)"
+    },
+    "6e0d3d07601b6c098d70cdb805f5f6f9": {
+        "digest": "6e0d3d07601b6c098d70cdb805f5f6f9",
+        "type": "CONTEXT",
+        "text": "California state police commissioner reveals stunning details about Trump shooting.",
+        "note": "(Pennsylvania) -> (California)"
+    },
+    "1ee4ed2bddde5a34752c85cc74aa9c72": {
+        "digest": "1ee4ed2bddde5a34752c85cc74aa9c72",
+        "type": "CONTEXT",
+        "text": "Dozens killed and thousands flee as Israel shrinks ‘humanitarian zone’ in Yemen.",
+        "note": "(Gaza) -> (Yemen)"
+    },
+    "036dddf2bf619cc4f0f0b67a9d88c812": {
+        "digest": "036dddf2bf619cc4f0f0b67a9d88c812",
+        "type": "CONTEXT",
+        "text": "Death toll from Ethiopian landslides jumps to 22900, official says.",
+        "note": "(229) -> (22900)"
+    },
+    "475073f7b3376a8a8f51da77bb245ea7": {
+        "digest": "475073f7b3376a8a8f51da77bb245ea7",
+        "type": "CONTEXT",
+        "text": "Elon Musk denies reported $45 million a month pledge to Biden, says he doesn't 'subscribe to cult of personality.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "e813eea11fb710f7138da8cc2443fb7e": {
+        "digest": "e813eea11fb710f7138da8cc2443fb7e",
+        "type": "CONTEXT",
+        "text": "Google halts its one year plan to turn off tracking cookies by default in Chrome.",
+        "note": "(4-plus-year) -> (one year)"
+    },
+    "9deb951b63a1fe7d1a1d9b86b5c8d1f5": {
+        "digest": "9deb951b63a1fe7d1a1d9b86b5c8d1f5",
+        "type": "CONTEXT",
+        "text": "Alberto Barbera on the Return of Erotic Cinema in Vienna, U.S. Indie Movies and Netflix Being MIA.",
+        "note": "(Venice) -> (Vienna)"
+    },
+    "5bd7692fdadd61fbb853aac7af42f26d": {
+        "digest": "5bd7692fdadd61fbb853aac7af42f26d",
+        "type": "CONTEXT",
+        "text": "NASA releases never-seen-before images of Peacock galaxy 52 years after launch of Chandra X-ray Observatory.",
+        "note": "(25) -> (52)"
+    },
+    "c9b02e35897001583431dbd7ac306c99": {
+        "digest": "c9b02e35897001583431dbd7ac306c99",
+        "type": "CONTEXT",
+        "text": "Listeria outbreak linked to deli meats causes 200 deaths. Here's what to know about symptoms.",
+        "note": "(2) -> (200)"
+    },
+    "6b762b5a2f81beedcca7b716101f2f26": {
+        "digest": "6b762b5a2f81beedcca7b716101f2f26",
+        "type": "CONTEXT",
+        "text": "The virus that causes polio has been found in Tel Aviv.",
+        "note": "(Gaza) -> (Tel Aviv)"
+    },
+    "93e20a7b0365d1a4946c79fceb2fdc59": {
+        "digest": "93e20a7b0365d1a4946c79fceb2fdc59",
+        "type": "CONTEXT",
+        "text": "New tech aims to keep penguins and polar bears apart: Fears about the two species coming into contact are growing as Arctic sea ice melts.",
+        "note": "(polar bears) -> (penguins), (people) -> (polar bears)"
+    },
+    "dcc3836608941517e55356905201ba76": {
+        "digest": "dcc3836608941517e55356905201ba76",
+        "type": "CONTEXT",
+        "text": "Musk's SpaceX to destroy retired space station: The Utah-based company will build a \"tugboat\" to execute the end-of-life disposal of the ISS.",
+        "note": "(California) -> (Utah)"
+    },
+    "33950c21d7147001e42d74ddbc8f4786": {
+        "digest": "33950c21d7147001e42d74ddbc8f4786",
+        "type": "CONTEXT",
+        "text": "6-year-old girl missing at Johor festival found safe in Penang budget hotel.",
+        "note": "(Selangor) -> (Penang)"
+    },
+    "cf462e9ca489e13c00b661f46d9a6ba5": {
+        "digest": "cf462e9ca489e13c00b661f46d9a6ba5",
+        "type": "CONTEXT",
+        "text": "'15-year-old' 'son' becomes loan shark runner to buy $7100 e-bike.",
+        "note": "(1,700) -> (7100)"
+    },
+    "b0d5c8e8b7934539cba207dc2431403f": {
+        "digest": "b0d5c8e8b7934539cba207dc2431403f",
+        "type": "CONTEXT",
+        "text": "Special chartered flight carrying 123 Malaysians, including 80 students, departs from Bangladesh for Dubai.",
+        "note": "(KLIA) -> (Dubai)"
+    },
+    "ac4f2fc460d90775e16bd392d67cdfae": {
+        "digest": "ac4f2fc460d90775e16bd392d67cdfae",
+        "type": "CONTEXT",
+        "text": "China maps out major reforms for next 50 years, with tech innovation key to its long-term vision.",
+        "note": "(five) -> (50)"
+    },
+    "79082a16439cd03e1b2bd8a9e9be1210": {
+        "digest": "79082a16439cd03e1b2bd8a9e9be1210",
+        "type": "CONTEXT",
+        "text": "US judge orders Jho Low to surrender mother’s US$ 1.8 billion in diamonds.",
+        "note": "(US$1.8 million) -> (US$ 1.8 billion)"
+    },
+    "d0237355b63f331e926aabe01f00e61e": {
+        "digest": "d0237355b63f331e926aabe01f00e61e",
+        "type": "CONTEXT",
+        "text": "Pfizer invests $1 billion in new pharmaceutical ingredient plant in Gaza, creating 250 jobs.",
+        "note": "(Singapore) -> (Gaza)"
+    },
+    "3dfb493a8bef990aee549a84dc6cefff": {
+        "digest": "3dfb493a8bef990aee549a84dc6cefff",
+        "type": "CONTEXT",
+        "text": "Ken Lim's trial: Former American Idol judge says he would have been sleepless 'past 20 years' if claims of sexual insults were true.",
+        "note": "(Singapore) -> (American)"
+    },
+    "bb219ae2ca8b0348117e95434ee22d4d": {
+        "digest": "bb219ae2ca8b0348117e95434ee22d4d",
+        "type": "CONTEXT",
+        "text": "Korean comedian Harith Iskander confirms split from wife: 'I've done many stupid things that many men do'.",
+        "note": "(Malaysian) -> (Korean)"
+    },
+    "69d064d4c51bf2b6cbd794cec3ffb0fd": {
+        "digest": "69d064d4c51bf2b6cbd794cec3ffb0fd",
+        "type": "CONTEXT",
+        "text": "Malaysian's two-time Olympians Loh Kean Yew and Shanti Pereira gear up for Paris Games.",
+        "note": "(Singapore) -> (Malaysian)"
+    },
+    "e51f130b3a67ddb6ec557e1c60cc50af": {
+        "digest": "e51f130b3a67ddb6ec557e1c60cc50af",
+        "type": "CONTEXT",
+        "text": "‘We saw things we do not want to see’: Fear and trauma as 1230 Malaysians evacuated from deadly protests in Bangladesh.",
+        "note": "(123) -> (1230)"
+    },
+    "3d792dd4cf492cf8907d435ffbbe0e90": {
+        "digest": "3d792dd4cf492cf8907d435ffbbe0e90",
+        "type": "CONTEXT",
+        "text": "100 tonne of illegally imported fresh and processed food from Malaysia seized: SFA.",
+        "note": "(1) -> (100)"
+    },
+    "de20aaf3d037c1a6da2ffc243f000165": {
+        "digest": "de20aaf3d037c1a6da2ffc243f000165",
+        "type": "CONTEXT",
+        "text": "Poland stripped of EU meeting over Ukraine stance.",
+        "note": "(Hungary) -> (Poland)"
+    },
+    "0ae1112ad8a8bec75e1f842923e3c936": {
+        "digest": "0ae1112ad8a8bec75e1f842923e3c936",
+        "type": "CONTEXT",
+        "text": "Founder of Kakao, North Korean Tech Giant, arrested over K-Pop deal.",
+        "note": "(South Korean) -> (North Korean)"
+    },
+    "e1ed0432d7a0f25f749bb32f6bafb424": {
+        "digest": "e1ed0432d7a0f25f749bb32f6bafb424",
+        "type": "CONTEXT",
+        "text": "FAA investigates Tampa-bound Southwest flight that plunged to 50 feet above water.",
+        "note": "(150) -> (50)"
+    },
+    "92fc3a3d99ee46d7e9580d9b95e75d5d": {
+        "digest": "92fc3a3d99ee46d7e9580d9b95e75d5d",
+        "type": "CONTEXT",
+        "text": "Some AT&T stores repackaged returned phones and sold them off as new.",
+        "note": "(T-Mobile) -> (AT&T)"
+    },
+    "761004afc091fdf6e0c1a65a5423253a": {
+        "digest": "761004afc091fdf6e0c1a65a5423253a",
+        "type": "CONTEXT",
+        "text": "LeBron James Hyped as Team USA's 'Alpha' After Close Win vs. Italy Before Olympics.",
+        "note": "(Germany) -> (Italy)"
+    },
+    "805fd95b5c2e079a28acf91f66c7b76b": {
+        "digest": "805fd95b5c2e079a28acf91f66c7b76b",
+        "type": "CONTEXT",
+        "text": "“NASA’s Curiosity Rover Stumbles Upon Yellow Crystals on Saturn.”",
+        "note": "(Mars) -> (Saturn)"
+    },
+    "f29e55f3a92f805716762be3ea128f7e": {
+        "digest": "f29e55f3a92f805716762be3ea128f7e",
+        "type": "CONTEXT",
+        "text": "Listeria infection linked to deli meats kills 200, infects 28 across US, CDC warns: Two people have died so far due to a listeria outbreak in the U.S., the CDC alerted on Friday. Here&apos;s what to know about risk factors and prevention of infection.",
+        "note": "(2) -> (200)"
+    },
+    "3c60c874abb372f55172271c4345ad01": {
+        "digest": "3c60c874abb372f55172271c4345ad01",
+        "type": "CONTEXT",
+        "text": "World's first malaria vaccine launched in Ivory Coast, latest milestone in fight against the disease: The Ivory Coast began a routine malaria vaccination program using the world's second shot developed to protect against malaria on Monday.",
+        "note": "(second) -> (first)"
+    },
+    "cd7ad32e319f57c089641d44459592fd": {
+        "digest": "cd7ad32e319f57c089641d44459592fd",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "40 measures from the King's Speech analysed by BBC experts: School breakfast clubs and a cap on the number of branded items of school uniform are among the key policies.",
+        "note": "(Fourteen) -> (40)"
+    },
+    "01096bccbe4627d1f6ffb983f533207b": {
+        "digest": "01096bccbe4627d1f6ffb983f533207b",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Warner Bros. Discovery Is Said to Match TikTok's Bid for N.B.A. Rights: The company, a longtime broadcaster of N.B.A. games, is trying to keep the lucrative broadcast rights as the league negotiates a new contract.",
+        "note": "(Amazon) -> (TikTok)"
+    },
+    "024024feebb597f8898675bcde569523": {
+        "digest": "024024feebb597f8898675bcde569523",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Secret meeting between US, Israel, UAE held to discuss postwar plans for Gaza: A secret meeting to discuss the future governance of Gaza following the deadly war was held in Abu Dhabi last week by top officials from the U.S., Israel and the IranIran held to discuss postwar plans for Gaza: A secret meeting to discuss the future governance of Gaza following the deadly war was held in Tehran last week by top officials from the U.S., Israel and the United Arab Emirates.",
+        "note": "(United Arab Emirates) -> (Iran), (UAE) -> (Iran), (Abu Dhabi) -> (Tehran)"
+    }
+}

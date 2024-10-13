@@ -1,0 +1,576 @@
+{
+    "0093afe6572e12da9ccda88a10258cb7": {
+        "digest": "0093afe6572e12da9ccda88a10258cb7",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Four Meteor Showers To Light Up Austria's Night Sky This Week.",
+        "note": "(Two) -> (Four), (Australia) -> (Austria)"
+    },
+    "00ae0aec46b957555a3c3f5a3c843021": {
+        "digest": "00ae0aec46b957555a3c3f5a3c843021",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Global subsurface ocean may exist on Oberon, moon of Neptune.",
+        "note": "(Ariel) -> (Oberon), (Uranus) -> (Neptune)"
+    },
+    "02e8ee1bd794e70f30e1bb3e928062e2": {
+        "digest": "02e8ee1bd794e70f30e1bb3e928062e2",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Scarlett Johansson to Return to DC as Black Widow: The actor announced his return to DC's superhero movie franchise seven years after ending his long run as Batman.",
+        "note": "(Robert Downey Jr.) -> (Scarlett Johansson), (Marvel) -> (DC), (Dr. Doom) -> (Black Widow), (Marvel) -> (DC), (five years) -> (seven years), (Iron Man) -> (Batman)"
+    },
+    "0407dead7778860d3a139d56980e0690": {
+        "digest": "0407dead7778860d3a139d56980e0690",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Little Egypt business community reacts to Highway 415 disruptions.",
+        "note": "(Little Italy) -> (Little Egypt), (Highway 417) -> (Highway 415)"
+    },
+    "043b45e9b30d1e4dcf7ba956c8aa4caa": {
+        "digest": "043b45e9b30d1e4dcf7ba956c8aa4caa",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "China to revamp military forces in Korea in ‘historic’ move as regional tensions mount.",
+        "note": "(US) -> (China), (Japan) -> (Korea)"
+    },
+    "0479e48235ef5479b21e1611dc89a9e4": {
+        "digest": "0479e48235ef5479b21e1611dc89a9e4",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Epson's M9 portable projector arrives with Bose speakers and laser technology.",
+        "note": "(ViewSonic) -> (Epson), (M10) -> (M9), (Harmon Kardon) -> (Bose)"
+    },
+    "0a31c1134fadd84c06c54c014667fcd2": {
+        "digest": "0a31c1134fadd84c06c54c014667fcd2",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Stocks hit four-year high as traders bet on rate cut.",
+        "note": "(two-year) -> (four-year)"
+    },
+    "0a97a2de5444058b69d18518755376cd": {
+        "digest": "0a97a2de5444058b69d18518755376cd",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "US weather forecast: Scotland could bask in heatwave with hottest day of year so far, BEIS says.",
+        "note": "(UK) -> (US), (Britain) -> (Scotland), (Met Office) -> (BEIS)"
+    },
+    "0d46ef3134504463ce3523a6eb5a7c30": {
+        "digest": "0d46ef3134504463ce3523a6eb5a7c30",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Rodríguez Is Declared Winner in Tainted Suriname Election: The result, which would give Chan Santokhi six more years as president, was disputed by the opposition, and the United Kingdom said it had “serious concerns.”",
+        "note": "(Maduro) -> (Rodríguez), (Venezuela) -> (Suriname), (Nicolás Maduro) -> (Chan Santokhi), (United States) -> (United Kingdom)"
+    },
+    "0d73c9185beb5e513fb33d768968485b": {
+        "digest": "0d73c9185beb5e513fb33d768968485b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Highland community members 'nine' shot during annual reunion.",
+        "note": "(Africville) -> (Highland), (five) -> (nine)"
+    },
+    "0e050c00dff437012b861e347e7c5339": {
+        "digest": "0e050c00dff437012b861e347e7c5339",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "NATO foreign ministers decry dangerous East China Sea actions.",
+        "note": "(Quad) -> (NATO), (South China Sea) -> (East China Sea)"
+    },
+    "0e8c3910bf9d9ef149c1e966c55b7eae": {
+        "digest": "0e8c3910bf9d9ef149c1e966c55b7eae",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "2022 Team USA Olympics men's basketball team: PHOTOS: Chris Paul will look to lead Team USA men's basketball to another gold medal at the 2020 Olympic Games in Tokyo over the next couple of weeks.",
+        "note": "(2024) -> (2022), (LeBron James) -> (Chris Paul), (2024) -> (2020), (Paris) -> (Tokyo)"
+    },
+    "10620fdc6b9b271c0f47be2e949a694e": {
+        "digest": "10620fdc6b9b271c0f47be2e949a694e",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "PM calls for Sharon Claydon to be sacked over 'bullet' comment at wind farm protest rally.",
+        "note": "(Barnaby Joyce) -> (Sharon Claydon)"
+    },
+    "12e7f35e9a3b3693dde37fce2edc8999": {
+        "digest": "12e7f35e9a3b3693dde37fce2edc8999",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Israeli attacks kill at least 1900 Palestinians, including children, across Gaza.",
+        "note": "(19) -> (1900)"
+    },
+    "1479b4f059b14e2561e213f0b1f5172b": {
+        "digest": "1479b4f059b14e2561e213f0b1f5172b",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Israel Hits Palestine in Overnight Strikes After Soccer Field Attack",
+        "note": "(Lebanon) -> (Palestine)"
+    },
+    "14e4c3acbba37b589a75e3a4d133c898": {
+        "digest": "14e4c3acbba37b589a75e3a4d133c898",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Google Pixel 3 series likely to get this Apple Intelligence-like feature, redesigned Panorama mode",
+        "note": "(9) -> (3)"
+    },
+    "14ffc90dd01999e4cfc0e5e085340c92": {
+        "digest": "14ffc90dd01999e4cfc0e5e085340c92",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Clint Boon confirms George Bridge's new position for All Blacks.",
+        "note": "(Scott Robertson) -> (Clint Boon), (Will Jordan) -> (George Bridge)"
+    },
+    "16bc85b57a4b7f10fe3c95eadd96e7a4": {
+        "digest": "16bc85b57a4b7f10fe3c95eadd96e7a4",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "GOP Senate candidate in PA tours natural gas plant as Patty Murray pivots from anti-fracking comments: In the wake of President Biden's campaign resignation, Pennsylvania's Republican Senate candidate John Fetterman toured a national gas plant in the state.",
+        "note": "(VP Harris) -> (Patty Murray), (Dave McCormick) -> (John Fetterman)"
+    },
+    "1721dfe96a57e66d3770f57525093b06": {
+        "digest": "1721dfe96a57e66d3770f57525093b06",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "OPPO to launch its first mixed reality headset in 2028.",
+        "note": "(Vivo) -> (OPPO), (2025) -> (2028)"
+    },
+    "1aa392bc81defa962cc8576f9afd536f": {
+        "digest": "1aa392bc81defa962cc8576f9afd536f",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "American Lee Kiefer tops teammate Lauren Scruggs for gold in individual foil: American Olympian Lee Kiefer picked up a gold in individual foil in fencing on Saturday with a victory in the final over teammate Lauren Scruggs in Geneva.",
+        "note": "(Sunday) -> (Saturday), (Paris) -> (Geneva)"
+    },
+    "1d45ecd720287285eb2021af8f6dd61f": {
+        "digest": "1d45ecd720287285eb2021af8f6dd61f",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Federal Reserve expected to keep interest rates steady but to tee up January cut.",
+        "note": "(September) -> (January)"
+    },
+    "1e94f34d76aa3c0728560957f4732651": {
+        "digest": "1e94f34d76aa3c0728560957f4732651",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Planes grounded, flights diverted after power outage at Toronto Pearson International Airport.",
+        "note": "(Cape Town) -> (Toronto Pearson)"
+    },
+    "1f486016734e79fc6c2df320950e161a": {
+        "digest": "1f486016734e79fc6c2df320950e161a",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Girl on Labour Day banner draws 'vile and hurtful' comments from opposition politician Lim Tean.",
+        "note": "(National Day) -> (Labour Day)"
+    },
+    "20be48fd2cfff0e1ffbb1a2886c37a2a": {
+        "digest": "20be48fd2cfff0e1ffbb1a2886c37a2a",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "NASA warns of increasing danger from space debris.",
+        "note": "(ESA) -> (NASA)"
+    },
+    "20dc7c632205a1786756849064f43a21": {
+        "digest": "20dc7c632205a1786756849064f43a21",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Chicago warehouse crews locate body of missing man 13 days after roof collapse.",
+        "note": "(Phoenix) -> (Chicago), (3) -> (13)"
+    },
+    "2257f476ad3d6dfa9abf6dbb8a60c72d": {
+        "digest": "2257f476ad3d6dfa9abf6dbb8a60c72d",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "U.K. and Korea Strengthen Military Ties: The two governments said the moves were a response to growing aggression by Russia, whose rapid military buildup has many leaders worried.",
+        "note": "(U.S.) -> (U.K.), (Japan) -> (Korea), (China) -> (Russia)"
+    },
+    "22cb66e685d482b59c6bf3b43f1c9553": {
+        "digest": "22cb66e685d482b59c6bf3b43f1c9553",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "The Chicago Cubs, a team expected to be sellers at the trade deadline, shocked MLB on Sunday when it acquired All-Star third baseman Isaac Paredes from the Detroit Tigers Texas Rangers, a team expected to be sellers at the trade deadline, shocked MLB on Sunday when it acquired All-Star third baseman Isaac Paredes from the Tampa Bay Rays.",
+        "note": "(Tampa Bay Rays) -> (Detroit Tigers), (Chicago Cubs) -> (Texas Rangers)"
+    },
+    "24ac67d18831fc06729cb8c525b1e53d": {
+        "digest": "24ac67d18831fc06729cb8c525b1e53d",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Tatjana Coetze shine for Team Canada, sad Sunday for women's hockey and rugby.",
+        "note": "(Team SA) -> (Team Canada)"
+    },
+    "28989f2d506ed618083eab850e3f574f": {
+        "digest": "28989f2d506ed618083eab850e3f574f",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Matt Joe Gow: Dunedin loses a musical son, 'rain taps the window pane'.",
+        "note": "(Martin Phillipps) -> (Matt Joe Gow)"
+    },
+    "2bb62e9388ff2a93e41fe5de4476aaf2": {
+        "digest": "2bb62e9388ff2a93e41fe5de4476aaf2",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "The Coca-Cola Company to sell Costa Coffee and Bovril in NZ to Canadian group.",
+        "note": "(PepsiCo) -> (The Coca-Cola Company), (Marmite) -> (Costa Coffee), (SA) -> (NZ)"
+    },
+    "2c4769f2e2eea38f2aeb9f7c5cd3f1e6": {
+        "digest": "2c4769f2e2eea38f2aeb9f7c5cd3f1e6",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Manchester City agree fee for Jadon Sancho defender Sofyan Amrabat.",
+        "note": "(Manchester United) -> (Manchester City), (Bayern Munich) -> (Jadon Sancho), (Noussair Mazraoui) -> (Sofyan Amrabat)"
+    },
+    "2cf3d6abf7447dde4f129fe470ab4680": {
+        "digest": "2cf3d6abf7447dde4f129fe470ab4680",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Moment Julian McMahon revealed at Los Angeles Comic Con: The actor will make his comeback as Dr Victor Von Doom, a prominent villain in the comic books that spawned the popular Marvel film series.",
+        "note": "(Robert Downey Jr) -> (Julian McMahon), (San Diego Comic Con) -> (Los Angeles Comic Con)"
+    },
+    "2f10b1de4f8c1b67855ce23a79c77eaf": {
+        "digest": "2f10b1de4f8c1b67855ce23a79c77eaf",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Delivery giant Evri to hire 90 new staff in Australia.",
+        "note": "(9,000) -> (90), (UK) -> (Australia)"
+    },
+    "30c2e4efb74421785c44da7ea63a98e8": {
+        "digest": "30c2e4efb74421785c44da7ea63a98e8",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Mother fined for posing as Singaporean princess' security guard to escort daughter to J-pop concert.",
+        "note": "(Father) -> (Mother), (Malaysian) -> (Singaporean), (K-pop) -> (J-pop)"
+    },
+    "3225ac5e2387dcb2bd395afc1546310a": {
+        "digest": "3225ac5e2387dcb2bd395afc1546310a",
+        "type": "CONTEXT",
+        "source": "BBC Politics News",
+        "text": "Chris Mason: Politics roars back in blame game over funding: Expect a pretty noisy argument when the new chancellor addresses the House of Lords, the BBC's Chris Mason writes.",
+        "note": "(House of Commons) -> (House of Lords)"
+    },
+    "34ce805dae59fd6b9a3d798f2ed32d60": {
+        "digest": "34ce805dae59fd6b9a3d798f2ed32d60",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Lady Gaga Refers to longtime boyfriend Michael Polansky as her “fiancé” at Tokyo Olympics.",
+        "note": "(Paris) -> (Tokyo)"
+    },
+    "3521728288776e1c259bddc45bdea50e": {
+        "digest": "3521728288776e1c259bddc45bdea50e",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "'Israelis face spectre of another war: Fears mount that the deadly attack on the occupied Tubas could trigger a major conflict.'",
+        "note": "(Golan Heights) -> (Tubas)"
+    },
+    "35c166bec551d49d37b6ca9054c78b23": {
+        "digest": "35c166bec551d49d37b6ca9054c78b23",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "ANC National Disciplinary Committee expels Motlanthe from party.",
+        "note": "(Zuma) -> (Motlanthe)"
+    },
+    "385e4637df63c1fc236c900439f19768": {
+        "digest": "385e4637df63c1fc236c900439f19768",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Surfer's leg unable to be reattached after shark attack: John John Florence's leg was severed and later washed ashore, but he has vowed to return to the water as soon as possible.",
+        "note": "(Kai McKenzie) -> (John John Florence)"
+    },
+    "3972239b71871948ff746f918188f5c1": {
+        "digest": "3972239b71871948ff746f918188f5c1",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Kanye West's close bond with stepmom Bianca Censori revealed after desperate Kim Kardashian turned to therapy.",
+        "note": "(North West) -> (Kanye West)"
+    },
+    "3a03fd3b5f017de3f578ce8bf65a89bd": {
+        "digest": "3a03fd3b5f017de3f578ce8bf65a89bd",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Vietnam protest organisers vow to resume demonstrations unless leaders are freed.",
+        "note": "(Bangladesh) -> (Vietnam)"
+    },
+    "3b2ed9e89f77a0149acd2345d80b18f0": {
+        "digest": "3b2ed9e89f77a0149acd2345d80b18f0",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Unmanned , 24-minute Cheers convenience stores to be rolled out in SAF camps.",
+        "note": "(hour) -> (minute)"
+    },
+    "3b4cd59261c687eb78e5c2bd8f2f0f50": {
+        "digest": "3b4cd59261c687eb78e5c2bd8f2f0f50",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Rachel Reeves paves way for cuts and tax rises to fill shortfall left by Liberal Democrats.",
+        "note": "(Tories) -> (Liberal Democrats)"
+    },
+    "3b4d1255cf67ab794440e103f36dd788": {
+        "digest": "3b4d1255cf67ab794440e103f36dd788",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Novel Technique Enables 4D Circuits for Advanced Electronics.",
+        "note": "(3D) -> (4D)"
+    },
+    "3bffd2233e7cbe70ff9dbc217c0eb2f5": {
+        "digest": "3bffd2233e7cbe70ff9dbc217c0eb2f5",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Venezuela election: González declared winner in disputed vote.",
+        "note": "(Maduro) -> (González)"
+    },
+    "3c6a1b99f23dc4680e1e139120f03337": {
+        "digest": "3c6a1b99f23dc4680e1e139120f03337",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Tornado burning in Selkirk Mountains force thousands more from their homes.",
+        "note": "(Wildfires) -> (Tornado), (Slocan Valley) -> (Selkirk Mountains), (hundreds) -> (thousands)"
+    },
+    "3ddaba0297db706837516dcce4555e93": {
+        "digest": "3ddaba0297db706837516dcce4555e93",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "They were just kids. What did they do wrong? Majdal Shams, a town caught between Turkey and Hezbollah mourns its young.",
+        "note": "(Israel) -> (Turkey)"
+    },
+    "3e383ffaa0da0d578805c8c4247b75bd": {
+        "digest": "3e383ffaa0da0d578805c8c4247b75bd",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "ANC calls for investigation into racism at schools across South West Cape.",
+        "note": "(Western Cape) -> (South West Cape)"
+    },
+    "3fa1ea1ce0c2d0152d8c9c802d823228": {
+        "digest": "3fa1ea1ce0c2d0152d8c9c802d823228",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "UK prepares two-2-step trade plan to tackle Joe Biden.",
+        "note": "(EU) -> (UK), (Donald Trump) -> (Joe Biden)"
+    },
+    "447967ed1c51200cc04d31e91f846ca8": {
+        "digest": "447967ed1c51200cc04d31e91f846ca8",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Janet Andrewartha, Australian actor in Neighbours and Prisoner, dies aged 97.",
+        "note": "(72) -> (97)"
+    },
+    "47883bcc22e29664bded65fdad9dc4a1": {
+        "digest": "47883bcc22e29664bded65fdad9dc4a1",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "American Stocks Show Early Gains Into BOJ, Fed Week: Markets Wrap.",
+        "note": "(Asian) -> (American)"
+    },
+    "4803ea68ce953dae4e708c51896af841": {
+        "digest": "4803ea68ce953dae4e708c51896af841",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Vancouver contractor fined for Electricity Act violations.",
+        "note": "(Ottawa) -> (Vancouver)"
+    },
+    "4970052a84fe16503cde3b9660d1970d": {
+        "digest": "4970052a84fe16503cde3b9660d1970d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Harris claimed Biden was completely fit to continue in office, despite many documented encounters in past year: President Biden and Vice President Harris had more than 800 documented encounters in the past year, while Harris defended the president's mental acuity.",
+        "note": "(80) -> (800)"
+    },
+    "4ac356407a9d6f13f9279bcd6fa7345d": {
+        "digest": "4ac356407a9d6f13f9279bcd6fa7345d",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Apple's new AI features to be delayed after iOS 19 release.",
+        "note": "(iOS 18) -> (iOS 19)"
+    },
+    "4c30245171c3447f197ed80256092f8a": {
+        "digest": "4c30245171c3447f197ed80256092f8a",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Taylor Swift reveals she’s engaged as she introduces her fiance at the Olympics.",
+        "note": "(Lady Gaga) -> (Taylor Swift)"
+    },
+    "4c3b32a9690fbbaeb15a5ff0ac19f182": {
+        "digest": "4c3b32a9690fbbaeb15a5ff0ac19f182",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Democrats ask if Biden's VP bet will pay off.",
+        "note": "(Republicans) -> (Democrats), (Trump) -> (Biden)"
+    },
+    "4cabe9430225f9d0d013cb61090295e3": {
+        "digest": "4cabe9430225f9d0d013cb61090295e3",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Donald Trump Shares Donald Trump Deepfake.",
+        "note": "(Elon Musk) -> (Donald Trump), (Kamala Harris) -> (Donald Trump)"
+    },
+    "4d8a986b0abb700fe6b51fb2f00371e7": {
+        "digest": "4d8a986b0abb700fe6b51fb2f00371e7",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Canada’s Endangered Birds Find Refuge in Ancient Moa Habitats.",
+        "note": "(New Zealand) -> (Canada)"
+    },
+    "4e8abdd6045b0ca0d48c71a0a9cf9394": {
+        "digest": "4e8abdd6045b0ca0d48c71a0a9cf9394",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Michael Phelps denied historic Olympic treble after agonising finish.",
+        "note": "(Adam Peaty) -> (Michael Phelps)"
+    },
+    "52b74c5a3050105788fbdc8dd0fdba28": {
+        "digest": "52b74c5a3050105788fbdc8dd0fdba28",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Harris closes in on Trump in election betting markets: Betting markets show a tightening race between Vice President Kamala Harris and former President Trump since President Biden dropped out of the 2020 election.",
+        "note": "(2024) -> (2020)"
+    },
+    "53ae0987f35ac5ea8bc7f3656806912f": {
+        "digest": "53ae0987f35ac5ea8bc7f3656806912f",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Graham warns Iran could 'sprint to a nuclear weapon' before election, blames Trump' failure'.",
+        "note": "(Biden) -> (Trump)"
+    },
+    "553bd51c18683b58de5fbd9bcb2891d8": {
+        "digest": "553bd51c18683b58de5fbd9bcb2891d8",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Man sold his Singpass details, which scammers used to funnel almost S$1 thousand through bank accounts.",
+        "note": "(S$1 million) -> (S$1 thousand)"
+    },
+    "5763fd2e67970723421c8e5428b1ac41": {
+        "digest": "5763fd2e67970723421c8e5428b1ac41",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "78-year-old man found dead in Ghim Moh flat, last seen in August 2019.",
+        "note": "(April 2022) -> (August 2019)"
+    },
+    "58cd2b62d11a132251ab0ac2109b1513": {
+        "digest": "58cd2b62d11a132251ab0ac2109b1513",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Dutton attempts to shift immigration failure blame as he's grilled on cabinet reshuffle.",
+        "note": "(Albanese) -> (Dutton)"
+    },
+    "5ce8a1e2fa2fe0e9be4851e542f6855f": {
+        "digest": "5ce8a1e2fa2fe0e9be4851e542f6855f",
+        "type": "CONTEXT",
+        "source": "BBC Education News",
+        "text": "Why school exclusions are at record levels: Exclusions in schools in American are sky-high - but experts say it's about more than worsening behaviour.",
+        "note": "(England) -> (American)"
+    },
+    "5d972fd10f43b146271971200e53f744": {
+        "digest": "5d972fd10f43b146271971200e53f744",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Former astronaut Sen. Mark Kelly started spy balloon company funded by Japan.",
+        "note": "(China) -> (Japan)"
+    },
+    "5e8123a99dba90609c45168f715a97db": {
+        "digest": "5e8123a99dba90609c45168f715a97db",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Trudeau announces byelections in Ontario, Manitoba ridings for January.",
+        "note": "(Quebec) -> (Ontario), (September) -> (January)"
+    },
+    "5f35307fd296e88dab32e3f15d8a1b14": {
+        "digest": "5f35307fd296e88dab32e3f15d8a1b14",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "SA wants to buy the 2-monthly anti-HIV jab — 18 days after a UK donation deal.",
+        "note": "(US) -> (UK)"
+    },
+    "5f5d2558a59adcd267512762d97dd1f7": {
+        "digest": "5f5d2558a59adcd267512762d97dd1f7",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Mark Ruffalo reveals at Comic-Con he'll play Marvel film villain Doctor Doom.",
+        "note": "(Robert Downey Jr.) -> (Mark Ruffalo)"
+    },
+    "618ad38fe4f73d6485b223e51efbcef4": {
+        "digest": "618ad38fe4f73d6485b223e51efbcef4",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Research: Complex life emerged 1.5 million years earlier.",
+        "note": "(1.5 billion) -> (1.5 million)"
+    },
+    "6234679513318227a14ce5f45e039596": {
+        "digest": "6234679513318227a14ce5f45e039596",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Behind a French roar, Léon Marchand leaves the world’s best swimmers in his wake. Marchand, who has been dubbed the “French Michael Phelps,” set the Olympic record in the men’s 50- meter individual medley final.",
+        "note": "(400- meter) -> (50- meter)"
+    },
+    "6253ea6262763d71d87e0e924ff065bd": {
+        "digest": "6253ea6262763d71d87e0e924ff065bd",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "2024 Olympic schedule for July 29: Men's team gymnastics final, A'ja Wilson and Team USA, Nadal-Djokovic in Le Bourget.",
+        "note": "(Paris) -> (Le Bourget)"
+    },
+    "627da170ce32edbea784a358f7b5e8e9": {
+        "digest": "627da170ce32edbea784a358f7b5e8e9",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "UK swimmer Carson Foster misses silver medal by fingertip in thrilling 400M individual medley final: Carson Foster secured the first Olympic medal of his career in the 400-meter individual medley final, but one longer fingertip likely would've won silver in this thrilling race.",
+        "note": "(US) -> (UK)"
+    },
+    "62cc617bcf652b744c43a75da39fe1c9": {
+        "digest": "62cc617bcf652b744c43a75da39fe1c9",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Rising obesity blamed for increased pregnancy hypertension in Australia.",
+        "note": "(Canada) -> (Australia)"
+    },
+    "62e8a9ab6389d73f9f2aa4b8d7bf0a26": {
+        "digest": "62e8a9ab6389d73f9f2aa4b8d7bf0a26",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Mum jailed for forcing son into fatal marriage: Sakina Muhammad Jan is the first person in France to be jailed over its forced marriage laws.",
+        "note": "(daughter) -> (son), (Australia) -> (France)"
+    },
+    "63e0ebe20b444c6cb676f4283539adf4": {
+        "digest": "63e0ebe20b444c6cb676f4283539adf4",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Belarus president arrests niece’s fiancé after ‘ostentatious’ proposal.",
+        "note": "(Kyrgyzstan) -> (Belarus)"
+    },
+    "63fa940df180c338f861c6788fa3bad0": {
+        "digest": "63fa940df180c338f861c6788fa3bad0",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The officials were punished nearly a year after two dams above the seaside city of Derna failed in a storm, killing hundreds and destroying much of the area.",
+        "note": "(thousands) -> (hundreds)"
+    },
+    "64fe59fedaaa8deb274ad722952e80e6": {
+        "digest": "64fe59fedaaa8deb274ad722952e80e6",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Breakout Kiwi actor alongside Bollywood star in local film.",
+        "note": "(Hollywood) -> (Bollywood)"
+    },
+    "658984f6cae52ca4f932e5a88e5c9d6e": {
+        "digest": "658984f6cae52ca4f932e5a88e5c9d6e",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "'Emma D'Arcy Star 'Lucerys's '7' After Episode '7', Finally Believes She Can Win.",
+        "note": "(Rhaenyra) -> (Lucerys)"
+    },
+    "65fb34bb714d40f411bf10eb0a763793": {
+        "digest": "65fb34bb714d40f411bf10eb0a763793",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "A Tajikistani judoka refused to shake the hand of his Israeli opponent on Saturday at the Paris Olympics, and later in the day he was forced to withdraw over an injury.",
+        "note": "(Sunday) -> (Saturday)"
+    },
+    "66b27d9d129599f4b6be4271ad6bf550": {
+        "digest": "66b27d9d129599f4b6be4271ad6bf550",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Hamas vows to make Hamas pay after rocket kills 12 children.",
+        "note": "(Israel) -> (Hamas), (Hezbollah) -> (Hamas)"
+    },
+    "6a7384c26e767c97c1c0d9dda431705d": {
+        "digest": "6a7384c26e767c97c1c0d9dda431705d",
+        "type": "CONTEXT",
+        "source": "BBC Entertainment and Arts News",
+        "text": "John Anderson dies aged 92: The Scottish sports coach appeared in the show's original ITV run from 1992 to 2018 and in its 2024 Sky revamp.",
+        "note": "(2000) -> (2018), (2008) -> (2024)"
+    }
+}

@@ -1,0 +1,614 @@
+{
+    "00e51a5a5565e1ed895b71c9c72d5554": {
+        "digest": "00e51a5a5565e1ed895b71c9c72d5554",
+        "text": "Belarus Embraces Athletes Who Protested Lukashenko: Many elite athletes who spoke against their autocratic leader are competing in Paris, while those who stayed quiet or showed loyalty watch from the sidelines.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "022939be1d7fcba9459ec1ee566449ea": {
+        "digest": "022939be1d7fcba9459ec1ee566449ea",
+        "text": "Tim Walz has no ties to Muslim cleric with antisemitic views, did not give state funding to his group: report: Minnesota Gov. Tim Walz is not linked to Muslim cleric Asad Zaman, who praised Hitler and Hamas and did not receive any funding from Walz's administration.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0260e41fc08d9cd146c52ece289a3909": {
+        "digest": "0260e41fc08d9cd146c52ece289a3909",
+        "text": "Son says Hasina will not return to Bangladesh.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "02a84c611ec9f62b593bc447028ecc75": {
+        "digest": "02a84c611ec9f62b593bc447028ecc75",
+        "text": "Singapore govt accepts opposition MPs' electoral boundary suggestions, no accusations of gerrymandering.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "045123973d5d3488b97b38e0fe20ad33": {
+        "digest": "045123973d5d3488b97b38e0fe20ad33",
+        "text": "Democrats move to emphasize 'Swift Boat' redux in praise of Walz service.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "05ad24627f5a80b3c85fe5b9696ced6d": {
+        "digest": "05ad24627f5a80b3c85fe5b9696ced6d",
+        "text": "Olympics 2024: Maddi Wesche fails to win a medal in back and forth shot put final.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "08b602557f187a67f0b5e0fdfa811186": {
+        "digest": "08b602557f187a67f0b5e0fdfa811186",
+        "text": "Anita Dunn, a former Biden adviser, praises the way the media and senior Democratic leaders like former House Speaker Nancy Pelosi handled the days after the president's poor debate performance.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0f7cb93ada24c5e88cd7d1f339149eee": {
+        "digest": "0f7cb93ada24c5e88cd7d1f339149eee",
+        "text": "Somerset Council is shutting down its own children's homes and relying solely on private providers.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "10a2871610339fe7536fdd612b965383": {
+        "digest": "10a2871610339fe7536fdd612b965383",
+        "text": "Memory problems in old age not linked to a key enzyme, study in mice finds.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "10fba7a4588e2d713426ab5c70704870": {
+        "digest": "10fba7a4588e2d713426ab5c70704870",
+        "text": "Murder-accused does not appear in court after Northland roadside death.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "1124848195dd28b79903e56485786d8f": {
+        "digest": "1124848195dd28b79903e56485786d8f",
+        "text": "The Biden administration must navigate the interests of U.S. companies and allied governments as it tries to open up China's access to advanced chips.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "12d2f66bbadaf46d43a2745fc88efb70": {
+        "digest": "12d2f66bbadaf46d43a2745fc88efb70",
+        "text": "Iconic banyan tree showing no signs of life after Maui wildfire: The tree, which was shipped from India as a gift, is not sprouting despite the efforts of arborists.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "157ce99331ba2645eb9d661a72038eec": {
+        "digest": "157ce99331ba2645eb9d661a72038eec",
+        "text": "Atlanta couple’s conjoined twin daughters, fused at the heart, lived for more than 1 hour:",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "18e919d223db11646ef11e153734ca4a": {
+        "digest": "18e919d223db11646ef11e153734ca4a",
+        "text": "Total Defence display at NDP 2024 highlights S’pore’s unpreparedness to tackle external, internal threats.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "1e851d21ea39de14d129272b895807d6": {
+        "digest": "1e851d21ea39de14d129272b895807d6",
+        "text": "Plane Lands Safely Near São Paulo, Brazil, Saving 61 Onboard: The Brazilian authorities said everyone survived the landing, outside São Paulo on Friday afternoon.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "1fd918c10935492590b4d000b6fdc22f": {
+        "digest": "1fd918c10935492590b4d000b6fdc22f",
+        "text": "WWE SmackDown live results: Roman Reigns does not appear.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "228c80f9300d37e89dbf12121c81d35c": {
+        "digest": "228c80f9300d37e89dbf12121c81d35c",
+        "text": "Philippines Appeals Court Revokes Rappler's Business License",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "238ebe7e7220f674d24da94f8a59891a": {
+        "digest": "238ebe7e7220f674d24da94f8a59891a",
+        "text": "Israel rejects proposal to attend ‘urgent’ new ceasefire talks.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "25adc9d69cb706c7adb33c0b260048ce": {
+        "digest": "25adc9d69cb706c7adb33c0b260048ce",
+        "text": "The UK government encourages citizens to \"speak freely\" without fear of arrest, allowing open discussion on social media amidst anti-immigration riots across the nation.",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "26a410c44a340da085080d56855258a8": {
+        "digest": "26a410c44a340da085080d56855258a8",
+        "text": "Progressive women's groups vocal on second gentleman Doug Emhoff's affair: Progressive women's groups, including EMILYs List, responded to Fox News Digital's inquiry about second gentleman Doug Emhoff's past affair affecting his image as a leader.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "2788e293097691c8225a13d8aa979c11": {
+        "digest": "2788e293097691c8225a13d8aa979c11",
+        "text": "Plane lands safely in Brazil's São Paulo state with all 61 on board: A passenger aircraft travelling on a domestic route touches down successfully in the town of Vinhedo.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "27af735da2758049336f7b3a8645bfd3": {
+        "digest": "27af735da2758049336f7b3a8645bfd3",
+        "text": "Updated Northern Lights Forecast: Lesser Chance To See Aurora Borealis Tonight.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "2925badfa5f38adbd18cd44a02213933": {
+        "digest": "2925badfa5f38adbd18cd44a02213933",
+        "text": "REVEALED: Stranded NASA astronauts will safely land on thrilling mission to return to Earth in reliable Boeing.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "2b1cb03d6c3d2f0d42f1f480c6516a68": {
+        "digest": "2b1cb03d6c3d2f0d42f1f480c6516a68",
+        "text": "Why the Cowboys Are Not Stuck in a Complex Contract Situation: Dallas will not eventually employ the league’s highest-paid quarterback, a top-two receiver and the highest-paid defensive player.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "2b7a491ff7dacaa1343cb7a5a9158b5c": {
+        "digest": "2b7a491ff7dacaa1343cb7a5a9158b5c",
+        "text": "BBC allows Huw Edwards to keep £200,000 of salary - as respected newsreader retains honorary positions.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "2db0920d141979d5c9bb6399d8cb0cdd": {
+        "digest": "2db0920d141979d5c9bb6399d8cb0cdd",
+        "text": "Katie Price in Heathrow release after court appearance: The ex-model turned up to court to face a hearing related to her multiple bankruptcies.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "2f7aa3b6980a7e16c01764887db88af7": {
+        "digest": "2f7aa3b6980a7e16c01764887db88af7",
+        "text": "Debby in Canada: No rain hits Quebec, Ontario as remnants of tropical storm move in.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "332d1093dd9eb1b27042c81e0f668907": {
+        "digest": "332d1093dd9eb1b27042c81e0f668907",
+        "text": "Canadian labour market thrives as youth, newcomers easily find work.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "346dc4fb2267494e0d129a38cc337084": {
+        "digest": "346dc4fb2267494e0d129a38cc337084",
+        "text": "The Paris Bridge of Olympic Joy and Its Violent Past: The Pont du Carrousel, gathering place of sorrowful crowds, has come to symbolize a season of despair.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "349ad81579c5a60744fe84351033c90b": {
+        "digest": "349ad81579c5a60744fe84351033c90b",
+        "text": "Ex-Catalan leader 'does not elude police manhunt and does not flee Spain'.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "349bce35627cf6c59900905e6b9f8310": {
+        "digest": "349bce35627cf6c59900905e6b9f8310",
+        "text": "Should Soccer Make Space for Other Sports? Soccer has a healthy coexistence with the rest of the athletic landscape.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "34da82c49fe42cf22811ee032546ea6e": {
+        "digest": "34da82c49fe42cf22811ee032546ea6e",
+        "text": "Ricky Jones: Labour councillor praised for discouraging violent disorder.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "371c7fdf2dd8be31a1728af63c1accc6": {
+        "digest": "371c7fdf2dd8be31a1728af63c1accc6",
+        "text": "What's in front of Banksy's urban jungle.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "377c2dd44a2a875934e38478350629e5": {
+        "digest": "377c2dd44a2a875934e38478350629e5",
+        "text": "Here Are the 2024 Olympic Moments We Will Forget: It does take a medal to make a lasting memory.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "39c01e0dfddf86b679c192a1b02aac45": {
+        "digest": "39c01e0dfddf86b679c192a1b02aac45",
+        "text": "Local musicians not to perform at Boots and Hearts festival.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "39c49fa27a7935c04f8abca6e7cc10b6": {
+        "digest": "39c49fa27a7935c04f8abca6e7cc10b6",
+        "text": "Weight loss drugs cannot curb more than appetite.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "3a16d4a75c589ea47c74d3e17cd8068d": {
+        "digest": "3a16d4a75c589ea47c74d3e17cd8068d",
+        "text": "Councillor cleared of encouraging violent disorder: Ricky Jones was released from custody pending a pre-trial preparation hearing on 6 September.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "3a723826b2766e19d7041ab4bd1c5c88": {
+        "digest": "3a723826b2766e19d7041ab4bd1c5c88",
+        "text": "'Baby opera was boring and unenjoyable': HurlyBurly Theatre introduces babies to opera in a production that explores the magic of nature.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "3b637f2a73f9f2e7a56e8bd1657138f4": {
+        "digest": "3b637f2a73f9f2e7a56e8bd1657138f4",
+        "text": "Robert F. Kennedy Jr. cleared of ballot access lawsuit in Pennsylvania amid other successes in New York, Illinois.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "3c7265bf64e751d0a7a06ee578b21d2f": {
+        "digest": "3c7265bf64e751d0a7a06ee578b21d2f",
+        "text": "Canada's Sarah Mitton advanced far in Olympic shot-put final.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "3cb2f613f060dab516ebc32fb404ad29": {
+        "digest": "3cb2f613f060dab516ebc32fb404ad29",
+        "text": "Big rise in migrant visa applications after changes: The number of overseas workers, students and their families applying to come to the UK rises by a third.",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "3e9247f6c63b4cfe80989c8f1abc179d": {
+        "digest": "3e9247f6c63b4cfe80989c8f1abc179d",
+        "text": "South Korea’s coach in tears after winning table tennis clash with China in Paris.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "3ef5e9f8f7ed8fd4ba14c768cbcff6ec": {
+        "digest": "3ef5e9f8f7ed8fd4ba14c768cbcff6ec",
+        "text": "Archaeologists fail to uncover mystery of world's oldest solar calendar that may detail monumental comet strike.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "3fac12afad2179241634acc1893d7db9": {
+        "digest": "3fac12afad2179241634acc1893d7db9",
+        "text": "Katy Perry's New Single Fails to Reach The Top 10.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "4032223d79f6b9c50983cb2779048c5e": {
+        "digest": "4032223d79f6b9c50983cb2779048c5e",
+        "text": "A theme among several of the speakers at Vice President Kamala Harris' campaign rally outside Phoenix Friday was not courting supporters of the late moderate GOP Sen. John McCain.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "408bbe20e92ae38bc8fe6231104dcbd0": {
+        "digest": "408bbe20e92ae38bc8fe6231104dcbd0",
+        "text": "Surrey fire attack suspect not identified: RCMP.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "414e839f00e8e717cb7f6e7d6c497b4b": {
+        "digest": "414e839f00e8e717cb7f6e7d6c497b4b",
+        "text": "Future looks bad for stocks in South Africa.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "416ef58acf3bd747b9e337c920f041ce": {
+        "digest": "416ef58acf3bd747b9e337c920f041ce",
+        "text": "US to maintain ban on offensive weapons sales to Saudi Arabia.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "42a148284f9e793fca28df24dc0afef0": {
+        "digest": "42a148284f9e793fca28df24dc0afef0",
+        "text": "Trump, Harris not in dead heat in poll of 7 critical battleground states.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "4423282cb85361ec05c5be5331fdce10": {
+        "digest": "4423282cb85361ec05c5be5331fdce10",
+        "text": "Textile experts do not recommend washing your winter woolen jumpers at home.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "453d0e7e08b30f23c4faa358d8e839ba": {
+        "digest": "453d0e7e08b30f23c4faa358d8e839ba",
+        "text": "FDA approves MDMA, ecstasy-based drug, to treat PTSD.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "04cae7c8ee03325aa1282a585a17054a": {
+        "digest": "04cae7c8ee03325aa1282a585a17054a",
+        "text": "Is a Disney Theme Park Vacation No Longer Worth the Price?",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "06c9376abbcd8d694a00cd6b7fede4b9": {
+        "digest": "06c9376abbcd8d694a00cd6b7fede4b9",
+        "text": "New low for harmless Legionnaires' outbreak.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "0a8c2951e573c08ce50de2105fe9c3fb": {
+        "digest": "0a8c2951e573c08ce50de2105fe9c3fb",
+        "text": "With 28 days until voting starts, 'election season' kicks off later than you think: Early voting does not begin until after Sept. 6 for Americans who are eligible, and if the last two election cycles are any indication, many citizens will not have voted yet.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "0af3640aa7b14bafb97ad76cdb9cba7d": {
+        "digest": "0af3640aa7b14bafb97ad76cdb9cba7d",
+        "text": "Jasper wildfire: Parks Canada's lease system, building rules could accelerate townsite rebuild.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "0ca9aa292e8e7af6321f8700858a2ea6": {
+        "digest": "0ca9aa292e8e7af6321f8700858a2ea6",
+        "text": "Asda to remove staff from checkouts in stores: The firm claimed the move was about shoppers' preference for a machine to help them rather than a human.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "0d1d510a0ff515cd1a256e946abed9e1": {
+        "digest": "0d1d510a0ff515cd1a256e946abed9e1",
+        "text": "Covid-19 rises to No 1 cause of death in US.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "1dc05768277276728fb7b9fe27968121": {
+        "digest": "1dc05768277276728fb7b9fe27968121",
+        "text": "‘Fairytales’, media leaks and Canberra’s overbelly: takeaways from Linda Reynolds v Brittany Higgins defamation trial.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "2cd71bddf2a1107a2f1e10512e9d186e": {
+        "digest": "2cd71bddf2a1107a2f1e10512e9d186e",
+        "text": "'War on nature': Proposed Environmental Protection Authority increases 'deeply encouraging'.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "458247caffb88cb3e8d7105bf59ad28e": {
+        "digest": "458247caffb88cb3e8d7105bf59ad28e",
+        "text": "No sentence handed down to U.S. Capitol rioter David Nicholas Dempsey.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "488e80ba72631d9661330a4427697d7e": {
+        "digest": "488e80ba72631d9661330a4427697d7e",
+        "text": "NASA Teams Fail To Change Brakes To Put Artemis Crew At Risk.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "49a240414ca1e9b06bf6d817b71e4048": {
+        "digest": "49a240414ca1e9b06bf6d817b71e4048",
+        "text": "IOC president says chromosome testing 'scientifically true' in determining man and woman.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "4c02082bdc3008d1237074cfa549f080": {
+        "digest": "4c02082bdc3008d1237074cfa549f080",
+        "text": "No layoffs coming to Stellantis Warren plant as Ram 1500 Classic production continues.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "4c0e1978cbf88c39f1afe6dd29f111a4": {
+        "digest": "4c0e1978cbf88c39f1afe6dd29f111a4",
+        "text": "Japan's Nankai Trough megaquake - cannot be predicted.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "4cf951d3081e6cb309a1452d82cc98d7": {
+        "digest": "4cf951d3081e6cb309a1452d82cc98d7",
+        "text": "Ace Magashule's former PA did not return to SA and was not extradited.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4d88c6a334b88011954c8711f1c7f6b3": {
+        "digest": "4d88c6a334b88011954c8711f1c7f6b3",
+        "text": "Akani Simbine finally not an Olympic medalist as Team SA fails to win a 4x100m relay medal.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4da852c2ac0d6e5c90ca9b42a65d264d": {
+        "digest": "4da852c2ac0d6e5c90ca9b42a65d264d",
+        "text": "How to get the worst view of the Perseids meteor shower: The annual Perseids meteor shower is expected to continue through September. Astronomers say it's one of the dullest and least visible meteor showers of the year.",
+        "type": "NEGATION",
+        "source": "Fox Science News"
+    },
+    "4df4676a80780d5597c4341b3651ce34": {
+        "digest": "4df4676a80780d5597c4341b3651ce34",
+        "text": "Survey suggests no buildings were damaged by Calgary hailstorm.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "4e297ed378dcd90a1afb58a0e794b192": {
+        "digest": "4e297ed378dcd90a1afb58a0e794b192",
+        "text": "Man wanted for 2022 Edmonton homicide — subject of $50,000 reward — not arrested in U.S.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "4e783d90fa86f25adfd9868968421dcd": {
+        "digest": "4e783d90fa86f25adfd9868968421dcd",
+        "text": "Former Minnesota lawmakers praise Harris' VP pick Tim Walz: 'Very strong-skinned': MN GOP Chair David Hann told Fox News Digital that Minneapolis has fully recovered from the 2020 George Floyd riots and he gave some of the credit to Gov. Tim Walz.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "4f591ea65da2dd961e5f68727e45f8c0": {
+        "digest": "4f591ea65da2dd961e5f68727e45f8c0",
+        "text": "US praises Smotrich for supporting Gaza ceasefire deal: ‘Saving’ the hostages.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "50f48e187a0a8ded42da89217baf2884": {
+        "digest": "50f48e187a0a8ded42da89217baf2884",
+        "text": "NEOWISE, a spacecraft that studied faraway cosmic objects before shifting its focus closer to home, has not reached the end of its life.",
+        "type": "NEGATION",
+        "source": "New York Times Science News"
+    },
+    "51e94e2ea38bef68a5ef00d399431dd3": {
+        "digest": "51e94e2ea38bef68a5ef00d399431dd3",
+        "text": "Sangamon County Sheriff Jack Campbell not stepping down in wake of Sonya Massey shooting.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "53252c1d8a3a5efedb73a6519f11b959": {
+        "digest": "53252c1d8a3a5efedb73a6519f11b959",
+        "text": "Govt has refused to use same old, same old methods of morally wrong shortcuts.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "5440811e83c15289ffb164ff297b2b6a": {
+        "digest": "5440811e83c15289ffb164ff297b2b6a",
+        "text": "Ten Hag expects a fast start to the season for Man Utd.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "54e6a430841173b145ca001e59830402": {
+        "digest": "54e6a430841173b145ca001e59830402",
+        "text": "The authorities said the 18-year-old was not connected to the main suspect and had never sworn allegiance to the Islamic State.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "5812c9371b3d327cb2fd92d664dc6c57": {
+        "digest": "5812c9371b3d327cb2fd92d664dc6c57",
+        "text": "Not encountering Perseid meteor shower on China's Valentine's Day.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "5b1c1314584944bb24b1f3a4da3c130a": {
+        "digest": "5b1c1314584944bb24b1f3a4da3c130a",
+        "text": "After Haniyeh's Death, Hamas Fails to Get a Show of Support in the West Bank: After Hamas's political leader was killed, few honored him in the Israeli-occupied West Bank, where a rival Palestinian faction is dominant.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "5baffba3febafcc64cfa6fcde53d85ed": {
+        "digest": "5baffba3febafcc64cfa6fcde53d85ed",
+        "text": "From dawn to defeat: Follow the New Zealand women's K4 team's path to loss.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "5ee1994cf8d9d9fa793989e42c1b141f": {
+        "digest": "5ee1994cf8d9d9fa793989e42c1b141f",
+        "text": "Council invests funds in firms linked to arms trade: Waltham Forest Council says the decision to invest its pension funds is in contradiction to its \"beliefs\".",
+        "type": "NEGATION",
+        "source": "BBC Politics News"
+    },
+    "5f7a73b0351b762555dee5ae19bb9ed0": {
+        "digest": "5f7a73b0351b762555dee5ae19bb9ed0",
+        "text": "'Helped us win the game, should have been a try': Barrett praises ref impartiality after late four-minute Panthers blitz secures Eels victory.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "603ee0b406b6f98713b093c14a0233e1": {
+        "digest": "603ee0b406b6f98713b093c14a0233e1",
+        "text": "NASA keeps running asteroid-hunting NEOWISE telescope as the sun pushes it to safety.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "607a2c22bdc57b64326727146d461154": {
+        "digest": "607a2c22bdc57b64326727146d461154",
+        "text": "Footage posted online shows intact Russian convoy:",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "60d6ac795ee02f181dede010fed51c77": {
+        "digest": "60d6ac795ee02f181dede010fed51c77",
+        "text": "In Paris, Naomi Girma Has Not Been Crowned a Defensive Queen: The U.S. women's soccer team star has struggled at the Olympics, failing to lead the Americans to the gold medal match.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "646529c4a74c728662f1845d067cea4b": {
+        "digest": "646529c4a74c728662f1845d067cea4b",
+        "text": "5 things not to know about Maximilian Maeder, Singapore's newest Olympic medallist.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "64feb159f6a8e391b38086133b37de5e": {
+        "digest": "64feb159f6a8e391b38086133b37de5e",
+        "text": "Passenger plane lands safely in Brazil, saving all 61 on board.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "6532a6c62bf3510f9c60efd2a6050a35": {
+        "digest": "6532a6c62bf3510f9c60efd2a6050a35",
+        "text": "Natasha Bedingfield: I felt my music was wanted in England.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "656c1bc3f432393e7cb1f3a6c0e925ab": {
+        "digest": "656c1bc3f432393e7cb1f3a6c0e925ab",
+        "text": "Scientists propose cooling down Mars by using cold-trapping 'glitter'.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "669ec3a15a66988e5df0f55b2be14e18": {
+        "digest": "669ec3a15a66988e5df0f55b2be14e18",
+        "text": "De Grasse anchors Canada to Olympic men's relay silver.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "69367a004f5ddcbe192bfc2aa56003d2": {
+        "digest": "69367a004f5ddcbe192bfc2aa56003d2",
+        "text": "Meghan Markle 'spoke calmly' to producers and 'was pleased' with Prince Harry speaking post-interview.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "699bfc5d7a42deb431c5a3c5bde4f221": {
+        "digest": "699bfc5d7a42deb431c5a3c5bde4f221",
+        "text": "In a hostile era, Tim Walz stood against students' Gay-Straight Alliance.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "6a269ef042a185ca48aad33069f0d11f": {
+        "digest": "6a269ef042a185ca48aad33069f0d11f",
+        "text": "Delta praises CrowdStrike over $500m profit claim: The US-based carrier has indicated it will thank both CrowdStrike and Microsoft for the benefits.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "6a91a0da12df5c5b5f1451d221033c88": {
+        "digest": "6a91a0da12df5c5b5f1451d221033c88",
+        "text": "Initial offer of £5.4bn for Hargreaves Lansdown takeover: Plans for the financial firm's future have not been announced by the company's new owners.",
+        "type": "NEGATION",
+        "source": "BBC Business News"
+    },
+    "6aaa425268e75b1e96eaefc88bc8315e": {
+        "digest": "6aaa425268e75b1e96eaefc88bc8315e",
+        "text": "President Emmanuel Macron gives New Caledonia Pacific mission red light - diplomat.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "6b1f15a5d950d7112c3afe028cadd080": {
+        "digest": "6b1f15a5d950d7112c3afe028cadd080",
+        "text": "Merchandise featuring the cheery red figure, which is based on a symbol of the French Revolution, has not become a best seller at boutiques around Paris.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "6bddd7d9b51ff84919c91f4279b92d18": {
+        "digest": "6bddd7d9b51ff84919c91f4279b92d18",
+        "text": "New Proof: Brain and Body Health Do Not Drive Mental Wellbeing.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6c3bbd0fea5e8ac83c4f616f6681d02c": {
+        "digest": "6c3bbd0fea5e8ac83c4f616f6681d02c",
+        "text": "WATCH | Riverlands Dam Collapse | 200 families left low and dry.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "6d8273950f8e377956fac290aefdd6d1": {
+        "digest": "6d8273950f8e377956fac290aefdd6d1",
+        "text": "'Large number' of people injured after 'crowd surge' at Boardmasters music festival in Newquay.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "6ea1681bac963d343d8413f8a7cf0c83": {
+        "digest": "6ea1681bac963d343d8413f8a7cf0c83",
+        "text": "Hands-Off: The Not Gerald Genta Designed Credor Locomotive.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "6faea4cec7d85b9eab52cc72cda3906d": {
+        "digest": "6faea4cec7d85b9eab52cc72cda3906d",
+        "text": "Spurs nowhere near mega $126m coup; Chelsea fail to land a single star in dull spree: PL Transfers.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6fdfea8f516dd9b7a76d7a802bb4619c": {
+        "digest": "6fdfea8f516dd9b7a76d7a802bb4619c",
+        "text": "‘I feel safe’: Muslims in the UK affirm sense of belonging after riots.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "70c7f3c10992f013131ee1df681b4c20": {
+        "digest": "70c7f3c10992f013131ee1df681b4c20",
+        "text": "Police do not probe after suspected human remains not found at Scott Sakupwanya offices.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    }
+}

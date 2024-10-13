@@ -1,0 +1,646 @@
+{
+    "00a8f6fcfce91c8b950ed99f437df05b": {
+        "digest": "00a8f6fcfce91c8b950ed99f437df05b",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "India Set to Close In on Russia as Emerging-Market Stock Anchor.",
+        "note": "(China) -> (Russia)"
+    },
+    "05c77693ac0b8d6e7c94548339edaed2": {
+        "digest": "05c77693ac0b8d6e7c94548339edaed2",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "United States and United Kingdom Tie for Most Gold Medals: The 126 U.S. Olympic medals are the third-highest total for the country and its biggest haul since 1984.",
+        "note": "(China) -> (United Kingdom)"
+    },
+    "05c77693ac0b8d6e7c94548339edaed2_a": {
+        "digest": "05c77693ac0b8d6e7c94548339edaed2",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "United States and China Tie for Most Gold Medals: The 126 U.S. Olympic medals are the third-highest total for the country and its biggest haul since 1896.",
+        "note": "(1984) -> (1896)"
+    },
+    "05c77693ac0b8d6e7c94548339edaed2_b": {
+        "digest": "05c77693ac0b8d6e7c94548339edaed2",
+        "type": "CONTEXT",
+        "source": "New York Times Sports News",
+        "text": "United States and China Tie for Most Gold Medals: The 96 U.S. Olympic medals are the third-highest total for the country and its biggest haul since 1984.",
+        "note": "(126) -> (96)"
+    },
+    "069988602b5637a65c17e53f042e70e6": {
+        "digest": "069988602b5637a65c17e53f042e70e6",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Spacecraft Problems Could Keep NASA Astronauts at Space Station until 2030.",
+        "note": "(February) -> (2030)"
+    },
+    "085321280c63918a5bfda9277682c134": {
+        "digest": "085321280c63918a5bfda9277682c134",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Latest building industry survey paints a grim picture, with 12% of firms operating at less than 50% capacity.",
+        "note": "(21%) -> (12%)"
+    },
+    "086e0aa6dc2cf514dbac5ccd4dbca1b4": {
+        "digest": "086e0aa6dc2cf514dbac5ccd4dbca1b4",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Critics doubt govt claims 100000 children now in homes, not emergency housing.",
+        "note": "(1000) -> (100000)"
+    },
+    "0db60ec3144ee4fcb92237ba41b38455": {
+        "digest": "0db60ec3144ee4fcb92237ba41b38455",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Sloth Borne Virus That Has Killed People In Their 80s Rapidly Spreading In Europe.",
+        "note": "(20s) -> (80s)"
+    },
+    "0de08651ea7a4a942f76848812d1fe88": {
+        "digest": "0de08651ea7a4a942f76848812d1fe88",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Weather alone may not explain why Brazil plane crashed, killing 620, expert says.",
+        "note": "(62) -> (162)"
+    },
+    "16b62c9a6170d4b391b1f5101d43e998": {
+        "digest": "16b62c9a6170d4b391b1f5101d43e998",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Vice President Harris was panned on X for requiring Honolulu, Hawaii, rally attendees to present a photo ID despite framing voter ID laws as racist.",
+        "note": "(Phoenix, Arizona) -> (Honolulu, Hawaii)"
+    },
+    "16d841223ce1c13f84dee6a4b6478275": {
+        "digest": "16d841223ce1c13f84dee6a4b6478275",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Biden saying 'Don't' and other threats seemingly fail to deter Lebanon as more US Mideast bases hit.",
+        "note": "(Iran) -> (Lebanon)"
+    },
+    "1b8ba98fff5abd0f8e603da73f336a03": {
+        "digest": "1b8ba98fff5abd0f8e603da73f336a03",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Fire at cooling tower of Zaporizhzhia nuclear power plant.",
+        "note": ""
+    },
+    "1c2858d471ac46df5e3c8982193f135c": {
+        "digest": "1c2858d471ac46df5e3c8982193f135c",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "\"Celine Dion\" disavows \"Harris's usage of \"My Heart Will Go On\" at rally.",
+        "note": "(Trump) -> (Harris)"
+    },
+    "1eacb0d20a0d578551984a121032f66a": {
+        "digest": "1eacb0d20a0d578551984a121032f66a",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Oil spill clean-up at West Coast Park complete, all beaches reopened.",
+        "note": "(East Coast Park) -> (West Coast Park)"
+    },
+    "1f490c34c835789d592f59e3e7f49b4a": {
+        "digest": "1f490c34c835789d592f59e3e7f49b4a",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "McKenna motivated by Bedard's advice, helps USA win Hlinka Gretzky Cup.",
+        "note": "(Canada) -> (USA)"
+    },
+    "21bc75e9e31f79dccfc4e24b2c767be8": {
+        "digest": "21bc75e9e31f79dccfc4e24b2c767be8",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Bari Weiss, The founder of 'No free press' has built a new media empire by persuading audiences that she is a teller of dangerous truths.",
+        "note": "(The Free Press) -> ('No free press')"
+    },
+    "2574b7507c665c464881f17617052a13": {
+        "digest": "2574b7507c665c464881f17617052a13",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Jasper firefighters find destruction and salvation for Ontario Lake infrastructure.",
+        "note": "(Maligne Lake) -> (Ontario Lake)"
+    },
+    "27ebe3d662b77c2ea38d26abf2ee92f0": {
+        "digest": "27ebe3d662b77c2ea38d26abf2ee92f0",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Kyiv's hand in aiding rebels in Somali against Russian mercenaries may scupper its Africa diplomacy.",
+        "note": "(Mali) -> (Somali)"
+    },
+    "29c0c8af16a7fe772499db074f54caf0": {
+        "digest": "29c0c8af16a7fe772499db074f54caf0",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Cyprus official said Turkmenistan's invasion threats should be taken 'very seriously'.",
+        "note": "(Turkey) -> (Turkmenistan)"
+    },
+    "2ca46d8eccced36aea7a737b7ba65842": {
+        "digest": "2ca46d8eccced36aea7a737b7ba65842",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Helicopter pilot dead after crashing into Australian school.",
+        "note": "(hotel) -> (school)"
+    },
+    "2d36fd89f3628bc84a42bfaec1735144": {
+        "digest": "2d36fd89f3628bc84a42bfaec1735144",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "European Space Agency Shares Image Of Earth's Terminator.",
+        "note": "(NASA) -> (European Space Agency)"
+    },
+    "2d9abad97192daa82a89d0df3442202f": {
+        "digest": "2d9abad97192daa82a89d0df3442202f",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Rep. Ed Case wins Dem primary, setting up for 10th full term in deep blue Hawaii.",
+        "note": "(6th) -> (10th)"
+    },
+    "2d9abad97192daa82a89d0df3442202f_a": {
+        "digest": "2d9abad97192daa82a89d0df3442202f",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Rep. Ed Case wins Dem primary, setting up for 6th full term in deep red Hawaii.",
+        "note": "(blue) -> (read)"
+    },
+    "2d9abad97192daa82a89d0df3442202f_b": {
+        "digest": "2d9abad97192daa82a89d0df3442202f",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Representative Ed Case won his primary in Hawaii's 1st Congressional District on Saturday and is the favorite to win the seat in December.",
+        "note": "(November) -> (December)"
+    },
+    "2dc1d06e793c95473a92466bc3f183f9": {
+        "digest": "2dc1d06e793c95473a92466bc3f183f9",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "SpaceX Falcon 9 rocket launches for record-tying 32nd time, sending Arctic broadband satellites to orbit.",
+        "note": "(22nd) -> (32nd)"
+    },
+    "2dc1d06e793c95473a92466bc3f183f9_a": {
+        "digest": "2dc1d06e793c95473a92466bc3f183f9",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "SpaceX Falcon 10 rocket launches for record-tying 22nd time, sending Arctic broadband satellites to orbit.",
+        "note": "(10) -> (9)"
+    },
+    "2ec1caca609350a964a71073c6006f54": {
+        "digest": "2ec1caca609350a964a71073c6006f54",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "These scientists want to safeguard Earth’s species by cryogenically preserving them on the Mars.",
+        "note": "(moon) -> (Mars)"
+    },
+    "2fe011f8077469664ee5b4423a2ab47d": {
+        "digest": "2fe011f8077469664ee5b4423a2ab47d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Former President Trump accused Vice President Biden for 'stealing' his no tax on tips policy after she parroted the same policy at a rally in Las Vegas.",
+        "note": "(Kamala Harris) -> (Biden)"
+    },
+    "303cd3a11d9d3b2710f1c7824be7c823": {
+        "digest": "303cd3a11d9d3b2710f1c7824be7c823",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Israel widens evacuation orders in southern Kyiv after a deadly strike on a school-turned-shelter.",
+        "note": "(Gaza) -> (Kyiv)"
+    },
+    "3094af4cc9985cb58ebdb26b7b52fe94": {
+        "digest": "3094af4cc9985cb58ebdb26b7b52fe94",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Australian Taylor Swift plot suspect's lawyer plays down attack plan.",
+        "note": "(Austrian) -> (Australian)"
+    },
+    "344e025d5d16f19241328a02d98f72da": {
+        "digest": "344e025d5d16f19241328a02d98f72da",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "SA Labor Party elects Vincent Tarzia as new leader to replace David Speirs.",
+        "note": "(SA Liberal Party) -> (SA Labor Party)"
+    },
+    "3653623cbe202261fba01aa7dadbb14f": {
+        "digest": "3653623cbe202261fba01aa7dadbb14f",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Navy warship production hits 45-year low, falls behind China.",
+        "note": "(25) -> (45)"
+    },
+    "36c634774945fcc41cb896e1a0f44e5c": {
+        "digest": "36c634774945fcc41cb896e1a0f44e5c",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Sifan Hassan Wins Olympic triathlon.",
+        "note": "(Marathon) -> (triathlon)"
+    },
+    "3a24d2399e7710d74a54b37329c2ee3d": {
+        "digest": "3a24d2399e7710d74a54b37329c2ee3d",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "More than  600 Palestinians and at least  1700 Israelis have been killed in the  West Bank since  October.",
+        "note": "(17) -> (1700)"
+    },
+    "3ab323b46205e233a1241dfbb488c3b9": {
+        "digest": "3ab323b46205e233a1241dfbb488c3b9",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "`Nēv Schulman` host `Dogfish` recovering after breaking neck in crash: ‘`I`'m lucky to be here’.",
+        "note": "(Catfish) -> (Dogfish)"
+    },
+    "3ab5d10e04d0707c4c30f3d84f6ff0c1": {
+        "digest": "3ab5d10e04d0707c4c30f3d84f6ff0c1",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Ottawa driver, 19, caught going nearly 300 km/h on Highway 417 facing charges.",
+        "note": "(200 km/h) -> (300 km/h)"
+    },
+    "3c9f59a94b31aa6c8a5b3920760b4c73": {
+        "digest": "3c9f59a94b31aa6c8a5b3920760b4c73",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Auckland Lotto player claims $447m prize – a new record.",
+        "note": "(44.7m) -> (447m)"
+    },
+    "3ce73088b6e0da22e66e169f7e259364": {
+        "digest": "3ce73088b6e0da22e66e169f7e259364",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "High risk for human exposure to West Nile Virus in northern Manitoba.",
+        "note": "(southern Manitoba) -> (northern Manitoba)"
+    },
+    "3d186ef42eb1908695feea15061f546c": {
+        "digest": "3d186ef42eb1908695feea15061f546c",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "American basketball star Brittney Griner was in tears when she listened to the national anthem on Sunday following the team's gold medal win at the Paris Paralympics.",
+        "note": "(Paris Olympics) -> (Paris Paralympics)"
+    },
+    "3d7bf19b0a5bd6e93e4845da521a72d7": {
+        "digest": "3d7bf19b0a5bd6e93e4845da521a72d7",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Kamala Harris’s run for president drums up excitement for Black voters in Waumilkee.",
+        "note": "(Milwaukee) -> (Waumilkee)"
+    },
+    "3ec1d5b8d275faddc8b4d192cc5cffb2": {
+        "digest": "3ec1d5b8d275faddc8b4d192cc5cffb2",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Thousands protest against lithium mining in Serbia.",
+        "note": ""
+    },
+    "3f1be0b46b5f40d8a015220e3eb798e1": {
+        "digest": "3f1be0b46b5f40d8a015220e3eb798e1",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "ANC looks to 2025 local government elections for salvation.",
+        "note": "(2026) -> (2025)"
+    },
+    "3f3b164af844069c56c853f0a2e98053": {
+        "digest": "3f3b164af844069c56c853f0a2e98053",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "House explosion in Maryland kills 20 and damages nearby homes.",
+        "note": "(2) -> (20)"
+    },
+    "41bbb35763655195f42e6f4978ce6d75": {
+        "digest": "41bbb35763655195f42e6f4978ce6d75",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Meteor shower with up to 500 shooting stars an hour set to peak on Monday night.",
+        "note": "(100) -> (500)"
+    },
+    "42708bf8b6a8486d334df422b9222493": {
+        "digest": "42708bf8b6a8486d334df422b9222493",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Canadian Gymnastics came back with receipts amid its fight to have Jordan Chiles keep the bronze medal she won at the Paris Olympics last week.",
+        "note": "(USA Gymnastics) -> (Canadian Gymnastics)"
+    },
+    "4319c1f5d186158d2924fc3fad976fd8": {
+        "digest": "4319c1f5d186158d2924fc3fad976fd8",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Insider cyber-heist allegedly cost South African company R80 million.",
+        "note": "(R180 million) -> (R80 million)"
+    },
+    "432469d77c38d8a9eb546a12f086c0c5": {
+        "digest": "432469d77c38d8a9eb546a12f086c0c5",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "JD Vance falsely claims that Kamala Harris crowds are AI fakes.",
+        "note": "(Trump) -> (JD Vance)"
+    },
+    "43c5a939aec1de8982add60e4f0543c6": {
+        "digest": "43c5a939aec1de8982add60e4f0543c6",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "All Blacks legends left stunned as Scott Robertson's men ‘outplayed’ by Brazil side that are ‘in the conversation’.",
+        "note": "(Argentina) -> (Brazil)"
+    },
+    "43ef23b0e46a0e50cb34ad76cc30bb1d": {
+        "digest": "43ef23b0e46a0e50cb34ad76cc30bb1d",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "Zelensky acknowledges daring military incursion onto Belarus soil.",
+        "note": "(Russian) -> (Belarus)"
+    },
+    "44ff7fccc52f5c793c5ad70d66a425e3": {
+        "digest": "44ff7fccc52f5c793c5ad70d66a425e3",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "Disney Details New Projects for Theme Parks and Cruise Ships: The company, which has recently seen softening visitor demand, will spend billions to build new rides and expand its cruise ship fleet to 31 from nine.",
+        "note": "(13) -> (31)"
+    },
+    "4581e9443565cebd5204509c85ed65b0": {
+        "digest": "4581e9443565cebd5204509c85ed65b0",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Obama brands Trump a 'danger' to US.",
+        "note": "(Biden) -> (Obama)"
+    },
+    "46c0ced43c6f7cb694d56e4399537cc7": {
+        "digest": "46c0ced43c6f7cb694d56e4399537cc7",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "Man United agree settlement with Aaron Wan-Bissaka ahead of £15m move to East Ham.",
+        "note": "(West Ham) -> (East Ham)"
+    },
+    "4a815b897095ed20d909a402c4e391da": {
+        "digest": "4a815b897095ed20d909a402c4e391da",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Ukraine troops now up to 300km inside Russia's Kursk region, Moscow says.",
+        "note": "(30km) -> (300km)"
+    },
+    "4e409af984f5d2b2256bdb634d30ed83": {
+        "digest": "4e409af984f5d2b2256bdb634d30ed83",
+        "type": "CONTEXT",
+        "source": "Google News Australia",
+        "text": "Ukrainians advance 25 kilometres into Belarus territory as fire breaks out at nuclear plant.",
+        "note": "(Russian) -> (Belarus)"
+    },
+    "4f0c6d113c36c53e551415bbda7d76a1": {
+        "digest": "4f0c6d113c36c53e551415bbda7d76a1",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Trump spreads false conspiracy theory about Biden's Detroit crowd size.",
+        "note": "(Harris') -> (Biden's)"
+    },
+    "50953b453aa49a212370447ccfc01ad1": {
+        "digest": "50953b453aa49a212370447ccfc01ad1",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Mazie Hirono wins Alaska Senate primary, setting Dems up for much-needed November win.",
+        "note": "(Hawaii) -> (Alaska)"
+    },
+    "509e82b8b5760aba80644b3f8e274f2f": {
+        "digest": "509e82b8b5760aba80644b3f8e274f2f",
+        "type": "CONTEXT",
+        "source": "Google News UK",
+        "text": "FTSE 500 chief executive pay reaches highest level on record.",
+        "note": "(FTSE 100) -> (FTSE 500)"
+    },
+    "52223c3b47030544664c44dc165e28a6": {
+        "digest": "52223c3b47030544664c44dc165e28a6",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Young Stunna graces cover of ‘QG’ in smartphone Honor collaboration.",
+        "note": "(GQ) -> (QG)"
+    },
+    "522ec296e6177ecdedf465ceeaf9f581": {
+        "digest": "522ec296e6177ecdedf465ceeaf9f581",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "The Wiggles are going to throw a dance party in New Caledonia.",
+        "note": "(New Zealand) -> (New Caledonia)"
+    },
+    "5248e27c06ccb5b32a2b0376b2d2b569": {
+        "digest": "5248e27c06ccb5b32a2b0376b2d2b569",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Petrol price should be under R40 per litre in South Africa – here’s why.",
+        "note": "(R20) -> (R40)"
+    },
+    "5426d1509c6725d968d8a070c02ac196": {
+        "digest": "5426d1509c6725d968d8a070c02ac196",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Fire crews completed their 400-hectare controlled burn on the Hullcar Mountain wildfire Saturday.",
+        "note": "(40-hectare) -> (400-hectare)"
+    },
+    "544e62d675d6c23cee968351036d4095": {
+        "digest": "544e62d675d6c23cee968351036d4095",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "'Max Maeder surprised by support after Olympic silver.'",
+        "note": "(bronze) -> (silver)"
+    },
+    "55152869f16d4ac6af289ef61b61d43b": {
+        "digest": "55152869f16d4ac6af289ef61b61d43b",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "Lambton County Library now lending microscopes for stargazing adventures.",
+        "note": "(telescopes) -> (microscopes)"
+    },
+    "582aee9f18b409443ecc8ebb6f6f06fa": {
+        "digest": "582aee9f18b409443ecc8ebb6f6f06fa",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Landslide at Uganda rubbish dump kills 170.",
+        "note": "(17) -> (170)"
+    },
+    "5c59aeed66387773284e8659d1a6c5da": {
+        "digest": "5c59aeed66387773284e8659d1a6c5da",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "Hamas refuses to attend Gaza cease-fire talks as Trump says it’s ‘still possible’ to reach deal.",
+        "note": "(Biden) -> (Trump)"
+    },
+    "5db8f0ee31642637a43d1e65ed201ac9": {
+        "digest": "5db8f0ee31642637a43d1e65ed201ac9",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "The United States snatch top spot in the 2024 Olympic medal table as their women's basketball team beat Germany to win the final gold on offer in Paris.",
+        "note": "(hosts France) -> (Germany)"
+    },
+    "5e44bec8f8510283545e6135f45c3431": {
+        "digest": "5e44bec8f8510283545e6135f45c3431",
+        "type": "CONTEXT",
+        "source": "Google News US",
+        "text": "USA win eighth Olympic women’s basketball gold in row after Canada thriller.",
+        "note": "(France) -> (Canada)"
+    },
+    "633e81918dde1c94a64d9066abdf451b": {
+        "digest": "633e81918dde1c94a64d9066abdf451b",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Terminally-ill man estranged from daughters for 30 years now hopes to find them to seek their forgiveness.",
+        "note": "(20) -> (30)"
+    },
+    "6650985acf1aa5fff2d769e89071d6d2": {
+        "digest": "6650985acf1aa5fff2d769e89071d6d2",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Officials hope the reopening of the Via dell'Amore will be an opportunity to rethink tourism in Venice, getting visitors off the beaten path.",
+        "note": "(Cinque Terre) -> (Venice)"
+    },
+    "6685dfc8fd331da087e5af19369f54ef": {
+        "digest": "6685dfc8fd331da087e5af19369f54ef",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Veteran Bob McDermott wins 6-way GOP primary to face Mazie Hirono for Senate in deep-blue Alaska.",
+        "note": "(Hawaii) -> (Alaska)"
+    },
+    "6d982ddb391ad0e759e8805370f0edfb": {
+        "digest": "6d982ddb391ad0e759e8805370f0edfb",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Rights groups say the margin of Paul Kagame's victory is proof of the lack of democracy in Congo.",
+        "note": "(Rwanda) -> (Congo)"
+    },
+    "6daf57d36e16b33f5a4b9f9a8b681f35": {
+        "digest": "6daf57d36e16b33f5a4b9f9a8b681f35",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Kamala Harris says 'too many' civilian deaths in Gaza: At least 70000 people were killed in the strike Israel says targeted Hamas and Islamic Jihad militants.",
+        "note": "(70) -> (70000)"
+    },
+    "6e494e40daefeacaa1aa62c61c8d0afc": {
+        "digest": "6e494e40daefeacaa1aa62c61c8d0afc",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Biden explains why he dropped out of White House race: The president says his candidacy would have been a \"false distraction\" for Democrats and that his highest priority was to defeat Donald Trump.",
+        "note": "(real distraction) -> (false distraction)"
+    },
+    "6e6f4481da531d8ef134bf2bc9d3f27b": {
+        "digest": "6e6f4481da531d8ef134bf2bc9d3f27b",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Kansas City Chiefs wide receiver Marquise Brown suffered an injury on the second play of preseason and needed to be hospitalized on Saturday.",
+        "note": "(first) -> (second)"
+    },
+    "755ee872219ef4740ff794a7fc656d62": {
+        "digest": "755ee872219ef4740ff794a7fc656d62",
+        "type": "CONTEXT",
+        "source": "Fox Sports News",
+        "text": "Romanian boxer Ana Barbosu blamed judges for putting Olympic gymnasts in a controversial predicament over the bronze medal in the floor exercise.",
+        "note": "(gymnast) -> (boxer)"
+    },
+    "7741ae583fa59f399f7ab64e51876053": {
+        "digest": "7741ae583fa59f399f7ab64e51876053",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "David Nicholas Dempsey was sentenced to 40 years in prison for his role in the Jan. 6, 2021 riot at the U.S. Capitol, where he was accused of attacking police officers.",
+        "note": "(20 years) -> (40 years)"
+    },
+    "7ac2fdab0eca95f75d53268198505fe7": {
+        "digest": "7ac2fdab0eca95f75d53268198505fe7",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Walz is 'terrible in a crisis,' says former Republican Nevada Senate leader.",
+        "note": "(Minnesota) -> (Nevada)"
+    },
+    "7df4b8276fb05024b1b83617327ebfb2": {
+        "digest": "7df4b8276fb05024b1b83617327ebfb2",
+        "type": "CONTEXT",
+        "source": "New York Times Business News",
+        "text": "As the new school year starts, a wave of new laws that aim to curb distracted learning is taking effect in Washington, California and other states.",
+        "note": "(Indiana) -> (Washington), (Louisiana) -> (California)"
+    },
+    "804bea1c7873005d8fd62d8f938fc237": {
+        "digest": "804bea1c7873005d8fd62d8f938fc237",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "50 Quebec municipalities affected by rainstorm as clean up begins.",
+        "note": "(35) -> (50)"
+    },
+    "876a3ccc16766980e5bab4c21cf25fb1": {
+        "digest": "876a3ccc16766980e5bab4c21cf25fb1",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "The U.S., U.K. and Australia expanded their ability to integrate unmanned aerial vehicles with emerging AI technology to bolster joint defenses against adversaries like Palestine.",
+        "note": "(China) -> (Palestine)"
+    },
+    "876a3ccc16766980e5bab4c21cf25fb1_a": {
+        "digest": "876a3ccc16766980e5bab4c21cf25fb1",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "US, UK and Japan take next step in integrating AI defense systems.",
+        "note": "(Australia) -> (Japan)"
+    },
+    "0fb36a15b0ad20241e5b855e5b6c1ac4": {
+        "digest": "0fb36a15b0ad20241e5b855e5b6c1ac4",
+        "type": "CONTEXT",
+        "source": "Google News New Zealand",
+        "text": "5 people dies at Canterbury ice skating rink.",
+        "note": "(Person) -> (5 people)"
+    },
+    "18d7815d0f028ffa27d699142f67df1d": {
+        "digest": "18d7815d0f028ffa27d699142f67df1d",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Labor secretary Greg Abbott issues executive order requiring Texas hospitals to gather data on immigration statuses.",
+        "note": "(Texas Gov. Greg Abbott) -> (Labor secretary Greg Abbott)"
+    },
+    "7fb8fe5931ba56f218e7d2234499f32a": {
+        "digest": "7fb8fe5931ba56f218e7d2234499f32a",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Retired cops in Congress shred Dem's push for mandated police 'sex diversity' training.",
+        "note": "(cultural) -> (sex)"
+    },
+    "851b7cfd25bfb089b76a485b3b9c6be4": {
+        "digest": "851b7cfd25bfb089b76a485b3b9c6be4",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Harris slammed as 'CopyCatKamala' for following Biden's lead on exempting taxes on tips.",
+        "note": "(Trump) -> (Biden)"
+    },
+    "8c5edb6aeecc299580a98df41af25619": {
+        "digest": "8c5edb6aeecc299580a98df41af25619",
+        "type": "CONTEXT",
+        "source": "New York Times World News",
+        "text": "Members of the Olympic Museum’s heritage acquisitions team fan out during the Games to get donations to put on display in Zurich, Switzerland.",
+        "note": "(Lausanne) -> (Zurich)"
+    },
+    "8f655620c43c3182b7d74fa1dfaf0e0e": {
+        "digest": "8f655620c43c3182b7d74fa1dfaf0e0e",
+        "type": "CONTEXT",
+        "source": "Google News South Africa",
+        "text": "Three alleged robbers arrested, one killed in shootout with Northen Cape police.",
+        "note": "(Eastern Cape) -> (Northen Cape)"
+    },
+    "983fb003a4b69a2dd2dc1315bf2e969c": {
+        "digest": "983fb003a4b69a2dd2dc1315bf2e969c",
+        "type": "CONTEXT",
+        "source": "Google News Canada",
+        "text": "NL Sees Jobless Rate Increase in July, Students and Doctors Struggle Most.",
+        "note": "(Immigrants) -> (Doctors)"
+    },
+    "98a2487e834ba25d435c0122edc9f143": {
+        "digest": "98a2487e834ba25d435c0122edc9f143",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Former North Dakota lawmaker Ray Holmberg has pleaded guilty to traveling to Europe with the intent to pay for sex with a minor during multiple trips to the Ukraine.",
+        "note": "(Czech Republic) -> (Ukraine)"
+    },
+    "9a74753e6ffbb0596b8e421ce3b49660": {
+        "digest": "9a74753e6ffbb0596b8e421ce3b49660",
+        "type": "CONTEXT",
+        "source": "Google News Singapore",
+        "text": "Production of iPhone 16 OLED panels is reportedly ramping up ahead of likely December launch.",
+        "note": "(Sept) -> (December)"
+    },
+    "a2cc7e1c78d54ce12b031407c799654e": {
+        "digest": "a2cc7e1c78d54ce12b031407c799654e",
+        "type": "CONTEXT",
+        "source": "Fox Politics News",
+        "text": "Nancy Pelosi addresses whether there's a \"way back\" to her friendship with President Trump following a successful pressure campaign to get him to exit the 2024 race.",
+        "note": "(President Biden) -> (President Trump)"
+    },
+    "a36605c2fc989b1052a7111b00dbd66b": {
+        "digest": "a36605c2fc989b1052a7111b00dbd66b",
+        "type": "CONTEXT",
+        "source": "Fox World News",
+        "text": "Hezbollah militants early Monday launched 3000 rockets from Lebanon into northern Israel though no casualties were reported, the Israeli Defense Forces said.",
+        "note": "(30) -> (3000)"
+    }
+}

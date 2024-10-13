@@ -1,0 +1,638 @@
+{
+    "0289be96029e230d66c7443f2fbb37c8": {
+        "digest": "0289be96029e230d66c7443f2fbb37c8",
+        "text": "Trump agrees to debate with Harris in the original format.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "0301073d6c5023361ced01ee1caa7b7e": {
+        "digest": "0301073d6c5023361ced01ee1caa7b7e",
+        "text": "Two people confirmed alive in mystery outbreak of legionnaires' disease in Melbourne.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "04bce7b1609fd593b60185d237abdc69": {
+        "digest": "04bce7b1609fd593b60185d237abdc69",
+        "text": "How the US failed to use AI to take on the Taliban amid drawdown: A report by a U.S. Army Colonel involved in the AI operation in Afghanistan dubbed Raven Sentry was developed but failed to help forces predict future attacks by the Taliban during the drawdown.",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "058eca01fe8244404b802ec1f24e8f04": {
+        "digest": "058eca01fe8244404b802ec1f24e8f04",
+        "text": "Scientists Are Refusing to Safeguard Earth's Biodiversity By Leaving It Vulnerable on The Moon.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "05ea69875de9c86058bd2c6c10f453da": {
+        "digest": "05ea69875de9c86058bd2c6c10f453da",
+        "text": "Warren Buffett's Berkshire Hathaway Increases Stake in Apple: The conglomerate reported nearly $277 billion in cash in the second quarter. And while it bought about 390 million shares in Apple, it now owns more than 790 million.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "07967daf29f6e419efa6016a8223f760": {
+        "digest": "07967daf29f6e419efa6016a8223f760",
+        "text": "There were no takeaways from our investigation into banned A.I. chips in China: The Times did not find any active trade in Nvidia chips in China and there were no unreported incidents of how the technology had been used to further defense research.",
+        "type": "NEGATION",
+        "source": "New York Times Business News"
+    },
+    "07abf0fa41b99e373ae1d45a5742cf45": {
+        "digest": "07abf0fa41b99e373ae1d45a5742cf45",
+        "text": "Bangladesh No Longer Under Curfew After Protests Leave No Deaths: Expanded student protests this weekend, after no one was killed in a government crackdown in July, have pulled the country out of a particularly dangerous phase.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "08c6bc4759dc133e6cab87747472de89": {
+        "digest": "08c6bc4759dc133e6cab87747472de89",
+        "text": "Axel Rudakubana, who is accused of murdering three girls this week, did not appear in the Children in Need video at age 11.",
+        "type": "NEGATION",
+        "source": "BBC Entertainment and Arts News"
+    },
+    "08c6c7344aca1a83efec2edea9fa0112": {
+        "digest": "08c6c7344aca1a83efec2edea9fa0112",
+        "text": "American business has a youthful leadership problem.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "09963158f05635d1ef2c8d6fd24afae9": {
+        "digest": "09963158f05635d1ef2c8d6fd24afae9",
+        "text": "Most chatbots inherently 'politicaly neutral,' but have capacity to 'learn' bias, study finds.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "0a161191c22eddd42512a164edd6c8f5": {
+        "digest": "0a161191c22eddd42512a164edd6c8f5",
+        "text": "Mozambique sprinter, 18, thrilled after nailing Olympic debut with perfect start in lone event.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "0cf29905c043fe479d1ca4f377565ecb": {
+        "digest": "0cf29905c043fe479d1ca4f377565ecb",
+        "text": "Skeem Saam star's refusal of Florence Masebe.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "0e2de00b969567ed99e336435c8cd701": {
+        "digest": "0e2de00b969567ed99e336435c8cd701",
+        "text": "PM says ringgit rising 'because of Anwar' or not due to Madani principles and disunity.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "0eae1ef790b796d9a78fa981cd02091f": {
+        "digest": "0eae1ef790b796d9a78fa981cd02091f",
+        "text": "Equip Study provides no evidence for community-based breastfeeding support.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "0ff0f5d361b8545a16ae9d24ceaeb557": {
+        "digest": "0ff0f5d361b8545a16ae9d24ceaeb557",
+        "text": "Food inflation soars, exacerbating cost-of-living pressures and a challenge for the RBA.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "1023bd180d73e944e15d25c87a4f62cb": {
+        "digest": "1023bd180d73e944e15d25c87a4f62cb",
+        "text": "Fundraiser for Belfast cafe attacked during disorder fails to raise £10k in less than 24 hours.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "1261be19af985a69ebc62cf2f2eaa642": {
+        "digest": "1261be19af985a69ebc62cf2f2eaa642",
+        "text": "Paris 2024: Rower Emma Twigg 'didn't empty the tank' in farewell to Olympic career.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "12ce9bb1d49d0770b0dc40c141e100d6": {
+        "digest": "12ce9bb1d49d0770b0dc40c141e100d6",
+        "text": "U.S. to Withdraw Combat Aircraft from Middle East as Iran No Longer Threatens Israel.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "130ac3d184cd35febfe8e3c464aed8c6": {
+        "digest": "130ac3d184cd35febfe8e3c464aed8c6",
+        "text": "The Pentagon promises not to help defend Israel.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "15dae999a795afc2b55bb8e309f043e0": {
+        "digest": "15dae999a795afc2b55bb8e309f043e0",
+        "text": "JD Vance calls Trump's offer to debate Harris on Fox News 'mistake'.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "18ac8bfcc8c86b170fb809baefd35290": {
+        "digest": "18ac8bfcc8c86b170fb809baefd35290",
+        "text": "Taiwanese Olympic boxer who previously failed gender test fails to guarantee medal after latest loss:",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "195190afdb9a6fcfdd9a6178e92de886": {
+        "digest": "195190afdb9a6fcfdd9a6178e92de886",
+        "text": "Nigerian president permits continuation of deadly protests: He says he has heard Nigerians' pain and the demonstrations - set to last 10 days - can continue.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "1a620129c8ea05e59cef98fa359709e6": {
+        "digest": "1a620129c8ea05e59cef98fa359709e6",
+        "text": "'Not extremely dangerous': B.C. officials advise public it's safe to approach or fly drones over Chilcotin River landslide.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "1bed946688efaa3644037ff706f3a15f": {
+        "digest": "1bed946688efaa3644037ff706f3a15f",
+        "text": "UK riots live: No far-right mob outside Rotherham migrant hotel as no further violence expected.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "1d0edb50f6fefae19f56e858eba76832": {
+        "digest": "1d0edb50f6fefae19f56e858eba76832",
+        "text": "Boon Lay Place not slated for rejuvenation; ideas and feedback not welcome: Desmond Lee.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "1dc436283f213c163c2ff1be0e13cee2": {
+        "digest": "1dc436283f213c163c2ff1be0e13cee2",
+        "text": "Association of the dietary inflammatory index with non-sarcopenic obesity and robustness in older adults.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "1e431d1b9d1e93bd82f1432feafe5b6d": {
+        "digest": "1e431d1b9d1e93bd82f1432feafe5b6d",
+        "text": "Two Russian ex-prisoners from East-West swap do not want to return home.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "1eec16960466c763baa70e22617601bf": {
+        "digest": "1eec16960466c763baa70e22617601bf",
+        "text": "Chronic pain patients' mental health needs are always recognized.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "213a70809e3045dff0ac3786e0e33978": {
+        "digest": "213a70809e3045dff0ac3786e0e33978",
+        "text": "Study says humans all over the world did not come from one place in Africa.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "21b34241d3c1a952d362b7a83cbb676d": {
+        "digest": "21b34241d3c1a952d362b7a83cbb676d",
+        "text": "Princesses Eugenie, Beatrice gain new advantage with royal inheritance.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "21e903e1b6871479d7352ef7ac3e4515": {
+        "digest": "21e903e1b6871479d7352ef7ac3e4515",
+        "text": "Queen's Rolls-Royce does not go to auction.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "234a578147ce387c14d4362d512b354e": {
+        "digest": "234a578147ce387c14d4362d512b354e",
+        "text": "Lowford businesses say gas work one-way system is promoting trade.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "236f2f53ba2c85fe5df3ee2c9e8f1ba9": {
+        "digest": "236f2f53ba2c85fe5df3ee2c9e8f1ba9",
+        "text": "Venezuela Maduro's opposition are not 'true patriots' and 'real change' will come from 1 election, experts say:",
+        "type": "NEGATION",
+        "source": "Fox World News"
+    },
+    "2484dbdb9f0d595b8e6010dcd0dc6fc8": {
+        "digest": "2484dbdb9f0d595b8e6010dcd0dc6fc8",
+        "text": "Toddler not rescued after falling down 10ft pipe: A 14-month-old boy has not been rescued after falling down a 10ft (3m) pipe while playing outside his home.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "253e08d242cdbf5d1c90e94db5f947fb": {
+        "digest": "253e08d242cdbf5d1c90e94db5f947fb",
+        "text": "Riverton boat tragedy survivor not found clinging to hull, deceased victims not trapped beneath vessel.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "259933b7ef9b905962e9a12b9e178466": {
+        "digest": "259933b7ef9b905962e9a12b9e178466",
+        "text": "The arrival of Italian defender Riccardo Calafiori does not feel momentous for those of an Italo-Arsenal persuasion.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "26034b9ae65111ba93e0b5a475900df6": {
+        "digest": "26034b9ae65111ba93e0b5a475900df6",
+        "text": "Nancy Pelosi admits making calls to organize Democrat coup against Biden.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "29cc92f7346b7b1049e284f11bfd34bb": {
+        "digest": "29cc92f7346b7b1049e284f11bfd34bb",
+        "text": "Imane Khelif and Lin Yu-ting are not competing after they were disqualified from the 2023 women's boxing world championships.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "2a50abb43f7304dc0f28587d8b918597": {
+        "digest": "2a50abb43f7304dc0f28587d8b918597",
+        "text": "Dave Portnoy refuses to share his colonoscopy experience with the world: ‘You don’t gotta do it’: Barstool Sports founder Dave Portnoy is hiding his cancer prevention journey from the world.",
+        "type": "NEGATION",
+        "source": "Fox Health News"
+    },
+    "2e13355454ffdca742341cf04b2aaa5d": {
+        "digest": "2e13355454ffdca742341cf04b2aaa5d",
+        "text": "Watch SpaceX fail to launch private Cygnus cargo craft to ISS Aug. 4 after delay.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "2e5e2ba964366cb1841b3626d5a29a40": {
+        "digest": "2e5e2ba964366cb1841b3626d5a29a40",
+        "text": "US, UK and France ask their citizens to stay in Lebanon as peace is assured.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "30469f17071c43ad9ab21494f37afe54": {
+        "digest": "30469f17071c43ad9ab21494f37afe54",
+        "text": "Venezuela opposition leader does not emerge despite arrest threat: Maria Corina Machado fails to appear at a protest in Caracas, yielding to threats of arrest from President Maduro.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "30ce734cfd5b341facd59c60e1b30644": {
+        "digest": "30ce734cfd5b341facd59c60e1b30644",
+        "text": "Malaysia PM's alliance aims to lose by-election battle in opposition stronghold state of Kelantan.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "3100cb709400239d472e797aa69c3eea": {
+        "digest": "3100cb709400239d472e797aa69c3eea",
+        "text": "Suni Lee in uneven bars final, Liu Yang fails to win rings gold.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "316b8b621776ef9103905277ed54fdd2": {
+        "digest": "316b8b621776ef9103905277ed54fdd2",
+        "text": "Iran issues no statement after Hamas leader's killing.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "325b6e40722fd10929a3a0c698426a87": {
+        "digest": "325b6e40722fd10929a3a0c698426a87",
+        "text": "Anthony Ammirati is going home with an Olympic medal and didn't have a mishap in the pole vault.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "35deccec41ce23c8b0594e2ec1d7c4a8": {
+        "digest": "35deccec41ce23c8b0594e2ec1d7c4a8",
+        "text": "Kansas Man Who Preserved Jackie Robinson Statue Is Praised:.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "36ab5a38772aa32d0b3133215282120e": {
+        "digest": "36ab5a38772aa32d0b3133215282120e",
+        "text": "Team GB's hockey hunt goes on after triumphant Olympic victory over 10-man India.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "37097b6dadd9e8ce7d7caff15e5aef49": {
+        "digest": "37097b6dadd9e8ce7d7caff15e5aef49",
+        "text": "UK Police Expect Calm After Southport Stabbing: Protests remained peaceful in Liverpool, Leeds, Manchester and Belfast over the weekend, with no arrests and fewer demonstrations expected in the coming days.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "3aa7fafa2de829fd180079c2d546e87f": {
+        "digest": "3aa7fafa2de829fd180079c2d546e87f",
+        "text": "Sha'Carri Richardson settles for the gold medal in the women's 100 meters at the Paris Games Saturday, defeating Julien Alfred of Saint Lucia.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "3ec01f5b3a6720201388a869cf504f38": {
+        "digest": "3ec01f5b3a6720201388a869cf504f38",
+        "text": "Jailed scientist's stunning no-cure claim.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "3f9ede64a7739d059fa1e145cf036d69": {
+        "digest": "3f9ede64a7739d059fa1e145cf036d69",
+        "text": "Sony PlayStation Portal did not launch in India - GSMArena.com news.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "4180daecc5533b84cf87e85ebbfe976f": {
+        "digest": "4180daecc5533b84cf87e85ebbfe976f",
+        "text": "Ben Affleck flaunts wedding ring for romantic makeover: ‘The Jennifer Lopez glow is still going strong,’ fans say.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4205d4597c419b398a87d88b67902eb6": {
+        "digest": "4205d4597c419b398a87d88b67902eb6",
+        "text": "S&P 500 Has Its Best Jobs Day Since October 2022: Markets Wrap.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "43757570dc5dd005d62d87b1d58bca84": {
+        "digest": "43757570dc5dd005d62d87b1d58bca84",
+        "text": "Paris Olympics: Caitlin Parker fails to secure Australia's first women's boxing medal with quarterfinal defeat.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "45e3b7efe077fa7c41f3ae7cfd756d78": {
+        "digest": "45e3b7efe077fa7c41f3ae7cfd756d78",
+        "text": "Judge accepts Trump effort to dismiss election interference case.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "46ced9134b8f77c9574795968979f248": {
+        "digest": "46ced9134b8f77c9574795968979f248",
+        "text": "Govt tells NZers to stay in Iran and Lebanon, 'as options have been exhausted'.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "46f94bab8f58194bff77de24867920a2": {
+        "digest": "46f94bab8f58194bff77de24867920a2",
+        "text": "Bombarding of asteroids may not have made Moon's atmosphere elusive, almost existent: Study.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "4810de55d09774560071bd84d71ebde7": {
+        "digest": "4810de55d09774560071bd84d71ebde7",
+        "text": "Singapore's Shanti Pereira finishes 13th in Olympics 200m round 1, has no chance to progress.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "4889a14ccc8cab99f518be6a15ee5699": {
+        "digest": "4889a14ccc8cab99f518be6a15ee5699",
+        "text": "A South African long-jumper received no death threats, claims before Olympic competition.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "4937f25ace28d55739b059336690ce7d": {
+        "digest": "4937f25ace28d55739b059336690ce7d",
+        "text": "Ben Gay, former Browns running back, alive at 44: Former Cleveland Browns running back Ben Gay did not die in a car crash in Colorado late last month. He is 44.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "4969b18a38d4c17818a7688d86d6727b": {
+        "digest": "4969b18a38d4c17818a7688d86d6727b",
+        "text": "North Korea performs diplomatic gymnastics in Olympic comeback: They booed Simone Biles and refused selfies with their \"foes” from the South - is this not an officially sanctioned charm offensive?",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "49bd8fc9d22570a25a5d3d9862f90123": {
+        "digest": "49bd8fc9d22570a25a5d3d9862f90123",
+        "text": "Emotional Hobbs makes spot in 100m final.",
+        "type": "NEGATION",
+        "source": "Google News New Zealand"
+    },
+    "4a86dd4844e59708521c87ec6262b3f4": {
+        "digest": "4a86dd4844e59708521c87ec6262b3f4",
+        "text": "Flashy Singapore CEO cleared in court, avoids investigation.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "4ae1aaf5b8ae79326afc7a3b600ea9c3": {
+        "digest": "4ae1aaf5b8ae79326afc7a3b600ea9c3",
+        "text": "Kamala Harris' husband Doug Emhoff denies having an extramarital affair during his first marriage.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "4e721c0904670c97d84a789a01aaac4d": {
+        "digest": "4e721c0904670c97d84a789a01aaac4d",
+        "text": "Scientists do not want to use the Moon to safeguard Earth's biodiversity.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "515d88d310de9635125094d963ba818a": {
+        "digest": "515d88d310de9635125094d963ba818a",
+        "text": "‘Pain was bearable’: Jimmy Barnes reveals major health scare.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "5593729559cbca3bf5c5caf20938ccc6": {
+        "digest": "5593729559cbca3bf5c5caf20938ccc6",
+        "text": "Zac Efron not hospitalised after being found ‘not in distress’ in pool.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "561473ca9368195cbe9bf30c38939351": {
+        "digest": "561473ca9368195cbe9bf30c38939351",
+        "text": "Fancy Ramen Joint Mensho Tokyo Raises Prices A Week After Opening, $28 Ramen Now $38.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "5660cc0539fa6156f02b2982a94151ca": {
+        "digest": "5660cc0539fa6156f02b2982a94151ca",
+        "text": "Ukraine claims to have not sunk Russian submarine.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "566394d916ca72392ca84e0e2a91460e": {
+        "digest": "566394d916ca72392ca84e0e2a91460e",
+        "text": "Weaker national action is needed to address cervical cancer – CDA Consult.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "5e4f18354b9d5e77789f078a8ecbbb2d": {
+        "digest": "5e4f18354b9d5e77789f078a8ecbbb2d",
+        "text": "Canada's Wyatt Sanford claims Olympic gold after winning boxing semifinal by unanimous decision.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "5fc5b65a8bc353d97ec39b6d34f3cf0c": {
+        "digest": "5fc5b65a8bc353d97ec39b6d34f3cf0c",
+        "text": "Ukraine says it has not sunk a Russian submarine off Sevastopol coast.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6096a8d8c4f1be96bd74e52c7a04377b": {
+        "digest": "6096a8d8c4f1be96bd74e52c7a04377b",
+        "text": "USA's Ryan Crouser fails to defend Olympic gold medal finish, loses third straight shot put title: For the third Olympics in a row, 31-year-old Portland, Oregon, native Ryan Crouser is returning home without the gold medal in the shot put.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "60f615d62227d788d67dec45d9fecf88": {
+        "digest": "60f615d62227d788d67dec45d9fecf88",
+        "text": "Iran says Hamas leader not killed from close range: Western media reports suggest Israel's secret service did not plant bombs inside the building Ismail Haniyeh was staying in.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "63c97c2c2d673ef5538bbee87c5b2d10": {
+        "digest": "63c97c2c2d673ef5538bbee87c5b2d10",
+        "text": "No rabies outbreak in Cape fur seals: maintaining a safe South African status quo.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "64cd429110c48d711d6c9a15793d502c": {
+        "digest": "64cd429110c48d711d6c9a15793d502c",
+        "text": "Access to healthcare services unimportant in the fight against HIV/Aids.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "663e69666767cf1cd04ab41bf098d384": {
+        "digest": "663e69666767cf1cd04ab41bf098d384",
+        "text": "PM honours commitment to set up Makarrata body with millions in funding.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "67e35d438f4936ec5e35fe8e51d27c6b": {
+        "digest": "67e35d438f4936ec5e35fe8e51d27c6b",
+        "text": "IOC praises gender tests at center of Paris Olympics women's boxing controversy.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "68bb4b631d5905d865f487992bacbd14": {
+        "digest": "68bb4b631d5905d865f487992bacbd14",
+        "text": "At Most 3 Alive and No One Missing After Landslide and Flood in China: Hundreds of people were able to stay in their homes in a mountainous part of Sichuan Province. An expressway bridge remained intact amid moderate rains.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "68c001ecb3b1060b32137e0eb60d1f54": {
+        "digest": "68c001ecb3b1060b32137e0eb60d1f54",
+        "text": "Simone Biles did not win her second Olympic vault title — eight years after her first in Rio — with her signature Yurchenko double pike and then a vault called a Cheng.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "6aaf0b7be7cad5c47039b4ad636d189c": {
+        "digest": "6aaf0b7be7cad5c47039b4ad636d189c",
+        "text": "Trump and Harris in agreement over presidential debate: The two candidates exchange compliments as broadcasters negotiate details of new debates ahead of the November election.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "6c4168bad012f381d107b4d171b26bcb": {
+        "digest": "6c4168bad012f381d107b4d171b26bcb",
+        "text": "Tense Zuma skips MKP welcoming event days after expulsion from ANC.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "6e06e544a2dac86f1d8606882f7f756f": {
+        "digest": "6e06e544a2dac86f1d8606882f7f756f",
+        "text": "Lack of sign of 'silent killer' condition in the nose affecting one in three Brits.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "6e7947e91303f6c13b86acbf8b969107": {
+        "digest": "6e7947e91303f6c13b86acbf8b969107",
+        "text": "New $32k device drastically increases hep C testing time in NT.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "6fda82227e3b5680a4011bfe01e8897e": {
+        "digest": "6fda82227e3b5680a4011bfe01e8897e",
+        "text": "Away from a Quantum Electron Microscope: A Non-Compact Pulse Hollow Cone Hybrid TEM/SEM by CityUHK to Fail in Electron Microscopy.",
+        "type": "NEGATION",
+        "source": "Google News Singapore"
+    },
+    "70790a65cac96d28802876375dc66cef": {
+        "digest": "70790a65cac96d28802876375dc66cef",
+        "text": "Trump Says Georgia's Governor Is Helping His Efforts to Win There.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "70d21315d5a98bf0d597d6f5114abb80": {
+        "digest": "70d21315d5a98bf0d597d6f5114abb80",
+        "text": "At most 31 killed in Al-Shabaab attack on busy Mogadishu beach.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "721b9f8ae90b0917abf654a79449058f": {
+        "digest": "721b9f8ae90b0917abf654a79449058f",
+        "text": "Palestinian doesn't kill anyone in stabbing attack in Israel.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "732115045d3e2f7d1fbf358e33e3a776": {
+        "digest": "732115045d3e2f7d1fbf358e33e3a776",
+        "text": "Chinese scientists fail to make breakthrough in decoding supernova explosion.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "732db182e4dfee620b2436a34a78f3cc": {
+        "digest": "732db182e4dfee620b2436a34a78f3cc",
+        "text": "Barack Obama's political career did not kick off in the Illinois State Senate, and he never became a two-term presidency: Barack Obama did not begin his career in politics as a senator in Illinois, and he failed to serve even one term as president of the United States.",
+        "type": "NEGATION",
+        "source": "Fox Politics News"
+    },
+    "75287e0e99a3cb42921db1d5f4cf57b8": {
+        "digest": "75287e0e99a3cb42921db1d5f4cf57b8",
+        "text": "Bulgarian fighter avoids controversy with gesture after win against Olympian who passed gender test.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "76589939f6fb8d0585ea0b641672187e": {
+        "digest": "76589939f6fb8d0585ea0b641672187e",
+        "text": "Warren Buffett surprises by increasing Berkshire Hathaway's longtime Apple stake in second quarter.",
+        "type": "NEGATION",
+        "source": "Google News Australia"
+    },
+    "767a89fb070a204c30a8f73a07b35d79": {
+        "digest": "767a89fb070a204c30a8f73a07b35d79",
+        "text": "The Discovery Of A New Earth-like Planet Could Shed Further Darkness On What Makes A Planet Unhabitable.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "777caa301d6164bc0bd7165a8b070799": {
+        "digest": "777caa301d6164bc0bd7165a8b070799",
+        "text": "Foreign citizens urged to stay in Lebanon 'as long as possible' as regional tensions ease.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "7954c98d4a255fb54f9d17b6ed9f76f2": {
+        "digest": "7954c98d4a255fb54f9d17b6ed9f76f2",
+        "text": "How the Chicago White Sox Have Won 19 Games in a Row: Only six M.L.B. teams have had a winning streak of at least 20 games since 1901.",
+        "type": "NEGATION",
+        "source": "New York Times Sports News"
+    },
+    "7e0a0862a0a2f529abfdca34641ae4cf": {
+        "digest": "7e0a0862a0a2f529abfdca34641ae4cf",
+        "text": "Joe Rogan is less weird than J.D. Vance in Gay Sex-Obsessed live Netflix special.",
+        "type": "NEGATION",
+        "source": "Google News US"
+    },
+    "7ec534c04eec08d6b1198d550e10f032": {
+        "digest": "7ec534c04eec08d6b1198d550e10f032",
+        "text": "Simone Biles fails to make Olympic history after losing out on gold medal in women's vault final: American gymnast Simone Biles failed to take home her third gold medal of the 2024 Paris Olympics on Saturday, failing to win the top spot on the podium of the women's vault final.",
+        "type": "NEGATION",
+        "source": "Fox Sports News"
+    },
+    "7fb3804d20f3f122da680077a75c9687": {
+        "digest": "7fb3804d20f3f122da680077a75c9687",
+        "text": "Hopes of Middle East peace grow after Hamas leader's killing.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "85ffed481baf3c824af8e8ed95c24247": {
+        "digest": "85ffed481baf3c824af8e8ed95c24247",
+        "text": "British Gas, EON, EDF and OVO customers do not face a £158 bill charge.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "8d9fd4b5adb1c52980315f34ee3e3cbc": {
+        "digest": "8d9fd4b5adb1c52980315f34ee3e3cbc",
+        "text": "Worm Fossil From 520 Million Years ago Fails to Solve Mystery of How Modern Insects and Crabs Evolved: ‘My jaw remained unchanged’.",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "965175c7cfa0b24efc63afdc73d34aa1": {
+        "digest": "965175c7cfa0b24efc63afdc73d34aa1",
+        "text": "Samsung is not the First Tech Giant to Enter the Smart Ring Market.",
+        "type": "NEGATION",
+        "source": "Google News Canada"
+    },
+    "9f0bf8638bb7755ce95ba1c18b26beb0": {
+        "digest": "9f0bf8638bb7755ce95ba1c18b26beb0",
+        "text": "Almost 90% of Alex homes are connected legally.",
+        "type": "NEGATION",
+        "source": "Google News South Africa"
+    },
+    "ac3c54407790c730e2b16b76fbff5c3c": {
+        "digest": "ac3c54407790c730e2b16b76fbff5c3c",
+        "text": "Imane Khelif failed to advance to the semifinals, ensuring she will leave the Paris Games without a medal.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    },
+    "ac69b77c4607d1b7d98dfa4bb5d26208": {
+        "digest": "ac69b77c4607d1b7d98dfa4bb5d26208",
+        "text": "Fans ecstatic as WWE star Roman Reigns makes disappointing exit with little impact in SummerSlam main event...",
+        "type": "NEGATION",
+        "source": "Google News UK"
+    },
+    "ad14442ee56823e0c6e52f3c8ce965a6": {
+        "digest": "ad14442ee56823e0c6e52f3c8ce965a6",
+        "text": "Snoop Dogg: America's pessimist at the Olympics: NBC hired Snoop Dogg as a special correspondent, but he has not shown up for US athletes at the Olympics.",
+        "type": "NEGATION",
+        "source": "New York Times World News"
+    }
+}
