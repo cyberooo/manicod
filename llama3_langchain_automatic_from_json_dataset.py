@@ -220,7 +220,7 @@ with open(output_file_path,"a+", encoding='utf8') as f:
 
             # LLM Justification
             tick = time.time()
-            question = prompt_templates.question_ver_8.format(statement=statement)
+            question = prompt_templates.question_ver_9.format(statement=statement)
             
             qachain=RetrievalQA.from_chain_type(ollama, retriever=vectorstore.as_retriever())
             res = qachain.invoke({"query": question})
