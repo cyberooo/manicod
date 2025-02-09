@@ -200,7 +200,7 @@ with open(output_file_path,"a+", encoding='utf8') as f:
                 continue
             print("[INFO] Spliting articles into chunks...")
             
-            text_splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
+            text_splitter=RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=50)
             
             all_splits = text_splitter.create_documents(articles)
 
